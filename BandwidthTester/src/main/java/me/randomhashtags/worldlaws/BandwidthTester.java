@@ -45,6 +45,11 @@ public final class BandwidthTester implements UserServer, RestAPI {
     }
 
     @Override
+    public TargetServer getTargetServer() {
+        return null;
+    }
+
+    @Override
     public void start() {
     }
 

@@ -53,7 +53,6 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
     }
     default void startServer() {
         final LocalServer localServer = getLocalServer();
-        final String serverUUID = Settings.Server.getUUID();
         final CompletionHandler handler = new CompletionHandler() {
             @Override
             public void handleClient(WLClient client) {
@@ -73,16 +72,6 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
                 if(identifier == null) {
                     identifier = "null";
                 }
-                if(identifier.equals(serverUUID)) {
-                    switch (target) {
-                        case "stop":
-                            stop();
-                            break;
-                        default:
-                            break;
-                    }
-                    return;
-                }
                 final String string = getResponse(localServer, identifier, target);
                 client.sendResponse(string);
             }
@@ -99,6 +88,13 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
         switch (values[1]) {
             case "home":
                 return getHomeResponse(version);
+            case "stop":
+                if(identifier.equals(Settings.Server.getUUID())) {
+                    stop();
+                    return "1";
+                } else {
+                    return WLUtilities.SERVER_EMPTY_JSON_RESPONSE;
+                }
             default:
                 localServer.madeRequest(identifier, target);
                 String requestTarget = target.substring(versionString.length() + 1);
@@ -160,7 +156,7 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
             new ParallelStream<ServerRequest>().stream(Arrays.asList(requests), request -> {
                 final String string = getServerResponse(version, serverUUID, request);
                 if(string != null) {
-                    final String target = "\"" + request + "\":" + string;
+                    final String target = "\"" + request.getTotalPath() + "\":" + string;
                     values.add(target);
                 }
             });

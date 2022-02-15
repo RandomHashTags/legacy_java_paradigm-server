@@ -67,6 +67,10 @@ public final class WikipediaDocument {
             return paragraph.hasAttr("class") && paragraph.attr("class").equals("mw-empty-elt") || !span.isEmpty();
         }, "p");
     }
+    public String getDescription() {
+        final List<Element> paragraphs = getConsecutiveParagraphs();
+        return !paragraphs.isEmpty() ? paragraphs.get(0).text() : null;
+    }
 
     private List<Element> getConsecutiveNodes(Predicate<? super Element> removeIf, String tagName) {
         final List<Element> targetNodes = getFirstElementsOfTagName(tagName);
@@ -208,6 +212,8 @@ public final class WikipediaDocument {
                                         default:
                                             break;
                                     }
+                                } else if(hrefTextLowercase.contains("official ") && hrefTextLowercase.contains(" website")) {
+                                    externalSource = new EventSource(hrefText, href.attr("href"));
                                 }
                                 break;
                         }

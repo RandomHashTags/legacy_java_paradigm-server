@@ -45,6 +45,18 @@ public enum TargetServer implements RestAPI, DataValues {
         }
     }
 
+    public static void rebootServers() {
+        setMaintenanceMode(true, "Servers are rebooting");
+        final String uuid = Settings.Server.getUUID();
+        new ParallelStream<TargetServer>().stream(Arrays.asList(values()), server -> {
+            if(server.isRealServer()) {
+                WLLogger.logInfo("TargetServer;rebootServers;sending stop command to server=" + server.name());
+                final String string = server.handleResponse(APIVersion.v1, uuid, RequestMethod.GET, "stop", null);
+                WLLogger.logInfo("TargetServer;rebootServers;server=" + server.name() + ";string=" + string);
+            }
+        });
+        setMaintenanceMode(false, null);
+    }
     public static boolean isMaintenanceMode() {
         return MAINTENANCE_MODE;
     }
@@ -161,21 +173,20 @@ public enum TargetServer implements RestAPI, DataValues {
     }
 
     private String tryHandlingResponse(APIVersion version, String identifier, RequestMethod method, String request, HashSet<String> query) {
-        if(MAINTENANCE_MODE) {
-            return null;
-        } else {
-            final HashMap<String, String> headers = new HashMap<>();
-            headers.put("Content-Type", "application/json");
-            headers.put("Charset", DataValues.ENCODING.name());
-            headers.put("***REMOVED***", identifier);
-            switch (this) {
-                case HOME:
-                    return getHomeResponse(version, method, headers, query);
-                case COMBINE:
-                    return getCombinedResponse(version, identifier, method, request);
-                default:
-                    return handleProxyResponse(version, method, request, headers);
-            }
+        return MAINTENANCE_MODE ? null : handleResponse(version, identifier, method, request, query);
+    }
+    private String handleResponse(APIVersion version, String identifier, RequestMethod method, String request, HashSet<String> query) {
+        final HashMap<String, String> headers = new HashMap<>();
+        headers.put("Content-Type", "application/json");
+        headers.put("Charset", DataValues.ENCODING.name());
+        headers.put("***REMOVED***", identifier);
+        switch (this) {
+            case HOME:
+                return getHomeResponse(version, method, headers, query);
+            case COMBINE:
+                return getCombinedResponse(version, identifier, method, request);
+            default:
+                return handleProxyResponse(version, method, request, headers);
         }
     }
 

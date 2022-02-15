@@ -8,6 +8,7 @@ public enum UpcomingEventValueType {
     FLOAT,
     JSON,
     STRING,
+    PLACEHOLDER,
 
     CURRENCY,
     CURRENCY_ID,

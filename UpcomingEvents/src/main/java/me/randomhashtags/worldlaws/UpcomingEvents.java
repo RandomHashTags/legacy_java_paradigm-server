@@ -23,6 +23,7 @@ import java.time.LocalDate;
 import java.time.Month;
 import java.util.Arrays;
 import java.util.HashSet;
+import java.util.Map;
 import java.util.Optional;
 
 public final class UpcomingEvents implements WLServer {
@@ -58,8 +59,8 @@ public final class UpcomingEvents implements WLServer {
     private String typesJSON;
 
     private void initialize() {
-        test();
-        //load();
+        //test();
+        load();
     }
 
     @Override
@@ -68,9 +69,11 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void test() {
-        final VideoGames videoGames = new VideoGames();
-        final String string = videoGames.getEventsFromDates(getWeeklyEventDateStrings(LocalDate.now()));
-        WLLogger.logInfo("UpcomingEvents;test;string=" + string);
+        final Presentations presentations = new Presentations();
+        presentations.refresh();
+        for(Map.Entry<String, String> map : presentations.getUpcomingEvents().entrySet()) {
+            WLLogger.logInfo("UpcomingEvents;test;key=" + map.getKey() + ";value=" + map.getValue());
+        }
     }
 
     private UpcomingEventController valueOfEventType(String eventType) {
@@ -83,6 +86,16 @@ public final class UpcomingEvents implements WLServer {
         final ServerRequestTypeUpcomingEvents type = (ServerRequestTypeUpcomingEvents) request.getType();
         final String target = request.getTarget();
         final String[] values = target != null ? target.split("/") : null;
+        if(type == null) {
+            final String key = values[0];
+            final UpcomingEventController controller = valueOfEventType(key);
+            if(controller != null) {
+                return controller.getResponse(target.substring(key.length()+1));
+            } else {
+                WLLogger.logError(this, "getServerResponse - failed to get controller using key \"" + key + "\" with target \"" + target + "\"!");
+            }
+            return null;
+        }
         switch (type) {
             case ELECTIONS:
                 return Elections.INSTANCE.refresh();
@@ -103,13 +116,7 @@ public final class UpcomingEvents implements WLServer {
             case WEEKLY_EVENTS:
                 return refreshEventsFromThisWeek().toString();
             default:
-                final String key = values[0];
-                final UpcomingEventController controller = valueOfEventType(key);
-                if(controller != null) {
-                    return controller.getResponse(target.substring(key.length()+1));
-                } else {
-                    WLLogger.logError(this, "getServerResponse - failed to get controller using key \"" + key + "\" with target \"" + target + "\"!");
-                }
+                WLLogger.logError(this, "getServerResponse - failed to get response using type \"" + type.name() + "\" with target \"" + target + "\"!");
                 return null;
         }
     }
@@ -120,7 +127,7 @@ public final class UpcomingEvents implements WLServer {
                 //new ServerRequest(ServerRequestTypeUpcomingEvents.ELECTIONS),
                 new ServerRequest(ServerRequestTypeUpcomingEvents.EVENT_TYPES),
                 //new ServerRequest(ServerRequestTypeUpcomingEvents.HAPPENING_NOW),
-                new ServerRequest(ServerRequestTypeUpcomingEvents.HOLIDAYS),
+                new ServerRequest(ServerRequestTypeUpcomingEvents.HOLIDAYS, "near"),
                 //new ServerRequest(ServerRequestTypeUpcomingEvents.MUSIC_ARTISTS),
                 new ServerRequest(ServerRequestTypeUpcomingEvents.RECENT_EVENTS),
                 new ServerRequest(ServerRequestTypeUpcomingEvents.WEEKLY_EVENTS),

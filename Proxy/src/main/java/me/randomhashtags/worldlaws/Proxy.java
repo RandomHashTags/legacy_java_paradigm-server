@@ -17,6 +17,11 @@ public final class Proxy implements UserServer, RestAPI {
     }
 
     @Override
+    public TargetServer getTargetServer() {
+        return null;
+    }
+
+    @Override
     public void start() {
         setupServer(false);
     }

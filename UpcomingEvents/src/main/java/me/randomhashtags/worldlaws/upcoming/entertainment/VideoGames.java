@@ -110,6 +110,8 @@ public final class VideoGames extends UpcomingEventController {
                                 realPlatforms.add(value);
                             }
 
+                            final String genres = tds.get(hasStyle ? 4 : hasRowspan || hasMatches || isTBA ? 3 : 2).text();
+
                             final Element titleElement = isEmpty ? tds.get(0) : tdIs.get(0);
                             final String title = titleElement.text();
                             final Elements hrefs = titleElement.select("a[href]");
@@ -123,7 +125,10 @@ public final class VideoGames extends UpcomingEventController {
                                     builder.append(isFirst ? "" : ", ").append(platform);
                                     isFirst = false;
                                 }
-                                final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, title, wikipediaURL, builder.toString());
+
+                                final HashMap<String, Object> customValues = new HashMap<>();
+                                customValues.put("genres", genres);
+                                final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, title, wikipediaURL, builder.toString(), null, customValues);
                                 putPreUpcomingEvent(id, preUpcomingEvent);
                             }
                         }
@@ -203,7 +208,7 @@ public final class VideoGames extends UpcomingEventController {
     public String loadUpcomingEvent(String id) {
         final PreUpcomingEvent preUpcomingEvent = getPreUpcomingEvent(id);
         final String url = preUpcomingEvent.getURL();
-        final String title = preUpcomingEvent.getTitle(), platforms = preUpcomingEvent.getTag();
+        final String title = preUpcomingEvent.getTitle(), platforms = preUpcomingEvent.getTag(), genres = (String) preUpcomingEvent.getCustomValue("genres");
         final Document wikidoc = getDocument(url);
         String string = null;
         if(wikidoc != null) {
@@ -219,17 +224,8 @@ public final class VideoGames extends UpcomingEventController {
             paragraphs.removeIf(p -> p.className().equals("mw-empty-elt"));
             final String desc = removeReferences(paragraphs.get(0).text());
 
-            final StringBuilder builder = new StringBuilder("[");
-            boolean isFirst = true;
-            for(String platform : platforms.split(", ")) {
-                builder.append(isFirst ? "" : ",").append("\"").append(platform).append("\"");
-                isFirst = false;
-            }
-            builder.append("]");
-
-            final String realPlatforms = builder.toString();
             final JSONArray array = getVideosJSONArray(YouTubeVideoType.VIDEO_GAME, title);
-            final VideoGameEvent event = new VideoGameEvent(title, desc, coverArtURL, realPlatforms, array, sources);
+            final VideoGameEvent event = new VideoGameEvent(title, desc, coverArtURL, platforms, genres, array, sources);
             string = event.toString();
             putUpcomingEvent(id, string);
         }

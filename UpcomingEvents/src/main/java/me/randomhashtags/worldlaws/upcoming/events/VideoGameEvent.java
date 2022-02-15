@@ -6,11 +6,12 @@ import me.randomhashtags.worldlaws.upcoming.UpcomingEventValue;
 import org.json.JSONArray;
 
 public final class VideoGameEvent extends UpcomingEvent {
-    private final String platforms;
+    private final String platforms, genres;
 
-    public VideoGameEvent(String title, String description, String coverArtURL, String platforms, JSONArray youtubeVideoIDs, EventSources sources) {
+    public VideoGameEvent(String title, String description, String coverArtURL, String platforms, String genres, JSONArray youtubeVideoIDs, EventSources sources) {
         super(title, description, coverArtURL, null, youtubeVideoIDs, sources);
         this.platforms = platforms;
+        this.genres = genres;
     }
 
     @Override
@@ -21,7 +22,8 @@ public final class VideoGameEvent extends UpcomingEvent {
     @Override
     public String getPropertiesJSONObject() {
         return "{" +
-                "\"" + UpcomingEventValue.VIDEO_GAME_PLATFORMS.getKey() + "\":" + platforms +
+                "\"" + UpcomingEventValue.VIDEO_GAME_PLATFORMS.getKey() + "\":\"" + platforms + "\"," +
+                "\"" + UpcomingEventValue.VIDEO_GAME_GENRES.getKey() + "\":\"" + genres + "\"" +
                 "}";
     }
 }

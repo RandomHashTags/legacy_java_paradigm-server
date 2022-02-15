@@ -45,60 +45,62 @@ public final class AppleSoftwareUpdates extends RecentEventController {
                     final String releaseDateString = releaseDateElement.text();
                     final String[] releaseDateValues = releaseDateString.split(" ");
                     if(releaseDateValues.length == 3) {
-                        final int day = Integer.parseInt(releaseDateValues[0]), year = Integer.parseInt(releaseDateValues[2]);
                         final Month month = WLUtilities.valueOfMonthFromInput(releaseDateValues[1]);
-                        final LocalDate localDate = LocalDate.of(year, month, day);
-                        if(localDate.isAfter(startingDate)) {
-                            final Element nameElement = tds.get(0);
-                            String name = nameElement.text();
-                            final boolean isSecurity = name.startsWith("***REMOVED***"),
-                                    isIOS = name.startsWith("***REMOVED***"),
-                                    isIPadOS = name.startsWith("***REMOVED***"),
-                                    isMacOS = name.startsWith("***REMOVED***"),
-                                    isWatchOS = name.startsWith("***REMOVED***"),
-                                    isTVOS = name.startsWith("***REMOVED***"),
-                                    isAppleTV = name.startsWith("Apple TV"),
-                                    isSafari = name.startsWith("***REMOVED***"),
-                                    isXcode = name.startsWith("***REMOVED***")
-                                            ;
-                            if(isSecurity
-                                    || isIOS || isIPadOS || isMacOS || isWatchOS
-                                    || isTVOS || isAppleTV
-                                    || isSafari
-                                    || isXcode
-                            ) {
-                                final RemoteNotificationCategory category = isSecurity ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_SECURITY
-                                        : isIOS ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_IOS
-                                        : isIPadOS ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_IPADOS
-                                        : isMacOS ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_MACOS
-                                        : isWatchOS ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_WATCHOS
-                                        : isTVOS ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_TVOS
-                                        : isAppleTV ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_APPLE_TV
-                                        : isSafari ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_SAFARI
-                                        : isXcode ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_XCODE
-                                        : null;
-                                String description = null;
-                                for(Map.Entry<String, String> map : descriptionValues.entrySet()) {
-                                    final String key = map.getKey();
-                                    if(name.contains(key)) {
-                                        name = name.replace(key, "");
-                                        description = map.getValue();
+                        if(month != null) {
+                            final int day = Integer.parseInt(releaseDateValues[0]), year = Integer.parseInt(releaseDateValues[2]);
+                            final LocalDate localDate = LocalDate.of(year, month, day);
+                            if(localDate.isAfter(startingDate)) {
+                                final Element nameElement = tds.get(0);
+                                String name = nameElement.text();
+                                final boolean isSecurity = name.startsWith("***REMOVED***"),
+                                        isIOS = name.startsWith("***REMOVED***"),
+                                        isIPadOS = name.startsWith("***REMOVED***"),
+                                        isMacOS = name.startsWith("***REMOVED***"),
+                                        isWatchOS = name.startsWith("***REMOVED***"),
+                                        isTVOS = name.startsWith("***REMOVED***"),
+                                        isAppleTV = name.startsWith("Apple TV"),
+                                        isSafari = name.startsWith("***REMOVED***"),
+                                        isXcode = name.startsWith("***REMOVED***")
+                                                ;
+                                if(isSecurity
+                                        || isIOS || isIPadOS || isMacOS || isWatchOS
+                                        || isTVOS || isAppleTV
+                                        || isSafari
+                                        || isXcode
+                                ) {
+                                    final RemoteNotificationCategory category = isSecurity ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_SECURITY
+                                            : isIOS ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_IOS
+                                            : isIPadOS ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_IPADOS
+                                            : isMacOS ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_MACOS
+                                            : isWatchOS ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_WATCHOS
+                                            : isTVOS ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_TVOS
+                                            : isAppleTV ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_APPLE_TV
+                                            : isSafari ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_SAFARI
+                                            : isXcode ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_XCODE
+                                            : null;
+                                    String description = null;
+                                    for(Map.Entry<String, String> map : descriptionValues.entrySet()) {
+                                        final String key = map.getKey();
+                                        if(name.contains(key)) {
+                                            name = name.replace(key, "");
+                                            description = map.getValue();
+                                        }
                                     }
+
+                                    final HashMap<String, Object> customValues = new HashMap<>();
+                                    customValues.put("availableFor", tds.get(1).text());
+
+                                    final EventDate date = new EventDate(localDate);
+                                    final EventSources sources = new EventSources(new EventSource("Apple Support: Security Updates", url));
+
+                                    final Element link = nameElement.selectFirst("a[href]");
+                                    if(link != null) {
+                                        final String ahref = link.attr("href");
+                                        sources.add(new EventSource("Apple Support: " + name, ahref));
+                                    }
+                                    final PreRecentEvent preRecentEvent = new PreRecentEvent(category, date, name, description, null, sources, customValues);
+                                    events.add(preRecentEvent);
                                 }
-
-                                final HashMap<String, Object> customValues = new HashMap<>();
-                                customValues.put("availableFor", tds.get(1).text());
-
-                                final EventDate date = new EventDate(localDate);
-                                final EventSources sources = new EventSources(new EventSource("Apple Support: Security Updates", url));
-
-                                final Element link = nameElement.selectFirst("a[href]");
-                                if(link != null) {
-                                    final String ahref = link.attr("href");
-                                    sources.add(new EventSource("Apple Support: " + name, ahref));
-                                }
-                                final PreRecentEvent preRecentEvent = new PreRecentEvent(category, date, name, description, null, sources, customValues);
-                                events.add(preRecentEvent);
                             }
                         }
                     }

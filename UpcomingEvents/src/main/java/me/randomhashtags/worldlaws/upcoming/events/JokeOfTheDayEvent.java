@@ -26,7 +26,7 @@ public final class JokeOfTheDayEvent extends UpcomingEvent {
         return "{" +
                 "\"" + UpcomingEventValue.JOKE_OF_THE_DAY_COPYRIGHT.getKey() + "\":\"" + copyright + "\"," +
                 (answer != null ? "\"" + UpcomingEventValue.JOKE_OF_THE_DAY_ANSWER.getKey() + "\":\"" + answer + "\"," : "") +
-                "\"" + UpcomingEventValue.JOKE_OF_THE_DAY_QUESTION + "\":\"" + question + "\"" +
+                "\"" + UpcomingEventValue.JOKE_OF_THE_DAY_QUESTION.getKey() + "\":\"" + question + "\"" +
                 "}";
     }
 }

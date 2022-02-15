@@ -12,6 +12,8 @@ public enum UpcomingEventType {
     MOVIE,
     MUSIC_ALBUM,
 
+    PRESENTATION,
+
     SPACE_EVENT,
     //SPACE_X,
     SPACE_NEAR_EARTH_OBJECT,
@@ -89,24 +91,28 @@ public enum UpcomingEventType {
             switch (this) {
                 case WORD_OF_THE_DAY:
                     return 1;
-                case TICKETMASTER_MUSIC_EVENT:
-                    return 3;
-                case TV_SHOW:
-                    return 4;
-                default:
+                case PRESENTATION:
                     return 2;
+                case TICKETMASTER_MUSIC_EVENT:
+                    return 4;
+                case TV_SHOW:
+                    return 5;
+                default:
+                    return 3;
             }
         } else {
             switch (this) {
                 case ASTRONOMY_PICTURE_OF_THE_DAY:
                 case WORD_OF_THE_DAY:
                     return 1;
-                case TICKETMASTER_MUSIC_EVENT:
-                    return 3;
-                case TV_SHOW:
-                    return 4;
-                default:
+                case PRESENTATION:
                     return 2;
+                case TICKETMASTER_MUSIC_EVENT:
+                    return 4;
+                case TV_SHOW:
+                    return 5;
+                default:
+                    return 3;
             }
         }
     }
@@ -143,9 +149,11 @@ public enum UpcomingEventType {
         if(singular) {
             switch (this) {
                 case ASTRONOMY_PICTURE_OF_THE_DAY: return "Astronomy Picture of the Day";
+                case JOKE_OF_THE_DAY: return "Joke of the Day";
                 case MOVIE: return "Movie Release";
                 case MUSIC_ALBUM: return "Music Album";
-                case JOKE_OF_THE_DAY: return "Joke of the Day";
+
+                case PRESENTATION: return "Presentation";
 
                 case SPACE_EVENT: return "Space Event";
                 case SPACE_NEAR_EARTH_OBJECT: return "Near Earth Object";
@@ -165,9 +173,11 @@ public enum UpcomingEventType {
         } else {
             switch (this) {
                 case ASTRONOMY_PICTURE_OF_THE_DAY: return "Astronomy Picture of the Day";
+                case JOKE_OF_THE_DAY: return "Joke of the Day";
                 case MOVIE: return "Movie Releases";
                 case MUSIC_ALBUM: return "Music Album Releases";
-                case JOKE_OF_THE_DAY: return "Joke of the Day";
+
+                case PRESENTATION: return "Presentations";
 
                 case SPACE_EVENT: return "Space Events";
                 case SPACE_NEAR_EARTH_OBJECT: return "Near Earth Objects";
@@ -190,9 +200,11 @@ public enum UpcomingEventType {
         if(singular) {
             switch (this) {
                 case ASTRONOMY_PICTURE_OF_THE_DAY: return "\"%title%\" is today's APOD!";
+                case JOKE_OF_THE_DAY: return "Joke of the day: %title%";
                 case MOVIE: return "\"%title%\" is making its cinematic debut today!";
                 case MUSIC_ALBUM: return "\"%title%\" by %artist% releases today!";
-                case JOKE_OF_THE_DAY: return "Joke of the day: %title%";
+
+                case PRESENTATION: return "%title% is happening today!";
 
                 case SPACE_EVENT: return "%title% is scheduled today!";
                 case SPACE_NEAR_EARTH_OBJECT: return "A near earth object is close by!";
@@ -212,9 +224,11 @@ public enum UpcomingEventType {
         } else {
             switch (this) {
                 case ASTRONOMY_PICTURE_OF_THE_DAY: return "\"%title%\" are today's APODs!";
+                case JOKE_OF_THE_DAY: return "Jokes of the Day: %title%";
                 case MOVIE: return "\"%title%\" are making their cinematic debut today!";
                 case MUSIC_ALBUM: return "\"%title%\" by %artist% releases today!";
-                case JOKE_OF_THE_DAY: return "Jokes of the Day: %title%";
+
+                case PRESENTATION: return "%title% are happening today!";
 
                 case SPACE_EVENT: return "%title% are scheduled today!";
                 case SPACE_NEAR_EARTH_OBJECT: return "Near earth objects are close by!";

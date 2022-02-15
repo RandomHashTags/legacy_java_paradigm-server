@@ -75,8 +75,7 @@ public final class ProfessionalWrestling extends LoadedUpcomingEventController {
                             final WikipediaDocument eventDoc = new WikipediaDocument(eventURL);
                             final List<String> images = eventDoc.getImages();
                             final String imageURL = !images.isEmpty() ? images.get(0) : null;
-                            final List<Element> paragraphs = eventDoc.getConsecutiveParagraphs();
-                            final String paragraph = !paragraphs.isEmpty() ? paragraphs.get(0).text() : null;
+                            final String description = eventDoc.getDescription();
 
                             final String title = removeReferences(eventElement.text());
                             final String identifier = getEventDateIdentifier(dateString, title);
@@ -98,7 +97,7 @@ public final class ProfessionalWrestling extends LoadedUpcomingEventController {
                             }
 
                             final EventSources sources = new EventSources(eventDoc.getEventSource());
-                            final ProWrestlingEvent event = new ProWrestlingEvent(title, paragraph, imageURL, location, mainEvent, notes, sources);
+                            final ProWrestlingEvent event = new ProWrestlingEvent(title, description, imageURL, location, mainEvent, notes, sources);
                             putLoadedPreUpcomingEvent(identifier, event.toPreUpcomingEventJSON(type, identifier, location));
                             putUpcomingEvent(identifier, event.toString());
                         }

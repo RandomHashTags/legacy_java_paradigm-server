@@ -8,6 +8,7 @@ import java.util.concurrent.ConcurrentHashMap;
 public interface UserServer {
     ConcurrentHashMap<UserServer, Scanner> INPUT_SCANNERS = new ConcurrentHashMap<>();
 
+    TargetServer getTargetServer();
     void start();
     void stop();
 
@@ -40,8 +41,6 @@ public interface UserServer {
                 stop();
                 stopListeningForUserInput();
                 return;
-            case "restart":
-            case "reload":
             case "reboot":
                 restart();
                 return;
@@ -71,8 +70,7 @@ public interface UserServer {
     default void saveStatistics() {
     }
     private void restart() {
-        stop();
-        start();
+        //TargetServer.rebootServers();
     }
     private void executeCommand(String command) {
         try {

@@ -235,7 +235,8 @@ public final class Countries implements WLServer {
     @Override
     public String getServerResponse(APIVersion version, String identifier, ServerRequest request) {
         final ServerRequestTypeCountries type = (ServerRequestTypeCountries) request.getType();
-        final String[] values = request.getTarget().split("/");
+        final String target = request.getTarget();
+        final String[] values = target != null ? target.split("/") : null;
         switch (type) {
             case COUNTRIES:
                 return getCountries(version);

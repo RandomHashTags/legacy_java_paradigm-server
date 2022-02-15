@@ -154,12 +154,12 @@ public enum UpcomingEventValue {
         putCategory(UpcomingEventValueCategory.ROCKET_DETAILS);
         putKey("status");
         putValuePrefix("Status: ");
-        putValueString("%status% (%probability%% probability of happening)");
+        putValueString("%status%%probability%");
     }}),
     ROCKET_LAUNCH_PROBABILITY(new UpcomingEventValueMap() {{
         putCategory(UpcomingEventValueCategory.ROCKET_DETAILS);
         putKey("probability");
-        putValueType(UpcomingEventValueType.INT);
+        putValueType(UpcomingEventValueType.PLACEHOLDER);
     }}),
 
     SPACE_EVENT_NEWS_URL(new UpcomingEventValueMap() {{
@@ -225,7 +225,10 @@ public enum UpcomingEventValue {
     VIDEO_GAME_PLATFORMS(new UpcomingEventValueMap() {{
         putCategory(UpcomingEventValueCategory.VIDEO_GAME_DETAILS);
         putKey("platforms");
-        putValueType(UpcomingEventValueType.ARRAY_STRING);
+    }}),
+    VIDEO_GAME_GENRES(new UpcomingEventValueMap() {{
+        putCategory(UpcomingEventValueCategory.VIDEO_GAME_DETAILS);
+        putKey("genres");
     }}),
 
     WORD_OF_THE_DAY_PRONUNCIATION_URL(new UpcomingEventValueMap() {{

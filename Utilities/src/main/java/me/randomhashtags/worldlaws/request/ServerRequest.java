@@ -18,4 +18,8 @@ public final class ServerRequest {
     public String getTarget() {
         return target;
     }
+
+    public String getTotalPath() {
+        return type.name().toLowerCase() + (target != null ? "/" + target : "");
+    }
 }

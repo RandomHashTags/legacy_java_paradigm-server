@@ -31,12 +31,12 @@ public final class RocketLaunchEvent extends UpcomingEvent {
     public String getPropertiesJSONObject() {
         return "{" +
                 (mission != null ? mission.toString() + "," : "") +
+                (probability >= 0 ? "\"" + UpcomingEventValue.ROCKET_LAUNCH_PROBABILITY.getKey() + "\":\" (" + probability + "% probability of happening)\"," : "") +
                 "\"" + UpcomingEventValue.ROCKET_LAUNCH_WINDOW_START.getKey() + "\":\"" + windowStart + "\"," +
                 "\"" + UpcomingEventValue.ROCKET_LAUNCH_WINDOW_END.getKey() + "\":\"" + windowEnd + "\"," +
                 "\"" + UpcomingEventValue.ROCKET_LAUNCH_EXACT_DAY.getKey() + "\":\"" + exactDay + "\"," +
                 "\"" + UpcomingEventValue.ROCKET_LAUNCH_EXACT_TIME.getKey() + "\":\"" + exactTime + "\"," +
-                "\"" + UpcomingEventValue.ROCKET_LAUNCH_STATUS.getKey() + "\":\"" + status + "\"," +
-                "\"" + UpcomingEventValue.ROCKET_LAUNCH_PROBABILITY.getKey() + "\":" + probability +
+                "\"" + UpcomingEventValue.ROCKET_LAUNCH_STATUS.getKey() + "\":\"" + status + "\"" +
                 "}";
     }
 }

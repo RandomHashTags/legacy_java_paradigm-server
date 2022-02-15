@@ -15,7 +15,7 @@ public abstract class UpcomingEvent implements Jsoupable {
     private String title;
     private final String description, imageURL, location;
     private final JSONArray youtubeVideoIDs;
-    private final EventSources sources;
+    private EventSources sources;
 
     public UpcomingEvent(String title, String description, String imageURL, String location, JSONArray youtubeVideoIDs, EventSources sources) {
         this.title = LocalServer.fixEscapeValues(title);
@@ -24,6 +24,25 @@ public abstract class UpcomingEvent implements Jsoupable {
         this.location = LocalServer.fixEscapeValues(location);
         this.youtubeVideoIDs = youtubeVideoIDs;
         this.sources = sources;
+    }
+
+    public String getTitle() {
+        return title;
+    }
+    public String getDescription() {
+        return description;
+    }
+    public String getLocation() {
+        return location;
+    }
+    public EventSources getSources() {
+        return sources;
+    }
+    public void setSources(EventSources sources) {
+        this.sources = sources;
+    }
+    public void addSources(EventSources sources) {
+        this.sources.addAll(sources);
     }
 
     public abstract UpcomingEventType getType();
