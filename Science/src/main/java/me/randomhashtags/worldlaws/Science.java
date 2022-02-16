@@ -5,6 +5,9 @@ import me.randomhashtags.worldlaws.request.server.ServerRequestTypeScience;
 import me.randomhashtags.worldlaws.service.yearReview.ScienceYearReview;
 import me.randomhashtags.worldlaws.space.constellation.Constellations;
 
+import java.time.LocalDate;
+import java.time.Month;
+
 public final class Science implements WLServer {
 
     public static void main(String[] args) {
@@ -17,7 +20,7 @@ public final class Science implements WLServer {
     }
 
     private void test() {
-        final String string = ScienceYearReview.INSTANCE.get(2021);
+        final String string = ScienceYearReview.INSTANCE.getTodayEventsFromThePast(LocalDate.of(2022, Month.JUNE, 27));
         WLLogger.logInfo("Science;test;string=" + string);
     }
 

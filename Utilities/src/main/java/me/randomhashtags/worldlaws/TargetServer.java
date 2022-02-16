@@ -15,16 +15,16 @@ public enum TargetServer implements RestAPI, DataValues {
     FEEDBACK,
     LAWS,
     NEWS,
+    PREMIUM,
+    REMOTE_NOTIFICATIONS,
     SCIENCE,
     SERVICES,
     TECHNOLOGY,
     UPCOMING_EVENTS,
     WEATHER,
-    PREMIUM,
 
     HOME,
     PING,
-    REMOTE_NOTIFICATIONS,
     COMBINE,
     ;
 

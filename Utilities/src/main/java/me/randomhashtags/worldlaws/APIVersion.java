@@ -8,6 +8,10 @@ public enum APIVersion {
         return Integer.parseInt(name().substring(1));
     }
 
+    public static APIVersion getLatest() {
+        return APIVersion.v1;
+    }
+
     public static APIVersion valueOfInput(String input) {
         if(input != null) {
             for(APIVersion version : values()) {

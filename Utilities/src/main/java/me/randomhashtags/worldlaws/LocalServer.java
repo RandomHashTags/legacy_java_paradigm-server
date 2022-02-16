@@ -110,7 +110,7 @@ public final class LocalServer implements UserServer, DataValues {
     @Override
     public void saveStatistics() {
         final long started = System.currentTimeMillis();
-        Statistics.INSTANCE.save(started, serverName, totalUniqueIdentifiers, uniqueRequests, totalRequests);
+        Statistics.INSTANCE.save(started, wlserver.getServer(), totalUniqueIdentifiers, uniqueRequests, totalRequests);
         totalRequests.clear();
         totalUniqueIdentifiers.clear();
         uniqueRequests.clear();

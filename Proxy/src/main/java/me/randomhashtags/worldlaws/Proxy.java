@@ -7,6 +7,9 @@ import java.io.FileInputStream;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.security.KeyStore;
+import java.util.Timer;
+import java.util.TimerTask;
+import java.util.concurrent.TimeUnit;
 
 public final class Proxy implements UserServer, RestAPI {
 
@@ -23,6 +26,13 @@ public final class Proxy implements UserServer, RestAPI {
 
     @Override
     public void start() {
+        final long internal = TimeUnit.DAYS.toMillis(Settings.Server.getServerRebootFrequencyInDays());
+        new Timer().scheduleAtFixedRate(new TimerTask() {
+            @Override
+            public void run() {
+                restartServers();
+            }
+        }, internal, internal);
         setupServer(false);
     }
 

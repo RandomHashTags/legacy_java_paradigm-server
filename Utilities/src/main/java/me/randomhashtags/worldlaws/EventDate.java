@@ -63,7 +63,7 @@ public final class EventDate {
         return month == right.month && year == right.year && day == right.day && hour == right.hour && minute == right.minute;
     }
     public String getDateString() {
-        return month.getValue() + "-" + year + "-" + day;
+        return getDateString(year, day, month);
     }
     public Month getMonth() {
         return month;
@@ -103,6 +103,9 @@ public final class EventDate {
         final int monthValue = Integer.parseInt(values[0]), year = Integer.parseInt(values[1]), day = Integer.parseInt(values[2]);
         final Month month = Month.of(monthValue);
         return new EventDate(month, day, year);
+    }
+    public static String getDateString(int year, int day, Month month) {
+        return month.getValue() + "-" + year + "-" + day;
     }
 
     @Override

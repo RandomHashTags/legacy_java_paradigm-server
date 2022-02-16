@@ -57,14 +57,14 @@ public final class WikipediaDocument {
     public List<Element> getAllParagraphs() {
         final List<Element> paragraphs = getFirstElementsOfTagName("p");
         if(paragraphs != null) {
-            paragraphs.removeIf(paragraph -> paragraph.hasAttr("class") && paragraph.attr("class").equals("mw-empty-elt"));
+            paragraphs.removeIf(paragraph -> paragraph.hasClass("mw-empty-elt"));
         }
         return paragraphs;
     }
     public List<Element> getConsecutiveParagraphs() {
         return getConsecutiveNodes(paragraph -> {
             final Elements span = paragraph.select("span span.plainlinks span.geo-nondefault");
-            return paragraph.hasAttr("class") && paragraph.attr("class").equals("mw-empty-elt") || !span.isEmpty();
+            return paragraph.hasClass("mw-empty-elt") || !span.isEmpty();
         }, "p");
     }
     public String getDescription() {

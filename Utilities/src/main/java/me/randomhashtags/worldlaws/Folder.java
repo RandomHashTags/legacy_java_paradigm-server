@@ -37,7 +37,7 @@ public enum Folder {
     ERRORS("errors" + File.separator + "%errorName%"),
     FEEDBACK_BUG_REPORTS("feedback" + File.separator + "bug reports"),
     FEEDBACK_FEATURE_REQUEST("feedback" + File.separator + "feature request"),
-    LOGS("logs" + File.separator + "%year%" + File.separator + "%month%" + File.separator + "%day%" + File.separator + "%type%"),
+    LOGS("logs" + File.separator + "%year%" + File.separator + "%month%" + File.separator + "%day%" + File.separator + "%type%" + File.separator + "%server%"),
     OTHER(null),
     REMOTE_NOTIFICATIONS("remoteNotifications" + File.separator + "%year%" + File.separator + "%month%" + File.separator + "%day%"),
 

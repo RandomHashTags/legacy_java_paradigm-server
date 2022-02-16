@@ -91,7 +91,7 @@ public final class ProxyHeaders {
     private String getHeaderThatStartsWith(String[] headers, String string) {
         for(String header : headers) {
             if(header.startsWith(string)) {
-                return string;
+                return header.substring(string.length());
             }
         }
         return null;
