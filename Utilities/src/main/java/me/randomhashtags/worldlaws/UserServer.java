@@ -1,9 +1,5 @@
 package me.randomhashtags.worldlaws;
 
-import me.randomhashtags.worldlaws.settings.Settings;
-
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
 import java.util.Scanner;
 import java.util.concurrent.ConcurrentHashMap;
 
@@ -43,11 +39,18 @@ public interface UserServer {
                 stop();
                 return;
             case "shutdown":
+                long started = System.currentTimeMillis();
                 TargetServer.shutdownServers();
-                return;
+                WLLogger.logInfo("UserServer - shutdown Paradigm Servers (took " + WLUtilities.getElapsedTime(started) + ")");
+                break;
+            case "spinup":
+                started = System.currentTimeMillis();
+                TargetServer.spinUpServers();
+                WLLogger.logInfo("UserServer - spun up Paradigm Servers (took " + WLUtilities.getElapsedTime(started) + ")");
+                break;
             case "reboot":
             case "restart":
-                restart();
+                TargetServer.rebootServers();
                 return;
             case "beginmaintenance":
             case "startmaintenance":
@@ -58,7 +61,7 @@ public interface UserServer {
                 TargetServer.setMaintenanceMode(false, null);
                 break;
             case "execute":
-                executeCommand(input.substring(key.length()+1));
+                WLUtilities.executeCommand(input.substring(key.length()+1));
                 break;
             default:
                 break;
@@ -67,31 +70,5 @@ public interface UserServer {
     }
 
     default void saveStatistics() {
-    }
-    private void restart() {
-        TargetServer.setMaintenanceMode(true, "Servers are rebooting");
-        TargetServer.shutdownServers();
-        Settings.refresh();
-        final String command = Settings.Server.getRunServersCommand();
-        executeCommand(command);
-        TargetServer.setMaintenanceMode(false, null);
-    }
-    private void executeCommand(String command) {
-        try {
-            final Runtime runtime = Runtime.getRuntime();
-            final Process p = runtime.exec(command);
-            p.waitFor();
-
-            final BufferedReader reader = new BufferedReader(new InputStreamReader(p.getInputStream()));
-            String line = "";
-
-            while ((line = reader.readLine()) != null) {
-                System.out.println(line);
-            }
-            reader.close();
-            WLLogger.logInfo("UserServer - executed command \"" + command + "\"");
-        } catch (Exception e) {
-            WLUtilities.saveException(e);
-        }
     }
 }

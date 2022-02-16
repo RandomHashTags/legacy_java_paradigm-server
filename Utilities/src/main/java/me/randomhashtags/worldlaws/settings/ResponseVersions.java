@@ -44,7 +44,7 @@ public enum ResponseVersions {
             case COUNTRY_INFORMATION:
                 return 1;
             case HOLIDAYS:
-                return 2;
+                return 3;
 
             case UPDATE_NOTES:
                 return 1;

@@ -30,7 +30,7 @@ public final class Proxy implements UserServer, RestAPI {
         new Timer().scheduleAtFixedRate(new TimerTask() {
             @Override
             public void run() {
-                restartServers();
+                TargetServer.rebootServers();
             }
         }, internal, internal);
         setupServer(false);
@@ -120,9 +120,5 @@ public final class Proxy implements UserServer, RestAPI {
             final String target = value.length() == length ? "" : value.substring(length+1);
             server.sendResponse(RequestMethod.POST, target, handler);
         }*/
-    }
-
-
-    private void restartServers() {
     }
 }

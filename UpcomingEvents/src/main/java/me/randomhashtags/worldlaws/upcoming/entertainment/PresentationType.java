@@ -238,15 +238,18 @@ public enum PresentationType implements Jsoupable {
         elements.remove(0);
         for(Element element : elements) {
             final Elements tds = element.select("td");
-            final String dateString = tds.get(0).text();
+            final String dateString = LocalServer.removeWikipediaReferences(tds.get(0).text());
             if(!dateString.toLowerCase().contains("canceled")) {
                 final String theme = LocalServer.removeWikipediaReferences(tds.get(1).text());
 
                 final String[] dateValues = dateString.split(", ");
                 final int year = Integer.parseInt(dateValues[1]);
-                final EventDate date = parseDatesFrom(year, dateValues[0]).get(0);
-                final PresentationEvent event = new PresentationEvent(date, title, description, imageURL, location, null, externalLinks);
-                events.add(event);
+                final List<EventDate> dates = parseDatesFrom(year, dateValues[0]);
+                if(dates.size() > 0) {
+                    final EventDate date = dates.get(0);
+                    final PresentationEvent event = new PresentationEvent(date, title, description, imageURL, location, null, externalLinks);
+                    events.add(event);
+                }
             }
         }
         return events;

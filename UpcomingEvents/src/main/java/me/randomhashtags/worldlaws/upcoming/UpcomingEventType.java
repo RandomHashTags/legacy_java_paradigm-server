@@ -93,6 +93,7 @@ public enum UpcomingEventType {
                     return 1;
                 case PRESENTATION:
                     return 2;
+                case SPORT_CHAMPIONSHIPS:
                 case TICKETMASTER_MUSIC_EVENT:
                     return 4;
                 case TV_SHOW:
@@ -107,6 +108,7 @@ public enum UpcomingEventType {
                     return 1;
                 case PRESENTATION:
                     return 2;
+                case SPORT_CHAMPIONSHIPS:
                 case TICKETMASTER_MUSIC_EVENT:
                     return 4;
                 case TV_SHOW:

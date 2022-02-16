@@ -103,6 +103,25 @@ public abstract class WLUtilities {
         }
     }
 
+    public static void executeCommand(String command) {
+        try {
+            final Runtime runtime = Runtime.getRuntime();
+            final Process p = runtime.exec(command);
+            p.waitFor();
+
+            final BufferedReader reader = new BufferedReader(new InputStreamReader(p.getInputStream()));
+            String line = "";
+
+            while ((line = reader.readLine()) != null) {
+                System.out.println(line);
+            }
+            reader.close();
+            WLLogger.logInfo("WLUtilities - executed command \"" + command + "\"");
+        } catch (Exception e) {
+            WLUtilities.saveException(e);
+        }
+    }
+
     public static Month valueOfMonthFromInput(String input) {
         if(input.length() <= 3) {
             return null;

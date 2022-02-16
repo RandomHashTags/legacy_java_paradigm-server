@@ -30,8 +30,7 @@ public final class PreUpcomingEvent {
             case SPORT_UFC:
                 return json.getString("location");
             case VIDEO_GAME:
-                final String string = properties.getJSONArray("platforms").toString();
-                return string.substring(1, string.length()-1);
+                return properties.getString("platforms");
             default:
                 return null;
         }

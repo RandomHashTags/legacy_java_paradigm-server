@@ -17,7 +17,7 @@ public interface IHoliday extends Jsoupable, Jsonable {
     Enum<? extends IHoliday> getEnum();
     default String getName() {
         final String wikipediaName = getOfficialName();
-        return wikipediaName != null ? wikipediaName : LocalServer.toCorrectCapitalization(getEnum().name(), false, "of", "and", "de", "the", "it");
+        return wikipediaName != null ? wikipediaName : LocalServer.toCorrectCapitalization(getEnum().name(), false, "of", "and", "de", "the", "it", "in", "for", "to");
     }
     String getOfficialName();
 

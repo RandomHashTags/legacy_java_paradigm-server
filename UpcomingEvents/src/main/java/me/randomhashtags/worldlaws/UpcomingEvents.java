@@ -23,7 +23,6 @@ import java.time.LocalDate;
 import java.time.Month;
 import java.util.Arrays;
 import java.util.HashSet;
-import java.util.Map;
 import java.util.Optional;
 
 public final class UpcomingEvents implements WLServer {
@@ -70,11 +69,8 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void test() {
-        final Presentations presentations = new Presentations();
-        presentations.refresh();
-        for(Map.Entry<String, String> map : presentations.getUpcomingEvents().entrySet()) {
-            WLLogger.logInfo("UpcomingEvents;test;key=" + map.getKey() + ";value=" + map.getValue());
-        }
+        final String string = Holidays.INSTANCE.getResponse("near");
+        WLLogger.logInfo("UpcomingEvents;test;string=" + string);
     }
 
     private UpcomingEventController valueOfEventType(String eventType) {

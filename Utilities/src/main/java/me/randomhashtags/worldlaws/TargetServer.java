@@ -53,6 +53,23 @@ public enum TargetServer implements RestAPI, DataValues {
             }
         });
     }
+    public static void spinUpServers() {
+        final String command = Settings.Server.getRunServersCommand();
+        WLUtilities.executeCommand(command);
+    }
+    public static void rebootServers() {
+        setMaintenanceMode(true, "Servers are rebooting, and should be back up in a few minutes :)");
+        shutdownServers();
+        Settings.refresh();
+        spinUpServers();
+        try {
+            Thread.sleep(20*1000);
+        } catch (Exception e) {
+            WLUtilities.saveException(e);
+        }
+        final String string = TargetServer.HOME.updateHomeResponse();
+        TargetServer.setMaintenanceMode(false, null);
+    }
     public static boolean isMaintenanceMode() {
         return MAINTENANCE_MODE;
     }
@@ -308,6 +325,14 @@ public enum TargetServer implements RestAPI, DataValues {
         return json.toString();
     }
 
+    private String updateHomeResponse() {
+        final APIVersion version = APIVersion.getLatest();
+        final HashMap<String, String> headers = new HashMap<>();
+        headers.put("Content-Type", "application/json");
+        headers.put("Charset", DataValues.ENCODING.name());
+        headers.put("***REMOVED***", Settings.Server.getUUID());
+        return updateHomeResponse(version, true, RequestMethod.GET, headers);
+    }
     private String updateHomeResponse(APIVersion version, boolean isUpdate, RequestMethod method, HashMap<String, String> headers) {
         final long started = System.currentTimeMillis();
         if(!isUpdate) {
