@@ -55,6 +55,7 @@ public final class LocalServer implements UserServer, DataValues {
     public void stop() {
         final long started = System.currentTimeMillis();
         WLLogger.logInfo(serverName + " - shutting down server...");
+        stopListeningForUserInput();
         if(timers != null) {
             for(Timer timer : timers) {
                 timer.cancel();
@@ -124,7 +125,6 @@ public final class LocalServer implements UserServer, DataValues {
         }
     }
     private void connectClients(int port) {
-        listenForUserInput();
         WLLogger.logInfo(serverName + " - Listening for clients on port " + port + "...");
         acceptClients();
     }

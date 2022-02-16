@@ -90,7 +90,7 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
                 return getHomeResponse(version);
             case "stop":
                 if(identifier.equals(Settings.Server.getUUID())) {
-                    stop();
+                    localServer.stop();
                     return "1";
                 } else {
                     return WLUtilities.SERVER_EMPTY_JSON_RESPONSE;

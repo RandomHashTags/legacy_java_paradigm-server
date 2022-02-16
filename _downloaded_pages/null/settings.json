@@ -4,6 +4,8 @@
   },
   "server": {
     "uuid": "***REMOVED***",
+    "runServersCommand": "lxterminal --command=\"cd Desktop/Current_Paradigm_Server & bash runServers.sh\"",
+    "serverRebootFrequencyInDays": 7,
     "proxy_port": 0,
     "default_address": "http://localhost",
     "servers": {

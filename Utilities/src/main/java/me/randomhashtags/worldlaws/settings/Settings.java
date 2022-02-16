@@ -58,6 +58,12 @@ public enum Settings {
         public static String getUUID() {
             return getOrDefaultString(getServersJSON(), "uuid", "***REMOVED***");
         }
+        public static String getRunServersCommand() {
+            return getOrDefaultString(getServersJSON(), "runServersCommand", "lxterminal --command=\"cd Desktop/Current_Paradigm_Server & bash runServers.sh\"");
+        }
+        public static int getServerRebootFrequencyInDays() {
+            return getOrDefaultInt(getServersJSON(), "serverRebootFrequencyInDays", 7);
+        }
         public static int getProxyPort() {
             return getOrDefaultInt(getServersJSON(), "proxy_port", 0);
         }

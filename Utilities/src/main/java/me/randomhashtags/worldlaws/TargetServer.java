@@ -45,17 +45,13 @@ public enum TargetServer implements RestAPI, DataValues {
         }
     }
 
-    public static void rebootServers() {
-        setMaintenanceMode(true, "Servers are rebooting");
+    public static void shutdownServers() {
         final String uuid = Settings.Server.getUUID();
         new ParallelStream<TargetServer>().stream(Arrays.asList(values()), server -> {
             if(server.isRealServer()) {
-                WLLogger.logInfo("TargetServer;rebootServers;sending stop command to server=" + server.name());
-                final String string = server.handleResponse(APIVersion.v1, uuid, RequestMethod.GET, "stop", null);
-                WLLogger.logInfo("TargetServer;rebootServers;server=" + server.name() + ";string=" + string);
+                server.handleResponse(APIVersion.v1, uuid, RequestMethod.GET, "stop", null);
             }
         });
-        setMaintenanceMode(false, null);
     }
     public static boolean isMaintenanceMode() {
         return MAINTENANCE_MODE;

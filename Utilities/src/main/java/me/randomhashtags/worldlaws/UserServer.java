@@ -17,8 +17,9 @@ public interface UserServer {
         new Thread(() -> executeUserInput(getUserInput())).start();
     }
     default void stopListeningForUserInput() {
-        if(INPUT_SCANNERS.containsKey(this)) {
-            INPUT_SCANNERS.get(this).close();
+        final Scanner scanner = INPUT_SCANNERS.get(this);
+        if(scanner != null) {
+            scanner.close();
             INPUT_SCANNERS.remove(this);
         }
     }
@@ -39,14 +40,11 @@ public interface UserServer {
             case "close":
             case "end":
                 stop();
-                stopListeningForUserInput();
                 return;
             case "reboot":
+            case "restart":
                 restart();
                 return;
-            case "save":
-                saveStatistics();
-                break;
             case "refresh":
                 Settings.refresh();
                 break;
@@ -70,11 +68,16 @@ public interface UserServer {
     default void saveStatistics() {
     }
     private void restart() {
-        //TargetServer.rebootServers();
+        TargetServer.setMaintenanceMode(true, "Servers are rebooting");
+        TargetServer.shutdownServers();
+        final String command = Settings.Server.getRunServersCommand();
+        executeCommand(command);
+        TargetServer.setMaintenanceMode(false, null);
     }
     private void executeCommand(String command) {
         try {
-            new ProcessBuilder(command).start().waitFor();
+            final Runtime runtime = Runtime.getRuntime();
+            runtime.exec(command);
         } catch (Exception e) {
             WLUtilities.saveException(e);
         }
