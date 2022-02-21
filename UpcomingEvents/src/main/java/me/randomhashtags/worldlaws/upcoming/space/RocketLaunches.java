@@ -12,8 +12,6 @@ import me.randomhashtags.worldlaws.upcoming.events.RocketLaunchMission;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-import java.time.LocalDate;
-
 public final class RocketLaunches extends LoadedUpcomingEventController {
 
     @Override
@@ -26,7 +24,6 @@ public final class RocketLaunches extends LoadedUpcomingEventController {
         final UpcomingEventType eventType = getType();
         final JSONObject json = requestJSONObject("https://ll.thespacedevs.com/2.0.0/launch/upcoming/?format=json&limit=50&mode=detailed&offset=0", RequestMethod.GET);
         if(json != null) {
-            final LocalDate today = LocalDate.now();
             final JSONArray launches = json.getJSONArray("results");
             final EventSources sources = new EventSources(new EventSource("The Space Devs", "https://thespacedevs.com"));
             new ParallelStream<JSONObject>().stream(launches.spliterator(), launchJSON -> {
@@ -51,9 +48,6 @@ public final class RocketLaunches extends LoadedUpcomingEventController {
                 final String dateString = getEventDateString(date), id = getEventDateIdentifier(dateString, name);
                 final RocketLaunchEvent launch = new RocketLaunchEvent(name, status, location, exactDay, exactTime, probability, rocketImageURL, mission, windowStart, windowEnd, sources);
                 final String string = launch.toString();
-                if(date.getLocalDate().isEqual(today)) {
-                    saveUpcomingEventToJSON(id, string);
-                }
                 putLoadedPreUpcomingEvent(id, launch.toPreUpcomingEventJSON(eventType, id, location));
                 putUpcomingEvent(id, string);
             });

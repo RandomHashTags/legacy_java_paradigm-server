@@ -67,10 +67,24 @@ public enum SubdivisionsJapan implements SovereignStateSubdivision { // https://
     @Override
     public String getRealName() {
         switch (this) {
+            case HOKKAIDO: return "Hokkaidō";
             case HYOGO: return "Hyōgo";
             case KOCHI: return "Kōchi";
+            case KYOTO: return "Kyōto";
             case OITA: return "Ōita";
+            case OSAKA: return "Ōsaka";
             default: return null;
+        }
+    }
+
+    @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            case HOKKAIDO:
+            case TOKYO:
+                return "";
+            default:
+                return null;
         }
     }
 

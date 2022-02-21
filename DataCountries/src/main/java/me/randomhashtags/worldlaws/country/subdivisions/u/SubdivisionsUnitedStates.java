@@ -92,8 +92,18 @@ public enum SubdivisionsUnitedStates implements SovereignStateSubdivision { // h
             case NORTHERN_MARIANA_ISLANDS:
             case UNITED_STATES_VIRGIN_ISLANDS:
                 return SubdivisionType.TERRITORIES;
-            case WASHINGTON_DC: return SubdivisionType.FEDERAL_DISTRICTS;
-            default: return null;
+            case WASHINGTON_DC:
+                return SubdivisionType.FEDERAL_DISTRICTS;
+            default:
+                return null;
+        }
+    }
+
+    @Override
+    public String getConditionalName() {
+        switch (this) {
+            case WASHINGTON_DC: return "Washington, D.C.";
+            default: return SovereignStateSubdivision.super.getConditionalName();
         }
     }
 
@@ -102,6 +112,19 @@ public enum SubdivisionsUnitedStates implements SovereignStateSubdivision { // h
         switch (this) {
             case WASHINGTON_DC: return "Washington D.C.";
             default: return null;
+        }
+    }
+
+    @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            case GEORGIA:
+                return "(U.S._" + suffix.toLowerCase() + ")";
+            case NEW_YORK:
+            case WASHINGTON:
+                return "(" + suffix.toLowerCase() + ")";
+            default:
+                return "";
         }
     }
 
@@ -246,16 +269,6 @@ public enum SubdivisionsUnitedStates implements SovereignStateSubdivision { // h
             case WISCONSIN: return collectTimeZones(centralStandardTime);
             case WYOMING: return collectTimeZones(mountainStandardTime);
             default: return null;
-        }
-    }
-
-    @Override
-    public String getWikipediaURL() {
-        switch (this) {
-            case GEORGIA: return "https://en.wikipedia.org/wiki/Georgia_(U.S._state)";
-            case NEW_YORK: return "https://en.wikipedia.org/wiki/New_York_(state)";
-            case WASHINGTON: return "https://en.wikipedia.org/wiki/Washington_(state)";
-            default: return SovereignStateSubdivision.super.getWikipediaURL();
         }
     }
 

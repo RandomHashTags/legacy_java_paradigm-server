@@ -39,6 +39,16 @@ public enum SubdivisionsHaiti implements SovereignStateSubdivision { // https://
     }
 
     @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            case NORD:
+                return "(Haitian department)";
+            default:
+                return "(department)";
+        }
+    }
+
+    @Override
     public String getISOAlpha2() {
         switch (this) {
             default: return null;

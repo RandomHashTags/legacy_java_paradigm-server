@@ -46,6 +46,14 @@ public enum SubdivisionsMalaysia implements SovereignStateSubdivision { // https
     }
 
     @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            default:
+                return "";
+        }
+    }
+
+    @Override
     public String getISOAlpha2() {
         switch (this) {
             default: return null;

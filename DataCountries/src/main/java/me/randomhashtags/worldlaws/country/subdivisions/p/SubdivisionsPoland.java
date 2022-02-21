@@ -30,7 +30,17 @@ public enum SubdivisionsPoland implements SovereignStateSubdivision { // https:/
 
     @Override
     public SubdivisionType getDefaultType() {
-        return SubdivisionType.PROVINCES;
+        return SubdivisionType.VOIVODESHIPS;
+    }
+
+    @Override
+    public String getRealName() {
+        switch (this) {
+            case KUYAVIA_POMERANIAN: return "Kuyavian-Pomeranian";
+            case LODZ: return "Łódź";
+            case WARMIAN_MASURIAN: return "Warmian-Masurian";
+            default: return null;
+        }
     }
 
     @Override

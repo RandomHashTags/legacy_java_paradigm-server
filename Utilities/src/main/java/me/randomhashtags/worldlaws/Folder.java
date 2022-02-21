@@ -42,8 +42,7 @@ public enum Folder {
     REMOTE_NOTIFICATIONS("remoteNotifications" + File.separator + "%year%" + File.separator + "%month%" + File.separator + "%day%"),
 
     UPCOMING_EVENTS("upcoming events"),
-    UPCOMING_EVENTS_YEAR_MONTH_DAY("upcoming events" + File.separator + "%year%" + File.separator + "%month%" + File.separator + "%day%"),
-    UPCOMING_EVENTS_IDS("upcoming events" + File.separator + "%year%" + File.separator + "%month%" + File.separator + "%day%" + File.separator + "ids"),
+    UPCOMING_EVENTS_IDS("upcoming events" + File.separator + "%year%" + File.separator + "%month%" + File.separator + "%day%" + File.separator + "ids" + File.separator + "%type%"),
     UPCOMING_EVENTS_HOLIDAYS("upcoming events" + File.separator + "holidays" + File.separator + "%year%"),
     UPCOMING_EVENTS_HOLIDAYS_COUNTRIES("upcoming events" + File.separator + "holidays" + File.separator + "%year%" + File.separator + "countries"),
     UPCOMING_EVENTS_HOLIDAYS_DESCRIPTIONS("upcoming events" + File.separator + "holidays" + File.separator + "descriptions" + File.separator + "%type%"),
@@ -78,12 +77,22 @@ public enum Folder {
         ids.remove(id);
     }
 
-    public String getFolderPath(String id) {
-        final String currentFolder = Jsonable.USER_DIR;
+    private String getCurrentTargetFolderName(String id) {
         String folderName = getFolderName(id);
         if(folderName == null) {
             folderName = this.folderName;
         }
+        return folderName;
+    }
+    private String getCurrentFolderName(String id) {
+        final String currentFolder = Jsonable.USER_DIR;
+        final String folderName = getCurrentTargetFolderName(id);
+        return currentFolder + folderName;
+    }
+
+    public String getFolderPath(String id) {
+        final String currentFolder = Jsonable.USER_DIR;
+        final String folderName = getCurrentTargetFolderName(id);
         switch (this) {
             case DEVICE_TOKENS:
             case FEEDBACK_BUG_REPORTS:
@@ -97,13 +106,15 @@ public enum Folder {
         }
     }
 
+    public boolean fileExists(String id) {
+        final String fileName = getCurrentFolderName(id);
+        final File file = new File(fileName);
+        return file.exists();
+    }
+
     public HashSet<Path> getAllFilePaths(String id) {
-        final String currentFolder = Jsonable.USER_DIR;
-        String folderName = getFolderName(id);
-        if(folderName == null) {
-            folderName = this.folderName;
-        }
-        final File folderFile = new File(currentFolder + folderName);
+        final String folderName = getCurrentFolderName(id);
+        final File folderFile = new File(folderName);
         final File[] files = folderFile.exists() && folderFile.isDirectory() ? folderFile.listFiles() : null;
         removeCustomFolderName(id);
 

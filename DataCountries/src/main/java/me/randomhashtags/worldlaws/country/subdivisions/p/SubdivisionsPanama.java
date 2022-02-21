@@ -21,8 +21,8 @@ public enum SubdivisionsPanama implements SovereignStateSubdivision { // https:/
     NASO_TJER_DI,
     NGABE_BUGLE,
 
-    GUNA_DE_MADUNGANDI,
-    GUNA_DE_WARGANDI,
+    MADUNGANDI,
+    WARGANDI,
     ;
 
     @Override
@@ -44,8 +44,8 @@ public enum SubdivisionsPanama implements SovereignStateSubdivision { // https:/
             case NGABE_BUGLE:
                 return SubdivisionType.INDIGENOUS_PROVINCE;
 
-            case GUNA_DE_MADUNGANDI:
-            case GUNA_DE_WARGANDI:
+            case MADUNGANDI:
+            case WARGANDI:
                 return SubdivisionType.MUNICIPALITIES;
             default:
                 return null;
@@ -62,13 +62,29 @@ public enum SubdivisionsPanama implements SovereignStateSubdivision { // https:/
             case PANAMA: return "Panamá";
             case PANAMA_OESTE: return "Panamá Oeste";
 
-            case EMBERA: return "Emberá";
+            case EMBERA: return "Emberá-Wounaan";
             case NGABE_BUGLE: return "Ngäbe-Buglé";
             case NASO_TJER_DI: return "Naso Tjër Di";
 
-            case GUNA_DE_MADUNGANDI: return "Guna de Madungandí";
-            case GUNA_DE_WARGANDI: return "Guna de Wargandí";
+            case MADUNGANDI: return "Madungandí";
+            case WARGANDI: return "Wargandí";
             default: return null;
+        }
+    }
+
+    @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            case EMBERA:
+            case NGABE_BUGLE:
+            case NASO_TJER_DI:
+                return "Comarca";
+            case GUNA_YALA:
+            case MADUNGANDI:
+            case WARGANDI:
+                return "";
+            default:
+                return null;
         }
     }
 

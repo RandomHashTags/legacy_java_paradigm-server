@@ -12,6 +12,7 @@ import java.time.Month;
 public enum SocialHoliday implements IHoliday {
 
     AFRICA_DAY,
+    ANZAC_DAY,
     ARMED_FORCES_DAY,
     BLACK_AWARENESS_DAY,
     BLACK_FRIDAY(
@@ -59,6 +60,7 @@ public enum SocialHoliday implements IHoliday {
     MARTYRS_DAY(
             "Martyr's Day"
     ),
+    MATARIKI,
 
     MOTHERHOOD_AND_BEAUTY_DAY,
     MOTHERS_DAY(
@@ -67,6 +69,10 @@ public enum SocialHoliday implements IHoliday {
 
     NATIONAL_CANCER_SURVIVORS_DAY,
     NATIONAL_SCIENCE_DAY,
+
+    QUEENS_BIRTHDAY(
+            "Queen's Official Birthday"
+    ),
 
     REPUBLIC_DAY,
 
@@ -78,6 +84,7 @@ public enum SocialHoliday implements IHoliday {
     VETERANS_DAY,
     VICTORY_DAY,
 
+    WAITANGI_DAY,
     ;
 
     private final String wikipediaName;
@@ -166,6 +173,11 @@ public enum SocialHoliday implements IHoliday {
                     case BANGLADESH: return new EventDate(Month.APRIL, 24, year);
                     default: return null;
                 }
+            case MATARIKI:
+                switch (country) {
+                    case NEW_ZEALAND: return null; // TODO: calculate this day!! (https://en.wikipedia.org/wiki/Matariki)
+                    default: return null;
+                }
             case MOTHERHOOD_AND_BEAUTY_DAY:
                 switch (country) {
                     case ARMENIA: return new EventDate(Month.APRIL, 7, year);
@@ -184,6 +196,11 @@ public enum SocialHoliday implements IHoliday {
                     case SPAIN: return new EventDate(Month.OCTOBER, 12, year);
                     default: return null;
                 }
+            case WAITANGI_DAY:
+                switch (country) {
+                    case NEW_ZEALAND: return new EventDate(Month.FEBRUARY, 6, year);
+                    default: return null;
+                }
             default:
                 return null;
         }
@@ -198,6 +215,7 @@ public enum SocialHoliday implements IHoliday {
     private IHoliday getHoliday() {
         switch (this) {
             case AFRICA_DAY: return AfricaDay.INSTANCE;
+            case ANZAC_DAY: return AnzacDay.INSTANCE;
             case ARMED_FORCES_DAY: return ArmedForcesDay.INSTANCE;
             case BOXING_DAY: return BoxingDay.INSTANCE;
             case CONSTITUTION_DAY: return ConstitutionDay.INSTANCE;
@@ -214,6 +232,7 @@ public enum SocialHoliday implements IHoliday {
             case MAY_DAY: return MayDay.INSTANCE;
             case MOTHERS_DAY: return MothersDay.INSTANCE;
             case NATIONAL_SCIENCE_DAY: return NationalScienceDay.INSTANCE;
+            case QUEENS_BIRTHDAY: return QueensBirthday.INSTANCE;
             case REPUBLIC_DAY: return RepublicDay.INSTANCE;
             case TEACHERS_DAY: return TeachersDay.INSTANCE;
             case THANKSGIVING: return Thanksgiving.INSTANCE;

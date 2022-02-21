@@ -50,10 +50,43 @@ public enum SubdivisionsMexico implements SovereignStateSubdivision { // https:/
     }
 
     @Override
+    public String getConditionalName() {
+        switch (this) {
+            case MEXICO:
+                return "State of Mexico";
+            default:
+                return SovereignStateSubdivision.super.getConditionalName();
+        }
+    }
+
+    @Override
     public SubdivisionType getType() {
         switch (this) {
             case MEXICO_CITY: return SubdivisionType.FEDERAL_ENTITIES;
             default: return null;
+        }
+    }
+
+    @Override
+    public String getRealName() {
+        switch (this) {
+            case MICHOACAN: return "Michoacán";
+            case NUEVO_LEON: return "Nuevo León";
+            case QUERETARO: return "Querétaro";
+            case SAN_LUIS_POTOSI: return "San Luis Potosí";
+            case YUCATAN: return "Yucatán";
+            default: return null;
+        }
+    }
+
+    @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            case CHIHUAHUA:
+            case HIDALGO:
+                return "(" + suffix.toLowerCase() + ")";
+            default:
+                return "";
         }
     }
 

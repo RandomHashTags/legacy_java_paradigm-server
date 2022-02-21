@@ -189,6 +189,9 @@ public enum NASA_EONET implements WLService {
             put("Turrialba", "Turrialba_Volcano");
             put("Ambrym", "Ambrym");
             put("Krakatau", "Krakatoa");
+            put("Villarica", "Vollarrica_(volcano)");
+            put("Popocatepetl", "Popocatepetl");
+            put("Chikurachki", "Chikurachki");
         }};
     }
     private String getLatestVolcanoDescription(String url) {

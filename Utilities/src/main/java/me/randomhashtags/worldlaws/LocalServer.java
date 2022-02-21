@@ -7,6 +7,8 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.net.SocketException;
 import java.net.SocketTimeoutException;
+import java.time.LocalDateTime;
+import java.time.ZoneId;
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 
@@ -40,7 +42,7 @@ public final class LocalServer implements UserServer, DataValues {
         totalUniqueIdentifiers = new HashSet<>();
         final TargetServer server = wlserver.getServer();
         if(server.recordsStatistics()) {
-            final long interval = WLUtilities.SAVE_STATISTICS_INTERVAL;
+            final long interval = UpdateIntervals.SAVE_STATISTICS;
             registerFixedTimer(interval, this::saveStatistics);
         }
         setupHttpServer(server.getPort());
@@ -73,15 +75,28 @@ public final class LocalServer implements UserServer, DataValues {
         }
     }
     public void registerFixedTimer(long interval, Runnable runnable) {
+        registerFixedTimer(null, interval, runnable);
+    }
+    public void registerFixedTimerStartingAt(LocalDateTime startingDate, long interval, Runnable runnable) {
+        registerFixedTimer(startingDate, interval, runnable);
+    }
+    private void registerFixedTimer(LocalDateTime startingDate, long interval, Runnable runnable) {
         final Timer timer = new Timer();
-        timer.scheduleAtFixedRate(new TimerTask() {
+        final TimerTask timerTask = new TimerTask() {
             @Override
             public void run() {
                 if(runnable != null) {
                     runnable.run();
                 }
             }
-        }, interval, interval);
+        };
+        if(startingDate == null) {
+            timer.scheduleAtFixedRate(timerTask, interval, interval);
+        } else {
+            final long targetTime = startingDate.atZone(ZoneId.systemDefault()).toEpochSecond() * 1000;
+            final Date targetDate = new Date(targetTime);
+            timer.scheduleAtFixedRate(timerTask, targetDate, interval);
+        }
         if(timers == null) {
             timers = new HashSet<>();
         }

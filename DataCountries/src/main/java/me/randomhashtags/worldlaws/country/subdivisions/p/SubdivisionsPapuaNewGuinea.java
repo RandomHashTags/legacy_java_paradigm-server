@@ -4,7 +4,7 @@ import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
-public enum SubdivisionsPapuaNewGuinea implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Administrative_divisions_of_Papua_New_Guinea
+public enum SubdivisionsPapuaNewGuinea implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Provinces_of_Papua_New_Guinea
     BOUGAINVILLE,
     CENTRAL,
     CHIMBU,
@@ -45,6 +45,27 @@ public enum SubdivisionsPapuaNewGuinea implements SovereignStateSubdivision { //
             case BOUGAINVILLE: return SubdivisionType.AUTONOMOUS_REGIONS;
             case NATIONAL_CAPITAL_DISTRICT: return SubdivisionType.INCORPORATED_AREAS;
             default: return null;
+        }
+    }
+
+    @Override
+    public String getConditionalName() {
+        switch (this) {
+            case BOUGAINVILLE: return "Autonomous Region of Bougainville";
+            default: return SovereignStateSubdivision.super.getConditionalName();
+        }
+    }
+
+    @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            case CENTRAL:
+            case WESTERN:
+                return suffix + "_(Papua_New_Guinea)";
+            case NATIONAL_CAPITAL_DISTRICT:
+                return "(Papua_New_Guinea)";
+            default:
+                return null;
         }
     }
 

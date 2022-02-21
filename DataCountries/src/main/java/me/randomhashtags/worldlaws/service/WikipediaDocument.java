@@ -153,12 +153,18 @@ public final class WikipediaDocument {
         if(document == null) {
             return null;
         }
+        final Element targetElement = document.selectFirst("div.mw-parser-output");
+        if(targetElement == null) {
+            return null;
+        }
         final EventSources sources = new EventSources();
-        final Element lastList = document.select("h2 + ul").last();
+        final Elements childElements = targetElement.children();
+        childElements.removeIf(element -> element.tagName().equals("table") && element.hasClass("mbox-small"));
+        final Element lastList = childElements.select("h2 + ul").last();
         if(lastList != null) {
             final Elements elements = lastList.select("li");
             for(Element list : elements) {
-                final Elements hrefs = list.select("a[href].external");
+                final Elements hrefs = list.select("a[href]");
                 hrefs.removeIf(href -> href.attr("href").startsWith("https://www.wikidata.org/wiki/"));
                 if(!hrefs.isEmpty()) {
                     final String listText = list.text();
@@ -167,8 +173,6 @@ public final class WikipediaDocument {
                     final Element href = hrefs.get(0);
                     String hrefText = href.text(), hrefTextLowercase = hrefText.toLowerCase(), siteName = null;
                     switch (hrefTextLowercase) {
-                        case "official website":
-                        case "official uk website":
                         case "linkedin page":
                             siteName = hasAt ? listText : hrefText;
                             break;
@@ -196,7 +200,7 @@ public final class WikipediaDocument {
                                     default:
                                         break;
                                 }
-                            } else if(hrefTextLowercase.contains("official ") && hrefTextLowercase.contains(" website")) {
+                            } else if(hrefTextLowercase.contains("official ") && (hrefTextLowercase.contains(" website")) || hrefTextLowercase.contains(" app")) {
                                 siteName = hrefText;
                             }
                             break;

@@ -22,6 +22,11 @@ public enum SubdivisionsIreland implements SovereignStateSubdivision { // https:
     }
 
     @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        return "";
+    }
+
+    @Override
     public String getISOAlpha2() {
         switch (this) {
             default: return null;

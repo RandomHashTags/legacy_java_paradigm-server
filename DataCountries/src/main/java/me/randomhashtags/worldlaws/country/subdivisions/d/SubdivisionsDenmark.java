@@ -23,6 +23,11 @@ public enum SubdivisionsDenmark implements SovereignStateSubdivision { // https:
     }
 
     @Override
+    public String getWikipediaURLPrefix() {
+        return "Region_";
+    }
+
+    @Override
     public String getISOAlpha2() {
         switch (this) {
             default: return null;

@@ -56,10 +56,28 @@ public enum SubdivisionsNigeria implements SovereignStateSubdivision { // https:
     }
 
     @Override
+    public String getConditionalName() {
+        switch (this) {
+            case FEDERAL_CAPITAL_TERRITORY: return "Federal Capital Territory";
+            default: return SovereignStateSubdivision.super.getConditionalName();
+        }
+    }
+
+    @Override
     public SubdivisionType getType() {
         switch (this) {
             case FEDERAL_CAPITAL_TERRITORY: return SubdivisionType.FEDERAL_TERRITORIES;
             default: return null;
+        }
+    }
+
+    @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            case FEDERAL_CAPITAL_TERRITORY:
+                return "(Nigeria)";
+            default:
+                return null;
         }
     }
 

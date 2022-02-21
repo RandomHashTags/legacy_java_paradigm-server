@@ -30,6 +30,10 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
     default String getShortName() {
         return null;
     }
+    default String getConditionalName() {
+        final String realName = getRealName();
+        return realName != null ? realName : getName();
+    }
     @Override
     default String getName() {
         return LocalServer.toCorrectCapitalization(name(), "del", "de", "la", "of", "al", "and");
@@ -41,7 +45,17 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
         return null;
     }
     default String getWikipediaURL() {
-        return "https://en.wikipedia.org/wiki/" + getName().replace(" ", "_");
+        final SubdivisionType type = getType();
+        final String prefix = getWikipediaURLPrefix(), suffix = (type != null ? type : getDefaultType()).getSingularName();
+        final String customSuffix = getWikipediaURLSuffix(suffix);
+        final boolean hasSpace = !(customSuffix != null && customSuffix.isEmpty());
+        return "https://en.wikipedia.org/wiki/" + (prefix != null ? prefix : "") + getConditionalName().replace(" ", "_") + (hasSpace ? "_" + (customSuffix != null ? customSuffix : suffix) : "");
+    }
+    default String getWikipediaURLPrefix() {
+        return null;
+    }
+    default String getWikipediaURLSuffix(String suffix) {
+        return null;
     }
     //String[] getMottos(); // TODO: implement (https://en.wikipedia.org/wiki/List_of_U.S._state_and_territory_mottos)
     default String[] collectMottos(String...mottos) {

@@ -54,6 +54,16 @@ public enum SubdivisionsBrazil implements SovereignStateSubdivision { // https:/
     }
 
     @Override
+    public String getConditionalName() {
+        switch (this) {
+            case DISTRITO_FEDERAL:
+                return "Federal District";
+            default:
+                return SovereignStateSubdivision.super.getConditionalName();
+        }
+    }
+
+    @Override
     public String getRealName() {
         switch (this) {
             case AMAPA: return "Amapá";
@@ -67,6 +77,24 @@ public enum SubdivisionsBrazil implements SovereignStateSubdivision { // https:/
             case PIAUI: return "Piauí";
             case RONDONIA: return "Rondônia";
             default: return null;
+        }
+    }
+
+    @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            case ACRE:
+            case PARANA:
+            case RIO_DE_JANEIRO:
+            case SANTA_CATARINA:
+            case SAO_PAULO:
+                return "_(" + suffix + ")";
+            case AMAZONAS:
+                return "_(Brazilian_" + suffix + ")";
+            case DISTRITO_FEDERAL:
+                return "_(Brazil)";
+            default:
+                return "";
         }
     }
 

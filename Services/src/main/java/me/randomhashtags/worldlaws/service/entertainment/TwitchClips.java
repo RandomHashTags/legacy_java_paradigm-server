@@ -14,7 +14,7 @@ import java.util.List;
 public enum TwitchClips implements RefreshableService {
     INSTANCE;
 
-    // Have to migrate to https://dev.twitch.tv/docs/api/reference#get-clips due to deprecation and shutdown of v5 Twitch API (kraken)
+    // TODO: Have to migrate to https://dev.twitch.tv/docs/api/reference#get-clips due to deprecation and shutdown of v5 Twitch API (kraken)
 
     private final HashMap<String, String> types, ids;
     private final List<String> clipTypes;

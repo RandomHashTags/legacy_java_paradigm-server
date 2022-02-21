@@ -5,24 +5,24 @@ import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
 public enum SubdivisionsKazakhstan implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Regions_of_Kazakhstan
-    AKMOLA_REGION,
-    AKTOBE_REGION,
+    AKMOLA,
+    AKTOBE,
     ALMATY,
     ALMATY_REGION,
-    ATYRAU_REGION,
+    ATYRAU,
     BAIKONUR,
-    EAST_KAZAKHSTAN_REGION,
-    JAMBYL_REGION,
-    KARAGANDA_REGION,
-    KOSTANAY_REGION,
-    KYZYLORDA_REGION,
-    MANGYSTAU_REGION,
-    NORTH_KAZAKHSTAN_REGION,
+    EAST_KAZAKHSTAN,
+    JAMBYL,
+    KARAGANDA,
+    KOSTANAY,
+    KYZYLORDA,
+    MANGYSTAU,
+    NORTH_KAZAKHSTAN,
     NUR_SULTAN,
-    PAVLODAR_REGION,
-    SHUMKENT,
-    TURKISTAN_REGION,
-    WEST_KAZAKHSTAN_REGION,
+    PAVLODAR,
+    SHYMKENT,
+    TURKISTAN,
+    WEST_KAZAKHSTAN,
     ;
 
     @Override
@@ -40,6 +40,20 @@ public enum SubdivisionsKazakhstan implements SovereignStateSubdivision { // htt
         switch (this) {
             case NUR_SULTAN: return "Nur-Sultan";
             default: return null;
+        }
+    }
+
+    @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            case ALMATY:
+            case ALMATY_REGION:
+            case BAIKONUR:
+            case NUR_SULTAN:
+            case SHYMKENT:
+                return "";
+            default:
+                return null;
         }
     }
 

@@ -34,6 +34,7 @@ public enum SubdivisionType {
     SUBDIVISIONS,
     TERRITORIES,
     UNION_TERRITORIES,
+    VOIVODESHIPS,
     ;
 
     public String getSingularName() {
@@ -69,6 +70,7 @@ public enum SubdivisionType {
             case SUBDIVISIONS: return "Subdivision";
             case TERRITORIES: return "Territory";
             case UNION_TERRITORIES: return "Union Territory";
+            case VOIVODESHIPS: return "Voivodeship";
             default: return null;
         }
     }

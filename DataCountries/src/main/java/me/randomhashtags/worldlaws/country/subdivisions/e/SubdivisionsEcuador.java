@@ -42,6 +42,15 @@ public enum SubdivisionsEcuador implements SovereignStateSubdivision { // https:
     }
 
     @Override
+    public String getConditionalName() {
+        switch (this) {
+            case MORONA_SANTIGAO: return "Morona-Santiago";
+            case ZAMORA_CHINCHIPE: return "Zamora-Chinchipe";
+            default: return null;
+        }
+    }
+
+    @Override
     public String getRealName() {
         switch (this) {
             case BOLIVAR: return "Bolívar";
@@ -52,6 +61,16 @@ public enum SubdivisionsEcuador implements SovereignStateSubdivision { // https:
             case SANTO_DOMINGO_DE_LOS_TSACHILAS: return "Santo Domingo de los Tsáchilas";
             case SUCUMBIOS: return "Sucumbíos";
             default: return null;
+        }
+    }
+
+    @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            case BOLIVAR:
+                return "_(Ecuador)";
+            default:
+                return null;
         }
     }
 

@@ -52,6 +52,18 @@ public enum SubdivisionsIndonesia implements SovereignStateSubdivision { // http
     }
 
     @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            case MALUKU:
+            case PAPUA:
+            case WEST_PAPUA:
+                return "(" + suffix.toLowerCase() + ")";
+            default:
+                return "";
+        }
+    }
+
+    @Override
     public String getISOAlpha2() {
         switch (this) {
             default: return null;

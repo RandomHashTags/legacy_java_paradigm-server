@@ -29,6 +29,27 @@ public enum SubdivisionsNorway implements SovereignStateSubdivision { // https:/
     }
 
     @Override
+    public String getRealName() {
+        switch (this) {
+            case MORE_OG_ROMSDAL: return "Møre og Romsdal";
+            case TROMS_OG_FINNMARK: return "Troms og Finnmark";
+            case TRONDELAG: return "Trøndelag";
+            case VESTFOLD_OF_TELEMARK: return "Vestfold og Telemark";
+            default: return null;
+        }
+    }
+
+    @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            case VIKEN:
+                return "(" + suffix.toLowerCase() + ")";
+            default:
+                return "";
+        }
+    }
+
+    @Override
     public String getISOAlpha2() {
         switch (this) {
             default: return null;

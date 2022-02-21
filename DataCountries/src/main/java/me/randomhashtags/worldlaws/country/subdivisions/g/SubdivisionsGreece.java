@@ -32,6 +32,24 @@ public enum SubdivisionsGreece implements SovereignStateSubdivision { // https:/
     }
 
     @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            case CENTRAL_MACEDONIA:
+            case CRETE:
+            case EASTERN_MACEDONIA_AND_THRACE:
+            case MOUNT_ATHOS:
+            case NORTH_AEGEAN:
+            case SOUTH_AEGEAN:
+            case THESSALY:
+            case WESTERN_GREECE:
+            case WESTERN_MACEDONIA:
+                return "";
+            default:
+                return "(region)";
+        }
+    }
+
+    @Override
     public String getISOAlpha2() {
         switch (this) {
             default: return null;

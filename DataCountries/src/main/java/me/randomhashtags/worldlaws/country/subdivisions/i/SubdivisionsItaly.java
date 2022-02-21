@@ -51,12 +51,28 @@ public enum SubdivisionsItaly implements SovereignStateSubdivision { // https://
     }
 
     @Override
+    public String getConditionalName() {
+        switch (this) {
+            case TRENTINO_SOUTH_TYROL: return "Trentino-Alto_Adige/Südtirol";
+            default: return SovereignStateSubdivision.super.getConditionalName();
+        }
+    }
+
+    @Override
     public String getRealName() {
         switch (this) {
             case EMILIA_ROMAGNA: return "Emilia-Romagna";
             case FRIULI_VENEZLA_GIULIA: return "Friuli-Venezia Giulia";
             case TRENTINO_SOUTH_TYROL: return "Trentino-South Tyrol";
             default: return null;
+        }
+    }
+
+    @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            default:
+                return "";
         }
     }
 

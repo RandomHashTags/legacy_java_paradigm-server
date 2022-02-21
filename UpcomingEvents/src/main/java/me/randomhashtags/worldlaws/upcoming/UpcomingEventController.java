@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.service.YouTubeService;
 import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.upcoming.entertainment.TVShows;
 import org.json.JSONObject;
 
 import java.time.LocalDate;
@@ -110,7 +111,9 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
     public void saveUpcomingEventToJSON(String id, String json) {
         final Folder folder = Folder.UPCOMING_EVENTS_IDS;
         final String fileName = getUpcomingEventFileName(folder, id);
-        setFileJSON(folder, fileName, json);
+        if(!folder.fileExists(fileName)) {
+            setFileJSON(folder, fileName, json);
+        }
     }
 
     public String getResponse(String input) {
@@ -125,7 +128,6 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
             final String fileName = getUpcomingEventFileName(folder, identifier);
             String string = getLocalFileString(folder, fileName, "json");
             if(string == null) {
-                final String todayEventDateString = new EventDate(LocalDate.now()).getDateString() + ".";
                 final JSONObject json = tryLoadingUpcomingEvent(identifier);
                 String value = null;
                 final String jsonString = json != null ? json.toString() : "";
@@ -135,8 +137,11 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
                 if(value != null) {
                     putLoadedPreUpcomingEvent(identifier, value);
                 }
-                if(!jsonString.isEmpty() && identifier.startsWith(todayEventDateString)) {
-                    saveUpcomingEventToJSON(identifier, jsonString);
+                if(!jsonString.isEmpty()) {
+                    final String todayEventDateString = EventDate.getDateString(LocalDate.now()) + ".";
+                    if(identifier.startsWith(todayEventDateString)) {
+                        saveUpcomingEventToJSON(identifier, jsonString);
+                    }
                 }
                 upcomingEvents.put(identifier, jsonString);
                 return jsonString;
@@ -151,14 +156,19 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
         final String month = Month.of(Integer.parseInt(values[0])).name();
         final int year = Integer.parseInt(values[1]), day = Integer.parseInt(values[2]);
         final String fileName = id.substring(dateString.length()+1);
-        final String folderName = folder.getFolderName().replace("%year%", Integer.toString(year)).replace("%month%", month).replace("%day%", Integer.toString(day));
+        final String folderName = folder.getFolderName()
+                .replace("%year%", Integer.toString(year))
+                .replace("%month%", month)
+                .replace("%day%", Integer.toString(day))
+                .replace("%type%", getType().getID())
+                ;
         folder.setCustomFolderName(fileName, folderName);
         return fileName;
     }
     private JSONObject tryLoadingUpcomingEvent(String id) {
         if(preUpcomingEvents.containsKey(id)) {
             final String string = loadUpcomingEvent(id);
-            if(string != null && string.startsWith("{")) {
+            if(string != null && string.startsWith("{") && string.endsWith("}")) {
                 return new JSONObject(string);
             }
         }
@@ -181,6 +191,13 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
     }
 
     public void putUpcomingEvent(String identifier, String value) {
+        if(this instanceof TVShows) {
+        } else {
+            final String todayDateString = EventDate.getDateString(LocalDate.now()) + ".";
+            if(identifier.startsWith(todayDateString)) {
+                saveUpcomingEventToJSON(identifier, value);
+            }
+        }
         upcomingEvents.put(identifier, value);
     }
 

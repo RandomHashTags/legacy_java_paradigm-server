@@ -18,9 +18,11 @@ public enum PresentationType implements Jsoupable {
     COACHELLA("https://en.wikipedia.org/wiki/Coachella_Valley_Music_and_Arts_Festival", PresentationEventType.FESTIVAL_MUSIC),
     E3("https://en.wikipedia.org/wiki/E3", PresentationEventType.EXPO_GAMING),
     //EGX("https://en.wikipedia.org/wiki/EGX_(expo)", PresentationEventType.EXPO_GAMING),
+    //G20("https://en.wikipedia.org/wiki/List_of_G20_summits", PresentationEventType.SUMMIT),
     //GAME_DEVELOPERS_CONFERENCE("https://en.wikipedia.org/wiki/Game_Developers_Conference", PresentationEventType.CONFERENCE),
     //GAMESCON("https://en.wikipedia.org/wiki/Gamescom", PresentationEventType.EXPO_GAMING),
     GOLDEN_GLOBE_AWARDS("https://en.wikipedia.org/wiki/List_of_Golden_Globe_Awards_ceremonies", PresentationEventType.AWARD_CEREMONY),
+    GOOGLE_IO("https://en.wikipedia.org/wiki/Google_I/O", PresentationEventType.CONFERENCE_DEVELOPER),
     MET_GALA("https://en.wikipedia.org/wiki/Met_Gala", PresentationEventType.EXHIBIT_FASHION),
     //MINECON("https://en.wikipedia.org/wiki/Minecon", PresentationEventType.CONVENTION_GAMING),
     NINTENDO_DIRECT("https://en.wikipedia.org/wiki/Nintendo_Direct", PresentationEventType.PRESENTATION),
@@ -59,6 +61,7 @@ public enum PresentationType implements Jsoupable {
             case COACHELLA: return refreshCoachella();
             case E3: return refreshE3();
             case GOLDEN_GLOBE_AWARDS: return refreshGoldenGlobeAwards();
+            case GOOGLE_IO: return refreshGoogleIO();
             case MET_GALA: return refreshMetGala();
             case NINTENDO_DIRECT: return refreshNintendoDirect();
             case TWITCHCON: return refreshTwitchCon();
@@ -223,6 +226,35 @@ public enum PresentationType implements Jsoupable {
                 final EventDate date = new EventDate(month, day, year);
                 final PresentationEvent event = new PresentationEvent(date, title, description, imageURL, location, null, externalLinks);
                 events.add(event);
+            }
+        }
+        return events;
+    }
+    private List<PresentationEvent> refreshGoogleIO() {
+        final String title = "Google I/O", location = "California, United States", imageURL = null;
+        final WikipediaDocument doc = new WikipediaDocument(url);
+        final String description = doc.getDescription();
+        final EventSources externalLinks = doc.getExternalLinks();
+        final List<PresentationEvent> events = new ArrayList<>();
+        final Element table = doc.selectFirst("table.wikitable");
+        final Elements elements = table.select("tbody tr");
+        elements.remove(0);
+        for(Element element : elements) {
+            final Elements tds = element.select("td");
+            final int year = Integer.parseInt(tds.get(0).text());
+            final String targetDate = LocalServer.removeWikipediaReferences(tds.get(1).text());
+            if(!targetDate.toLowerCase().contains("cancelled")) {
+                final List<EventDate> dates = parseDatesFrom(year, targetDate);
+                if(!dates.isEmpty()) {
+                    final EventDate lastDate = dates.get(dates.size()-1);
+                    boolean isFirst = true;
+                    for(EventDate date : dates) {
+                        final String tag = title + ", " + (isFirst ? "BEGINS TODAY" : date.equals(lastDate) ? "ENDS TODAY" : "CONTINUED");
+                        final PresentationEvent event = new PresentationEvent(date, title, description, imageURL, location, tag, externalLinks);
+                        events.add(event);
+                        isFirst = false;
+                    }
+                }
             }
         }
         return events;

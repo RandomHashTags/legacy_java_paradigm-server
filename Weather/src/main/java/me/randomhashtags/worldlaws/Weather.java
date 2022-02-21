@@ -58,11 +58,11 @@ public final class Weather implements WLServer {
         final APIVersion version = APIVersion.v1;
         final Earthquakes earthquakes = Earthquakes.INSTANCE;
         final NASA_EONET nasa = NASA_EONET.INSTANCE;
-        registerFixedTimer(WLUtilities.WEATHER_ALERTS_UPDATE_INTERVAL, () -> WeatherAlerts.INSTANCE.refresh(true));
-        registerFixedTimer(WLUtilities.WEATHER_EARTHQUAKES_UPDATE_INTERVAL, () -> earthquakes.refresh(true, false));
-        registerFixedTimer(WLUtilities.WEATHER_EARTHQUAKES_CLEAR_CACHE_INTERVAL, earthquakes::clearCachedEarthquakes);
-        registerFixedTimer(WLUtilities.WEATHER_NASA_WEATHER_EVENT_TRACKER_UPDATE_INTERVAL, () -> nasa.refresh(version));
-        registerFixedTimer(WLUtilities.WEATHER_NASA_WEATHER_VOLCANO_UPDATE_INTERVAL, nasa::clearCachedVolcanoes);
-        return WLUtilities.WEATHER_HOME_UPDATE_INTERVAL;
+        registerFixedTimer(UpdateIntervals.Weather.ALERTS, () -> WeatherAlerts.INSTANCE.refresh(true));
+        registerFixedTimer(UpdateIntervals.Weather.EARTHQUAKES, () -> earthquakes.refresh(true, false));
+        registerFixedTimer(UpdateIntervals.Weather.EARTHQUAKES_CLEAR_CACHE, earthquakes::clearCachedEarthquakes);
+        registerFixedTimer(UpdateIntervals.Weather.NASA_WEATHER_EVENT_TRACKER, () -> nasa.refresh(version));
+        registerFixedTimer(UpdateIntervals.Weather.NASA_WEATHER_VOLCANOS, nasa::clearCachedVolcanoes);
+        return UpdateIntervals.Weather.HOME;
     }
 }

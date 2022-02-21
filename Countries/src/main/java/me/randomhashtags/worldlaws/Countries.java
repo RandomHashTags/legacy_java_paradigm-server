@@ -92,7 +92,7 @@ public final class Countries implements WLServer {
                 TravelAdvisories.INSTANCE
         ));
 
-        registerFixedTimer(WLUtilities.COUNTRIES_NON_STATIC_VALUES_UPDATE_INTERVAL, this::updateNonStaticInformation);
+        registerFixedTimer(UpdateIntervals.Countries.NON_STATIC_VALUES, this::updateNonStaticInformation);
     }
 
     private void updateNonStaticInformation() {

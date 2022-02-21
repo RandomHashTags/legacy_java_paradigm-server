@@ -53,6 +53,19 @@ public enum SubdivisionsMadagascar implements SovereignStateSubdivision { // htt
     }
 
     @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            case DIANA:
+            case ITASY:
+            case SAVA:
+            case SOFIA:
+                return null;
+            default:
+                return "";
+        }
+    }
+
+    @Override
     public String getISOAlpha2() {
         switch (this) {
             default: return null;

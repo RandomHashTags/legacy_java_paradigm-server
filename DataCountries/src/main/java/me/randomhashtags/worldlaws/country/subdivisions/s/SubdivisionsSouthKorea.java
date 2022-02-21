@@ -50,9 +50,32 @@ public enum SubdivisionsSouthKorea implements SovereignStateSubdivision { // htt
             case INCHEON:
             case ULSAN:
                 return SubdivisionType.METROPOLITAN_CITIES;
-            case SEJONG: return SubdivisionType.SPECIAL_SELF_GOVERNING_CITIES;
-            case SEOUL: return SubdivisionType.SPECIAL_CITIES;
-            default: return null;
+            case SEJONG:
+                return SubdivisionType.SPECIAL_SELF_GOVERNING_CITIES;
+            case SEOUL:
+                return SubdivisionType.SPECIAL_CITIES;
+            default:
+                return null;
+        }
+    }
+
+    @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            case BUSAN:
+            case DAEGU:
+            case DAEJEON:
+            case GWANGJU:
+            case INCHEON:
+            case SEOUL:
+            case ULSAN:
+                return "";
+            case GANGWON:
+                return suffix + ",_South_Korea";
+            case SEJONG:
+                return "City";
+            default:
+                return null;
         }
     }
 

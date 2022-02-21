@@ -15,7 +15,7 @@ public enum SubdivisionsJamaica implements SovereignStateSubdivision { // https:
     SAINT_ANN,
     SAINT_CATHERINE,
     SAINT_MARY,
-    KINGSTON_PARISH,
+    KINGSTON,
     PORTLAND,
     SAINT_ANDREW,
     SAINT_THOMAS,
@@ -29,6 +29,20 @@ public enum SubdivisionsJamaica implements SovereignStateSubdivision { // https:
     @Override
     public SubdivisionType getDefaultType() {
         return SubdivisionType.PARISHES;
+    }
+
+    @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            case SAINT_JAMES:
+            case CLARENDON:
+            case SAINT_ANDREW:
+            case SAINT_MARY:
+            case SAINT_THOMAS:
+                return suffix + ",_Jamaica";
+            default:
+                return null;
+        }
     }
 
     @Override

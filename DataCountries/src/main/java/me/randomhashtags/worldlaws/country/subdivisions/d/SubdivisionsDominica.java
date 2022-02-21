@@ -28,6 +28,11 @@ public enum SubdivisionsDominica implements SovereignStateSubdivision { // https
     }
 
     @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        return suffix + ", Dominica";
+    }
+
+    @Override
     public String getISOAlpha2() {
         switch (this) {
             default: return null;

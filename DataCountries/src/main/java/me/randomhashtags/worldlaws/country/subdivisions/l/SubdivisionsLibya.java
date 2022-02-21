@@ -5,27 +5,28 @@ import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
 public enum SubdivisionsLibya implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Districts_of_Libya
-    AL_BUTNAN,
-    AL_JABAL_AL_AKHDAR,
-    AL_JABAL_AL_GHARBI,
-    AL_JAFARAH,
-    AL_JUFRAH,
-    AL_KUFRAH,
-    AL_MARJ,
-    AL_WAHAT,
-    AN_NUQAT_AL_KHAMS,
-    AZ_ZAWIYAH,
-    BANGHAZI,
+    BUTNAN,
+    JABAL_AL_AKHDAR,
+    JABAL_AL_GHARBI,
+    JAFARAH,
+    JUFRA,
+    KUFRAH,
+    MARJ,
+    AL_WALHAT,
+    NUQAT_AL_KHAMS,
+    ZAWIYA,
+    BENGHAZI,
     DARNAH,
-    MARQAB,
-    MISRATAH,
+    GHAT,
+    MURQUB,
+    MISRATA,
     MURZUQ,
     NALUT,
     SABHA,
-    SURT,
-    TARABULUS,
-    WADI_AL_HAYAT,
-    WADI_ASH_SHATI,
+    SIRTE,
+    TRIPOLI,
+    WADI_AL_HAYAA,
+    WADI_AL_SHATII,
     ;
 
     @Override
@@ -39,10 +40,15 @@ public enum SubdivisionsLibya implements SovereignStateSubdivision { // https://
     }
 
     @Override
-    public String getRealName() {
+    public String getWikipediaURLSuffix(String suffix) {
         switch (this) {
-            case WADI_ASH_SHATI: return "Wadi ash Shati'";
-            default: return null;
+            case BENGHAZI:
+            case JAFARAH:
+                return "";
+            case TRIPOLI:
+                return suffix + ",_Libya";
+            default:
+                return null;
         }
     }
 

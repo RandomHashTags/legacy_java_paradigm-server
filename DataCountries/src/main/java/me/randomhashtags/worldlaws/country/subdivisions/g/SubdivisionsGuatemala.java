@@ -53,6 +53,16 @@ public enum SubdivisionsGuatemala implements SovereignStateSubdivision { // http
     }
 
     @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            case SANTA_ROSA:
+                return ",_Guatemala";
+            default:
+                return null;
+        }
+    }
+
+    @Override
     public String getISOAlpha2() {
         switch (this) {
             default: return null;

@@ -80,6 +80,26 @@ public enum SubdivisionsGuadeloupe implements SovereignStateSubdivision { // htt
     }
 
     @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            case LA_DESIRADE:
+                return "(commune)";
+            case POINTE_NOIRE:
+            case PORT_LOUIS:
+            case SAINT_CLAUDE:
+            case SAINT_FRANCOIS:
+            case SAINT_LOUIS:
+            case SAINTE_ANNE:
+            case SAINTE_ROSE:
+            case TROIS_RIVIERES:
+            case VIEUX_FORT:
+                return ",_Guadeloupe";
+            default:
+                return "";
+        }
+    }
+
+    @Override
     public String getISOAlpha2() {
         switch (this) {
             default: return null;

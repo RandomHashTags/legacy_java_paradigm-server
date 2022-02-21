@@ -34,6 +34,14 @@ public enum SubdivisionsGermany implements SovereignStateSubdivision { // https:
     }
 
     @Override
+    public String getConditionalName() {
+        switch (this) {
+            case MECKLENBURG_WESTERN_POMERANIA: return "Mecklenburg-Vorpommern";
+            default: return SovereignStateSubdivision.super.getConditionalName();
+        }
+    }
+
+    @Override
     public String getRealName() {
         switch (this) {
             case BADEN_WURTTEMBERG: return "Baden-Württemberg";
@@ -43,6 +51,16 @@ public enum SubdivisionsGermany implements SovereignStateSubdivision { // https:
             case SAXONY_ANHALT: return "Saxony-Anhalt";
             case SCHLESWIG_HOLSTEIN: return "Schleswig-Holstein";
             default: return null;
+        }
+    }
+
+    @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            case BREMEN:
+                return "(state)";
+            default:
+                return "";
         }
     }
 

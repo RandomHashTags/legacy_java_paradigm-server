@@ -28,6 +28,19 @@ public enum SubdivisionsLithuania implements SovereignStateSubdivision { // http
     }
 
     @Override
+    public String getRealName() {
+        switch (this) {
+            case KLAIPEDA: return "Klaipėda";
+            case MARIJAMPOLE: return "Marijampolė";
+            case PANEVEZYS: return "Panevėžys";
+            case SIAULIAI: return "Šiauliai";
+            case TAURAGE: return "Tauragė";
+            case TELSIAI: return "Telšiai";
+            default: return null;
+        }
+    }
+
+    @Override
     public String getISOAlpha2() {
         switch (this) {
             default: return null;

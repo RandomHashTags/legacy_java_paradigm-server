@@ -9,8 +9,8 @@ public enum SubdivisionsNepal implements SovereignStateSubdivision { // https://
     GANDAKI,
     KARNALI,
     LUMBINI,
+    MADHESH,
     PROVINCE_1,
-    PROVINCE_2,
     SUDURPASHCHIM,
     ;
 
@@ -22,6 +22,25 @@ public enum SubdivisionsNepal implements SovereignStateSubdivision { // https://
     @Override
     public SubdivisionType getDefaultType() {
         return SubdivisionType.PROVINCES;
+    }
+
+    @Override
+    public String getRealName() {
+        switch (this) {
+            case PROVINCE_1: return "Province No. 1";
+            default: return null;
+        }
+    }
+
+    @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            case MADHESH:
+            case PROVINCE_1:
+                return "";
+            default:
+                return null;
+        }
     }
 
     @Override

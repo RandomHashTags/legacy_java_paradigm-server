@@ -29,7 +29,7 @@ public final class TVShows extends LoadedUpcomingEventController {
         if(!hasScheduledTasks) {
             hasScheduledTasks = true;
             final UpcomingEvents events = UpcomingEvents.INSTANCE;
-            events.registerFixedTimer(WLUtilities.UPCOMING_EVENTS_TV_SHOW_UPDATE_INTERVAL, this::refreshSchedule);
+            events.registerFixedTimer(UpdateIntervals.UpcomingEvents.TV_SHOW_SCHEDULE, this::refreshSchedule);
         }
         refreshSchedule();
     }

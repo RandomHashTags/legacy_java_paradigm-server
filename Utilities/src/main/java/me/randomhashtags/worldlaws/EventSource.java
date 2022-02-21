@@ -18,6 +18,7 @@ public final class EventSource {
         return LocalServer.fixEscapeValues(input)
                 .replace("%2B", "+")
                 .replace("%27", "'")
+                .replace("%C3%AD", "í")
                 .replace("%CA%BB", "ʻ")
                 .replace("%E2%80%93", "–")
                 .replace("%E2%80%98", "ʻ")

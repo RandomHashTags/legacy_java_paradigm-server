@@ -29,7 +29,7 @@ public abstract class LawController {
                     recentActivity.put(version, string);
                 }
             };
-            Laws.INSTANCE.registerFixedTimer(WLUtilities.LAWS_RECENT_ACTIVITY_UPDATE_INTERVAL, () -> {
+            Laws.INSTANCE.registerFixedTimer(UpdateIntervals.Laws.RECENT_ACTIVITY, () -> {
                 started.set(System.currentTimeMillis());
                 final String string = refreshRecentActivity(version);
                 completionHandler.handleString(string);

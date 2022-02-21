@@ -71,6 +71,19 @@ public enum SubdivisionsIndia implements SovereignStateSubdivision { // https://
     }
 
     @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            case PUNJAB:
+                return ",_India";
+            case JAMMU_AND_KASHMIR:
+            case PUDUCHERRY:
+                return "(union territory)";
+            default:
+                return "";
+        }
+    }
+
+    @Override
     public String getISOAlpha2() {
         switch (this) {
             case ANDAMAN_AND_NICOBAR_ISLANDS: return "AN";

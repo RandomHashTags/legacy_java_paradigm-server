@@ -7,7 +7,7 @@ import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 public enum SubdivisionsTonga implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Administrative_divisions_of_Tonga
     EUA,
     HA_APAI,
-    ONGO_NIUA,
+    NIUA_ISLANDS,
     TONGATAPU,
     VAVA_U,
     ;
@@ -30,6 +30,11 @@ public enum SubdivisionsTonga implements SovereignStateSubdivision { // https://
             case VAVA_U: return "Vava'u";
             default: return null;
         }
+    }
+
+    @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        return "";
     }
 
     @Override

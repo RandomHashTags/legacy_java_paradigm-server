@@ -55,6 +55,17 @@ public enum SubdivisionsMontenegro implements SovereignStateSubdivision { // htt
     }
 
     @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            case OLD_ROYAL_CAPITAL_CETINJE:
+            case PODGORICA_CAPITAL_CITY:
+                return "";
+            default:
+                return null;
+        }
+    }
+
+    @Override
     public String getISOAlpha2() {
         switch (this) {
             default: return null;

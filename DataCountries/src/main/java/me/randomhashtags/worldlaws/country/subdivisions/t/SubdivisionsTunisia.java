@@ -45,6 +45,7 @@ public enum SubdivisionsTunisia implements SovereignStateSubdivision { // https:
     public String getRealName() {
         switch (this) {
             case BEJA: return "Béja";
+            case GABES: return "Gabès";
             default: return null;
         }
     }

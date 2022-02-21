@@ -55,6 +55,16 @@ public enum SubdivisionsCuba implements SovereignStateSubdivision { // https://e
     }
 
     @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            case ISLA_DE_LA_JUVENTUD:
+                return "";
+            default:
+                return null;
+        }
+    }
+
+    @Override
     public String getISOAlpha2() {
         switch (this) {
             default: return null;

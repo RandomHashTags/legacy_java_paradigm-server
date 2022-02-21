@@ -33,6 +33,26 @@ public enum SubdivisionsBelarus implements SovereignStateSubdivision { // https:
     }
 
     @Override
+    public String getConditionalName() {
+        switch (this) {
+            case MINSK_CITY:
+                return "Minsk";
+            default:
+                return SovereignStateSubdivision.super.getConditionalName();
+        }
+    }
+
+    @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            case MINSK_CITY:
+                return "";
+            default:
+                return "_" + suffix;
+        }
+    }
+
+    @Override
     public String getISOAlpha2() {
         switch (this) {
             default: return null;

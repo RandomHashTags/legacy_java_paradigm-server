@@ -82,7 +82,7 @@ public enum UpcomingEventType {
         return json.toString();
     }
 
-    private String getID() {
+    public String getID() {
         return name().toLowerCase();
     }
 

@@ -20,7 +20,8 @@ import me.randomhashtags.worldlaws.upcoming.sports.UFC;
 import org.json.JSONObject;
 
 import java.time.LocalDate;
-import java.time.Month;
+import java.time.LocalDateTime;
+import java.time.temporal.ChronoField;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Optional;
@@ -56,7 +57,7 @@ public final class UpcomingEvents implements WLServer {
         INSTANCE.initialize();
     }
 
-    private String typesJSON;
+    private String typesJSON, weeklyEvents;
 
     private void initialize() {
         //test();
@@ -69,8 +70,9 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void test() {
-        final String string = Holidays.INSTANCE.getResponse("near");
-        WLLogger.logInfo("UpcomingEvents;test;string=" + string);
+        final long started = System.currentTimeMillis();
+        final String string = getWeeklyEvents();
+        WLLogger.logInfo("UpcomingEvents;test;string=" + string + ";took " + WLUtilities.getElapsedTime(started));
     }
 
     private UpcomingEventController valueOfEventType(String eventType) {
@@ -111,7 +113,7 @@ public final class UpcomingEvents implements WLServer {
                 return null;
                 //return VideoGameUpdates.INSTANCE.getAllVideoGames();
             case WEEKLY_EVENTS:
-                return refreshEventsFromThisWeek().toString();
+                return getWeeklyEvents();
             default:
                 WLLogger.logError(this, "getServerResponse - failed to get response using type \"" + type.name() + "\" with target \"" + target + "\"!");
                 return null;
@@ -133,8 +135,7 @@ public final class UpcomingEvents implements WLServer {
 
     @Override
     public long getHomeResponseUpdateInterval() {
-        registerFixedTimer(WLUtilities.UPCOMING_EVENTS_NEAR_HOLIDAYS_UPDATE_INTERVAL, Holidays.INSTANCE::refreshNearHolidays);
-        return WLUtilities.UPCOMING_EVENTS_HOME_UPDATE_INTERVAL;
+        return UpdateIntervals.UpcomingEvents.HOME;
     }
 
     private String getEventTypesJSON() {
@@ -151,25 +152,32 @@ public final class UpcomingEvents implements WLServer {
         return dates;
     }
 
-    private JSONObject refreshEventsFromThisWeek() {
+    private String getWeeklyEvents() {
+        if(weeklyEvents == null) {
+            weeklyEvents = refreshEventsFromThisWeek(true).toString();
+        }
+        return weeklyEvents;
+    }
+    private JSONObject refreshEventsFromThisWeek(boolean registerAutoUpdates) {
         final long started = System.currentTimeMillis();
         final LocalDate now = LocalDate.now();
-        final int targetYear = now.getYear(), day = now.getDayOfMonth();
-        final Month month = now.getMonth();
-        final Folder folder = Folder.UPCOMING_EVENTS_YEAR_MONTH_DAY;
-        final String fileName = "weekly";
-        folder.setCustomFolderName(fileName, folder.getFolderName().replace("%year%", Integer.toString(targetYear)).replace("%month%", month.name()).replace("%day%", Integer.toString(day)));
-        return getJSONObject(folder, fileName, new CompletionHandler() {
-            @Override
-            public JSONObject loadJSONObject() {
-                final HashSet<String> dates = getWeeklyEventDateStrings(now);
-                new ParallelStream<UpcomingEventController>().stream(CONTROLLERS, UpcomingEventController::refresh);
-
-                final JSONObject json = getEventsFromDates(dates);
-                WLLogger.logInfo("UpcomingEvents - refreshed events from this week (took " + WLUtilities.getElapsedTime(started) + ")");
-                return json;
-            }
-        });
+        if(registerAutoUpdates) {
+            final LocalDateTime tomorrow = LocalDateTime.now().plusDays(1)
+                    .with(ChronoField.HOUR_OF_DAY, 0)
+                    .with(ChronoField.MINUTE_OF_HOUR, 0)
+                    .with(ChronoField.SECOND_OF_MINUTE, 1)
+                    .with(ChronoField.MILLI_OF_SECOND, 0)
+                    ;
+            registerFixedTimer(tomorrow, UpdateIntervals.UpcomingEvents.WEEKLY_EVENTS, () -> {
+                Holidays.INSTANCE.refreshNearHolidays();
+                refreshEventsFromThisWeek(false);
+            });
+        }
+        final HashSet<String> dates = getWeeklyEventDateStrings(now);
+        new ParallelStream<UpcomingEventController>().stream(CONTROLLERS, UpcomingEventController::refresh);
+        final JSONObject json = getEventsFromDates(dates);
+        WLLogger.logInfo("UpcomingEvents - " + (registerAutoUpdates ? "" : "auto-") + "refreshed events from this week (took " + WLUtilities.getElapsedTime(started) + ")");
+        return json;
     }
     private String getEventStringForDate(LocalDate date) {
         return date.getMonthValue() + "-" + date.getYear() + "-" + date.getDayOfMonth();
@@ -195,6 +203,14 @@ public final class UpcomingEvents implements WLServer {
             }
             stringValue = builder.append("}").toString();
         }
-        return stringValue != null ? new JSONObject(stringValue) : null;
+        if(stringValue != null) {
+            try {
+                return new JSONObject(stringValue);
+            } catch (Exception e) {
+                final String stackTrace = WLUtilities.getExceptionStackTrace(e);
+                WLUtilities.saveLoggedError("UpcomingEvents", "failed parsing string to JSONObject\n\n" + stringValue + "\n\n" + stackTrace);
+            }
+        }
+        return null;
     }
 }

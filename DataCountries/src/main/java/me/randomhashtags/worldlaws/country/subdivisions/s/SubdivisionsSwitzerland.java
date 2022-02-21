@@ -8,8 +8,8 @@ public enum SubdivisionsSwitzerland implements SovereignStateSubdivision { // ht
     AARGAU,
     APPENZELL_AUSSERRHODEN,
     APPENZELL_INNERRHODEN,
-    BASLE_LANDSCHAFT,
-    BASLE_STADT,
+    BASEL_LANDSCHAFT,
+    BASEL_STADT,
     BERN,
     FRIBOURG,
     GENEVA,
@@ -46,12 +46,33 @@ public enum SubdivisionsSwitzerland implements SovereignStateSubdivision { // ht
     @Override
     public String getRealName() {
         switch (this) {
-            case BASLE_LANDSCHAFT: return "Basel-Landschaft";
-            case BASLE_STADT: return "Basel-Stadt";
+            case BASEL_LANDSCHAFT: return "Basel-Landschaft";
+            case BASEL_STADT: return "Basel-Stadt";
             case NEUCHATEL: return "Neuchâtel";
             case ST_GALLEN: return "St. Gallen";
             case ZURICH: return "Zürich";
             default: return null;
+        }
+    }
+
+    @Override
+    public String getWikipediaURLPrefix() {
+        switch (this) {
+            case AARGAU:
+            case APPENZELL_AUSSERRHODEN:
+            case APPENZELL_INNERRHODEN:
+            case BASEL_LANDSCHAFT:
+            case BASEL_STADT:
+            case GRISONS:
+            case NIDWALDEN:
+            case OBWALDEN:
+            case THURGAU:
+            case TICINO:
+            case VAUD:
+            case VALAIS:
+                return null;
+            default:
+                return "Canton_of_";
         }
     }
 

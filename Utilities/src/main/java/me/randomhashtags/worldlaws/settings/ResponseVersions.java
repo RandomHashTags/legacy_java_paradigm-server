@@ -31,20 +31,20 @@ public enum ResponseVersions {
     public int getValue() {
         switch (this) {
             case COUNTRIES:
-                return 11;
+                return 12;
             case MOVIE_PRODUCTION_COMPANIES:
                 return 2;
             case MUSIC_ARTISTS:
                 return 1;
             case UPCOMING_EVENT_TYPES:
-                return 3;
+                return 4;
 
             case AVAILABILITIES:
                 return 1;
             case COUNTRY_INFORMATION:
                 return 1;
             case HOLIDAYS:
-                return 3;
+                return 4;
 
             case UPDATE_NOTES:
                 return 1;

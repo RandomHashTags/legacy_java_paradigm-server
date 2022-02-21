@@ -47,11 +47,23 @@ public enum SubdivisionsUkraine implements SovereignStateSubdivision { // https:
     @Override
     public SubdivisionType getType() {
         switch (this) {
-            case CRIMERA: return SubdivisionType.AUTONOMOUS_REPUBLICS;
+            case CRIMERA:
+                return SubdivisionType.AUTONOMOUS_REPUBLICS;
             case KYIV:
             case SEVASTOPOL:
                 return SubdivisionType.SPECIAL_CITIES;
-            default: return null;
+            default:
+                return null;
+        }
+    }
+
+    @Override
+    public String getConditionalName() {
+        switch (this) {
+            case CRIMERA:
+                return "Autonomous Republic of Crimea";
+            default:
+                return SovereignStateSubdivision.super.getConditionalName();
         }
     }
 
@@ -60,6 +72,17 @@ public enum SubdivisionsUkraine implements SovereignStateSubdivision { // https:
         switch (this) {
             case IVANO_FRANKISVK: return "Ivano-Frankivsk";
             default: return null;
+        }
+    }
+
+    @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            case KYIV:
+            case SEVASTOPOL:
+                return "";
+            default:
+                return null;
         }
     }
 

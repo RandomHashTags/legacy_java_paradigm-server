@@ -104,6 +104,9 @@ public final class EventDate {
         final Month month = Month.of(monthValue);
         return new EventDate(month, day, year);
     }
+    public static String getDateString(LocalDate date) {
+        return getDateString(date.getYear(), date.getDayOfMonth(), date.getMonth());
+    }
     public static String getDateString(int year, int day, Month month) {
         return month.getValue() + "-" + year + "-" + day;
     }

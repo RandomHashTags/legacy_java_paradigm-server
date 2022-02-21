@@ -50,6 +50,44 @@ public enum SubdivisionsDominicanRepublic implements SovereignStateSubdivision {
     }
 
     @Override
+    public String getConditionalName() {
+        switch (this) {
+            case DISTRITO_NACIONAL: return "Distro Nacional";
+            default: return SovereignStateSubdivision.super.getConditionalName();
+        }
+    }
+
+    @Override
+    public String getRealName() {
+        switch (this) {
+            case DAJABON: return "Dajabón";
+            case ELIAS_PINA: return "Elías Piña";
+            case MARIA_TRINIDAD_SANCHEZ: return "María Trinidad Sánchez";
+            case MONSENOR_NOUEL: return "Monseñor Nouel";
+            case SAMANA: return "Samaná";
+            case SAN_CRISTOBAL: return "San Cristóbal";
+            case SAN_JOSE_DE_OCOA: return "San José de Ocoa";
+            case SAN_PEDRO_DE_MACORIS: return "San Pedro de Macorís";
+            case SANCHEZ_RAMIREZ: return "Sánchez Ramírez";
+            case SANTIAGO_RODRIGUEZ: return "Santiago Rodríguez";
+            default: return null;
+        }
+    }
+
+    @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            case LA_ROMANA:
+                return ",_Dominican_Republic";
+            case SAN_JUAN:
+            case SANTIAGO:
+                return "_(Dominican_Republic)";
+            default:
+                return null;
+        }
+    }
+
+    @Override
     public String getISOAlpha2() {
         switch (this) {
             default: return null;

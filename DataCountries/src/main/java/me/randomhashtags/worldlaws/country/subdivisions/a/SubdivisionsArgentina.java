@@ -50,14 +50,39 @@ public enum SubdivisionsArgentina implements SovereignStateSubdivision { // http
     }
 
     @Override
+    public String getConditionalName() {
+        switch (this) {
+            case TIERRA_DEL_FUEGO_ANTARTIDA_E_ISLAS_DEL_ATLANTICO_SUR:
+                return "Tierra del Fuego";
+            default:
+                return SovereignStateSubdivision.super.getConditionalName();
+        }
+    }
+
+    @Override
     public String getRealName() {
         switch (this) {
+            case BUENOS_AIRES: return "Buenos Aires";
             case CORDOBA: return "Córdoba";
             case NEUQUEN: return "Neuquén";
             case RIO_NEGRO: return "Río Negro";
             case TIERRA_DEL_FUEGO_ANTARTIDA_E_ISLAS_DEL_ATLANTICO_SUR: return "Tierra del Fuego, Antártida e Islas del Atlántico Sur";
             case TUCUMAN: return "Tucumán";
             default: return null;
+        }
+    }
+
+    @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            case CORDOBA:
+            case LA_RIOJA:
+            case SAN_JUAN:
+            case SANTA_CRUZ:
+            case TIERRA_DEL_FUEGO_ANTARTIDA_E_ISLAS_DEL_ATLANTICO_SUR:
+                return suffix + ",_Argentina";
+            default:
+                return null;
         }
     }
 

@@ -111,6 +111,48 @@ public enum SubdivisionsAzerbaijan implements SovereignStateSubdivision { // htt
     }
 
     @Override
+    public String getConditionalName() {
+        switch (this) {
+            case SHAKI_CITY:
+            case SHAKI_DISTRICT:
+                return "Shaki";
+            case SHIRVAN:
+                return "Şirvan";
+            case YEVLAKH_CITY:
+            case YEVLAKH_DISTRICT:
+                return "Yevlakh";
+            default:
+                return SovereignStateSubdivision.super.getConditionalName();
+        }
+    }
+
+    @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            case BAKU:
+            case KHANKENDI:
+            case LANKARAN:
+            case MINGACHEVIR:
+            case SUMQAYIT:
+            case YEVLAKH_CITY:
+                return "";
+            case GANJA:
+            case NAFTALAN:
+            case SHAKI_CITY:
+            case SHIRVAN:
+                return ",_Azerbaijan";
+            case NAKHCHIVAN:
+                return "_(city)";
+            case JALILABAD:
+            case QUBA:
+            case SALYAN:
+                return "_" + suffix + "_(Azerbaijan)";
+            default:
+                return "_" + suffix;
+        }
+    }
+
+    @Override
     public String getISOAlpha2() {
         switch (this) {
             case ABSHERON: return "ABS";

@@ -6,6 +6,7 @@ import me.randomhashtags.worldlaws.request.server.*;
 import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.stream.ParallelStream;
 
+import java.time.LocalDateTime;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -46,6 +47,9 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
     }
     default void registerFixedTimer(long interval, Runnable runnable) {
         getLocalServer().registerFixedTimer(interval, runnable);
+    }
+    default void registerFixedTimer(LocalDateTime startingDate, long interval, Runnable runnable) {
+        getLocalServer().registerFixedTimerStartingAt(startingDate, interval, runnable);
     }
 
     default void load() {
@@ -105,7 +109,7 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
                 }
                 final ServerRequest request = new ServerRequest(type, requestTarget);
                 String string = getServerResponse(version, identifier, request);
-                if(string == null) {
+                if(string == null || string.isEmpty()) {
                     string = WLUtilities.SERVER_EMPTY_JSON_RESPONSE;
                 }
                 return string;

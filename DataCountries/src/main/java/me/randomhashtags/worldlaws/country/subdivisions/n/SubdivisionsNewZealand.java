@@ -43,6 +43,25 @@ public enum SubdivisionsNewZealand implements SovereignStateSubdivision { // htt
     }
 
     @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            case BAY_OF_PLENTY:
+            case MANAWATU_WHANGANUI:
+            case OTAGO:
+            case TARANAKI:
+            case WAIKATO:
+                return "";
+            case CANTERBURY:
+            case NELSON:
+            case SOUTHLAND:
+            case WEST_COAST:
+                return ",_New_Zealand";
+            default:
+                return null;
+        }
+    }
+
+    @Override
     public String getISOAlpha2() {
         switch (this) {
             default: return null;

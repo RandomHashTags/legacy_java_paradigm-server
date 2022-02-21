@@ -63,8 +63,8 @@ public final class Services implements WLServer {
 
     @Override
     public long getHomeResponseUpdateInterval() {
-        registerFixedTimer(WLUtilities.SERVICES_TWITCH_CLIPS_UPDATE_INTERVAL, TwitchClips.INSTANCE::refresh);
-        return WLUtilities.SERVICES_HOME_RESPONSE_UPDATE_INTERVAL;
+        registerFixedTimer(UpdateIntervals.Services.TWITCH_CLIPS, TwitchClips.INSTANCE::refresh);
+        return UpdateIntervals.Services.HOME;
     }
 
     private String getStockMarketResponse(APIVersion version, String value) {

@@ -15,7 +15,10 @@ import org.jsoup.select.Elements;
 
 import java.time.LocalDate;
 import java.time.Month;
-import java.util.*;
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
 public final class Movies extends UpcomingEventController implements IMDbService {
@@ -81,17 +84,9 @@ public final class Movies extends UpcomingEventController implements IMDbService
                             final String title = titleElement.text();
                             final String dateString = getEventDateString(year, month, day), identifier = getEventDateIdentifier(dateString, title);
 
-                            final HashSet<String> productionCompanies = new HashSet<>(Arrays.asList(rows.get(1).text().split(" / ")));
-                            final StringBuilder builder = new StringBuilder("[");
-                            boolean isFirst = true;
-                            for(String company : productionCompanies) {
-                                builder.append(isFirst ? "" : ",").append("\"").append(company).append("\"");
-                                isFirst = false;
-                            }
-                            builder.append("]");
-
+                            final JSONArray productionCompanies = new JSONArray(Arrays.asList(rows.get(1).text().split(" / ")));
                             final HashMap<String, Object> customValues = new HashMap<>();
-                            customValues.put("productionCompanies", builder.toString());
+                            customValues.put("productionCompanies", productionCompanies);
 
                             final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(identifier, title, wikipageURL, null, null, customValues);
                             putPreUpcomingEvent(identifier, preUpcomingEvent);
@@ -216,13 +211,7 @@ public final class Movies extends UpcomingEventController implements IMDbService
                 movieImageURL = imageURL;
             }
 
-            final String productionCompany = (String) preUpcomingEvent.getCustomValue("productionCompanies");
-            final JSONArray array = new JSONArray(productionCompany);
-            final Collection<String> productionCompanies = new HashSet<>();
-            for(Object obj : array) {
-                productionCompanies.add((String) obj);
-            }
-
+            final JSONArray productionCompanies = (JSONArray) preUpcomingEvent.getCustomValue("productionCompanies");
             final MovieEvent movie = new MovieEvent(title, premiseFinal, movieImageURL, productionCompanies, releaseInfoFinal, imdbJSON, ratingsString, youtubeVideoIDs, sources);
             final String string = movie.toString();
             putUpcomingEvent(id, string);

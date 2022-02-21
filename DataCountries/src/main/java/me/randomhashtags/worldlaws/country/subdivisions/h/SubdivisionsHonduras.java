@@ -15,7 +15,7 @@ public enum SubdivisionsHonduras implements SovereignStateSubdivision { // https
     FRANCISCO_MORAZAN,
     GRACIAS_A_DIOS,
     INTIBUCA,
-    ISLAS_DE_LA_BAHIA,
+    BAY_ISLANDS,
     LA_PAZ,
     LEMPIRA,
     OCOTEPEQUE,
@@ -46,9 +46,22 @@ public enum SubdivisionsHonduras implements SovereignStateSubdivision { // https
             case FRANCISCO_MORAZAN: return "Francisco Morazán";
             case GRACIAS_A_DIOS: return "Gracias a Dios";
             case INTIBUCA: return "Intibucá";
-            case ISLAS_DE_LA_BAHIA: return "Islas de la Bahía";
+            case BAY_ISLANDS: return "Bay Islands";
             case SANTA_BARBARA: return "Santa Bárbara";
             default: return null;
+        }
+    }
+
+    @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            case COLON:
+            case LA_PAZ:
+                return suffix + "_(Honduras)";
+            case SANTA_BARBARA:
+                return suffix + ",_Honduras";
+            default:
+                return null;
         }
     }
 

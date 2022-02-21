@@ -34,6 +34,16 @@ public enum SubdivisionsChile implements SovereignStateSubdivision { // https://
     }
 
     @Override
+    public String getConditionalName() {
+        switch (this) {
+            case METROPOLITAN:
+                return "Santiago Metropolitan";
+            default:
+                return SovereignStateSubdivision.super.getConditionalName();
+        }
+    }
+
+    @Override
     public String getRealName() {
         switch (this) {
             case ARAUCANIA: return "Araucanía";

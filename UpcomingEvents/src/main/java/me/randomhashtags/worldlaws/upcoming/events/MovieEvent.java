@@ -6,14 +6,12 @@ import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-import java.util.Collection;
-
 public final class MovieEvent extends UpcomingEvent {
     private final String releaseInfo, ratings;
-    private final Collection<String> productionCompanies;
+    private final JSONArray productionCompanies;
     private final JSONObject imdbInfo;
 
-    public MovieEvent(String title, String description, String posterURL, Collection<String> productionCompanies, String releaseInfo, JSONObject imdbInfo, String ratings, JSONArray youtubeVideoIDs, EventSources sources) {
+    public MovieEvent(String title, String description, String posterURL, JSONArray productionCompanies, String releaseInfo, JSONObject imdbInfo, String ratings, JSONArray youtubeVideoIDs, EventSources sources) {
         super(title, description, posterURL, null, youtubeVideoIDs, sources);
         this.productionCompanies = productionCompanies;
         this.releaseInfo = LocalServer.fixEscapeValues(releaseInfo);
@@ -29,7 +27,8 @@ public final class MovieEvent extends UpcomingEvent {
     private String getProductionCompaniesJSON() {
         final StringBuilder builder = new StringBuilder("[");
         boolean isFirst = true;
-        for(String company : productionCompanies) {
+        for(Object obj : productionCompanies) {
+            final String company = (String) obj;
             builder.append(isFirst ? "" : ",").append("\"").append(company).append("\"");
             isFirst = false;
         }

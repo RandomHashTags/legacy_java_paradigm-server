@@ -57,6 +57,16 @@ public enum SubdivisionsHungary implements SovereignStateSubdivision { // https:
     }
 
     @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            case BUDAPEST:
+                return "";
+            default:
+                return null;
+        }
+    }
+
+    @Override
     public String getISOAlpha2() {
         switch (this) {
             default: return null;

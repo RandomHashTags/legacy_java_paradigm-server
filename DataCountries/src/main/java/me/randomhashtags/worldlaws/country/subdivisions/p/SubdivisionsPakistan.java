@@ -33,11 +33,30 @@ public enum SubdivisionsPakistan implements SovereignStateSubdivision { // https
     }
 
     @Override
+    public String getConditionalName() {
+        switch (this) {
+            case AZAD_JAMMU_AND_KASHMIR: return "Azad Kashmir";
+            default: return SovereignStateSubdivision.super.getConditionalName();
+        }
+    }
+
+    @Override
     public String getRealName() {
         switch (this) {
             case AZAD_JAMMU_AND_KASHMIR: return "Azad Jammu and Kashmir";
             case GILGIT_BALTISTAN: return "Gilgit-Baltistan";
             default: return null;
+        }
+    }
+
+    @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            case BALOCHISTAN:
+            case PUNJAB:
+                return ",_Pakistan";
+            default:
+                return "";
         }
     }
 

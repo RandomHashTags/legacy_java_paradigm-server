@@ -10,7 +10,7 @@ public enum SubdivisionsIran implements SovereignStateSubdivision { // https://e
     EAST_AZERBAIJAN,
     WEST_AZERBAIJAN,
     BUSHEHR,
-    CHAHAR_MAHAAL_AND_BAKHTIARI,
+    CHAHARMAHAL_AND_BAKHTIARI,
     FARS,
     GILAN,
     GOLESTAN,
@@ -55,6 +55,11 @@ public enum SubdivisionsIran implements SovereignStateSubdivision { // https://e
             case KOHGILUYEH_AND_BOYER_AHMAD: return "Kohgiluyeh and Boyer-Ahmad";
             default: return null;
         }
+    }
+
+    @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        return suffix.toLowerCase();
     }
 
     @Override

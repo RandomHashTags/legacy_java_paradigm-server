@@ -236,7 +236,7 @@ public enum TargetServer implements RestAPI, DataValues {
 
     public static String getPingResponse() {
         if(PING_RESPONSE == null) {
-            final long interval = WLUtilities.PROXY_PING_RESPONSE_UPDATE_INTERVAL;
+            final long interval = UpdateIntervals.Proxy.PING;
             final Timer timer = new Timer();
             timer.scheduleAtFixedRate(new TimerTask() {
                 @Override
@@ -336,7 +336,7 @@ public enum TargetServer implements RestAPI, DataValues {
     private String updateHomeResponse(APIVersion version, boolean isUpdate, RequestMethod method, HashMap<String, String> headers) {
         final long started = System.currentTimeMillis();
         if(!isUpdate) {
-            final long interval = WLUtilities.PROXY_HOME_RESPONSE_UPDATE_INTERVAL;
+            final long interval = UpdateIntervals.Proxy.HOME;
             new Timer().scheduleAtFixedRate(new TimerTask() {
                 @Override
                 public void run() {

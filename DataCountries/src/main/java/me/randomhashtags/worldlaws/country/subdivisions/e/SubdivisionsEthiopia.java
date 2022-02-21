@@ -14,7 +14,7 @@ public enum SubdivisionsEthiopia implements SovereignStateSubdivision { // https
     SIDAMA,
     SOMALI,
     SOUTH_WEST,
-    SNNPR,
+    SOUTHERN_NATIONS_NATIONALITIES_AND_PEOPLES_REGION,
     TIGRAY,
 
     ADDIS_ABABA,
@@ -42,11 +42,31 @@ public enum SubdivisionsEthiopia implements SovereignStateSubdivision { // https
     }
 
     @Override
+    public String getConditionalName() {
+        switch (this) {
+            case SOUTH_WEST: return "South West Ethiopia";
+            default: return SovereignStateSubdivision.super.getConditionalName();
+        }
+    }
+
+    @Override
     public String getRealName() {
         switch (this) {
             case BENISHANGUL_GUMUZ: return "Benishangul-Gumuz";
-            case SNNPR: return "SNNPR";
+            case SOUTHERN_NATIONS_NATIONALITIES_AND_PEOPLES_REGION: return "Southern Nations, Nationalities, and Peoples'";
             default: return null;
+        }
+    }
+
+    @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            case OROMIA:
+            case ADDIS_ABABA:
+            case DIRE_DAWA:
+                return "";
+            default:
+                return "Region";
         }
     }
 

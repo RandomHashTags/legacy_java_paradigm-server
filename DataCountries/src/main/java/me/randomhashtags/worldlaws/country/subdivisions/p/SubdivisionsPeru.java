@@ -12,7 +12,7 @@ public enum SubdivisionsPeru implements SovereignStateSubdivision { // https://e
     AYACUCHO,
     CAJAMARCA,
     CALLAO,
-    CUSCO,
+    CUZCO,
     HUANCAVELICA,
     HUANUCO,
     ICA,
@@ -39,7 +39,7 @@ public enum SubdivisionsPeru implements SovereignStateSubdivision { // https://e
 
     @Override
     public SubdivisionType getDefaultType() {
-        return SubdivisionType.REGIONS;
+        return SubdivisionType.DEPARTMENTS;
     }
 
     @Override
@@ -51,6 +51,26 @@ public enum SubdivisionsPeru implements SovereignStateSubdivision { // https://e
             case MADRE_DE_DIOS: return "Madre de Dios";
             case SAN_MARTIN: return "San Martín";
             default: return null;
+        }
+    }
+
+    @Override
+    public String getWikipediaURLPrefix() {
+        switch (this) {
+            case CALLAO:
+                return "";
+            default:
+                return "Department_of_";
+        }
+    }
+
+    @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            case AMAZONAS:
+                return ",_Peru";
+            default:
+                return "";
         }
     }
 

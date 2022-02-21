@@ -103,7 +103,9 @@ public final class PreUpcomingEvent {
         final StringBuilder builder = new StringBuilder("{");
         boolean isFirst = true;
         for(Map.Entry<String, Object> map : customValues.entrySet()) {
-            builder.append(isFirst ? "" : ",").append("\"").append(map.getKey()).append("\":").append(map.getValue().toString());
+            final Object value = map.getValue();
+            final boolean isString = value instanceof String;
+            builder.append(isFirst ? "" : ",").append("\"").append(map.getKey()).append("\":").append(isString ? "\"" : "").append(value.toString()).append(isString ? "\"" : "");
             isFirst = false;
         }
         builder.append("}");

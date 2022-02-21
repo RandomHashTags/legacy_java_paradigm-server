@@ -64,6 +64,16 @@ public enum SubdivisionsAustralia implements SovereignStateSubdivision { // http
     }
 
     @Override
+    public String getWikipediaURL() {
+        switch (this) {
+            case VICTORIA:
+                return "https://en.wikipedia.org/wiki/Victoria_(Australia)";
+            default:
+                return SovereignStateSubdivision.super.getWikipediaURL();
+        }
+    }
+
+    @Override
     public String getISOAlpha2() {
         switch (this) {
             case NEW_SOUTH_WALES: return "NSW";

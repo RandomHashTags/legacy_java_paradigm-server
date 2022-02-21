@@ -45,12 +45,32 @@ public enum SubdivisionsNicaragua implements SovereignStateSubdivision { // http
     }
 
     @Override
+    public String getConditionalName() {
+        switch (this) {
+            case NORTH_CARIBBEAN_COAST: return "North Caribbean Coast Autonomous Region";
+            case SOUTH_CARIBBEAN_COAST: return "South Caribbean Coast Autonomous Region";
+            default: return null;
+        }
+    }
+
+    @Override
     public String getRealName() {
         switch (this) {
             case ESTELI: return "Estelí";
             case LEON: return "León";
             case RIO_SAN_JUAN: return "Río San Juan";
             default: return null;
+        }
+    }
+
+    @Override
+    public String getWikipediaURLSuffix(String suffix) {
+        switch (this) {
+            case NORTH_CARIBBEAN_COAST:
+            case SOUTH_CARIBBEAN_COAST:
+                return "";
+            default:
+                return null;
         }
     }
 
