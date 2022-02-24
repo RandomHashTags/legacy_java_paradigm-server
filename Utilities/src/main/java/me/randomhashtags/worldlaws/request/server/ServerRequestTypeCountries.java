@@ -7,5 +7,6 @@ public enum ServerRequestTypeCountries implements ServerRequestType {
     FILTERS,
     INFORMATION,
     RANKED,
+    CURRENCY_EXCHANGE,
     ;
 }

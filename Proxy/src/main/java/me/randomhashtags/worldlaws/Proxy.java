@@ -7,13 +7,14 @@ import java.io.FileInputStream;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.security.KeyStore;
+import java.time.LocalDateTime;
 import java.util.Timer;
-import java.util.TimerTask;
 import java.util.concurrent.TimeUnit;
 
 public final class Proxy implements UserServer, RestAPI {
 
     private ServerSocket server;
+    private Timer timer;
 
     public static void main(String[] args) {
         new Proxy().start();
@@ -26,18 +27,19 @@ public final class Proxy implements UserServer, RestAPI {
 
     @Override
     public void start() {
-        final long internal = TimeUnit.DAYS.toMillis(Settings.Server.getServerRebootFrequencyInDays());
-        new Timer().scheduleAtFixedRate(new TimerTask() {
-            @Override
-            public void run() {
-                TargetServer.rebootServers();
-            }
-        }, internal, internal);
+        final long rebootFrequency = Settings.Server.getServerRebootFrequencyInDays();
+        final long interval = TimeUnit.DAYS.toMillis(rebootFrequency);
+        final LocalDateTime startingDate = LocalDateTime.now().plusDays(rebootFrequency)
+                .withHour(0)
+                .withMinute(0)
+                .withSecond(1);
+        timer = WLUtilities.getTimer(startingDate, interval, ServerHandler::rebootServers);
         setupServer(false);
     }
 
     @Override
     public void stop() {
+        timer.cancel();
         stopListeningForUserInput();
         try {
             server.close();

@@ -1,0 +1,98 @@
+{
+  "values": {
+    "upcoming_events": {
+      "science": {
+        "year_review_years": [
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013,
+          2012,
+          2009,
+          2008
+        ]
+      },
+      "video_games": {
+        "platforms": {
+          "Microsoft Windows": "Windows",
+          "Win": "Windows",
+          "Mac": "***REMOVED***",
+          "Lin": "Linux",
+
+          "DC": "Dreamcast",
+          "Dreamcast": "Dreamcast",
+
+          "GameCube": "GameCube",
+
+          "XBLA": "Xbox Live Arcade",
+          "X360": "Xbox 360",
+          "XBO": "Xbox One",
+          "XSX": "Xbox Series X and S",
+          "Xbox": "Xbox",
+          "Xbox 360": "Xbox 360",
+
+          "PSN": "PlayStation Network",
+          "PSVita": "PlayStation Vita",
+          "PSP": "PlayStation Portable",
+          "PlayStation": "PlayStation",
+          "PlayStation 2": "PlayStation 2",
+          "PS2": "PlayStation 2",
+          "PS3": "PlayStation 3",
+          "PS4": "PlayStation 4",
+          "PS5": "PlayStation 5",
+          "PS6": "PlayStation 6",
+          "PS7": "PlayStation 7",
+          "PS8": "PlayStation 8",
+          "PS9": "PlayStation 9",
+
+          "NS": "Nintendo Switch",
+          "3DS": "Nintendo 3DS",
+          "NDS": "Nintendo DS",
+          "Nintendo DS": "Nintendo DS",
+          "SNES": "Super Nintendo",
+          "Wii": "Wii",
+          "WiiU": "WiiU",
+
+          "Droid": "***REMOVED***",
+          "***REMOVED***": "***REMOVED***",
+          "WP": "Windows Phone",
+
+          "Stadia": "Stadia",
+
+          "Amico": "Amico"
+        },
+        "wikipedia_headline_ids": [
+          "Game_releases",
+          "Video_game_releases"
+        ]
+      }
+    },
+    "weather": {
+      "volcano_wikipedia_pages": {
+        "Ambae": "Manaro_Voui",
+        "Aira": "Aira_Caldera",
+        "Shiveluch": "Shiveluch",
+        "Sheveluch": "Sheveluch",
+        "San Cristóbal": "San_Cristobal_Volcano",
+        "Hunga Tonga Hunga Ha'apai": "Hunga_Tonga",
+        "Piton de la Fournaise": "Piton_de_la_Fournaise",
+        "Wolf": "Wolf_Volcano",
+        "Barren Island": "Barren_Island_(Andaman_Islands)",
+        "Turrialba": "Turrialba_Volcano",
+        "Ambrym": "Ambrym",
+        "Krakatau": "Krakatoa",
+        "Villarica": "Vollarrica_(volcano)",
+        "Popocatepetl": "Popocatepetl",
+        "Chikurachki": "Chikurachki",
+        "Langila": "Langila",
+        "Nevado del Ruiz": "Nevado_del_Ruiz",
+        "Dukono": "Dukono"
+      }
+    }
+  }
+}

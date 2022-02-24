@@ -14,7 +14,7 @@ public interface Jsonable {
     String USER_DIR = System.getProperty("user.dir") + File.separator;
 
     private static String getFilePath(Folder folder, String fileName, String extension) {
-        return folder.getFolderPath(fileName) + File.separator + fileName + "." + extension;
+        return folder.getFullFolderPath(fileName) + File.separator + fileName + "." + extension;
     }
     static void tryCreatingParentFolders(Path file) {
         final Path parent = file.getParent();

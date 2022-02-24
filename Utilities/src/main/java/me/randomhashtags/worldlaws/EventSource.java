@@ -9,10 +9,6 @@ public final class EventSource {
         this.siteName = parseSiteName(siteName);
         this.homepageURL = homepageURL;
     }
-    public EventSource(JSONObject json) {
-        siteName = parseSiteName(json.getString("siteName"));
-        homepageURL = json.getString("homepageURL");
-    }
 
     private String parseSiteName(String input) {
         return LocalServer.fixEscapeValues(input)

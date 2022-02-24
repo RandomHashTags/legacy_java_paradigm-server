@@ -1,0 +1,137 @@
+{
+  "update notes": [
+    ""
+  ],
+  "actions": {
+    "delete": {
+    },
+    "replace": {
+      "": {
+        "jar": [
+          "Countries",
+          "Feedback",
+          "Laws",
+          "***REMOVED***",
+          "Remote Notifications",
+          "Science",
+          "Upcoming Events",
+          "Weather"
+        ],
+        "sh": [
+          "runAllServers",
+          "runServers"
+        ]
+      },
+      "_downloaded_pages/null": {
+        "json": [
+          "settings",
+          "private values",
+          "server values"
+        ]
+      },
+      "_updates": {
+        "json": [
+          "update"
+        ]
+      },
+      "_downloaded_pages/countries": {
+        "json": [
+          "_Countries"
+        ]
+      },
+      "_downloaded_pages/countries/info": {
+        "json": [
+          "Age Structure",
+          "Blood Type Distribution",
+          "Estimated Median Age",
+          "Minimum Annual Leave",
+          "Minimum Wage"
+        ]
+      },
+      "_downloaded_pages/countries/services/availabilities": {
+        "json": [
+          "Alexa",
+          "AMC+",
+          "Apple App Store: Apps",
+          "Apple App Store: Games",
+          "Apple Arcade",
+          "Apple Card",
+          "Apple CarPlay",
+          "Apple Maps: Congestion Zones",
+          "Apple Maps: Directions",
+          "Apple Maps: Nearby",
+          "Apple Maps: Speed Cameras",
+          "Apple Maps: Speed Limits",
+          "Apple Music",
+          "Apple News+",
+          "Apple News",
+          "Apple News Audio",
+          "Apple Pay",
+          "Apple Siri",
+          "Apple TV+",
+          "Apple TV App",
+          "Apple Watch: Apple Music",
+          "Apple Watch: Apple Pay",
+          "Apple Watch: Apple Pay: In-App Payments",
+          "Apple Watch: Blood Oxygen App",
+          "Apple Watch: ECG",
+          "Apple Watch: Irregular Rhythm Notification",
+          "Apple Watch: Siri",
+          "Apple Watch: Student ID Cards",
+          "Apple Watch: Walkie Talkie",
+          "Apple: Health: Blood Glucose Highlights",
+          "Apple: Health: Download Health Records to iPhone",
+          "Apple: Health: Share Health App Data with Healthcare Providers",
+          "Apple: iCloud+",
+          "Apple: iTunes Store: Movies",
+          "Apple: iTunes Store: Music",
+          "Apple: iTunes Store: TV Shows",
+          "AT&T TV",
+          "DAZN",
+          "Discovery+",
+          "Disney+",
+          "ESPN+",
+          "Flyover",
+          "Google Assistant",
+          "Google Pay",
+          "Google Play Pass",
+          "HBO Max",
+          "Hulu",
+          "NVIDIA GeForce NOW",
+          "Paramount+",
+          "Peacock",
+          "PlayStation Now",
+          "Samsung Pay",
+          "Showtime",
+          "Spotify",
+          "Stadia",
+          "Starz",
+          "Starzplay",
+          "Tidal",
+          "Venmo",
+          "Xbox Cloud Gaming",
+          "Xbox Game Pass",
+          "Xbox Live",
+          "YouTube Premium",
+          "YouTube TV"
+        ]
+      },
+      "_downloaded_pages/countries/services/wikipedia": {
+        "json": [
+          "_National Animals",
+          "_National Trees"
+        ]
+      },
+      "_downloaded_pages/countries/values": {
+        "json": [
+          "Health Care System",
+          "Military Enlistment Age",
+          "Minimum Driving Age",
+          "Side of traffic",
+          "System of Government",
+          "Voting Age"
+        ]
+      }
+    }
+  }
+}

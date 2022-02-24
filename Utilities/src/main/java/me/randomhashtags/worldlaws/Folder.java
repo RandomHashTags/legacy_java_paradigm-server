@@ -33,6 +33,7 @@ public enum Folder {
     SERVICES_FINANCE_TWELVE_DATA_CHARTS("services" + File.separator + "finance" + File.separator + "twelveData" + File.separator + "charts"),
     SERVICES_FINANCE_YAHOO_FINANCE_CHARTS("services" + File.separator + "finance" + File.separator + "yahooFinance" + File.separator + "charts"),
 
+    DIRECTORY(""),
     DEVICE_TOKENS("device tokens"),
     ERRORS("errors" + File.separator + "%errorName%"),
     FEEDBACK_BUG_REPORTS("feedback" + File.separator + "bug reports"),
@@ -40,6 +41,8 @@ public enum Folder {
     LOGS("logs" + File.separator + "%year%" + File.separator + "%month%" + File.separator + "%day%" + File.separator + "%type%" + File.separator + "%server%"),
     OTHER(null),
     REMOTE_NOTIFICATIONS("remoteNotifications" + File.separator + "%year%" + File.separator + "%month%" + File.separator + "%day%"),
+    UPDATES("_updates"),
+    UPDATES_FILES("_updates" + File.separator + "files"),
 
     UPCOMING_EVENTS("upcoming events"),
     UPCOMING_EVENTS_IDS("upcoming events" + File.separator + "%year%" + File.separator + "%month%" + File.separator + "%day%" + File.separator + "ids" + File.separator + "%type%"),
@@ -68,13 +71,17 @@ public enum Folder {
         return folderName;
     }
     public String getFolderName(String id) {
-        return ids.get(id);
+        return id != null ? ids.get(id) : null;
     }
     public void setCustomFolderName(String id, String folderName) {
-        ids.put(id, folderName);
+        if(folderName != null) {
+            ids.put(id, folderName);
+        }
     }
     public void removeCustomFolderName(String id) {
-        ids.remove(id);
+        if(id != null) {
+            ids.remove(id);
+        }
     }
 
     private String getCurrentTargetFolderName(String id) {
@@ -90,10 +97,14 @@ public enum Folder {
         return currentFolder + folderName;
     }
 
-    public String getFolderPath(String id) {
+    public String getFullFolderPath(String id) {
         final String currentFolder = Jsonable.USER_DIR;
         final String folderName = getCurrentTargetFolderName(id);
         switch (this) {
+            case DIRECTORY:
+            case UPDATES:
+            case UPDATES_FILES:
+                return currentFolder + folderName;
             case DEVICE_TOKENS:
             case FEEDBACK_BUG_REPORTS:
             case FEEDBACK_FEATURE_REQUEST:
@@ -106,10 +117,13 @@ public enum Folder {
         }
     }
 
-    public boolean fileExists(String id) {
-        final String fileName = getCurrentFolderName(id);
-        final File file = new File(fileName);
-        return file.exists();
+    public File literalFileExists(String fileName) {
+        return literalFileExists(null, fileName);
+    }
+    public File literalFileExists(String id, String fullFileName) {
+        fullFileName = getCurrentFolderName(id) + File.separator + fullFileName;
+        final File file = new File(fullFileName);
+        return file.exists() ? file : null;
     }
 
     public HashSet<Path> getAllFilePaths(String id) {

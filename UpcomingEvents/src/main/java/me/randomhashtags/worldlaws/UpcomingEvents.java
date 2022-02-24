@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.observances.Holidays;
+import me.randomhashtags.worldlaws.past.science.ScienceYearReview;
 import me.randomhashtags.worldlaws.politics.Elections;
 import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.server.ServerRequestTypeUpcomingEvents;
@@ -21,7 +22,6 @@ import org.json.JSONObject;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
-import java.time.temporal.ChronoField;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Optional;
@@ -40,6 +40,7 @@ public final class UpcomingEvents implements WLServer {
                 new Presentations(),
                 new ProfessionalWrestling(),
                 new RocketLaunches(),
+                new ScienceYearReview(),
                 new SpaceEvents(),
                 //SpaceX.INSTANCE,
                 new TVShows(),
@@ -71,7 +72,8 @@ public final class UpcomingEvents implements WLServer {
 
     private void test() {
         final long started = System.currentTimeMillis();
-        final String string = getWeeklyEvents();
+        final ScienceYearReview science = new ScienceYearReview();
+        final String string = science.getEventsFromDates(getWeeklyEventDateStrings(LocalDate.now()));
         WLLogger.logInfo("UpcomingEvents;test;string=" + string + ";took " + WLUtilities.getElapsedTime(started));
     }
 
@@ -154,30 +156,31 @@ public final class UpcomingEvents implements WLServer {
 
     private String getWeeklyEvents() {
         if(weeklyEvents == null) {
-            weeklyEvents = refreshEventsFromThisWeek(true).toString();
+            refreshEventsFromThisWeek(true);
         }
         return weeklyEvents;
     }
-    private JSONObject refreshEventsFromThisWeek(boolean registerAutoUpdates) {
+    private void refreshEventsFromThisWeek(boolean registerAutoUpdates) {
         final long started = System.currentTimeMillis();
-        final LocalDate now = LocalDate.now();
         if(registerAutoUpdates) {
             final LocalDateTime tomorrow = LocalDateTime.now().plusDays(1)
-                    .with(ChronoField.HOUR_OF_DAY, 0)
-                    .with(ChronoField.MINUTE_OF_HOUR, 0)
-                    .with(ChronoField.SECOND_OF_MINUTE, 1)
-                    .with(ChronoField.MILLI_OF_SECOND, 0)
-                    ;
+                    .withHour(0)
+                    .withMinute(0)
+                    .withSecond(10)
+                    .withNano(0);
             registerFixedTimer(tomorrow, UpdateIntervals.UpcomingEvents.WEEKLY_EVENTS, () -> {
                 Holidays.INSTANCE.refreshNearHolidays();
                 refreshEventsFromThisWeek(false);
             });
         }
+        final LocalDate now = LocalDate.now();
         final HashSet<String> dates = getWeeklyEventDateStrings(now);
         new ParallelStream<UpcomingEventController>().stream(CONTROLLERS, UpcomingEventController::refresh);
         final JSONObject json = getEventsFromDates(dates);
+        if(json != null) {
+            weeklyEvents = json.toString();
+        }
         WLLogger.logInfo("UpcomingEvents - " + (registerAutoUpdates ? "" : "auto-") + "refreshed events from this week (took " + WLUtilities.getElapsedTime(started) + ")");
-        return json;
     }
     private String getEventStringForDate(LocalDate date) {
         return date.getMonthValue() + "-" + date.getYear() + "-" + date.getDayOfMonth();

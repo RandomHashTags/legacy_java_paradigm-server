@@ -15,7 +15,7 @@ public enum UpdateIntervals {
 
     public enum Countries {
         ;
-        public static final long NON_STATIC_VALUES = TimeUnit.DAYS.toMillis(3);
+        public static final long NON_STATIC_VALUES = TimeUnit.DAYS.toMillis(1);
     }
 
     public enum Laws {
@@ -33,7 +33,6 @@ public enum UpdateIntervals {
         ;
         public static final long HOME = TimeUnit.HOURS.toMillis(1);
         public static final long WEEKLY_EVENTS = TimeUnit.DAYS.toMillis(1);
-        public static final long TV_SHOW_SCHEDULE = TimeUnit.DAYS.toMillis(1);
     }
 
     public enum Weather {

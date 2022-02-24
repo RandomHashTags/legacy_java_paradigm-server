@@ -14,6 +14,7 @@ public enum UpcomingEventType {
 
     PRESENTATION,
 
+    SCIENCE_YEAR_REVIEW,
     SPACE_EVENT,
     //SPACE_X,
     SPACE_NEAR_EARTH_OBJECT,
@@ -93,11 +94,13 @@ public enum UpcomingEventType {
                     return 1;
                 case PRESENTATION:
                     return 2;
+                case SCIENCE_YEAR_REVIEW:
+                    return 4;
                 case SPORT_CHAMPIONSHIPS:
                 case TICKETMASTER_MUSIC_EVENT:
-                    return 4;
-                case TV_SHOW:
                     return 5;
+                case TV_SHOW:
+                    return 6;
                 default:
                     return 3;
             }
@@ -108,13 +111,15 @@ public enum UpcomingEventType {
                     return 1;
                 case PRESENTATION:
                     return 2;
+                case SCIENCE_YEAR_REVIEW:
+                    return 3;
                 case SPORT_CHAMPIONSHIPS:
                 case TICKETMASTER_MUSIC_EVENT:
-                    return 4;
-                case TV_SHOW:
                     return 5;
+                case TV_SHOW:
+                    return 6;
                 default:
-                    return 3;
+                    return 4;
             }
         }
     }
@@ -157,6 +162,7 @@ public enum UpcomingEventType {
 
                 case PRESENTATION: return "Presentation";
 
+                case SCIENCE_YEAR_REVIEW: return "Today in Science";
                 case SPACE_EVENT: return "Space Event";
                 case SPACE_NEAR_EARTH_OBJECT: return "Near Earth Object";
                 case SPACE_ROCKET_LAUNCH: return "Rocket Launch";
@@ -181,6 +187,7 @@ public enum UpcomingEventType {
 
                 case PRESENTATION: return "Presentations";
 
+                case SCIENCE_YEAR_REVIEW: return "Today in Science";
                 case SPACE_EVENT: return "Space Events";
                 case SPACE_NEAR_EARTH_OBJECT: return "Near Earth Objects";
                 case SPACE_ROCKET_LAUNCH: return "Rocket Launches";
@@ -208,6 +215,7 @@ public enum UpcomingEventType {
 
                 case PRESENTATION: return "%title% is happening today!";
 
+                case SCIENCE_YEAR_REVIEW: return "See what happened today in the past with Today in Science!";
                 case SPACE_EVENT: return "%title% is scheduled today!";
                 case SPACE_NEAR_EARTH_OBJECT: return "A near earth object is close by!";
                 case SPACE_ROCKET_LAUNCH: return "%title% is scheduled to take off today!";
@@ -232,6 +240,7 @@ public enum UpcomingEventType {
 
                 case PRESENTATION: return "%title% are happening today!";
 
+                case SCIENCE_YEAR_REVIEW: return "See what happened today in the past with Today in Science!";
                 case SPACE_EVENT: return "%title% are scheduled today!";
                 case SPACE_NEAR_EARTH_OBJECT: return "Near earth objects are close by!";
                 case SPACE_ROCKET_LAUNCH: return "%title% are scheduled to take off today!";

@@ -5,6 +5,7 @@ import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.PreUpcomingEvent;
 import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.VideoGameEvent;
@@ -45,11 +46,12 @@ public final class VideoGames extends UpcomingEventController {
             final Elements headlines = table.select("h2");
             final List<Element> elementList = new ArrayList<>();
             boolean foundReleases = false;
+            final List<String> headlineIDs = Settings.ServerValues.UpcomingEvents.getVideoGameWikipediaHeadlineIDs();
             for(Element element : table) {
                 final Element headline = element.selectFirst("h2 span.mw-headline");
                 if(headlines.contains(element) && headline != null) {
                     final String id = headline.attr("id");
-                    foundReleases = id.equals("Game_releases") || id.equals("Video_game_releases");
+                    foundReleases = headlineIDs.contains(id);
                 } else if(foundReleases) {
                     elementList.add(element);
                 }
@@ -65,7 +67,7 @@ public final class VideoGames extends UpcomingEventController {
         boolean isMonth = false, foundStartingMonth = false;
         Month month = null;
         int day = 0;
-        final HashMap<String, String> platforms = getPlatforms();
+        final HashMap<String, String> platforms = Settings.ServerValues.UpcomingEvents.getVideoGamePlatforms();
         outer : for(Element element : array) {
             if(months.contains(element)) {
                 isMonth = true;
@@ -137,46 +139,6 @@ public final class VideoGames extends UpcomingEventController {
                 }
             }
         }
-    }
-    private HashMap<String, String> getPlatforms() {
-        return new HashMap<>() {{
-            put("Win", "Windows");
-            put("Mac", "***REMOVED***");
-            put("Lin", "Linux");
-
-            put("DC", "Dreamcast");
-
-            put("XBLA", "Xbox Live Arcade");
-            put("X360", "Xbox 360");
-            put("XBO", "Xbox One");
-            put("XSX", "Xbox Series X and S");
-
-            put("PSN", "PlayStation Network");
-            put("PSVita", "PlayStation Vita");
-            put("PSP", "PlayStation Portable");
-            put("PS4", "PlayStation 4");
-            put("PS5", "PlayStation 5");
-            put("PS6", "PlayStation 6");
-            put("PS7", "PlayStation 7");
-            put("PS8", "PlayStation 8");
-            put("PS9", "PlayStation 9");
-
-            put("NS", "Nintendo Switch");
-            put("3DS", "Nintendo 3DS");
-            put("NDS", "Nintendo DS");
-            put("SNES", "Super Nintendo");
-
-            put("Droid", "***REMOVED***");
-            put("***REMOVED***", "***REMOVED***");
-            put("WP", "Windows Phone");
-
-            put("Stadia", "Stadia");
-
-            put("Wii", "Wii");
-            put("WiiU", "WiiU");
-
-            put("Amico", "Amico");
-        }};
     }
 
     private void addExternalLinks(Document doc, EventSources sources) {

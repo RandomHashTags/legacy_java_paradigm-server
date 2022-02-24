@@ -3,20 +3,57 @@ package me.randomhashtags.worldlaws.settings;
 import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.Jsonable;
 import me.randomhashtags.worldlaws.TargetServer;
+import org.json.JSONArray;
 import org.json.JSONObject;
 
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
 import java.util.UUID;
 
 public enum Settings {
     ;
 
-    private static JSONObject JSON = refresh();
-    public static JSONObject refresh() {
-        JSON = Jsonable.getStaticLocalFileJSONObject(Folder.OTHER, "settings");
-        if(JSON == null) {
-            JSON = new JSONObject();
+    private static JSONObject SETTINGS_JSON = refreshSettings();
+    private static JSONObject PRIVATE_VALUES_JSON = refreshPrivateValues();
+    private static JSONObject SERVER_VALUES_JSON = refreshServerValues();
+
+    public static void refresh() {
+        refreshSettings();
+        refreshPrivateValues();
+        refreshServerValues();
+    }
+    private static JSONObject refreshSettings() {
+        SETTINGS_JSON = Jsonable.getStaticLocalFileJSONObject(Folder.OTHER, "settings");
+        if(SETTINGS_JSON == null) {
+            SETTINGS_JSON = new JSONObject();
         }
-        return JSON;
+        return SETTINGS_JSON;
+    }
+    public static JSONObject getSettingsJSON() {
+        return SETTINGS_JSON;
+    }
+
+    private static JSONObject refreshPrivateValues() {
+        PRIVATE_VALUES_JSON = Jsonable.getStaticLocalFileJSONObject(Folder.OTHER, "private values");
+        if(PRIVATE_VALUES_JSON == null) {
+            PRIVATE_VALUES_JSON = new JSONObject();
+        }
+        return PRIVATE_VALUES_JSON;
+    }
+    public static JSONObject getPrivateValuesJSON() {
+        return PRIVATE_VALUES_JSON;
+    }
+
+    private static JSONObject refreshServerValues() {
+        SERVER_VALUES_JSON = Jsonable.getStaticLocalFileJSONObject(Folder.OTHER, "server values");
+        if(SERVER_VALUES_JSON == null) {
+            SERVER_VALUES_JSON = new JSONObject();
+        }
+        return SERVER_VALUES_JSON;
+    }
+    public static JSONObject getServerValuesJSON() {
+        return SERVER_VALUES_JSON;
     }
 
     private static Object getOrDefault(JSONObject json, String key, Object defaultValue) {
@@ -39,7 +76,7 @@ public enum Settings {
         ;
 
         private static JSONObject getPerformanceJSON() {
-            return getOrDefaultJSONObject(JSON, "performance", new JSONObject());
+            return getOrDefaultJSONObject(SETTINGS_JSON, "performance", new JSONObject());
         }
         public static int getMaximumParallelThreads() {
             return getOrDefaultInt(getPerformanceJSON(), "maximum_parallel_threads", 25);
@@ -50,7 +87,7 @@ public enum Settings {
         ;
 
         private static JSONObject getServersJSON() {
-            return getOrDefaultJSONObject(JSON, "server", new JSONObject());
+            return getOrDefaultJSONObject(SETTINGS_JSON, "server", new JSONObject());
         }
         private static JSONObject getServerJSON(TargetServer server) {
             return getOrDefaultJSONObject(getServersJSON(), server.getBackendID(), new JSONObject());
@@ -59,10 +96,13 @@ public enum Settings {
             return getOrDefaultString(getServersJSON(), "uuid", "***REMOVED***");
         }
         public static String getRunServersCommand() {
-            return getOrDefaultString(getServersJSON(), "runServersCommand", "bash runServers.sh");
+            final JSONObject json = getOrDefaultJSONObject(getServersJSON(), "runServersCommand", new JSONObject());
+            final String configuration = getOrDefaultString(json, "configuration", "manjaro");
+            final JSONObject configurations = getOrDefaultJSONObject(json, "configurations", new JSONObject());
+            return getOrDefaultString(configurations, configuration, "bash runServers.sh");
         }
         public static int getServerRebootFrequencyInDays() {
-            return getOrDefaultInt(getServersJSON(), "serverRebootFrequencyInDays", 7);
+            return getOrDefaultInt(getServersJSON(), "serverRebootFrequencyInDays", 3);
         }
         public static int getProxyPort() {
             return getOrDefaultInt(getServersJSON(), "proxy_port", 0);
@@ -89,7 +129,7 @@ public enum Settings {
         ;
 
         private static JSONObject getPrivateValuesJSON() {
-            return getOrDefaultJSONObject(JSON, "private_values", new JSONObject());
+            return getOrDefaultJSONObject(PRIVATE_VALUES_JSON, "values", new JSONObject());
         }
         private static JSONObject getPrivateValuesJSON(String key) {
             return getOrDefaultJSONObject(getPrivateValuesJSON(), key, new JSONObject());
@@ -204,6 +244,75 @@ public enum Settings {
             }
             public static String getKeyValue() {
                 return getOrDefaultString(getPrivateValuesYouTube(), "key_value", null);
+            }
+        }
+    }
+
+    public enum ServerValues {
+        ;
+
+        private static JSONObject getServerValuesJSON() {
+            return getOrDefaultJSONObject(SERVER_VALUES_JSON, "values", new JSONObject());
+        }
+        private static JSONObject getServerValuesJSON(TargetServer server) {
+            final String key = server.name().toLowerCase();
+            return getOrDefaultJSONObject(getServerValuesJSON(), key, new JSONObject());
+        }
+        private static List<Integer> getListInteger(JSONArray array) {
+            final List<Integer> list = new ArrayList<>();
+            for(Object obj : array) {
+                list.add((Integer) obj);
+            }
+            return list;
+        }
+        private static List<String> getListString(JSONArray array) {
+            final List<String> list = new ArrayList<>();
+            for(Object obj : array) {
+                list.add((String) obj);
+            }
+            return list;
+        }
+        private static HashMap<String, String> getMap(JSONObject json) {
+            final HashMap<String, String> map = new HashMap<>();
+            for(String key : json.keySet()) {
+                map.put(key, json.getString(key));
+            }
+            return map;
+        }
+
+        public enum UpcomingEvents {
+            ;
+
+            private static JSONObject getUpcomingEventsJSON() {
+                return getServerValuesJSON(TargetServer.UPCOMING_EVENTS);
+            }
+            private static JSONObject getScienceJSON() {
+                return getUpcomingEventsJSON().getJSONObject("science");
+            }
+            private static JSONObject getVideoGamesJSON() {
+                return getUpcomingEventsJSON().getJSONObject("video_games");
+            }
+
+            public static List<Integer> getScienceYearReviewYears() {
+                final JSONArray array = getScienceJSON().getJSONArray("year_review_years");
+                return getListInteger(array);
+            }
+            public static List<String> getVideoGameWikipediaHeadlineIDs() {
+                final JSONArray array = getVideoGamesJSON().getJSONArray("wikipedia_headline_ids");
+                return getListString(array);
+            }
+            public static HashMap<String, String> getVideoGamePlatforms() {
+                final JSONObject json = getVideoGamesJSON().getJSONObject("platforms");
+                return getMap(json);
+            }
+        }
+
+        public enum Weather {
+            ;
+
+            public static HashMap<String, String> getVolcanoWikipediaPages() {
+                final JSONObject json = getServerValuesJSON(TargetServer.WEATHER).getJSONObject("volcano_wikipedia_pages");
+                return getMap(json);
             }
         }
     }

@@ -17,7 +17,7 @@ public interface Jsoupable {
     }
     static Document getLocalDocument(Folder folder, String url) {
         if(folder != Folder.OTHER) {
-            final String folderPath = folder.getFolderPath(url);
+            final String folderPath = folder.getFullFolderPath(url);
             final String directory = folderPath + File.separator + fixURL(url) + ".txt";
             final Path path = Paths.get(directory);
             Jsonable.tryCreatingParentFolders(path);
@@ -35,7 +35,7 @@ public interface Jsoupable {
     }
     private static void createDocument(Folder folder, String fileName, String html) {
         final String fileSeparator = File.separator;
-        final String folderPath = folder.getFolderPath(fileName);
+        final String folderPath = folder.getFullFolderPath(fileName);
         final String directory = folderPath + fileSeparator + fixURL(fileName) + ".txt";
         final Path path = Paths.get(directory);
         if(!Files.exists(path)) {

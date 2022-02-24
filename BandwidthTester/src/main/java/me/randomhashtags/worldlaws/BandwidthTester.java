@@ -9,27 +9,7 @@ public final class BandwidthTester implements UserServer, RestAPI {
 
     private static final Random RANDOM = new Random();
     private static final List<String> REQUESTS = Arrays.asList(
-            "ping",
-            "home",
-            "home?q=countries",
-
-            "countries/home",
-            "countries/filters",
-            "countries/countries",
-            "countries/information/unitedstates",
-            "countries/information/mexico",
-            "countries/information/japan",
-
-            "weather/alerts/all",
-            "weather/alerts/country/unitedstates",
-            "weather/alerts/subdivision/unitedstates/minnesota",
-            "weather/earthquakes/recent",
-
-            "upcomingevents/home",
-            "upcomingevents/event_types",
-            "upcomingevents/holidays/all",
-            "upcomingevents/holidays/all/unitedstates",
-            "upcomingevents/holidays/near"
+            "home"
     );
 
     public static void main(String[] args) {
@@ -37,7 +17,7 @@ public final class BandwidthTester implements UserServer, RestAPI {
     }
 
     private BandwidthTester() {
-        listenForUserInput();
+        INPUT_SCANNERS.put(this, new Scanner(System.in));
         WLLogger.logInfo("How many requests per second should I simulate? (enter an integer value)");
         final int amount = Integer.parseInt(getUserInput());
         simulateRequestsPerSecond(amount);

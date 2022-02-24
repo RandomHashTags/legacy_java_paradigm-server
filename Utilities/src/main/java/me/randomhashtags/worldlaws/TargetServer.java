@@ -45,31 +45,6 @@ public enum TargetServer implements RestAPI, DataValues {
         }
     }
 
-    public static void shutdownServers() {
-        final String uuid = Settings.Server.getUUID();
-        new ParallelStream<TargetServer>().stream(Arrays.asList(values()), server -> {
-            if(server.isRealServer()) {
-                server.handleResponse(APIVersion.v1, uuid, RequestMethod.GET, "stop", null);
-            }
-        });
-    }
-    public static void spinUpServers() {
-        final String command = Settings.Server.getRunServersCommand();
-        WLUtilities.executeCommand(command);
-    }
-    public static void rebootServers() {
-        setMaintenanceMode(true, "Servers are rebooting, and should be back up in a few minutes :)");
-        shutdownServers();
-        Settings.refresh();
-        spinUpServers();
-        try {
-            Thread.sleep(20*1000);
-        } catch (Exception e) {
-            WLUtilities.saveException(e);
-        }
-        final String string = TargetServer.HOME.updateHomeResponse();
-        TargetServer.setMaintenanceMode(false, null);
-    }
     public static boolean isMaintenanceMode() {
         return MAINTENANCE_MODE;
     }
@@ -128,7 +103,9 @@ public enum TargetServer implements RestAPI, DataValues {
             case WEATHER: return 0;
             case PREMIUM: return 0;
             case REMOTE_NOTIFICATIONS: return 0;
-            default: return -1;
+            default:
+                WLLogger.logError("TargetServer", "failed to get default port for server \"" + name() + "\"!");
+                return -1;
         }
     }
     private void updateAddressDetails() {
@@ -166,9 +143,6 @@ public enum TargetServer implements RestAPI, DataValues {
     public String getName() {
         return LocalServer.toCorrectCapitalization(name()).replace(" ", "");
     }
-    public String getNameLowercase() {
-        return name().toLowerCase();
-    }
     public APIVersion getAPIVersion() {
         if(apiVersion == null) {
             apiVersion = APIVersion.valueOfVersion(Settings.Server.getAPIVersion(this));
@@ -188,7 +162,7 @@ public enum TargetServer implements RestAPI, DataValues {
     private String tryHandlingResponse(APIVersion version, String identifier, RequestMethod method, String request, HashSet<String> query) {
         return MAINTENANCE_MODE ? null : handleResponse(version, identifier, method, request, query);
     }
-    private String handleResponse(APIVersion version, String identifier, RequestMethod method, String request, HashSet<String> query) {
+    public String handleResponse(APIVersion version, String identifier, RequestMethod method, String request, HashSet<String> query) {
         final HashMap<String, String> headers = new HashMap<>();
         headers.put("Content-Type", "application/json");
         headers.put("Charset", DataValues.ENCODING.name());
@@ -325,7 +299,7 @@ public enum TargetServer implements RestAPI, DataValues {
         return json.toString();
     }
 
-    private String updateHomeResponse() {
+    public String updateHomeResponse() {
         final APIVersion version = APIVersion.getLatest();
         final HashMap<String, String> headers = new HashMap<>();
         headers.put("Content-Type", "application/json");

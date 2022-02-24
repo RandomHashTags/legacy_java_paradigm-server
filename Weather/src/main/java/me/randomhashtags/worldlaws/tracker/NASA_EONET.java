@@ -6,6 +6,7 @@ import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.country.WLSubdivisions;
 import me.randomhashtags.worldlaws.country.subdivisions.u.SubdivisionsUnitedStates;
+import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.stream.ParallelStream;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -44,7 +45,7 @@ public enum NASA_EONET implements WLService {
     public void refresh(APIVersion version) {
         final long started = System.currentTimeMillis();
         final String wikipediaPrefix = "https://en.wikipedia.org/wiki/";
-        final HashMap<String, String> volcanoWikipediaPages = getVolcanoWikipediaPages();
+        final HashMap<String, String> volcanoWikipediaPages = Settings.ServerValues.Weather.getVolcanoWikipediaPages();
         final ConcurrentHashMap<String, HashSet<String>> homeValues = new ConcurrentHashMap<>();
         final String url = "https://eonet.sci.gsfc.nasa.gov/api/v3/events?status=open&days=30";
         final JSONObject json = requestJSONObject(url, RequestMethod.GET, CONTENT_HEADERS);
@@ -174,25 +175,6 @@ public enum NASA_EONET implements WLService {
             cache.put(version, string);
         }
         WLLogger.logInfo("NASA_EONET - loaded " + amount + " events (took " + WLUtilities.getElapsedTime(started) + ")");
-    }
-    private HashMap<String, String> getVolcanoWikipediaPages() {
-        return new HashMap<>() {{
-            put("Ambae", "Manaro_Voui");
-            put("Aira", "Aira_Caldera");
-            put("Shiveluch", "Shiveluch");
-            put("Sheveluch", "Shiveluch");
-            put("San Cristóbal", "San_Cristobal_Volcano");
-            put("Hunga Tonga Hunga Ha'apai", "Hunga_Tonga");
-            put("Piton de la Fournaise", "Piton_de_la_Fournaise");
-            put("Wolf", "Wolf_Volcano");
-            put("Barren Island", "Barren_Island_(Andaman_Islands)");
-            put("Turrialba", "Turrialba_Volcano");
-            put("Ambrym", "Ambrym");
-            put("Krakatau", "Krakatoa");
-            put("Villarica", "Vollarrica_(volcano)");
-            put("Popocatepetl", "Popocatepetl");
-            put("Chikurachki", "Chikurachki");
-        }};
     }
     private String getLatestVolcanoDescription(String url) {
         final String id = url.split("=")[1];

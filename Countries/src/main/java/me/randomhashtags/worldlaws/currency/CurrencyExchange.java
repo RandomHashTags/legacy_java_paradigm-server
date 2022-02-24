@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws.currency;
 import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.Jsoupable;
 import me.randomhashtags.worldlaws.country.WLCurrency;
+import me.randomhashtags.worldlaws.request.ServerRequest;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
 
@@ -17,6 +18,16 @@ public enum CurrencyExchange {
         for(WLCurrency currency : WLCurrency.values()) {
             EXCHANGE_RATES.put(currency, new HashMap<>());
         }
+    }
+
+    public static String getResponse(ServerRequest request) {
+        final HashMap<String, String> query = request.getQuery();
+        if(query != null && query.containsKey("from") && query.containsKey("to")) {
+            final String from = query.get("from"), to = query.get("to");
+            final WLCurrency fromCurrency = WLCurrency.valueOf(from), toCurrency = WLCurrency.valueOf(to);
+            final double value = get(fromCurrency, toCurrency);
+        }
+        return null;
     }
 
     public static double get(WLCurrency from, WLCurrency to) {
@@ -45,5 +56,9 @@ public enum CurrencyExchange {
             EXCHANGE_RATES.get(to).put(from, fromValue);
         }
         return value;
+    }
+
+    public static void clear() {
+        EXCHANGE_RATES.clear();
     }
 }

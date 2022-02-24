@@ -37,7 +37,7 @@ public enum ResponseVersions {
             case MUSIC_ARTISTS:
                 return 1;
             case UPCOMING_EVENT_TYPES:
-                return 4;
+                return 5;
 
             case AVAILABILITIES:
                 return 1;

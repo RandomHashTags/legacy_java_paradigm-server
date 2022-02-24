@@ -1,4 +1,4 @@
-package me.randomhashtags.worldlaws.service.yearReview;
+package me.randomhashtags.worldlaws.past.science;
 
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.LocalServer;

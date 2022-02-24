@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
+import me.randomhashtags.worldlaws.currency.CurrencyExchange;
 import me.randomhashtags.worldlaws.info.CountryInfoKeys;
 import me.randomhashtags.worldlaws.info.CountryValues;
 import me.randomhashtags.worldlaws.info.agriculture.ProductionFoods;
@@ -57,7 +58,8 @@ public final class Countries implements WLServer {
     }
 
     private void test() {
-        final String string = WLUtilities.getElapsedTime(System.currentTimeMillis());
+        loadServices();
+        final String string = loadCountries();
         WLLogger.logInfo("Countries;test;string=" + string);
     }
 
@@ -240,6 +242,8 @@ public final class Countries implements WLServer {
         switch (type) {
             case COUNTRIES:
                 return getCountries(version);
+            case CURRENCY_EXCHANGE:
+                return CurrencyExchange.getResponse(request);
             case FILTERS:
                 return getFilters(version);
             case RANKED:

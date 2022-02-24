@@ -1,0 +1,36 @@
+{
+  "values": {
+    "apple": {
+      "production_mode": false,
+      "verify_subscription_shared_secret": "***REMOVED***",
+      "remote_notifications_encryption_key_id": "***REMOVED***",
+      "remote_notifications_issuer_key": "***REMOVED***"
+    },
+    "google": {
+      "civic_api_key": "***REMOVED***"
+    },
+    "nasa": {
+      "api_key": "***REMOVED***"
+    },
+    "ticketmaster": {
+      "api_key": "***REMOVED***"
+    },
+    "twelve_data":{
+      "api_key": "***REMOVED***"
+    },
+    "twitch": {
+      "request_limit": 100,
+      "client_id": "***REMOVED***",
+      "access_token": "***REMOVED***"
+    },
+    "yahoo_finance": {
+      "rapid_api_key": "***REMOVED***"
+    },
+    "youtube": {
+      "request_limit": 49,
+      "key": "***REMOVED***",
+      "key_identifier": "***REMOVED***",
+      "key_value": "***REMOVED***"
+    }
+  }
+}

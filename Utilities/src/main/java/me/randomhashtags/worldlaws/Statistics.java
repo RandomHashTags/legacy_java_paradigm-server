@@ -42,25 +42,24 @@ public enum Statistics implements Jsonable, QuotaHandler {
         }
 
         final JSONObject uniqueJSON = json.has("unique") ? json.getJSONObject("unique") : new JSONObject();
-        final JSONObject uniqueServerValuesJSON = uniqueJSON.has(serverName) ? uniqueJSON.getJSONObject(serverName) : new JSONObject();
         int totalUniqueRequests = 0;
         for(Map.Entry<String, HashSet<String>> value : uniqueRequests.entrySet()) {
             final String identifier = value.getKey();
             final HashSet<String> requestsMadeByIdentifier = value.getValue();
             final String[] strings = identifier.split("/");
             final String version = strings[0], request = identifier.substring(version.length()+1);
-            final JSONObject versionJSON = uniqueServerValuesJSON.has(version) ? uniqueServerValuesJSON.getJSONObject(version) : new JSONObject();
+            if(!uniqueJSON.has(version)) {
+                uniqueJSON.put(version, new JSONObject());
+            }
+            final JSONObject versionJSON = uniqueJSON.getJSONObject(version);
             final int existingIdentifiers = versionJSON.has(request) ? versionJSON.getInt(request) : 0;
             final int amount = existingIdentifiers + requestsMadeByIdentifier.size();
             totalUniqueRequests += amount;
             versionJSON.put(request, amount);
-            uniqueServerValuesJSON.put(version, versionJSON);
         }
-        uniqueJSON.put(serverName, uniqueServerValuesJSON);
         json.put("unique", uniqueJSON);
 
         final JSONObject totalJSON = json.has("total") ? json.getJSONObject("total") : new JSONObject();
-        final JSONObject totalServerValuesJSON = totalJSON.has(serverName) ? totalJSON.getJSONObject(serverName) : new JSONObject();
         if(totalJSON.has("uniqueIdentifiers")) {
             final JSONArray array = totalJSON.getJSONArray("uniqueIdentifiers");
             final List<Object> list = array.toList();
@@ -72,12 +71,11 @@ public enum Statistics implements Jsonable, QuotaHandler {
         int totalTotalRequests = 0;
         for(Map.Entry<String, Integer> value : totalRequests.entrySet()) {
             final String request = value.getKey();
-            final int existingRequests = totalServerValuesJSON.has(request) ? totalServerValuesJSON.getInt(request) : 0;
+            final int existingRequests = totalJSON.has(request) ? totalJSON.getInt(request) : 0;
             final int total = existingRequests + value.getValue();
             totalTotalRequests += total;
-            totalServerValuesJSON.put(request, total);
+            totalJSON.put(request, total);
         }
-        totalJSON.put(serverName, totalServerValuesJSON);
         json.put("total", totalJSON);
 
         json.put("_totalRequests", totalTotalRequests);
@@ -103,7 +101,7 @@ public enum Statistics implements Jsonable, QuotaHandler {
                         final Set<String> set = requestsJSON.keySet();
                         set.removeIf(string -> string.equals("home"));
                         for(String request : set) {
-                            final int requests = requestsJSON.getJSONObject(request).getInt("requests");
+                            final int requests = requestsJSON.getInt(request);
                             trendingRequestsList.add(new TrendingRequest(request, requests));
                         }
                         trendingRequestsList.sort(Comparator.comparingInt(request -> request.requests));

@@ -2,11 +2,13 @@ package me.randomhashtags.worldlaws.upcoming;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.past.science.ScienceYearReview;
 import me.randomhashtags.worldlaws.service.YouTubeService;
 import me.randomhashtags.worldlaws.stream.ParallelStream;
 import me.randomhashtags.worldlaws.upcoming.entertainment.TVShows;
 import org.json.JSONObject;
 
+import java.io.File;
 import java.time.LocalDate;
 import java.time.Month;
 import java.util.HashSet;
@@ -70,9 +72,8 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
             final String dateString = id.split("\\.")[0];
             return !dates.contains(dateString);
         });
-        String stringValue = null;
+        final ConcurrentHashMap<String, HashSet<String>> map = new ConcurrentHashMap<>();
         if(set.size() > 0) {
-            final ConcurrentHashMap<String, HashSet<String>> map = new ConcurrentHashMap<>();
             new ParallelStream<String>().stream(set, identifier -> {
                 final String string = getLoadedPreUpcomingEvent(identifier);
                 if(string != null) {
@@ -81,24 +82,31 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
                     map.get(dateString).add(string);
                 }
             });
-
-            if(!map.isEmpty()) {
-                final StringBuilder builder = new StringBuilder("{");
-                boolean isFirstDateString = true;
-                for(Map.Entry<String, HashSet<String>> entry : map.entrySet()) {
-                    builder.append(isFirstDateString ? "" : ",").append("\"").append(entry.getKey()).append("\":{");
-                    final HashSet<String> events = entry.getValue();
-                    boolean isFirst = true;
-                    for(String event : events) {
-                        builder.append(isFirst ? "" : ",").append(event);
-                        isFirst = false;
-                    }
-                    builder.append("}");
-                    isFirstDateString = false;
+        } else if(!loadedPreUpcomingEvents.isEmpty()) {
+            new ParallelStream<String>().stream(loadedPreUpcomingEvents.keySet(), identifier -> {
+                final String string = loadedPreUpcomingEvents.get(identifier);
+                final String dateString = identifier.split("\\.")[0];
+                map.putIfAbsent(dateString, new HashSet<>());
+                map.get(dateString).add(string);
+            });
+        }
+        String stringValue = null;
+        if(!map.isEmpty()) {
+            final StringBuilder builder = new StringBuilder("{");
+            boolean isFirstDateString = true;
+            for(Map.Entry<String, HashSet<String>> entry : map.entrySet()) {
+                builder.append(isFirstDateString ? "" : ",").append("\"").append(entry.getKey()).append("\":{");
+                final HashSet<String> events = entry.getValue();
+                boolean isFirst = true;
+                for(String event : events) {
+                    builder.append(isFirst ? "" : ",").append(event);
+                    isFirst = false;
                 }
                 builder.append("}");
-                stringValue = builder.toString();
+                isFirstDateString = false;
             }
+            builder.append("}");
+            stringValue = builder.toString();
         }
         return stringValue;
     }
@@ -111,7 +119,8 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
     public void saveUpcomingEventToJSON(String id, String json) {
         final Folder folder = Folder.UPCOMING_EVENTS_IDS;
         final String fileName = getUpcomingEventFileName(folder, id);
-        if(!folder.fileExists(fileName)) {
+        final File file = folder.literalFileExists(fileName, fileName + ".json");
+        if(file == null) {
             setFileJSON(folder, fileName, json);
         }
     }
@@ -191,7 +200,7 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
     }
 
     public void putUpcomingEvent(String identifier, String value) {
-        if(this instanceof TVShows) {
+        if(this instanceof TVShows || this instanceof ScienceYearReview) {
         } else {
             final String todayDateString = EventDate.getDateString(LocalDate.now()) + ".";
             if(identifier.startsWith(todayDateString)) {

@@ -32,6 +32,7 @@ public final class ParallelStream<T> {
             @SuppressWarnings({ "unchecked" })
             final Consumer<Object> bruh = (Consumer<Object>) test;
             pool.submit(() -> StreamSupport.stream(items, true).forEach(bruh)).get();
+            pool.shutdown();
         } catch (Exception e) {
             WLUtilities.saveException(e);
         }

@@ -129,6 +129,7 @@ public enum WeatherUSA implements WeatherController {
             WLLogger.logInfo("WeatherUSA - loading" + suffix + "...");
             for(String identifier : officeIDs) {
                 getForecastOffice(identifier);
+                // to prevent spam
                 try {
                     Thread.sleep(500);
                 } catch (InterruptedException e) {

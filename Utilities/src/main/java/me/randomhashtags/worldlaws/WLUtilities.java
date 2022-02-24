@@ -13,10 +13,10 @@ import java.net.URLConnection;
 import java.security.SecureRandom;
 import java.security.cert.CertificateException;
 import java.security.cert.X509Certificate;
-import java.time.Clock;
-import java.time.LocalDate;
-import java.time.LocalDateTime;
-import java.time.Month;
+import java.time.*;
+import java.util.Date;
+import java.util.Timer;
+import java.util.TimerTask;
 
 public abstract class WLUtilities {
     public static final String SERVER_EMPTY_JSON_RESPONSE = "{}";
@@ -85,6 +85,26 @@ public abstract class WLUtilities {
         }
     }
 
+    public static Timer getTimer(LocalDateTime startingDate, long interval, Runnable runnable) {
+        final Timer timer = new Timer();
+        final TimerTask timerTask = new TimerTask() {
+            @Override
+            public void run() {
+                if(runnable != null) {
+                    runnable.run();
+                }
+            }
+        };
+        if(startingDate == null) {
+            timer.scheduleAtFixedRate(timerTask, interval, interval);
+        } else {
+            final long targetTime = startingDate.atZone(ZoneId.systemDefault()).toEpochSecond() * 1000;
+            final Date targetDate = new Date(targetTime);
+            timer.scheduleAtFixedRate(timerTask, targetDate, interval);
+        }
+        return timer;
+    }
+
     public static void executeCommand(String command) {
         try {
             final Runtime runtime = Runtime.getRuntime();
@@ -105,7 +125,7 @@ public abstract class WLUtilities {
     }
 
     public static Month valueOfMonthFromInput(String input) {
-        if(input.length() <= 3) {
+        if(input.length() < 3) {
             return null;
         }
         input = input.toLowerCase().substring(0, 3);

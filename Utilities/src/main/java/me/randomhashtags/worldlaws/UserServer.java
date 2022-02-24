@@ -40,26 +40,21 @@ public interface UserServer {
                 return;
             case "shutdown":
                 long started = System.currentTimeMillis();
-                TargetServer.shutdownServers();
+                ServerHandler.shutdownServers();
                 WLLogger.logInfo("UserServer - shutdown Paradigm Servers (took " + WLUtilities.getElapsedTime(started) + ")");
                 break;
             case "spinup":
                 started = System.currentTimeMillis();
-                TargetServer.spinUpServers();
+                ServerHandler.spinUpServers();
                 WLLogger.logInfo("UserServer - spun up Paradigm Servers (took " + WLUtilities.getElapsedTime(started) + ")");
                 break;
             case "reboot":
             case "restart":
-                TargetServer.rebootServers();
+                ServerHandler.rebootServers();
                 return;
-            case "beginmaintenance":
-            case "startmaintenance":
-                TargetServer.setMaintenanceMode(true, input.substring(key.length()+1));
-                break;
-            case "endmaintenance":
-            case "stopmaintenance":
-                TargetServer.setMaintenanceMode(false, null);
-                break;
+            case "update":
+                ServerHandler.tryUpdatingServersIfAvailable();
+                return;
             case "execute":
                 WLUtilities.executeCommand(input.substring(key.length()+1));
                 break;
