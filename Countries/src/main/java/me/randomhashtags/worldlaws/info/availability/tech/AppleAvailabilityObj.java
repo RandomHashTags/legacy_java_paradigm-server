@@ -105,7 +105,7 @@ public final class AppleAvailabilityObj implements AppleFeatureAvailability {
             case AVAILABILITY_APPLE_WATCH_OS_WALKIE_TALKIE:
                 return "branded-" + infoName.substring("apple-watch-os-".length());
             case AVAILABILITY_APPLE_WATCH_OS_IRREGULAR_RHYTHM_NOTIFICATION:
-                return "branded-atrail-fib";
+                return "branded-atrial-fib";
             default:
                 return infoName.replace("-ios-", "-");
         }

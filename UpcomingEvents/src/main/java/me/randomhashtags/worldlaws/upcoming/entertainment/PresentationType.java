@@ -192,7 +192,9 @@ public enum PresentationType implements Jsoupable {
 
                 final List<EventDate> dates = parseDatesFrom(year, values[0]);
                 if(!dates.isEmpty()) {
-                    final String presenters = LocalServer.removeWikipediaReferences(tds.get(hasLocation ? 4 : 3).text()), notes = LocalServer.removeWikipediaReferences(tds.get(hasLocation ? 5 : 4).text());
+                    final int maxElement = tds.size();
+                    final Element presentersElement = tds.get(maxElement-2), notesElement = tds.get(maxElement-1);
+                    final String presenters = LocalServer.removeWikipediaReferences(presentersElement.text()), notes = LocalServer.removeWikipediaReferences(notesElement.text());
                     final EventDate lastDate = dates.get(dates.size()-1);
                     boolean isFirst = true;
                     for(EventDate date : dates) {

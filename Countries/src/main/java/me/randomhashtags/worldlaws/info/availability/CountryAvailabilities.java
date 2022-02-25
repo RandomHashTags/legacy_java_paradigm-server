@@ -1,10 +1,14 @@
 package me.randomhashtags.worldlaws.info.availability;
 
+import me.randomhashtags.worldlaws.CompletionHandler;
+import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.info.availability.tech.AppleAvailabilityObj;
 import me.randomhashtags.worldlaws.info.availability.tech.AppleFeatureType;
 import me.randomhashtags.worldlaws.stream.ParallelStream;
+import org.json.JSONArray;
+import org.json.JSONObject;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
@@ -94,18 +98,31 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
 
     public String getCountryAvailabilities(String countryBackendID) {
         final ConcurrentHashMap<Boolean, ConcurrentHashMap<String, HashSet<String>>> values = new ConcurrentHashMap<>();
-        new ParallelStream<CountryAvailabilityService>().stream(SERVICES, service -> {
-            final CountryAvailability availability = service.getAvailability(countryBackendID);
-            if(availability != null) {
-                final String primaryCategory = availability.getPrimaryCategory().name();
-                final boolean availabilityIsAvailable = availability.isAvailable();
-                values.putIfAbsent(availabilityIsAvailable, new ConcurrentHashMap<>());
-                values.get(availabilityIsAvailable).putIfAbsent(primaryCategory, new HashSet<>());
-                values.get(availabilityIsAvailable).get(primaryCategory).add(availability.toString());
-            } else {
-                WLLogger.logError("CountryAvailabilities", "missing availability values for service \"" + service.getInfo().name() + "\"!");
+        final JSONObject json = getJSONObject(Folder.COUNTRIES_SERVICES_AVAILABILITIES, "availabilities", new CompletionHandler() {
+            @Override
+            public JSONObject loadJSONObject() {
+                final JSONObject json = new JSONObject();
+                new ParallelStream<CountryAvailabilityService>().stream(SERVICES, service -> {
+                    final JSONArray array = new JSONArray(service.loadData());
+                    json.put(service.getInfo().getTitle(), array);
+                });
+                return json;
             }
         });
+        if(json != null) {
+            new ParallelStream<CountryAvailabilityService>().stream(SERVICES, service -> {
+                final CountryAvailability availability = service.getAvailability(json, countryBackendID);
+                if(availability != null) {
+                    final String primaryCategory = availability.getPrimaryCategory().name();
+                    final boolean availabilityIsAvailable = availability.isAvailable();
+                    values.putIfAbsent(availabilityIsAvailable, new ConcurrentHashMap<>());
+                    values.get(availabilityIsAvailable).putIfAbsent(primaryCategory, new HashSet<>());
+                    values.get(availabilityIsAvailable).get(primaryCategory).add(availability.toString());
+                } else {
+                    WLLogger.logError("CountryAvailabilities", "missing availability values for service \"" + service.getInfo().name() + "\"!");
+                }
+            });
+        }
 
         final StringBuilder builder = new StringBuilder("{");
         boolean isFirstBoolean = true;

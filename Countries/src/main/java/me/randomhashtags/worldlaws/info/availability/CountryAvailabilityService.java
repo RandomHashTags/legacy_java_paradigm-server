@@ -7,6 +7,7 @@ import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
 import me.randomhashtags.worldlaws.service.CountryService;
 import org.json.JSONArray;
+import org.json.JSONObject;
 import org.jsoup.select.Elements;
 
 import java.util.HashMap;
@@ -64,20 +65,17 @@ public interface CountryAvailabilityService extends CountryService {
         });
     }
 
-    default CountryAvailability getAvailability(String countryBackendID) {
+    default CountryAvailability getAvailability(JSONObject json, String countryBackendID) {
         final SovereignStateInfo info = getInfo();
         final boolean isTrue;
         if(AVAILABILITY_VALUES.containsKey(info)) {
             isTrue = isTrue(countryBackendID, AVAILABILITY_VALUES.get(info));
+        } else if(json.has(info.getTitle())) {
+            final JSONArray array = json.getJSONArray(info.getTitle());
+            AVAILABILITY_VALUES.put(info, array);
+            isTrue = isTrue(countryBackendID, array);
         } else {
-            final Object obj = getJSONData(getFolder(), info.getTitle(), countryBackendID);
-            if(obj != null) {
-                final JSONArray array = (JSONArray) obj;
-                AVAILABILITY_VALUES.put(info, array);
-                isTrue = isTrue(countryBackendID, array);
-            } else {
-                return null;
-            }
+            return null;
         }
         return getAvailability(isTrue);
     }

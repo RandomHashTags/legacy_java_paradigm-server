@@ -202,7 +202,7 @@ public final class ScienceYearReview extends LoadedUpcomingEventController {
             }
         } else {
             String text = LocalServer.removeWikipediaReferences(listElement.text());
-            if(!text.contains(" (b. ")) {
+            if(!text.contains(" (b. ") && !text.contains(" (born ")) {
                 if(text.contains(" – ")) {
                     final String targetDateString = text.split(" – ")[0];
                     final int length = targetDateString.length() + 3;
