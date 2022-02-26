@@ -12,9 +12,12 @@
       }
     },
     "serverRebootFrequencyInDays": 3,
-    "proxy_port": 0,
+    "server_handler_port": 0,
     "default_address": "http://localhost",
     "servers": {
+      "proxy": {
+        "port": 0
+      },
       "countries": {
         "port": 0
       },

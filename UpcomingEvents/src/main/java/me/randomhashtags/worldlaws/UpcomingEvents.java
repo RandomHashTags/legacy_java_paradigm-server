@@ -24,6 +24,7 @@ import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.Arrays;
 import java.util.HashSet;
+import java.util.Map;
 import java.util.Optional;
 
 public final class UpcomingEvents implements WLServer {
@@ -72,9 +73,12 @@ public final class UpcomingEvents implements WLServer {
 
     private void test() {
         final long started = System.currentTimeMillis();
-        final ScienceYearReview science = new ScienceYearReview();
-        final String string = science.getEventsFromDates(getWeeklyEventDateStrings(LocalDate.now()));
-        WLLogger.logInfo("UpcomingEvents;test;string=" + string + ";took " + WLUtilities.getElapsedTime(started));
+        final MusicAlbums science = new MusicAlbums();
+        science.refresh();
+        for(Map.Entry<String, PreUpcomingEvent> test : science.getPreUpcomingEvents().entrySet()) {
+            WLLogger.logInfo("UpcomingEvents;test;key=" + test.getKey() + ";string=" + test.getValue().toStringWithImageURL(UpcomingEventType.MUSIC_ALBUM, null));
+        }
+        WLLogger.logInfo("UpcomingEvents;test;took " + WLUtilities.getElapsedTime(started));
     }
 
     private UpcomingEventController valueOfEventType(String eventType) {

@@ -4,10 +4,9 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 
 import javax.net.ssl.*;
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.InputStream;
-import java.io.InputStreamReader;
+import java.io.*;
+import java.net.Socket;
+import java.net.SocketException;
 import java.net.URL;
 import java.net.URLConnection;
 import java.security.SecureRandom;
@@ -103,6 +102,21 @@ public abstract class WLUtilities {
             timer.scheduleAtFixedRate(timerTask, targetDate, interval);
         }
         return timer;
+    }
+
+    public static void writeClientOutput(Socket client, String input) {
+        if(client.isOutputShutdown() || client.isClosed()) {
+            return;
+        }
+        try {
+            final OutputStream outToClient = client.getOutputStream();
+            outToClient.write(input.getBytes(DataValues.ENCODING));
+            outToClient.close();
+            client.close();
+        } catch (SocketException ignored) {
+        } catch (Exception e) {
+            WLUtilities.saveException(e);
+        }
     }
 
     public static void executeCommand(String command) {

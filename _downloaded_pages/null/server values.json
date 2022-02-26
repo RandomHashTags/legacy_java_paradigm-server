@@ -1,6 +1,24 @@
 {
+  "response_versions": {
+    "client_side": {
+      "countries": 12,
+      "movie_production_companies": 2,
+      "music_artists": 1,
+      "upcoming_event_types": 5,
+      "update_notes": 1
+    },
+    "server_side": {
+      "country_information": 1,
+      "holidays": 4
+    }
+  },
   "values": {
     "upcoming_events": {
+      "music_albums": {
+        "multi-page_years": [
+          2021
+        ]
+      },
       "science": {
         "year_review_years": [
           2021,

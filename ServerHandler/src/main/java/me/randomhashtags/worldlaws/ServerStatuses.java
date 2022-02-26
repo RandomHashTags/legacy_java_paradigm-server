@@ -12,31 +12,38 @@ import java.nio.file.Paths;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.List;
 
-public enum ServerHandler {
+public enum ServerStatuses {
     ;
 
     public static void shutdownServers() {
+        final long started = System.currentTimeMillis();
+        WLLogger.logInfo("ServerHandler - shutting down Paradigm Servers...");
+        final List<TargetServer> servers = Arrays.asList(TargetServer.values());
         final String uuid = Settings.Server.getUUID();
-        new ParallelStream<TargetServer>().stream(Arrays.asList(values()), server -> {
+        new ParallelStream<TargetServer>().stream(servers, server -> {
             if(server.isRealServer()) {
-                server.handleResponse(APIVersion.v1, uuid, RequestMethod.GET, "stop", null);
+                final String string = server.handleResponse(APIVersion.getLatest(), uuid, RequestMethod.GET, "stop", null);
             }
         });
+        WLLogger.logInfo("ServerHandler - shutdown Paradigm Servers (took " + WLUtilities.getElapsedTime(started) + ")");
     }
     public static void spinUpServers() {
+        final long started = System.currentTimeMillis();
         final String command = Settings.Server.getRunServersCommand();
         WLUtilities.executeCommand(command);
+        WLLogger.logInfo("ServerHandler - spun up servers (took " + WLUtilities.getElapsedTime(started) + ")");
     }
     public static void rebootServers() {
         final boolean updated = updateServersIfAvailable();
         if(!updated) {
-            TargetServer.setMaintenanceMode(true, "Servers are rebooting, and should be back up in a few minutes :)");
+            ServerHandler.setMaintenanceMode(true, "Servers are rebooting, and should be back up in a few minutes :)");
             rebootServersWithHomeResponse();
         } else {
             spinUpServersWithHomeResponse();
         }
-        TargetServer.setMaintenanceMode(false, null);
+        ServerHandler.setMaintenanceMode(false, null);
     }
     private static void rebootServersWithHomeResponse() {
         shutdownServers();
@@ -50,13 +57,13 @@ public enum ServerHandler {
         } catch (Exception e) {
             WLUtilities.saveException(e);
         }
-        final String string = TargetServer.HOME.updateHomeResponse();
+        final String string = ServerHandler.updateHomeResponse();
     }
 
     public static void tryUpdatingServersIfAvailable() {
         final boolean updated = updateServersIfAvailable();
         if(updated) {
-            TargetServer.setMaintenanceMode(false, null);
+            ServerHandler.setMaintenanceMode(false, null);
             spinUpServersWithHomeResponse();
         } else {
             WLLogger.logInfo("ServerHandler - no server updates available");
@@ -68,7 +75,7 @@ public enum ServerHandler {
         final HashSet<Path> files = updatedFilesFolder.getAllFilePaths(null);
         final boolean updatesAreAvailable = files != null;
         if(updatesAreAvailable) {
-            TargetServer.setMaintenanceMode(true, "Servers are updating, and should be back up in a few minutes :)");
+            ServerHandler.setMaintenanceMode(true, "Servers are updating, and should be back up in a few minutes :)");
             shutdownServers();
 
             final JSONObject updateJSON = Jsonable.getStaticLocalFileJSONObject(Folder.UPDATES, "update");
@@ -110,7 +117,7 @@ public enum ServerHandler {
                 updatedFilesFolder.setCustomFolderName(fileName, null);
                 final File newFile = updatedFilesFolder.literalFileExists(fullFileName);
                 if(newFile != null) {
-                    final File oldFile = sourceFolder.literalFileExists(fullFileName);
+                    final File oldFile = sourceFolder.literalFileExists(fileName, fullFileName);
                     if(oldFile != null) {
                         final boolean deleted = oldFile.delete();
                     }

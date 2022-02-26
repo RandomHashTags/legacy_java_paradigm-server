@@ -44,7 +44,7 @@ public final class WLClient extends Thread {
                 return string.substring(identifierKey.length());
             }
         }
-        return null;
+        return "null";
     }
     public String[] getHeaderList() {
         return headers.replaceAll("\r", "").split("\n");

@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.service.ITunesSearchAPI;
 import me.randomhashtags.worldlaws.service.SpotifyService;
 import me.randomhashtags.worldlaws.settings.ResponseVersions;
+import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.stream.ParallelStream;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
@@ -17,6 +18,7 @@ import java.time.LocalDate;
 import java.time.Month;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.List;
 
 public final class MusicAlbums extends UpcomingEventController implements SpotifyService, ITunesSearchAPI {
 
@@ -57,18 +59,16 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
     }
 
     private void refresh(int year, Month startingMonth, int startingDay) {
-        switch (year) {
-            case 2021:
-                refreshMultiList(year, startingMonth, startingDay);
-                break;
-            default:
-                refreshSingularList(year, startingMonth, startingDay);
-                break;
+        final List<Integer> multiPageYears = Settings.ServerValues.UpcomingEvents.getMusicAlbumMultiPageYears();
+        if(multiPageYears.contains(year)) {
+            refreshMultiList(year, startingMonth, startingDay);
+        } else {
+            refreshSingularList(year, startingMonth, startingDay);
         }
     }
     private void refreshSingularList(int year, Month startingMonth, int startingDay) {
         final String url = "https://en.wikipedia.org/wiki/List_of_" + year + "_albums";
-        refreshList(url, 0, year, startingMonth, startingDay);
+        refreshList(url, startingMonth.getValue()-1, year, startingMonth, startingDay);
     }
     private void refreshMultiList(int year, Month startingMonth, int startingDay) {
         final Month nextMonth = startingMonth.plus(1);
@@ -104,33 +104,36 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
         if(doc != null) {
             final Elements headers = doc.select("h3");
             final Elements tables = doc.select("h3 + table.wikitable");
-            final Element table = tables.get(tableIndex);
-            int previousDay = 1;
-            final int header = tables.indexOf(table);
-            final Month month = Month.valueOf(headers.get(header).text().split("\\[")[0].toUpperCase());
-            final String monthName = month.name();
-            final Elements trs = table.select("tbody tr");
-            trs.remove(0);
-            trs.remove(0);
-            for(Element row : trs) {
-                final Elements tds = row.select("td");
-                final Element targetDayElement = row.selectFirst("th");
-                final boolean isNewDay = targetDayElement != null;
-                final String targetDay = isNewDay ? targetDayElement.text().toUpperCase() : null;
-                final int maxTDs = tds.size();
-                final int day = isNewDay ? targetDay.equals("TBA") ? -1 : Integer.parseInt(targetDay.split(monthName + " ")[1]) : previousDay;
-                previousDay = day;
-                if(maxTDs >= 5 && (startingMonth != month || day >= startingDay)) {
-                    final Element artistElement = tds.get(maxTDs-5), albumElement = tds.get(maxTDs-4);
-                    final Elements hrefs = albumElement.select("i a");
-                    final String albumURL = !hrefs.isEmpty() ? prefix + hrefs.get(0).attr("href") : null;
-                    final String artist = artistElement.text(), album = albumElement.text();
+            final int[] tableIndexes = { tableIndex, tableIndex+1 };
+            for(int targetTableIndex : tableIndexes) {
+                final Element table = tables.get(targetTableIndex);
+                int previousDay = 1;
+                final int header = tables.indexOf(table);
+                final Month month = Month.valueOf(headers.get(header).text().split("\\[")[0].toUpperCase());
+                final String monthName = month.name();
+                final Elements trs = table.select("tbody tr");
+                trs.remove(0);
+                trs.remove(0);
+                for(Element row : trs) {
+                    final Elements tds = row.select("td");
+                    final Element targetDayElement = row.selectFirst("th");
+                    final boolean isNewDay = targetDayElement != null;
+                    final String targetDay = isNewDay ? targetDayElement.text().toUpperCase() : null;
+                    final int maxTDs = tds.size();
+                    final int day = isNewDay ? targetDay.equals("TBA") ? -1 : Integer.parseInt(targetDay.split(monthName + " ")[1]) : previousDay;
+                    previousDay = day;
+                    if(maxTDs >= 5 && (startingMonth != month || day >= startingDay)) {
+                        final Element artistElement = tds.get(maxTDs-5), albumElement = tds.get(maxTDs-4);
+                        final Elements hrefs = albumElement.select("i a");
+                        final String albumURL = !hrefs.isEmpty() ? prefix + hrefs.get(0).attr("href") : null;
+                        final String artist = artistElement.text(), album = albumElement.text();
 
-                    if(albumURL != null) {
-                        final String dateString = getEventDateString(year, month, day);
-                        final String id = getEventDateIdentifier(dateString, album);
-                        final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, album, albumURL, artist);
-                        putPreUpcomingEvent(id, preUpcomingEvent);
+                        if(albumURL != null) {
+                            final String dateString = getEventDateString(year, month, day);
+                            final String id = getEventDateIdentifier(dateString, album);
+                            final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, album, albumURL, artist);
+                            putPreUpcomingEvent(id, preUpcomingEvent);
+                        }
                     }
                 }
             }

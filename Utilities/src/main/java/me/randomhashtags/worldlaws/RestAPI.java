@@ -50,6 +50,13 @@ public interface RestAPI {
         return request(targetURL, true, method, headers, query);
     }
     default String request(String targetURL, boolean isLimited, RequestMethod method, HashMap<String, String> headers, AbstractMap<String, String> query) {
+        return requestStatic(targetURL, isLimited, method, headers, query);
+    }
+
+    static String requestStatic(String targetURL, RequestMethod method, HashMap<String, String> headers, AbstractMap<String, String> query) {
+        return requestStatic(targetURL, true, method, headers, query);
+    }
+    static String requestStatic(String targetURL, boolean isLimited, RequestMethod method, HashMap<String, String> headers, AbstractMap<String, String> query) {
         final boolean isLocal = targetURL.startsWith("http://localhost") || targetURL.startsWith("http://192.168");
 
         final StringBuilder target = new StringBuilder(targetURL);

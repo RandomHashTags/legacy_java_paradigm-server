@@ -56,7 +56,6 @@ public final class LocalServer implements UserServer, DataValues {
     public void stop() {
         final long started = System.currentTimeMillis();
         WLLogger.logInfo(serverName + " - shutting down server...");
-        stopListeningForUserInput();
         if(timers != null) {
             for(Timer timer : timers) {
                 timer.cancel();
@@ -101,10 +100,12 @@ public final class LocalServer implements UserServer, DataValues {
     }
 
     public void madeRequest(String identifier, String target) {
-        uniqueRequests.putIfAbsent(target, new HashSet<>());
-        uniqueRequests.get(target).add(identifier);
-        totalRequests.put(target, totalRequests.getOrDefault(target, 0) + 1);
-        totalUniqueIdentifiers.add(identifier);
+        if(wlserver.getServer().recordsStatistics()) {
+            uniqueRequests.putIfAbsent(target, new HashSet<>());
+            uniqueRequests.get(target).add(identifier);
+            totalRequests.put(target, totalRequests.getOrDefault(target, 0) + 1);
+            totalUniqueIdentifiers.add(identifier);
+        }
     }
     @Override
     public void saveStatistics() {

@@ -14,14 +14,23 @@ import java.util.UUID;
 public enum Settings {
     ;
 
+    private static JSONObject DATA_JSON = refreshData();
     private static JSONObject SETTINGS_JSON = refreshSettings();
     private static JSONObject PRIVATE_VALUES_JSON = refreshPrivateValues();
     private static JSONObject SERVER_VALUES_JSON = refreshServerValues();
 
     public static void refresh() {
+        refreshData();
         refreshSettings();
         refreshPrivateValues();
         refreshServerValues();
+    }
+    private static JSONObject refreshData() {
+        DATA_JSON = Jsonable.getStaticLocalFileJSONObject(Folder.OTHER, "data values");
+        if(DATA_JSON == null) {
+            DATA_JSON = new JSONObject();
+        }
+        return DATA_JSON;
     }
     private static JSONObject refreshSettings() {
         SETTINGS_JSON = Jsonable.getStaticLocalFileJSONObject(Folder.OTHER, "settings");
@@ -30,10 +39,6 @@ public enum Settings {
         }
         return SETTINGS_JSON;
     }
-    public static JSONObject getSettingsJSON() {
-        return SETTINGS_JSON;
-    }
-
     private static JSONObject refreshPrivateValues() {
         PRIVATE_VALUES_JSON = Jsonable.getStaticLocalFileJSONObject(Folder.OTHER, "private values");
         if(PRIVATE_VALUES_JSON == null) {
@@ -41,18 +46,11 @@ public enum Settings {
         }
         return PRIVATE_VALUES_JSON;
     }
-    public static JSONObject getPrivateValuesJSON() {
-        return PRIVATE_VALUES_JSON;
-    }
-
     private static JSONObject refreshServerValues() {
         SERVER_VALUES_JSON = Jsonable.getStaticLocalFileJSONObject(Folder.OTHER, "server values");
         if(SERVER_VALUES_JSON == null) {
             SERVER_VALUES_JSON = new JSONObject();
         }
-        return SERVER_VALUES_JSON;
-    }
-    public static JSONObject getServerValuesJSON() {
         return SERVER_VALUES_JSON;
     }
 
@@ -70,6 +68,14 @@ public enum Settings {
     }
     private static boolean getOrDefaultBoolean(JSONObject json, String key, boolean defaultValue) {
         return (boolean) getOrDefault(json, key, defaultValue);
+    }
+
+    public enum DataValues {
+        ;
+
+        public static boolean isProductionMode() {
+            return getOrDefaultBoolean(DATA_JSON, "production_mode", false);
+        }
     }
 
     public enum Performance {
@@ -92,6 +98,7 @@ public enum Settings {
         private static JSONObject getServerJSON(TargetServer server) {
             return getOrDefaultJSONObject(getServersJSON(), server.getBackendID(), new JSONObject());
         }
+
         public static String getUUID() {
             return getOrDefaultString(getServersJSON(), "uuid", "***REMOVED***");
         }
@@ -104,8 +111,8 @@ public enum Settings {
         public static int getServerRebootFrequencyInDays() {
             return getOrDefaultInt(getServersJSON(), "serverRebootFrequencyInDays", 3);
         }
-        public static int getProxyPort() {
-            return getOrDefaultInt(getServersJSON(), "proxy_port", 0);
+        public static int getServerHandlerPort() {
+            return getOrDefaultInt(getServersJSON(), "server_handler_port", 0);
         }
         public static String getDefaultAddress() {
             return getOrDefaultString(getServersJSON(), "default_address", "http://localhost");
@@ -251,6 +258,43 @@ public enum Settings {
     public enum ServerValues {
         ;
 
+        private static JSONObject getServerResponseVersionsJSON() {
+            return getOrDefaultJSONObject(SERVER_VALUES_JSON, "response_versions", new JSONObject());
+        }
+        private static JSONObject getServerResponseVersionsClientSideJSON() {
+            return getOrDefaultJSONObject(getServerResponseVersionsJSON(), "client_side", new JSONObject());
+        }
+        private static JSONObject getServerResponseVersionsServerSideJSON() {
+            return getOrDefaultJSONObject(getServerResponseVersionsJSON(), "server_side", new JSONObject());
+        }
+        public enum ResponseVersions {
+            ;
+
+            public enum ClientSide {
+                ;
+                public static int getCountries() {
+                    return getOrDefaultInt(getServerResponseVersionsClientSideJSON(), "countries", 0);
+                }
+                public static int getMovieProductionCompanies() {
+                    return getOrDefaultInt(getServerResponseVersionsClientSideJSON(), "movie_production_companies", 0);
+                }
+                public static int getMusicArtists() {
+                    return getOrDefaultInt(getServerResponseVersionsClientSideJSON(), "music_artists", 0);
+                }
+                public static int getUpcomingEventTypes() {
+                    return getOrDefaultInt(getServerResponseVersionsClientSideJSON(), "upcoming_event_types", 0);
+                }
+                public static int getUpdateNotes() {
+                    return getOrDefaultInt(getServerResponseVersionsClientSideJSON(), "update_notes", 0);
+                }
+            }
+
+            public enum ServerSide {
+                ;
+
+            }
+        }
+
         private static JSONObject getServerValuesJSON() {
             return getOrDefaultJSONObject(SERVER_VALUES_JSON, "values", new JSONObject());
         }
@@ -286,13 +330,20 @@ public enum Settings {
             private static JSONObject getUpcomingEventsJSON() {
                 return getServerValuesJSON(TargetServer.UPCOMING_EVENTS);
             }
+            private static JSONObject getMusicAlbumsJSON() {
+                return getOrDefaultJSONObject(getUpcomingEventsJSON(), "music_albums", new JSONObject());
+            }
             private static JSONObject getScienceJSON() {
-                return getUpcomingEventsJSON().getJSONObject("science");
+                return getOrDefaultJSONObject(getUpcomingEventsJSON(), "science", new JSONObject());
             }
             private static JSONObject getVideoGamesJSON() {
-                return getUpcomingEventsJSON().getJSONObject("video_games");
+                return getOrDefaultJSONObject(getUpcomingEventsJSON(), "video_games", new JSONObject());
             }
 
+            public static List<Integer> getMusicAlbumMultiPageYears() {
+                final JSONArray array = getMusicAlbumsJSON().getJSONArray("multi-page_years");
+                return getListInteger(array);
+            }
             public static List<Integer> getScienceYearReviewYears() {
                 final JSONArray array = getScienceJSON().getJSONArray("year_review_years");
                 return getListInteger(array);

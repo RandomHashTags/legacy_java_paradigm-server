@@ -63,19 +63,15 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
                 final String target = client.getTarget();
                 if(target == null) {
                     return;
-                }
-                if(target.equals("ping")) {
+                } else if(target.equals("ping")) {
                     client.sendResponse("1");
                     return;
                 }
                 if(target.startsWith("favicon")) {
-                    client.sendResponse(HTTP_ERROR_404);
+                    client.sendResponse(null);
                     return;
                 }
-                String identifier = client.getIdentifier();
-                if(identifier == null) {
-                    identifier = "null";
-                }
+                final String identifier = client.getIdentifier();
                 final String string = getResponse(localServer, identifier, target);
                 client.sendResponse(string);
             }
@@ -105,7 +101,8 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
                 final String targetType = requestTarget.split("/")[0];
                 final ServerRequestType type = localServer.parseRequestType(targetType);
                 if(type != null) {
-                    requestTarget = requestTarget.substring(targetType.length() + 1);
+                    final int test = Math.min(targetType.length() + 1, requestTarget.length());
+                    requestTarget = requestTarget.substring(test);
                 }
                 final ServerRequest request = new ServerRequest(type, requestTarget);
                 String string = getServerResponse(version, identifier, request);
