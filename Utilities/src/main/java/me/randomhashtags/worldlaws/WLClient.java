@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws;
 
-import java.io.DataOutputStream;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.Reader;
@@ -10,7 +9,6 @@ import java.net.SocketException;
 public final class WLClient extends Thread {
     private final Socket httpClient;
     private final CompletionHandler handler;
-    private DataOutputStream output;
     private String headers, target;
 
     public WLClient(Socket client, CompletionHandler handler) {
@@ -21,7 +19,6 @@ public final class WLClient extends Thread {
     @Override
     public void run() {
         try {
-            output = new DataOutputStream(httpClient.getOutputStream());
             setupHeaders(httpClient);
             if(!httpClient.isOutputShutdown()) {
                 handler.handleClient(this);
@@ -38,10 +35,15 @@ public final class WLClient extends Thread {
         return headers;
     }
     public String getIdentifier() {
-        final String identifierKey = "***REMOVED***";
+        return getFirstHeaderThatStartsWith("***REMOVED***");
+    }
+    public String getPlatform() {
+        return getFirstHeaderThatStartsWith("***REMOVED***");
+    }
+    private String getFirstHeaderThatStartsWith(String key) {
         for(String string : getHeaderList()) {
-            if(string.startsWith(identifierKey)) {
-                return string.substring(identifierKey.length());
+            if(string.startsWith(key)) {
+                return string.substring(key.length());
             }
         }
         return "null";
@@ -54,26 +56,8 @@ public final class WLClient extends Thread {
     }
 
     public void sendResponse(@NotNull String response) {
-        final String path = DataValues.HTTP_SUCCESS_200 + response;
-        writeOutput(path);
-    }
-    private void writeOutput(String input) {
-        if(httpClient.isOutputShutdown() || httpClient.isClosed() || !httpClient.isConnected()) {
-            return;
-        }
-        try {
-            output.write(input.getBytes(DataValues.ENCODING));
-            close();
-        } catch (Exception e) {
-            WLUtilities.saveException(e);
-        }
-    }
-    private void close() throws Exception {
-        if(httpClient.isOutputShutdown() || httpClient.isClosed() || !httpClient.isConnected()) {
-            return;
-        }
-        output.close();
-        httpClient.close();
+        final String path = DataValues.HTTP_SUCCESS_200 + (response == null || response.equals("null") ? WLUtilities.SERVER_EMPTY_JSON_RESPONSE : response);
+        WLUtilities.writeClientOutput(httpClient, path);
     }
 
     private void setupHeaders(@NotNull Socket client) {

@@ -93,7 +93,7 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
                     localServer.stop();
                     return "1";
                 } else {
-                    return WLUtilities.SERVER_EMPTY_JSON_RESPONSE;
+                    return null;
                 }
             default:
                 localServer.madeRequest(identifier, target);
@@ -101,13 +101,14 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
                 final String targetType = requestTarget.split("/")[0];
                 final ServerRequestType type = localServer.parseRequestType(targetType);
                 if(type != null) {
-                    final int test = Math.min(targetType.length() + 1, requestTarget.length());
-                    requestTarget = requestTarget.substring(test);
+                    requestTarget = requestTarget.substring(targetType.length() + (requestTarget.contains("/") ? 1 : 0));
+                } else {
+                    return null;
                 }
                 final ServerRequest request = new ServerRequest(type, requestTarget);
                 String string = getServerResponse(version, identifier, request);
                 if(string == null || string.isEmpty()) {
-                    string = WLUtilities.SERVER_EMPTY_JSON_RESPONSE;
+                    string = null;
                 }
                 return string;
         }

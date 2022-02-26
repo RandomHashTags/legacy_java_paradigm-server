@@ -114,7 +114,7 @@ public final class ServerHandler implements UserServer {
                     headers.put("Charset", DataValues.ENCODING.name());
                     headers.put("***REMOVED***", identifier);
                     final String homeResponse = getHomeResponse(clientHeaders.getAPIVersion(), RequestMethod.GET, headers, clientHeaders.getQuery());
-                    WLUtilities.writeClientOutput(client, homeResponse);
+                    WLUtilities.writeClientOutput(client, DataValues.HTTP_SUCCESS_200 + homeResponse);
                     break;
                 default:
                     if(MAINTENANCE_MODE) {

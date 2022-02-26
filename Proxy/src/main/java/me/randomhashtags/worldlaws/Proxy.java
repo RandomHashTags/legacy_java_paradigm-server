@@ -4,7 +4,6 @@ import me.randomhashtags.worldlaws.proxy.ProxyHeaders;
 import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.settings.Settings;
 
-import java.net.Socket;
 import java.util.HashSet;
 
 public final class Proxy implements WLServer {
@@ -62,14 +61,12 @@ public final class Proxy implements WLServer {
                     return null;
                 }
             default:
-                return getProxyClientResponse(client.getClient());
+                return getProxyClientResponse("localhost", identifier, client.getPlatform(), target);
         }
     }
-    private String getProxyClientResponse(Socket client) {
+    private String getProxyClientResponse(String ip, String identifier, String platform, String target) {
         final long started = System.currentTimeMillis();
-        final ProxyHeaders headers = ProxyHeaders.getFrom(client);
-        final String identifier = headers.getIdentifier(), platform = headers.getPlatform();
-        final String ip = headers.getIPAddress();
+        final ProxyHeaders headers = ProxyHeaders.getWith(ip, identifier, platform, target);
         final String prefix = "[" + platform + ", " + identifier + "] " + ip + " - ";
         final TargetServer server = headers.getServer();
         if(server != null) {
