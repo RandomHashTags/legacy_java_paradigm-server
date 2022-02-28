@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.settings.Settings;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 
 import java.util.Arrays;
 import java.util.HashMap;
@@ -137,7 +137,7 @@ public enum TargetServer implements RestAPI, DataValues {
     private String getCombinedResponse(APIVersion version, String identifier, RequestMethod method, String request) {
         final String[] values = request.split("&&");
         final ConcurrentHashMap<String, String> responses = new ConcurrentHashMap<>();
-        new ParallelStream<String>().stream(Arrays.asList(values), value -> {
+        new CompletableFutures<String>().stream(Arrays.asList(values), value -> {
             final String[] target = value.split("/");
             final String apiVersionString = target[0], serverBackendID = target[1];
             final APIVersion apiVersion = APIVersion.valueOfInput(apiVersionString);

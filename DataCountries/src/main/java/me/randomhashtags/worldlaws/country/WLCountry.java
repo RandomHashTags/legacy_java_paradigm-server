@@ -308,6 +308,42 @@ public enum WLCountry {
     public String getShortName() {
         return LocalServer.toCorrectCapitalization(name(), "and", "the", "da", "of");
     }
+    public String getShortNamePrefix() {
+        switch (this) {
+            case BAHAMAS:
+            case BRITISH_VIRGIN_ISLANDS:
+
+            case CAYMAN_ISLANDS:
+            case CENTRAL_AFRICAN_REPUBLIC:
+            case COMOROS:
+            case COOK_ISLANDS:
+            case CZECH_REPUBLIC:
+
+            case DEMOCRATIC_REPUBLIC_OF_THE_CONGO:
+
+            case GAMBIA:
+
+            case MARSHALL_ISLANDS:
+
+            case NETHERLANDS:
+            case NORTHERN_MARIANA_ISLANDS:
+
+            case PHILIPPINES:
+
+            case REPUBLIC_OF_THE_CONGO:
+
+            case SOLOMON_ISLANDS:
+
+            case UNITED_ARAB_EMIRATES:
+            case UNITED_KINGDOM:
+            case UNITED_STATES:
+                return "the ";
+            case MICRONESIA:
+                return "the Federated States of ";
+            default:
+                return "";
+        }
+    }
     public HashSet<String> getAliases() {
         return aliases;
     }

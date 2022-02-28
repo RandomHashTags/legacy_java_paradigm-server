@@ -4,7 +4,7 @@ import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.RequestMethod;
 import me.randomhashtags.worldlaws.service.NASAService;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.upcoming.USAUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.NearEarthObjectEvent;
@@ -39,7 +39,7 @@ public final class NASANeo extends USAUpcomingEventController {
             final JSONArray nearEarthObjects = json.getJSONObject("near_earth_objects").getJSONArray(formattedDateString);
             final List<Object> list = nearEarthObjects.toList();
             final EventSources sources = new EventSources(new EventSource("NASA: Center for Near Earth Object Studies", "https://cneos.jpl.nasa.gov"));
-            new ParallelStream<HashMap<String, Object>>().stream(list, hashmap -> {
+            new CompletableFutures<HashMap<String, Object>>().stream(list, hashmap -> {
                 final JSONObject mapJSON = new JSONObject(hashmap);
                 final String name = mapJSON.getString("name");
                 final boolean isPotentiallyHazardousAsteroid = mapJSON.getBoolean("is_potentially_hazardous_asteroid");

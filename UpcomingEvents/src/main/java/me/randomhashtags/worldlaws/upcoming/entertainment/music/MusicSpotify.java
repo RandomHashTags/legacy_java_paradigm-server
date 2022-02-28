@@ -5,7 +5,7 @@ import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.service.SpotifyService;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -21,7 +21,7 @@ public enum MusicSpotify implements SpotifyService {
             final String description = LocalServer.fixEscapeValues(json.getString("description"));
             final JSONArray tracks = json.getJSONObject("tracks").getJSONArray("items");
             final HashSet<String> values = new HashSet<>();
-            new ParallelStream<JSONObject>().stream(tracks.spliterator(), track -> {
+            new CompletableFutures<JSONObject>().stream(tracks.spliterator(), track -> {
                 final JSONObject trackJSON = track.getJSONObject("track");
                 final String name = trackJSON.getString("name");
                 final boolean isExplicit = trackJSON.getBoolean("explicit");

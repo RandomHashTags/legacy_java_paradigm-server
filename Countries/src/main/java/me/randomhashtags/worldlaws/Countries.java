@@ -23,7 +23,7 @@ import me.randomhashtags.worldlaws.service.CountryServices;
 import me.randomhashtags.worldlaws.service.SovereignStateService;
 import me.randomhashtags.worldlaws.service.WikipediaCountryService;
 import me.randomhashtags.worldlaws.settings.ResponseVersions;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
@@ -58,10 +58,11 @@ public final class Countries implements WLServer {
     }
 
     private void test() {
-        loadServices();
-        loadCountries();
-        final String string = getServerResponse(APIVersion.getLatest(), "serverUUID", new ServerRequest(ServerRequestTypeCountries.INFORMATION, "canada"));
-        WLLogger.logInfo("Countries;test;string=" + string);
+        final long started = System.currentTimeMillis();
+        CountryAvailabilities.INSTANCE.getCountryAvailabilities("unitedstates");
+        CountryAvailabilities.INSTANCE.getCountryAvailabilities("unitedstates");
+        CountryAvailabilities.INSTANCE.getCountryAvailabilities("unitedstates");
+        WLLogger.logInfo("Countries;test;took " + WLUtilities.getElapsedTime(started));
     }
 
     @Override
@@ -100,9 +101,9 @@ public final class Countries implements WLServer {
 
     private void updateNonStaticInformation() {
         final long started = System.currentTimeMillis();
-        new ParallelStream<CountryService>().stream(CountryServices.NONSTATIC_SERVICES, SovereignStateService::loadData);
+        new CompletableFutures<CountryService>().stream(CountryServices.NONSTATIC_SERVICES, SovereignStateService::loadData);
         CustomCountry.LOADED_NON_STATIC_INFORMATION = true;
-        new ParallelStream<CustomCountry>().stream(countriesMap.values(), CustomCountry::updateNonStaticInformation);
+        new CompletableFutures<CustomCountry>().stream(countriesMap.values(), CustomCountry::updateNonStaticInformation);
         WLLogger.logInfo("Countries - refreshed " + countriesMap.size() + " non-static country information (took " + WLUtilities.getElapsedTime(started) + ")");
     }
 

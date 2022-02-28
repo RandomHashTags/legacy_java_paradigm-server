@@ -4,7 +4,7 @@ import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.recent.software.videogame.NoMansSky;
 import me.randomhashtags.worldlaws.recent.software.videogame.VideoGameUpdate;
 import me.randomhashtags.worldlaws.recent.software.videogame.VideoGameUpdateController;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONObject;
 
 import java.time.LocalDate;
@@ -31,7 +31,7 @@ public final class VideoGameUpdates extends RecentEventController {
     public ConcurrentHashMap<String, HashSet<String>> refreshHashMap(LocalDate startingDate) {
         final VideoGameUpdateController[] controllers = getSupportedVideoGames();
         final ConcurrentHashMap<String, HashSet<String>> values = new ConcurrentHashMap<>();
-        new ParallelStream<VideoGameUpdateController>().stream(Arrays.asList(controllers), controller -> {
+        new CompletableFutures<VideoGameUpdateController>().stream(Arrays.asList(controllers), controller -> {
             final VideoGameUpdate update = controller.refresh(startingDate);
             if(update != null) {
                 final String dateString = update.getDate().getDateString();

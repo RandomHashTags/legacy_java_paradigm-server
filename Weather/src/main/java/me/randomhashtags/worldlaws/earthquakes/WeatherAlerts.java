@@ -2,7 +2,7 @@ package me.randomhashtags.worldlaws.earthquakes;
 
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.WLUtilities;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.weather.WeatherController;
 import me.randomhashtags.worldlaws.weather.country.WeatherUSA;
 
@@ -96,7 +96,7 @@ public enum WeatherAlerts {
     private String getAllPreAlerts(String event) {
         final WeatherController[] controllers = getCountries();
         final HashSet<String> values = new HashSet<>();
-        new ParallelStream<WeatherController>().stream(Arrays.asList(controllers), controller -> {
+        new CompletableFutures<WeatherController>().stream(Arrays.asList(controllers), controller -> {
             final String string = controller.getPreAlerts(event);
             if(string != null) {
                 final String country = controller.getCountry().getBackendID();
@@ -141,7 +141,7 @@ public enum WeatherAlerts {
         final long started = System.currentTimeMillis();
         final HashMap<String, Long> controllerLoadTimes = new HashMap<>();
         final WeatherController[] countries = getCountries();
-        new ParallelStream<WeatherController>().stream(Arrays.asList(countries), controller -> {
+        new CompletableFutures<WeatherController>().stream(Arrays.asList(countries), controller -> {
             refreshCountry(controller);
             controllerLoadTimes.put(controller.getClass().getSimpleName(), System.currentTimeMillis()-started);
         });

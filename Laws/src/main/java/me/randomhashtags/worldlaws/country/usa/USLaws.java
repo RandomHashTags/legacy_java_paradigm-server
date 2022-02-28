@@ -14,7 +14,7 @@ import me.randomhashtags.worldlaws.country.usa.state.unfinished.Indiana;
 import me.randomhashtags.worldlaws.country.usa.state.unfinished.NorthCarolina;
 import me.randomhashtags.worldlaws.country.usa.state.unfinished.Oregon;
 import me.randomhashtags.worldlaws.recode.TestLawSubdivisionController;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 
 import java.time.LocalDate;
 import java.util.Arrays;
@@ -50,7 +50,7 @@ public final class USLaws extends LawController {
         };
 
         final HashMap<USBillStatus, HashSet<PreCongressBill>> values = new HashMap<>();
-        new ParallelStream<USBillStatus>().stream(Arrays.asList(statuses), status -> {
+        new CompletableFutures<USBillStatus>().stream(Arrays.asList(statuses), status -> {
             final HashSet<PreCongressBill> bills = congress.getPreCongressBillsBySearch(status);
             if(bills != null) {
                 bills.removeIf(bill -> bill.getDate().getLocalDate().isBefore(startingDate));

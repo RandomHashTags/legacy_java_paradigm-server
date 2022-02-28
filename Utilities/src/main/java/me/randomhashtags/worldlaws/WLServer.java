@@ -4,7 +4,7 @@ import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.ServerRequestType;
 import me.randomhashtags.worldlaws.request.server.*;
 import me.randomhashtags.worldlaws.settings.Settings;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 
 import java.time.LocalDateTime;
 import java.util.Arrays;
@@ -102,8 +102,6 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
                 final ServerRequestType type = localServer.parseRequestType(targetType);
                 if(type != null) {
                     requestTarget = requestTarget.substring(targetType.length() + (requestTarget.contains("/") ? 1 : 0));
-                } else {
-                    return null;
                 }
                 final ServerRequest request = new ServerRequest(type, requestTarget);
                 String string = getServerResponse(version, identifier, request);
@@ -155,7 +153,7 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
         } else {
             final HashSet<String> values = new HashSet<>();
             final String serverUUID = Settings.Server.getUUID();
-            new ParallelStream<ServerRequest>().stream(Arrays.asList(requests), request -> {
+            new CompletableFutures<ServerRequest>().stream(Arrays.asList(requests), request -> {
                 final String string = getServerResponse(version, serverUUID, request);
                 if(string != null) {
                     final String target = "\"" + request.getTotalPath() + "\":" + string;

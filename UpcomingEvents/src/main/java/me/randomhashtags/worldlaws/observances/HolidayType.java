@@ -4,7 +4,7 @@ import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.observances.type.*;
 import me.randomhashtags.worldlaws.settings.ResponseVersions;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONObject;
 
 import java.util.*;
@@ -66,7 +66,7 @@ public enum HolidayType implements Jsonable {
 
     public static void insertNearbyHolidays(int year, Collection<String> nearbyHolidayDays, ConcurrentHashMap<String, String> descriptions, ConcurrentHashMap<String, ConcurrentHashMap<String, HolidayObj>> nearbyHolidays) {
         final HolidayType[] types = HolidayType.values();
-        new ParallelStream<HolidayType>().stream(Arrays.asList(types), type -> {
+        new CompletableFutures<HolidayType>().stream(Arrays.asList(types), type -> {
             final boolean isCountries = type == COUNTRIES;
             final JSONObject json = type.getHolidaysJSONObject(year);
             final JSONObject descriptionsJSON = json.getJSONObject("descriptions");
@@ -178,7 +178,7 @@ public enum HolidayType implements Jsonable {
             final HolidayType self = this;
             final boolean isChristian = self == CHRISTIAN_EAST || self == CHRISTIAN_WEST, isWestChristian = isChristian && self == CHRISTIAN_WEST;
             final ConcurrentHashMap<String, HashSet<HolidayObj>> values = new ConcurrentHashMap<>();
-            new ParallelStream<IHoliday>().stream(Arrays.asList(holidays), holiday -> {
+            new CompletableFutures<IHoliday>().stream(Arrays.asList(holidays), holiday -> {
                 final EventDate date = isChristian ? ((ChristianHoliday) holiday).getDate(isWestChristian, null, year) : holiday.getDate(null, year);
                 if(date != null) {
                     final JSONObject holidayJSON = holiday.getHolidayJSON(self);
@@ -230,7 +230,7 @@ public enum HolidayType implements Jsonable {
     private JSONObject loadCountryHolidays(int year, IHoliday[] holidays, ConcurrentHashMap<String, String> descriptions) {
         final WLCountry[] countries = WLCountry.values();
         final JSONObject json = new JSONObject();
-        new ParallelStream<WLCountry>().stream(Arrays.asList(countries), country -> {
+        new CompletableFutures<WLCountry>().stream(Arrays.asList(countries), country -> {
             final JSONObject targetJSON = loadCountryHolidays(descriptions, holidays, country, year);
             if(targetJSON != null) {
                 final String backendID = country != null ? country.getBackendID() : null;
@@ -243,7 +243,7 @@ public enum HolidayType implements Jsonable {
     private JSONObject loadCountryHolidays(ConcurrentHashMap<String, String> descriptions, IHoliday[] socialHolidays, WLCountry country, int year) {
         final HolidayType self = this;
         final ConcurrentHashMap<String, HashSet<HolidayObj>> holidays = new ConcurrentHashMap<>();
-        new ParallelStream<IHoliday>().stream(Arrays.asList(socialHolidays), socialHoliday -> {
+        new CompletableFutures<IHoliday>().stream(Arrays.asList(socialHolidays), socialHoliday -> {
             final EventDate date = socialHoliday.getDate(country, year);
             if(date != null) {
                 final JSONObject json = socialHoliday.getHolidayJSON(self);

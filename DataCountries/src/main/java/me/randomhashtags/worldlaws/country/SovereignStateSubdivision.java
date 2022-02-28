@@ -5,7 +5,7 @@ import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 import me.randomhashtags.worldlaws.service.CountryService;
 import me.randomhashtags.worldlaws.service.WikipediaCountryService;
 import me.randomhashtags.worldlaws.service.WikipediaService;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONObject;
 
 import java.util.HashMap;
@@ -115,7 +115,7 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
 
                 final String name = getName();
                 final String backendID = name.toLowerCase().replace(" ", "");
-                new ParallelStream<CountryService>().stream(services, service -> {
+                new CompletableFutures<CountryService>().stream(services, service -> {
                     final SovereignStateInfo info = service.getInfo();
                     final String territory;
                     String string = null;

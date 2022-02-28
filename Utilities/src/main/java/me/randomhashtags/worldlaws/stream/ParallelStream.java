@@ -10,11 +10,7 @@ import java.util.function.Consumer;
 import java.util.stream.StreamSupport;
 
 public final class ParallelStream<T> {
-    private static final int MAXIMUM_PARALLEL_THREADS;
-
-    static {
-        MAXIMUM_PARALLEL_THREADS = Settings.Performance.getMaximumParallelThreads();
-    }
+    private static final int MAXIMUM_PARALLEL_THREADS = Settings.Performance.getMaximumParallelThreads();
 
     public void stream(Collection<? super T> items, Consumer<? super T> iterator) {
         stream(items.spliterator(), iterator);

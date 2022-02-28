@@ -4,7 +4,7 @@ import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.RequestMethod;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.RocketLaunchEvent;
@@ -26,7 +26,7 @@ public final class RocketLaunches extends LoadedUpcomingEventController {
         if(json != null) {
             final JSONArray launches = json.getJSONArray("results");
             final EventSources sources = new EventSources(new EventSource("The Space Devs", "https://thespacedevs.com"));
-            new ParallelStream<JSONObject>().stream(launches.spliterator(), launchJSON -> {
+            new CompletableFutures<JSONObject>().stream(launches.spliterator(), launchJSON -> {
                 final JSONObject rocketConfigurationJSON = launchJSON.getJSONObject("rocket").getJSONObject("configuration"), padJSON = launchJSON.getJSONObject("pad");
                 final JSONObject serviceProvider = launchJSON.getJSONObject("launch_service_provider");
                 final String windowStart = launchJSON.getString("window_start"), windowEnd = launchJSON.getString("window_end");

@@ -4,7 +4,7 @@ import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.past.science.ScienceYearReview;
 import me.randomhashtags.worldlaws.service.YouTubeService;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.upcoming.entertainment.TVShows;
 import org.json.JSONObject;
 
@@ -74,7 +74,7 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
         });
         final ConcurrentHashMap<String, HashSet<String>> map = new ConcurrentHashMap<>();
         if(set.size() > 0) {
-            new ParallelStream<String>().stream(set, identifier -> {
+            new CompletableFutures<String>().stream(set, identifier -> {
                 final String string = getLoadedPreUpcomingEvent(identifier);
                 if(string != null) {
                     final String dateString = identifier.split("\\.")[0];
@@ -83,7 +83,7 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
                 }
             });
         } else if(!loadedPreUpcomingEvents.isEmpty()) {
-            new ParallelStream<String>().stream(loadedPreUpcomingEvents.keySet(), identifier -> {
+            new CompletableFutures<String>().stream(loadedPreUpcomingEvents.keySet(), identifier -> {
                 final String string = loadedPreUpcomingEvents.get(identifier);
                 final String dateString = identifier.split("\\.")[0];
                 map.putIfAbsent(dateString, new HashSet<>());

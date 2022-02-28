@@ -7,7 +7,7 @@ import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.info.CountryNationalService;
 import me.randomhashtags.worldlaws.info.CountrySingleValue;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -37,7 +37,7 @@ public enum NationalAnthems implements CountryNationalService { // https://en.wi
             sources.add(source);
 
             final Elements elements = doc.select("body div div div.custom-page div div main div div div div.list-group a[href]");
-            new ParallelStream<Element>().stream(elements, element -> {
+            new CompletableFutures<Element>().stream(elements, element -> {
                 final Element targetElement = element.selectFirst("div.col-9");
                 if(targetElement != null) {
                     final String targetCountry = targetElement.textNodes().get(0).text();

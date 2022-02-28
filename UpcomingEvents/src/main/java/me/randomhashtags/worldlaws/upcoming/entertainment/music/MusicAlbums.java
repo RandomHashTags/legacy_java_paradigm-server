@@ -5,7 +5,7 @@ import me.randomhashtags.worldlaws.service.ITunesSearchAPI;
 import me.randomhashtags.worldlaws.service.SpotifyService;
 import me.randomhashtags.worldlaws.settings.ResponseVersions;
 import me.randomhashtags.worldlaws.settings.Settings;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.MusicAlbumEvent;
@@ -84,7 +84,7 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
         }
 
         if(urls.size() > 0) {
-            new ParallelStream<String>().stream(urls.keySet(), url -> {
+            new CompletableFutures<String>().stream(urls.keySet(), url -> {
                 final int tableIndex = urls.get(url);
                 refreshList(url, tableIndex, year, startingMonth, startingDay);
             });

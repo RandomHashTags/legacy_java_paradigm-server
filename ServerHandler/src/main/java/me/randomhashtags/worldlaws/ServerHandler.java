@@ -3,7 +3,7 @@ package me.randomhashtags.worldlaws;
 import me.randomhashtags.worldlaws.proxy.ProxyHeaders;
 import me.randomhashtags.worldlaws.settings.ResponseVersions;
 import me.randomhashtags.worldlaws.settings.Settings;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -329,7 +329,7 @@ public final class ServerHandler implements UserServer {
         }
 
         final ConcurrentHashMap<String, JSONObject> values = new ConcurrentHashMap<>();
-        new ParallelStream<Map.Entry<String, String>>().stream(requests.entrySet(), entry -> {
+        new CompletableFutures<Map.Entry<String, String>>().stream(requests.entrySet(), entry -> {
             final String key = entry.getKey(), serverIP = entry.getValue();
             final String value;
             switch (key) {

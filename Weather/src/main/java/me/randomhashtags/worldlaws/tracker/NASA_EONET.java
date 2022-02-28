@@ -7,7 +7,7 @@ import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.country.WLSubdivisions;
 import me.randomhashtags.worldlaws.country.subdivisions.u.SubdivisionsUnitedStates;
 import me.randomhashtags.worldlaws.settings.Settings;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
@@ -54,7 +54,7 @@ public enum NASA_EONET implements WLService {
             final String unitedStatesBackendID = WLCountry.UNITED_STATES.getBackendID();
             final JSONArray eventsArray = json.getJSONArray("events");
             amount += eventsArray.length();
-            new ParallelStream<JSONObject>().stream(eventsArray.spliterator(), eventJSON -> {
+            new CompletableFutures<JSONObject>().stream(eventsArray.spliterator(), eventJSON -> {
                 String place = eventJSON.getString("title").replace("&#039;", "'");
                 if(!place.startsWith("Iceberg ")) {
                     final String[] startingReplacements = new String[] {

@@ -6,7 +6,7 @@ import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.info.availability.tech.AppleAvailabilityObj;
 import me.randomhashtags.worldlaws.info.availability.tech.AppleFeatureType;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.nodes.Element;
@@ -102,7 +102,7 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
             @Override
             public JSONObject loadJSONObject() {
                 final JSONObject json = new JSONObject();
-                new ParallelStream<CountryAvailabilityService>().stream(SERVICES, service -> {
+                new CompletableFutures<CountryAvailabilityService>().stream(SERVICES, service -> {
                     final JSONArray array = new JSONArray(service.loadData());
                     json.put(service.getInfo().getTitle(), array);
                 });
@@ -110,7 +110,7 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
             }
         });
         if(json != null) {
-            new ParallelStream<CountryAvailabilityService>().stream(SERVICES, service -> {
+            new CompletableFutures<CountryAvailabilityService>().stream(SERVICES, service -> {
                 final CountryAvailability availability = service.getAvailability(json, countryBackendID);
                 if(availability != null) {
                     final String primaryCategory = availability.getPrimaryCategory().name();

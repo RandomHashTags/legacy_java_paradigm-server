@@ -3,7 +3,7 @@ package me.randomhashtags.worldlaws.upcoming.entertainment;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.Location;
 import me.randomhashtags.worldlaws.settings.Settings;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.TicketmasterMusicEvent;
@@ -67,7 +67,7 @@ public enum Ticketmaster implements RestAPI {
             final JSONObject json = getEvents();
             if(json != null) {
                 final JSONArray embeddedEvents = json.getJSONObject("_embedded").getJSONArray("events");
-                new ParallelStream<JSONObject>().stream(embeddedEvents.spliterator(), eventJSON -> {
+                new CompletableFutures<JSONObject>().stream(embeddedEvents.spliterator(), eventJSON -> {
                     if(!eventJSON.getBoolean("test") && eventJSON.has("priceRanges") && eventJSON.has("ticketLimit") && eventJSON.has("seatmap")) {
                         final JSONObject dateStartJSON = eventJSON.getJSONObject("dates").getJSONObject("start");
                         if(dateStartJSON.has("dateTime")) {
@@ -121,7 +121,7 @@ public enum Ticketmaster implements RestAPI {
         }
         private HashSet<TicketmasterVenue> getVenuesFrom(JSONArray array) {
             final HashSet<TicketmasterVenue> venues = new HashSet<>();
-            new ParallelStream<JSONObject>().stream(array.spliterator(), json -> {
+            new CompletableFutures<JSONObject>().stream(array.spliterator(), json -> {
                 if(!json.getBoolean("test")) {
                     final String name = json.getString("name");
                     final String url = json.getString("url");

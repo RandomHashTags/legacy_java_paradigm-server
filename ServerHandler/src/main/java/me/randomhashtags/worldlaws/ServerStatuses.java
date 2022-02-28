@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.settings.Settings;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -22,7 +22,7 @@ public enum ServerStatuses {
         WLLogger.logInfo("ServerHandler - shutting down Paradigm Servers...");
         final List<TargetServer> servers = Arrays.asList(TargetServer.values());
         final String uuid = Settings.Server.getUUID();
-        new ParallelStream<TargetServer>().stream(servers, server -> {
+        new CompletableFutures<TargetServer>().stream(servers, server -> {
             if(server.isRealServer()) {
                 final String string = server.handleResponse(APIVersion.getLatest(), uuid, RequestMethod.GET, "stop", null);
             }

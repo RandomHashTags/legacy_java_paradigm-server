@@ -4,7 +4,7 @@ import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.RequestMethod;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.TVShowEvent;
@@ -35,7 +35,7 @@ public final class TVShows extends LoadedUpcomingEventController {
             final int max = array.length();
             if(max > 0) {
                 final LocalDate nextWeek = LocalDate.now().plusWeeks(1);
-                new ParallelStream<JSONObject>().stream(array.spliterator(), json -> {
+                new CompletableFutures<JSONObject>().stream(array.spliterator(), json -> {
                     final int season = json.getInt("season");
                     final JSONObject showJSON = json.getJSONObject("_embedded").getJSONObject("show");
                     if(season < 1000 && !showJSON.getString("status").equalsIgnoreCase("ended")) {

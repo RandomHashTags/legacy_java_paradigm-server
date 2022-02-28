@@ -9,7 +9,7 @@ import me.randomhashtags.worldlaws.recent.VideoGameUpdates;
 import me.randomhashtags.worldlaws.recent.software.console.PlayStation4Updates;
 import me.randomhashtags.worldlaws.recent.software.console.PlayStation5Updates;
 import me.randomhashtags.worldlaws.recent.software.other.AppleSoftwareUpdates;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 
 import java.time.LocalDate;
 import java.util.Arrays;
@@ -31,11 +31,11 @@ public enum RecentEvents {
         final long started = System.currentTimeMillis();
         final LocalDate lastWeek = LocalDate.now().minusDays(daysOffset);
         final ConcurrentHashMap<RecentEventType, ConcurrentHashMap<String, HashSet<String>>> allValues = new ConcurrentHashMap<>();
-        new ParallelStream<RecentEventController>().stream(Arrays.asList(events), controller -> {
+        new CompletableFutures<RecentEventController>().stream(Arrays.asList(events), controller -> {
             final HashSet<PreRecentEvent> preRecentEvents = controller.refreshHashSet(lastWeek);
             final HashSet<PreRecentEvent> newEvents = controller.getNewInformation(preRecentEvents);
             if(newEvents != null) {
-                new ParallelStream<PreRecentEvent>().stream(preRecentEvents, event -> {
+                new CompletableFutures<PreRecentEvent>().stream(preRecentEvents, event -> {
                     final RemoteNotificationCategory category = event.getRemoteNotificationCategory();
                     new RemoteNotification(category, false, category.getTitle(), event.getTitle(), event.getDescription());
                 });

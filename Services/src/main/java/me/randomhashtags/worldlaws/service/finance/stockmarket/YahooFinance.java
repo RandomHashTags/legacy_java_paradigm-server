@@ -3,7 +3,7 @@ package me.randomhashtags.worldlaws.service.finance.stockmarket;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.service.JSONDataValue;
 import me.randomhashtags.worldlaws.settings.Settings;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -99,7 +99,7 @@ public enum YahooFinance implements StockService {
         final JSONObject quoteResponse = json.getJSONObject("quoteResponse");
         final JSONArray results = quoteResponse.getJSONArray("result");
         final int max = results.length();
-        new ParallelStream<JSONObject>().stream(results.spliterator(), targetQuote -> {
+        new CompletableFutures<JSONObject>().stream(results.spliterator(), targetQuote -> {
             final String symbol = targetQuote.getString("symbol");
             final String shortName = targetQuote.getString("shortName");
             final String longName = targetQuote.getString("longName");

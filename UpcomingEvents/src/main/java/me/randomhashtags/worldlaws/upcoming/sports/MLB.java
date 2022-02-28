@@ -3,7 +3,7 @@ package me.randomhashtags.worldlaws.upcoming.sports;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.PreUpcomingEvent;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.upcoming.USAUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.MLBEvent;
@@ -35,7 +35,7 @@ public final class MLB extends USAUpcomingEventController {
             final Elements dates = doc.select("div.ScheduleCollectionGridstyle__SectionWrapper-sc-c0iua4-0");
             final int max = dates.size();
             if(max > 0) {
-                new ParallelStream<Element>().stream(dates, dateElement -> {
+                new CompletableFutures<Element>().stream(dates, dateElement -> {
                     final String previousElementString = dateElement.previousElementSibling().text();
                     final String[] values = previousElementString.split(" ");
                     final Month targetMonth = Month.valueOf(values[1].toUpperCase());

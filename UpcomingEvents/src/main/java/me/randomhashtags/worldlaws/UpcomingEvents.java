@@ -3,9 +3,10 @@ package me.randomhashtags.worldlaws;
 import me.randomhashtags.worldlaws.observances.Holidays;
 import me.randomhashtags.worldlaws.past.science.ScienceYearReview;
 import me.randomhashtags.worldlaws.politics.Elections;
+import me.randomhashtags.worldlaws.recent.software.other.AppleSoftwareUpdates;
 import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.server.ServerRequestTypeUpcomingEvents;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.education.WordOfTheDay;
@@ -24,7 +25,6 @@ import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.Arrays;
 import java.util.HashSet;
-import java.util.Map;
 import java.util.Optional;
 
 public final class UpcomingEvents implements WLServer {
@@ -73,11 +73,11 @@ public final class UpcomingEvents implements WLServer {
 
     private void test() {
         final long started = System.currentTimeMillis();
-        final MusicAlbums science = new MusicAlbums();
-        science.refresh();
-        for(Map.Entry<String, PreUpcomingEvent> test : science.getPreUpcomingEvents().entrySet()) {
-            WLLogger.logInfo("UpcomingEvents;test;key=" + test.getKey() + ";string=" + test.getValue().toStringWithImageURL(UpcomingEventType.MUSIC_ALBUM, null));
-        }
+        final AppleSoftwareUpdates neo = new AppleSoftwareUpdates();
+        final LocalDate date = LocalDate.now().minusMonths(2);
+        neo.refreshHashSet(date);
+        neo.refreshHashSet(date);
+        neo.refreshHashSet(date);
         WLLogger.logInfo("UpcomingEvents;test;took " + WLUtilities.getElapsedTime(started));
     }
 
@@ -179,7 +179,7 @@ public final class UpcomingEvents implements WLServer {
         }
         final LocalDate now = LocalDate.now();
         final HashSet<String> dates = getWeeklyEventDateStrings(now);
-        new ParallelStream<UpcomingEventController>().stream(CONTROLLERS, UpcomingEventController::refresh);
+        new CompletableFutures<UpcomingEventController>().stream(CONTROLLERS, UpcomingEventController::refresh);
         final JSONObject json = getEventsFromDates(dates);
         if(json != null) {
             weeklyEvents = json.toString();
@@ -191,7 +191,7 @@ public final class UpcomingEvents implements WLServer {
     }
     private JSONObject getEventsFromDates(HashSet<String> dateStrings) {
         final HashSet<String> values = new HashSet<>();
-        new ParallelStream<UpcomingEventController>().stream(CONTROLLERS, controller -> {
+        new CompletableFutures<UpcomingEventController>().stream(CONTROLLERS, controller -> {
             final String string = controller.getEventsFromDates(dateStrings);
             if(string != null) {
                 final String key = controller.getType().name().toLowerCase();

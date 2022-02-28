@@ -1,6 +1,6 @@
 {
   "performance": {
-    "maximum_parallel_threads": 40
+    "maximum_parallel_threads": 24
   },
   "server": {
     "uuid": "***REMOVED***",

@@ -5,7 +5,6 @@ import me.randomhashtags.worldlaws.earthquakes.WeatherAlerts;
 import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.server.ServerRequestTypeWeather;
 import me.randomhashtags.worldlaws.tracker.NASA_EONET;
-import me.randomhashtags.worldlaws.weather.country.WeatherUSA;
 
 public final class Weather implements WLServer {
     public static void main(String[] args) {
@@ -23,9 +22,10 @@ public final class Weather implements WLServer {
     }
 
     private void test() {
-        final WeatherUSA weather = WeatherUSA.INSTANCE;
-        final String string = weather.refresh();
-        WLLogger.logInfo("Weather;test;string=" + string);
+        final long started = System.currentTimeMillis();
+        final NASA_EONET earthquakes = NASA_EONET.INSTANCE;
+        earthquakes.refresh(APIVersion.v1);
+        WLLogger.logInfo("Weather;test;took=" + WLUtilities.getElapsedTime(started));
     }
 
     @Override

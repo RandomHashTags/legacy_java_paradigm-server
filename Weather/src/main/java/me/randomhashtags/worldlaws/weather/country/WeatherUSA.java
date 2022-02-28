@@ -4,7 +4,7 @@ import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.Location;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.weather.*;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -72,7 +72,7 @@ public enum WeatherUSA implements WeatherController {
 
                 final HashSet<String> zoneIDs = new HashSet<>();
                 final HashSet<JSONObject> jsons = new HashSet<>();
-                new ParallelStream<JSONObject>().stream(array.spliterator(), jsonAlert -> {
+                new CompletableFutures<JSONObject>().stream(array.spliterator(), jsonAlert -> {
                     final JSONObject properties = jsonAlert.getJSONObject("properties");
                     final JSONArray affectedZones = properties.getJSONArray("affectedZones");
                     zoneIDs.addAll(getZoneIDs(affectedZones));
@@ -145,7 +145,7 @@ public enum WeatherUSA implements WeatherController {
         final ConcurrentHashMap<String, ConcurrentHashMap<String, WeatherEvent>> subdivisionEventsMap = new ConcurrentHashMap<>();
         final ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<WeatherPreAlert>>> territoryPreAlertsMap = new ConcurrentHashMap<>();
 
-        new ParallelStream<JSONObject>().stream(jsons, json -> {
+        new CompletableFutures<JSONObject>().stream(jsons, json -> {
             final String id = json.getString("id").split("/alerts/")[1];
             final JSONObject properties = json.getJSONObject("properties");
 

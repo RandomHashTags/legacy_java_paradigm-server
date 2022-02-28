@@ -12,6 +12,7 @@ public final class EventSource {
 
     private String parseSiteName(String input) {
         return LocalServer.fixEscapeValues(input)
+                .replace("%26", "&")
                 .replace("%2B", "+")
                 .replace("%27", "'")
                 .replace("%C3%AD", "í")

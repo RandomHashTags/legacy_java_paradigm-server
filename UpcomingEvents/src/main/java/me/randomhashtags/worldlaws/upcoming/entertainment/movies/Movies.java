@@ -3,7 +3,7 @@ package me.randomhashtags.worldlaws.upcoming.entertainment.movies;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.service.IMDbService;
 import me.randomhashtags.worldlaws.service.WikipediaDocument;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.MovieEvent;
@@ -227,7 +227,7 @@ public final class Movies extends UpcomingEventController implements IMDbService
             add("youtubeVideoIDs");
         }};
         final HashMap<String, Object> values = new HashMap<>();
-        new ParallelStream<String>().stream(set, request -> {
+        new CompletableFutures<String>().stream(set, request -> {
             Object object = null;
             switch (request) {
                 case "imdbInfo":
@@ -252,7 +252,7 @@ public final class Movies extends UpcomingEventController implements IMDbService
     private String getRatings(String movieTitle) {
         final MovieRatingType[] ratings = MovieRatingType.values();
         final HashMap<String, String> values = new HashMap<>();
-        new ParallelStream<MovieRatingType>().stream(Arrays.asList(ratings), rating -> {
+        new CompletableFutures<MovieRatingType>().stream(Arrays.asList(ratings), rating -> {
             final String ratingName = rating.getName();
             rating.load();
             final String string = rating.get(movieTitle);

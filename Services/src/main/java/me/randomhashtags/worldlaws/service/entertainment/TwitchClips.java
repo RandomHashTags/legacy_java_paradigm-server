@@ -3,7 +3,7 @@ package me.randomhashtags.worldlaws.service.entertainment;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.service.RefreshableService;
 import me.randomhashtags.worldlaws.settings.Settings;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -77,7 +77,7 @@ public enum TwitchClips implements RefreshableService {
         query.put("limit", Integer.toString(Settings.PrivateValues.Twitch.getRequestLimit()));
         query.put("trending", "true");
         final JSONObject clipsJSON = new JSONObject();
-        new ParallelStream<String>().stream(clipTypes, type -> {
+        new CompletableFutures<String>().stream(clipTypes, type -> {
             final JSONObject typeJSON = refreshKraken(headers, query, type);
             if(typeJSON != null) {
                 clipsJSON.put(type, typeJSON);
@@ -100,7 +100,7 @@ public enum TwitchClips implements RefreshableService {
         if(json != null) {
             final JSONArray clipsArray = json.getJSONArray("clips");
             final JSONObject clips = new JSONObject();
-            new ParallelStream<JSONObject>().stream(clipsArray.spliterator(), clipJSON -> {
+            new CompletableFutures<JSONObject>().stream(clipsArray.spliterator(), clipJSON -> {
                 final String slug = clipJSON.getString("slug");
 
                 final String clipURL = clipJSON.getString("url"), embedHTML = clipJSON.getString("embed_html");

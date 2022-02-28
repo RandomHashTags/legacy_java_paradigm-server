@@ -3,7 +3,7 @@ package me.randomhashtags.worldlaws.service;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -95,7 +95,7 @@ public final class WikipediaCountryService implements CountryService {
         if(featuredPicturesFolder != null) {
             final String[] types = new String[] { "nationalAnimal", "nationalTree", "featured" };
             final HashSet<String> values = new HashSet<>();
-            new ParallelStream<String>().stream(Arrays.asList(types), type -> {
+            new CompletableFutures<String>().stream(Arrays.asList(types), type -> {
                 final JSONObject json = getPictures(type, tag);
                 if(json != null) {
                     values.add("\"" + type + "\":" + json.toString());

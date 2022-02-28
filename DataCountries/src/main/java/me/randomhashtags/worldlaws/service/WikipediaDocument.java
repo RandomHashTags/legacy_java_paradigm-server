@@ -1,15 +1,13 @@
 package me.randomhashtags.worldlaws.service;
 
-import me.randomhashtags.worldlaws.EventSource;
-import me.randomhashtags.worldlaws.EventSources;
-import me.randomhashtags.worldlaws.Folder;
-import me.randomhashtags.worldlaws.Jsoupable;
+import me.randomhashtags.worldlaws.*;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.Node;
 import org.jsoup.select.Elements;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 import java.util.function.Predicate;
 
@@ -38,6 +36,12 @@ public final class WikipediaDocument {
     }
     public Document getDocument() {
         return document;
+    }
+    public Elements getAllElements() {
+        return document != null ? document.getAllElements() : null;
+    }
+    public boolean exists() {
+        return document != null;
     }
 
     public Elements select(String cssQuery) {
@@ -149,8 +153,64 @@ public final class WikipediaDocument {
         return null;
     }
 
+    public HashMap<String, EventSource> getReferences(String identifier) {
+        if(!exists()) {
+            return null;
+        }
+        final Element reflistElement = document.selectFirst("div.reflist");;
+        HashMap<String, EventSource> references = null;
+        if(reflistElement != null) {
+            references = new HashMap<>();
+            final Elements listElements = reflistElement.select("ol.references li");
+            for(Element listElement : listElements) {
+                final String[] numberValues = listElement.attr("id").split("-");
+                final String number = numberValues[numberValues.length-1];
+                final Element referenceTextElement = listElement.selectFirst("span.reference-text");
+                Element sourceElement = referenceTextElement.selectFirst("cite.citation");
+                if(sourceElement == null) {
+                    sourceElement = referenceTextElement;
+                }
+                final Element ahref = sourceElement.selectFirst("a.external");
+                if(ahref != null) {
+                    final String url = ahref.attr("href");
+                    String title = ahref.text();
+                    if(sourceElement.text().toLowerCase().startsWith("clinical trial number")) {
+                        title = "Clinical Trial Number " + title;
+                    }
+                    final Element italicElement = sourceElement.selectFirst("i");
+                    String siteName = italicElement != null ? italicElement.text() : "Unknown Publisher";
+                    if(italicElement == null) {
+                        final String[] values = sourceElement.text().split("\\. ");
+                        if(values.length >= 2) {
+                            if(values[1].matches("[0-9]+ [a-zA-Z]+ [0-9]+")) {
+                                if(values[0].contains(":")) {
+                                    siteName = null;
+                                } else if(values[0].contains(" - ")) {
+                                    final String[] test = values[0].split(" - ");
+                                    siteName = test[test.length-1];
+                                }
+                                if(siteName != null) {
+                                    siteName = siteName.replace("\"", "");
+                                }
+                                WLLogger.logInfo("WikipediaDocument;parseReferences;italicElement == null;identifier=" + identifier + ";number=" + number + ";values[1]=" + values[1] + ";siteName=" + siteName);
+                            } else {
+                                siteName = values[1];
+                            }
+                        }
+                    }
+                    final String realSiteName = (siteName != null ? siteName + ": " : "") + title;
+                    final EventSource source = new EventSource(realSiteName, url);
+                    references.put(number, source);
+                } else {
+                    WLLogger.logInfo("WikipediaDocument;parseReferences;ahref == null;identifier=" + identifier + ";number=" + number);
+                }
+            }
+        }
+        return references;
+    }
+
     public EventSources getExternalLinks() {
-        if(document == null) {
+        if(!exists()) {
             return null;
         }
         final Element targetElement = document.selectFirst("div.mw-parser-output");
@@ -200,7 +260,8 @@ public final class WikipediaDocument {
                                     default:
                                         break;
                                 }
-                            } else if(hrefTextLowercase.contains("official ") && (hrefTextLowercase.contains(" website")) || hrefTextLowercase.contains(" app")) {
+                            } else if(hrefTextLowercase.contains("official ") && (hrefTextLowercase.contains(" website") || hrefTextLowercase.contains(" app"))
+                                    || hrefTextLowercase.contains("website")) {
                                 siteName = hrefText;
                             }
                             break;

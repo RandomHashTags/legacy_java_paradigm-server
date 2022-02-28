@@ -4,7 +4,7 @@ import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.RequestMethod;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.SpaceEvent;
@@ -32,7 +32,7 @@ public final class SpaceEvents extends LoadedUpcomingEventController {
             if(max > 0) {
                 final LocalDate endingDate = LocalDate.now().plusWeeks(1);
                 final EventSources sources = new EventSources(new EventSource("The Space Devs", "https://thespacedevs.com"));
-                new ParallelStream<JSONObject>().stream(resultsArray.spliterator(), resultJSON -> {
+                new CompletableFutures<JSONObject>().stream(resultsArray.spliterator(), resultJSON -> {
                     final String[] dateValues = resultJSON.getString("date").split("T")[0].split("-");
                     final int year = Integer.parseInt(dateValues[0]), day = Integer.parseInt(dateValues[2]);
                     final Month month = Month.of(Integer.parseInt(dateValues[1]));

@@ -6,7 +6,7 @@ import me.randomhashtags.worldlaws.country.usa.USBillStatus;
 import me.randomhashtags.worldlaws.country.usa.USChamber;
 import me.randomhashtags.worldlaws.country.usa.USLaws;
 import me.randomhashtags.worldlaws.country.usa.USPoliticians;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -124,7 +124,7 @@ public enum USCongress implements Jsoupable, Jsonable {
             final int max = items.size();
             if(max > 0) {
                 final HashSet<PreCongressBill> bills = new HashSet<>();
-                new ParallelStream<Element>().stream(items, element -> {
+                new CompletableFutures<Element>().stream(items, element -> {
                     final PreCongressBill bill = getPreCongressBillFrom(element);
                     bills.add(bill);
                 });
@@ -340,7 +340,7 @@ public enum USCongress implements Jsoupable, Jsonable {
     private String getBillSubjects(Elements allInfoContent) {
         final Elements table = allInfoContent.get(6).select("div.search-column-main div ul.plain li a[href]");
         final HashSet<String> subjects = new HashSet<>();
-        table.parallelStream().forEach(element -> subjects.add(element.text()));
+        table.forEach(element -> subjects.add(element.text()));
         final StringBuilder builder = new StringBuilder("[");
         boolean isFirst = true;
         for(String subject : subjects) {
@@ -358,7 +358,7 @@ public enum USCongress implements Jsoupable, Jsonable {
             if(!table.isEmpty()) {
                 final USPoliticians politicians = USPoliticians.INSTANCE;
                 final HashSet<String> cosponsors = new HashSet<>();
-                new ParallelStream<Element>().stream(table, elements -> {
+                new CompletableFutures<Element>().stream(table, elements -> {
                     final String profileSlug = elements.attr("href").split("https://www\\.congress\\.gov")[1];
                     final String string = politicians.get(elements, profileSlug);
                     cosponsors.add(string);

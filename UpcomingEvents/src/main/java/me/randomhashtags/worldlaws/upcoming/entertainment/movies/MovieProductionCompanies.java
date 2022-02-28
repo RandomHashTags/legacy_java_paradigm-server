@@ -3,7 +3,7 @@ package me.randomhashtags.worldlaws.upcoming.entertainment.movies;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.service.WikipediaDocument;
 import me.randomhashtags.worldlaws.settings.ResponseVersions;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.nodes.Element;
@@ -264,7 +264,7 @@ public enum MovieProductionCompanies {
     private static JSONObject loadJSON() {
         final MovieProductionCompanies[] companies = values();
         final JSONObject companiesJSON = new JSONObject();
-        new ParallelStream<MovieProductionCompanies>().stream(Arrays.asList(companies), company -> {
+        new CompletableFutures<MovieProductionCompanies>().stream(Arrays.asList(companies), company -> {
             final JSONObject details = company.getDetails();
             companiesJSON.put(company.getOriginalWikipediaName(), details);
         });

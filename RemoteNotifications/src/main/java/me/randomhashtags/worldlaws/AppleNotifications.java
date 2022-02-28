@@ -2,7 +2,7 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.notifications.RemoteNotification;
 import me.randomhashtags.worldlaws.settings.Settings;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -102,7 +102,7 @@ public enum AppleNotifications implements DeviceTokenController {
 
             final String key = Settings.PrivateValues.Apple.isProductionMode() ? "" : "sandbox.";
             final String url = "https://api." + key + "push.apple.com:443";
-            new ParallelStream<String>().stream(deviceTokens.spliterator(), deviceToken -> {
+            new CompletableFutures<String>().stream(deviceTokens.spliterator(), deviceToken -> {
                 final HashMap<String, String> headers = new HashMap<>(primaryHeaders);
                 headers.put("path", "/3/device/" + deviceToken);
                 final JSONObject postJSON = requestJSONObject(url, RequestMethod.POST, headers);

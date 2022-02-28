@@ -5,7 +5,7 @@ import me.randomhashtags.worldlaws.request.server.ServerRequestTypeServices;
 import me.randomhashtags.worldlaws.service.entertainment.TwitchClips;
 import me.randomhashtags.worldlaws.service.finance.stockmarket.StockService;
 import me.randomhashtags.worldlaws.service.finance.stockmarket.YahooFinance;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 
 import java.util.Arrays;
 import java.util.HashSet;
@@ -92,7 +92,7 @@ public final class Services implements WLServer {
             add("movers");
         }};
         final HashSet<String> values = new HashSet<>();
-        new ParallelStream<String>().stream(requests, request -> {
+        new CompletableFutures<String>().stream(requests, request -> {
             final String string = getStockMarketResponse(version, request);
             if(string != null) {
                 final String target = "\"" + request + "\":" + string;

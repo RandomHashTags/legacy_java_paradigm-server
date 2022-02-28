@@ -8,7 +8,7 @@ import me.randomhashtags.worldlaws.info.rankings.CountryRankingService;
 import me.randomhashtags.worldlaws.service.CountryService;
 import me.randomhashtags.worldlaws.service.CountryServices;
 import me.randomhashtags.worldlaws.service.SovereignStateService;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
@@ -152,7 +152,7 @@ public final class CustomCountry implements SovereignState {
         }
         if(!LOADED_NON_STATIC_INFORMATION) {
             LOADED_NON_STATIC_INFORMATION = true;
-            new ParallelStream<CountryService>().stream(CountryServices.NONSTATIC_SERVICES, SovereignStateService::loadData);
+            new CompletableFutures<CountryService>().stream(CountryServices.NONSTATIC_SERVICES, SovereignStateService::loadData);
         }
         final SovereignStateInformationType resourcesType = SovereignStateInformationType.RESOURCES_NONSTATIC;
         final String backendID = getBackendID();
@@ -163,7 +163,7 @@ public final class CustomCountry implements SovereignState {
             }
         }
         final WLCountry country = getWLCountry();
-        new ParallelStream<CountryService>().stream(CountryServices.NONSTATIC_SERVICES, service -> {
+        new CompletableFutures<CountryService>().stream(CountryServices.NONSTATIC_SERVICES, service -> {
             final SovereignStateInfo info = service.getInfo();
             final String countryIdentifier;
             String string = null;
@@ -211,7 +211,7 @@ public final class CustomCountry implements SovereignState {
         final SovereignStateInformationType resourcesInformationType = SovereignStateInformationType.RESOURCES_STATIC;
         final String backendID = getBackendID();
 
-        new ParallelStream<CountryService>().stream(services, service -> {
+        new CompletableFutures<CountryService>().stream(services, service -> {
             final SovereignStateInfo info = service.getInfo();
             final String countryIdentifier;
             String string = null;
@@ -302,7 +302,7 @@ public final class CustomCountry implements SovereignState {
                 json.put("default_supports_government", true);
             }
             final JSONObject subdivisionsJSON = new JSONObject();
-            new ParallelStream<SovereignStateSubdivision>().stream(Arrays.asList(subdivisions), subdivision -> {
+            new CompletableFutures<SovereignStateSubdivision>().stream(Arrays.asList(subdivisions), subdivision -> {
                 String name = subdivision.getRealName();
                 if(name == null) {
                     name = subdivision.getName();

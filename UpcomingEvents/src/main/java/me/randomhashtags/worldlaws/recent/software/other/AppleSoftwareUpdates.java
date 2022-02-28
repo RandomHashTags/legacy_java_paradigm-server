@@ -8,7 +8,7 @@ import me.randomhashtags.worldlaws.notifications.RemoteNotificationCategory;
 import me.randomhashtags.worldlaws.recent.PreRecentEvent;
 import me.randomhashtags.worldlaws.recent.RecentEventController;
 import me.randomhashtags.worldlaws.recent.RecentEventType;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -39,7 +39,7 @@ public final class AppleSoftwareUpdates extends RecentEventController {
                     put(" (Details available soon)", "Details available soon");
                     put(" This update has no published CVE entries.", "This update doesn't share its patch notes.");
                 }};
-                new ParallelStream<Element>().stream(updateElements, updateElement -> {
+                new CompletableFutures<Element>().stream(updateElements.spliterator(), updateElement -> {
                     final Elements tds = updateElement.select("td");
                     final Element releaseDateElement = tds.get(2);
                     final String releaseDateString = releaseDateElement.text();

@@ -29,9 +29,10 @@ public final class RocketLaunchEvent extends UpcomingEvent {
 
     @Override
     public String getPropertiesJSONObject() {
+        final String probabilityString = probability >= 0 ? " (" + probability + "% probability of happening)" : "";
         return "{" +
                 (mission != null ? mission.toString() + "," : "") +
-                (probability >= 0 ? "\"" + UpcomingEventValue.ROCKET_LAUNCH_PROBABILITY.getKey() + "\":\" (" + probability + "% probability of happening)\"," : "") +
+                "\"" + UpcomingEventValue.ROCKET_LAUNCH_PROBABILITY.getKey() + "\":\"" + probabilityString + "\"," +
                 "\"" + UpcomingEventValue.ROCKET_LAUNCH_WINDOW_START.getKey() + "\":\"" + windowStart + "\"," +
                 "\"" + UpcomingEventValue.ROCKET_LAUNCH_WINDOW_END.getKey() + "\":\"" + windowEnd + "\"," +
                 "\"" + UpcomingEventValue.ROCKET_LAUNCH_EXACT_DAY.getKey() + "\":\"" + exactDay + "\"," +
