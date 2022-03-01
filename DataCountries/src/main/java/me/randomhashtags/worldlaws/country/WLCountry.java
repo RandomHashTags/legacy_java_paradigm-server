@@ -287,7 +287,7 @@ public enum WLCountry {
 
     public static WLCountry valueOfString(String string) {
         for(WLCountry country : values()) {
-            if(string.equalsIgnoreCase(country.getBackendID()) || string.equalsIgnoreCase(country.getISOAlpha2()) || string.equalsIgnoreCase(country.getISOAlpha3())) {
+            if(string.equalsIgnoreCase(country.getBackendID()) || string.equalsIgnoreCase(country.getISOAlpha2Official()) || string.equalsIgnoreCase(country.getISOAlpha3())) {
                 return country;
             }
             final HashSet<String> aliases = country.getAliases();
@@ -352,8 +352,14 @@ public enum WLCountry {
         return WLGovernmentWebsite.get(this);
     }
 
-    public String getISOAlpha2() {
-        return WLCountryISOAlpha2.get(this);
+    public String getISOAlpha2Official() {
+        return WLCountryISOAlpha2.getOfficial(this);
+    }
+    public String getISOAlpha2Alias() {
+        return WLCountryISOAlpha2.getAlias(this);
+    }
+    public String getISOAlpha2ParentGroup() {
+        return WLCountryISOAlpha2.getParentGroup(this);
     }
     public String getISOAlpha3() {
         return WLCountryISOAlpha3.get(this);

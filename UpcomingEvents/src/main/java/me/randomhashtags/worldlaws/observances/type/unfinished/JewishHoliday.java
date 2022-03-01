@@ -33,12 +33,16 @@ public enum JewishHoliday implements IHoliday {
 
     @Override
     public String[] getAliases() {
-        return null;
+        switch (this) {
+            case HANUKKAH: return collectAliases("Festival of Lights");
+            default: return null;
+        }
     }
 
     @Override
     public EventDate getDate(WLCountry country, int year) {
         switch (this) {
+            case HANUKKAH: return null;
         }
         return null;
     }

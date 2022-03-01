@@ -22,37 +22,69 @@ public class WikipediaEvent extends JSONObject {
         }
     }
 
-    public final void updateMentionedCountries() {
+    public final void updateMentionedCountries(WLCountry parentCountry) {
         final WLCountry[] countries = WLCountry.values();
         final String description = getString("description"), descriptionLowercase = description.toLowerCase();
         final JSONObject mentionedSovereignStates = new JSONObject();
         for(WLCountry country : countries) {
-            final String isoAlpha2 = country.getISOAlpha2(), isoAlpha3 = country.getISOAlpha3();
-            String countryBackendID = null;
-            if(isoAlpha2 != null && description.contains(isoAlpha2)
-                    || isoAlpha3 != null && description.contains(isoAlpha3)
-                    || descriptionLowercase.contains(country.getShortName().toLowerCase())
-            ) {
-                countryBackendID = country.getBackendID();
-            } else {
-                final HashSet<String> aliases = country.getAliases();
-                if(aliases != null) {
-                    for(String alias : aliases) {
-                        if(descriptionLowercase.contains(alias.toLowerCase())) {
-                            countryBackendID = country.getBackendID();
-                            break;
-                        }
-                    }
-                }
-            }
+            final String countryBackendID = getMentionedCountryBackendID(description, descriptionLowercase, country);
             if(countryBackendID != null) {
                 final JSONArray subdivisions = getMentionedSubdivisions(descriptionLowercase, country);
+                mentionedSovereignStates.put(countryBackendID, subdivisions);
+            }
+        }
+        if(parentCountry != null) {
+            final JSONArray subdivisions = getMentionedSubdivisions(descriptionLowercase, parentCountry);
+            final String countryBackendID = parentCountry.getBackendID();
+            if(!mentionedSovereignStates.has(countryBackendID) && !subdivisions.isEmpty()) {
                 mentionedSovereignStates.put(countryBackendID, subdivisions);
             }
         }
         if(!mentionedSovereignStates.isEmpty()) {
             put("mentionedSovereignStates", mentionedSovereignStates);
         }
+    }
+    private String getMentionedCountryBackendID(String description, String descriptionLowercase, WLCountry country) {
+        final String isoAlpha2Official = country.getISOAlpha2Official();
+        final String isoAlpha2Alias = country.getISOAlpha2Alias();
+        final String isoAlpha2ParentGroup = country.getISOAlpha2ParentGroup();
+        final String isoAlpha3 = country.getISOAlpha3();
+        String countryBackendID = null;
+        if(isoAlpha2Official != null && containsISO(description, isoAlpha2Official)
+                || isoAlpha2Alias != null && containsISO(description, isoAlpha2Alias)
+                || isoAlpha2ParentGroup != null && containsISO(description, isoAlpha2ParentGroup)
+                || isoAlpha3 != null && containsISO(description, isoAlpha3)
+                || descriptionLowercase.contains(country.getShortName().toLowerCase())
+        ) {
+            countryBackendID = country.getBackendID();
+        } else {
+            final HashSet<String> aliases = country.getAliases();
+            if(aliases != null) {
+                for(String alias : aliases) {
+                    if(descriptionLowercase.contains(alias.toLowerCase())) {
+                        countryBackendID = country.getBackendID();
+                        break;
+                    }
+                }
+            }
+        }
+        return countryBackendID;
+    }
+    private boolean containsISO(String input, String isoAlpha) {
+        return containsString(input,
+                " " + isoAlpha + " ",
+                " " + isoAlpha + ",",
+                " " + isoAlpha + ".",
+                " " + isoAlpha + ";"
+        );
+    }
+    private boolean containsString(String input, String...strings) {
+        for(String string : strings) {
+            if(input.contains(string)) {
+                return true;
+            }
+        }
+        return false;
     }
     private JSONArray getMentionedSubdivisions(String description, WLCountry country) {
         final SovereignStateSubdivision[] subdivisions = country.getSubdivisions();
@@ -71,7 +103,7 @@ public class WikipediaEvent extends JSONObject {
         return array;
     }
 
-    public static HashMap<EventDate, List<WikipediaEvent>> parseMonthEvents(String identifier, int year, Elements dayElements, HashMap<String, EventSource> references) {
+    public static HashMap<EventDate, List<WikipediaEvent>> parseMonthEvents(String identifier, int year, WLCountry parentCountry, Elements dayElements, HashMap<String, EventSource> references) {
         final HashMap<EventDate, List<WikipediaEvent>> map = new HashMap<>();
         for(Element dayElement : dayElements) {
             final String dayText = dayElement.text();
@@ -101,7 +133,7 @@ public class WikipediaEvent extends JSONObject {
         }
         for(Map.Entry<EventDate, List<WikipediaEvent>> bruh : map.entrySet()) {
             for(WikipediaEvent event : bruh.getValue()) {
-                event.updateMentionedCountries();
+                event.updateMentionedCountries(parentCountry);
             }
         }
         return map;
@@ -111,7 +143,9 @@ public class WikipediaEvent extends JSONObject {
         final List<WikipediaEvent> events = new ArrayList<>();
         final Element innerList = listElement.selectFirst("ul");
         if(innerList != null) {
-            for(Element element : innerList.select("li")) {
+            final Element thirdList = innerList.selectFirst("ul");
+            final Elements targetElements = (thirdList != null ? thirdList : innerList).select("li");
+            for(Element element : targetElements) {
                 final String text = LocalServer.removeWikipediaReferences(element.text());
                 final EventSources externalLinks = getExternalLinks(element), sources = getSources(references, element);
                 final WikipediaEvent event = new WikipediaEvent(text, externalLinks, sources);

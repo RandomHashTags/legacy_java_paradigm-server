@@ -7,7 +7,7 @@ public enum UpdateIntervals {
 
     public static final long SAVE_STATISTICS = TimeUnit.HOURS.toMillis(1);
 
-    public enum Proxy {
+    public enum ServerHandler {
         ;
         public static final long PING = TimeUnit.MINUTES.toMillis(10);
         public static final long HOME = TimeUnit.MINUTES.toMillis(10);
@@ -31,7 +31,6 @@ public enum UpdateIntervals {
 
     public enum UpcomingEvents {
         ;
-        public static final long HOME = TimeUnit.HOURS.toMillis(1);
         public static final long WEEKLY_EVENTS = TimeUnit.DAYS.toMillis(1);
     }
 

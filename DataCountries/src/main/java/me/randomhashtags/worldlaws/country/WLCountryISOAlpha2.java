@@ -3,7 +3,7 @@ package me.randomhashtags.worldlaws.country;
 public enum WLCountryISOAlpha2 {
     ;
 
-    public static String get(WLCountry country) {
+    public static String getOfficial(WLCountry country) {
         switch (country) {
             case ABKHAZIA: return null;
             case ARTSAKH: return null;
@@ -274,6 +274,51 @@ public enum WLCountryISOAlpha2 {
             case ZIMBABWE: return "ZW";
 
             default: return null;
+        }
+    }
+    public static String getAlias(WLCountry country) {
+        switch (country) {
+            case GREECE: return "EL";
+            case UNITED_KINGDOM: return "UK";
+            default: return null;
+        }
+    }
+
+    public static String getParentGroup(WLCountry country) {
+        switch (country) {
+            case AUSTRIA:
+            case BELGIUM:
+            case BULGARIA:
+            case CROATIA:
+            case CYPRUS:
+            case CZECH_REPUBLIC:
+            case DENMARK:
+            case ESTONIA:
+            case FINLAND:
+            case FRANCE:
+            case GERMANY:
+            case GREECE:
+            case HUNGARY:
+            case ITALY:
+            case LATVIA:
+            case LITHUANIA:
+            case LUXEMBOURG:
+            case MALTA:
+            case NETHERLANDS:
+            case POLAND:
+            case PORTUGAL:
+            case IRELAND:
+            case ROMANIA:
+            case SLOVAKIA:
+            case SLOVENIA:
+            case SPAIN:
+            case SWEDEN:
+
+            case GUADELOUPE:
+            case SAINT_MARTIN:
+                return "EU";
+            default:
+                return null;
         }
     }
 }

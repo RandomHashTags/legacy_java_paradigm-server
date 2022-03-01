@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
+import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.currency.CurrencyExchange;
 import me.randomhashtags.worldlaws.info.CountryInfoKeys;
 import me.randomhashtags.worldlaws.info.CountryValues;
@@ -18,10 +19,7 @@ import me.randomhashtags.worldlaws.info.service.nonstatic.CIAServices;
 import me.randomhashtags.worldlaws.info.service.nonstatic.TravelAdvisories;
 import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.server.ServerRequestTypeCountries;
-import me.randomhashtags.worldlaws.service.CountryService;
-import me.randomhashtags.worldlaws.service.CountryServices;
-import me.randomhashtags.worldlaws.service.SovereignStateService;
-import me.randomhashtags.worldlaws.service.WikipediaCountryService;
+import me.randomhashtags.worldlaws.service.*;
 import me.randomhashtags.worldlaws.settings.ResponseVersions;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONArray;
@@ -58,11 +56,9 @@ public final class Countries implements WLServer {
     }
 
     private void test() {
-        final long started = System.currentTimeMillis();
-        CountryAvailabilities.INSTANCE.getCountryAvailabilities("unitedstates");
-        CountryAvailabilities.INSTANCE.getCountryAvailabilities("unitedstates");
-        CountryAvailabilities.INSTANCE.getCountryAvailabilities("unitedstates");
-        WLLogger.logInfo("Countries;test;took " + WLUtilities.getElapsedTime(started));
+        final JSONObject json = CountryYearReview.INSTANCE.getCountryEventsJSON(2021, WLCountry.UNITED_STATES);
+        final String string = json != null ? json.toString() : "null";
+        WLLogger.logInfo("Countries;test;string=" + string);
     }
 
     @Override

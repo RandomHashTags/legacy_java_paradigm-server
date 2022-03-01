@@ -178,7 +178,7 @@ public final class ServerHandler implements UserServer {
     @Override
     public HashMap<String, Runnable> getCustomUserCommands() {
         final HashMap<String, Runnable> map = new HashMap<>();
-        map.put("startmaintenance", () -> setMaintenanceMode(true, "test"));
+        map.put("startmaintenance", () -> setMaintenanceMode(true, "Manual updates in progress, please wait a few minutes :)"));
         map.put("endmaintenance", () -> setMaintenanceMode(false, null));
         map.put("shutdown", ServerStatuses::shutdownServers);
         map.put("spinup", ServerStatuses::spinUpServers);
@@ -190,7 +190,7 @@ public final class ServerHandler implements UserServer {
 
     private String getPingResponse() {
         if(PING_RESPONSE == null) {
-            final long interval = UpdateIntervals.Proxy.PING;
+            final long interval = UpdateIntervals.ServerHandler.PING;
             final Timer timer = WLUtilities.getTimer(null, interval, ServerHandler::updatePingResponse);
             timers.add(timer);
 
@@ -310,7 +310,7 @@ public final class ServerHandler implements UserServer {
     private static String updateHomeResponse(APIVersion version, boolean isUpdate, RequestMethod method, HashMap<String, String> headers) {
         final long started = System.currentTimeMillis();
         if(!isUpdate) {
-            final long interval = UpdateIntervals.Proxy.HOME;
+            final long interval = UpdateIntervals.ServerHandler.HOME;
             final Timer timer = WLUtilities.getTimer(null, interval, () -> updateHomeResponse(version, true, method, headers));
             INSTANCE.timers.add(timer);
         }

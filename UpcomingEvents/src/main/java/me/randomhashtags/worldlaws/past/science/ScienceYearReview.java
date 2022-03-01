@@ -106,7 +106,7 @@ public final class ScienceYearReview extends LoadedUpcomingEventController {
         final JSONObject json = new JSONObject();
         for(Element table : tables) {
             final Elements dayElements = table.select(targetQuery);
-            final HashMap<EventDate, List<WikipediaEvent>> map = WikipediaEvent.parseMonthEvents(identifier, year, dayElements, references);
+            final HashMap<EventDate, List<WikipediaEvent>> map = WikipediaEvent.parseMonthEvents(identifier, year, null, dayElements, references);
             for(Map.Entry<EventDate, List<WikipediaEvent>> entry : map.entrySet()) {
                 final EventDate date = entry.getKey();
                 final String dateString = date.getDateString();

@@ -141,7 +141,7 @@ public final class UpcomingEvents implements WLServer {
 
     @Override
     public long getHomeResponseUpdateInterval() {
-        return UpdateIntervals.UpcomingEvents.HOME;
+        return 0;
     }
 
     private String getEventTypesJSON() {
@@ -164,6 +164,12 @@ public final class UpcomingEvents implements WLServer {
         }
         return weeklyEvents;
     }
+    private void refreshData() {
+        Holidays.INSTANCE.refreshNearHolidays();
+        refreshEventsFromThisWeek(false);
+        final String serverName = "UpcomingEvents";
+        autoRefreshHome(serverName, System.currentTimeMillis(), serverName, TargetServer.UPCOMING_EVENTS, APIVersion.getLatest());
+    }
     private void refreshEventsFromThisWeek(boolean registerAutoUpdates) {
         final long started = System.currentTimeMillis();
         if(registerAutoUpdates) {
@@ -172,10 +178,7 @@ public final class UpcomingEvents implements WLServer {
                     .withMinute(0)
                     .withSecond(10)
                     .withNano(0);
-            registerFixedTimer(tomorrow, UpdateIntervals.UpcomingEvents.WEEKLY_EVENTS, () -> {
-                Holidays.INSTANCE.refreshNearHolidays();
-                refreshEventsFromThisWeek(false);
-            });
+            registerFixedTimer(tomorrow, UpdateIntervals.UpcomingEvents.WEEKLY_EVENTS, this::refreshData);
         }
         final LocalDate now = LocalDate.now();
         final HashSet<String> dates = getWeeklyEventDateStrings(now);

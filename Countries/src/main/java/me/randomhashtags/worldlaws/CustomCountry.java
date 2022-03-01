@@ -325,7 +325,7 @@ public final class CustomCountry implements SovereignState {
         if(wlcountry != null) {
             aliases = wlcountry.getAliases();
             timezones = wlcountry.getTimeZones();
-            isoAlpha2 = wlcountry.getISOAlpha2();
+            isoAlpha2 = wlcountry.getISOAlpha2Official();
             isoAlpha3 = wlcountry.getISOAlpha3();
             currentGovernmentAdministration = LawUtilities.getCurrentAdministrationVersion(wlcountry);
         }

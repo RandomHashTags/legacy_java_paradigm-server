@@ -43,6 +43,7 @@ public enum WLCountrySocialMedia {
         public String get(WLCountry country) {
             switch (country) {
                 case CANADA: return "Canada";
+                case GUADELOUPE: return "CRGuadeloupe";
                 default: return null;
             }
         }
@@ -57,12 +58,13 @@ public enum WLCountrySocialMedia {
 
         @Override
         public String getURLPrefix() {
-            return "https://www.youtube.com/c/";
+            return "https://www.youtube.com/channel/";
         }
 
         @Override
         public String get(WLCountry country) {
             switch (country) {
+                case GUADELOUPE: return "UCvgAUedCpWtB_0Z3pUI7_og";
                 default: return null;
             }
         }

@@ -34,32 +34,30 @@ public enum CountryYearReview implements RestAPI {
         });
         return json;
     }
-    private JSONObject getCountryEventsJSON(int year, WLCountry country) {
+    public JSONObject getCountryEventsJSON(int year, WLCountry country) {
         final String countryName = (country.getShortNamePrefix() + country.getShortName()).replace(" ", "_");
         final String identifier = "CountryYearReview,countryName=" + countryName + ",year=" + year;
         final String url = "https://en.wikipedia.org/wiki/" + year + "_in_" + countryName;
         final WikipediaDocument doc = new WikipediaDocument(url);
-        final Elements elements = doc.getAllElements();
-        if(elements != null) {
-            elements.removeIf(element -> element.hasClass("thumb"));
-            final Elements dayElements = elements.select("h3 + ul li");
-            if(!dayElements.isEmpty()) {
-                final HashMap<String, EventSource> references = doc.getReferences(identifier);
-                final JSONObject json = new JSONObject();
-                final HashMap<EventDate, List<WikipediaEvent>> map = WikipediaEvent.parseMonthEvents(identifier, year, dayElements, references);
-                for(Map.Entry<EventDate, List<WikipediaEvent>> entry : map.entrySet()) {
-                    final EventDate date = entry.getKey();
-                    final String dateString = date.getDateString();
-                    if(!json.has(dateString)) {
-                        json.put(dateString, new JSONArray());
-                    }
-                    final List<WikipediaEvent> events = entry.getValue();
-                    for(WikipediaEvent event : events) {
-                        json.getJSONArray(dateString).put(event);
-                    }
+        final Elements elements = doc.selectFirst("div.mw-parser-output").children();
+        elements.removeIf(element -> element.hasClass("thumb"));
+        final Elements dayElements = elements.select("ul li");
+        if(!dayElements.isEmpty()) {
+            final HashMap<String, EventSource> references = doc.getReferences(identifier);
+            final JSONObject json = new JSONObject();
+            final HashMap<EventDate, List<WikipediaEvent>> map = WikipediaEvent.parseMonthEvents(identifier, year, country, dayElements, references);
+            for(Map.Entry<EventDate, List<WikipediaEvent>> entry : map.entrySet()) {
+                final EventDate date = entry.getKey();
+                final String dateString = date.getDateString();
+                if(!json.has(dateString)) {
+                    json.put(dateString, new JSONArray());
                 }
-                return json;
+                final List<WikipediaEvent> events = entry.getValue();
+                for(WikipediaEvent event : events) {
+                    json.getJSONArray(dateString).put(event);
+                }
             }
+            return json;
         }
         return null;
     }

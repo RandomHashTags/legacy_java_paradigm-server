@@ -136,11 +136,11 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
             final String serverName = server.getName(), simpleName = getClass().getSimpleName();
             registerFixedTimer(updateInterval, () -> {
                 final long started = System.currentTimeMillis();
-                refreshHome(simpleName, started, serverName, server, version);
+                autoRefreshHome(simpleName, started, serverName, server, version);
             });
         }
     }
-    private String refreshHome(String simpleName, long started, String serverName, TargetServer server, APIVersion version) {
+    default String autoRefreshHome(String simpleName, long started, String serverName, TargetServer server, APIVersion version) {
         final String string = refreshHome(server, version);
         WLLogger.logInfo(simpleName + " - auto updated \"" + serverName + "\"'s home response (took " + WLUtilities.getElapsedTime(started) + ")");
         return string;
