@@ -98,7 +98,7 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
             default:
                 localServer.madeRequest(identifier, target);
                 String requestTarget = target.substring(versionString.length() + 1);
-                final String targetType = requestTarget.split("/")[0];
+                final String targetType = requestTarget.split("/")[0].split("\\?")[0];
                 final ServerRequestType type = localServer.parseRequestType(targetType);
                 if(type != null) {
                     requestTarget = requestTarget.substring(targetType.length() + (requestTarget.contains("/") ? 1 : 0));

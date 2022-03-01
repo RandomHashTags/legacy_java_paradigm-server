@@ -25,19 +25,19 @@ public final class CompletableFutures<T> {
         stream(a, action, MAXIMUM_PARALLEL_THREADS);
     }
 
+    @SuppressWarnings({ "unchecked", "rawtypes" })
     public void stream(Stream<? super T> items, Consumer<? super T> action, int numberOfThreads) {
         final ExecutorService executor = Executors.newFixedThreadPool(numberOfThreads);
-        final CompletableFuture[] futures = items.map(homie -> CompletableFuture.supplyAsync(() -> homie))
-                .map(future -> future.thenAcceptAsync(testing -> {
-                    try {
-                        @SuppressWarnings({ "unchecked" })
-                        final T t = (T) testing;
-                        action.accept(t);
-                    } catch (Exception e) {
-                        WLUtilities.saveException(e);
-                    }
-                }, executor))
+        final CompletableFuture[] futures = items.map(homie -> CompletableFuture.runAsync(() -> {
+            try {
+                final T t = (T) homie;
+                action.accept(t);
+            } catch (Exception e) {
+                WLUtilities.saveException(e);
+            }
+        }, executor))
                 .toArray(CompletableFuture[]::new);
         CompletableFuture.allOf(futures).join();
+        executor.shutdown();
     }
 }

@@ -16,6 +16,7 @@ public enum UpdateIntervals {
     public enum Countries {
         ;
         public static final long NON_STATIC_VALUES = TimeUnit.DAYS.toMillis(1);
+        public static final long CURRENCY_EXCHANGE_CLEAR_CACHE = TimeUnit.HOURS.toMillis(3);
     }
 
     public enum Laws {

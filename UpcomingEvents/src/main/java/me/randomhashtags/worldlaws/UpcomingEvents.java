@@ -3,7 +3,6 @@ package me.randomhashtags.worldlaws;
 import me.randomhashtags.worldlaws.observances.Holidays;
 import me.randomhashtags.worldlaws.past.science.ScienceYearReview;
 import me.randomhashtags.worldlaws.politics.Elections;
-import me.randomhashtags.worldlaws.recent.software.other.AppleSoftwareUpdates;
 import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.server.ServerRequestTypeUpcomingEvents;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
@@ -13,6 +12,7 @@ import me.randomhashtags.worldlaws.upcoming.education.WordOfTheDay;
 import me.randomhashtags.worldlaws.upcoming.entertainment.*;
 import me.randomhashtags.worldlaws.upcoming.entertainment.movies.Movies;
 import me.randomhashtags.worldlaws.upcoming.entertainment.music.MusicAlbums;
+import me.randomhashtags.worldlaws.upcoming.entertainment.music.MusicSpotify;
 import me.randomhashtags.worldlaws.upcoming.science.AstronomyPictureOfTheDay;
 import me.randomhashtags.worldlaws.upcoming.space.RocketLaunches;
 import me.randomhashtags.worldlaws.upcoming.space.SpaceEvents;
@@ -73,11 +73,7 @@ public final class UpcomingEvents implements WLServer {
 
     private void test() {
         final long started = System.currentTimeMillis();
-        final AppleSoftwareUpdates neo = new AppleSoftwareUpdates();
-        final LocalDate date = LocalDate.now().minusMonths(2);
-        neo.refreshHashSet(date);
-        neo.refreshHashSet(date);
-        neo.refreshHashSet(date);
+        new MusicSpotify().refresh();
         WLLogger.logInfo("UpcomingEvents;test;took " + WLUtilities.getElapsedTime(started));
     }
 

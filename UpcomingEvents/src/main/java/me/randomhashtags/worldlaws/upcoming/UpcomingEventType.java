@@ -24,6 +24,7 @@ public enum UpcomingEventType {
     SPORT_NFL,
     SPORT_UFC,
     SPORT_PROFESSIONAL_WRESTLING,
+    SPOTIFY_NEW_MUSIC_FRIDAY,
 
     TICKETMASTER_MUSIC_EVENT,
     TV_SHOW,
@@ -171,6 +172,7 @@ public enum UpcomingEventType {
                 case SPORT_NFL: return "NFL Event";
                 case SPORT_UFC: return "UFC Event";
                 case SPORT_PROFESSIONAL_WRESTLING: return "Professional Wrestling";
+                case SPOTIFY_NEW_MUSIC_FRIDAY: return "Spotify New Music Friday";
 
                 case TICKETMASTER_MUSIC_EVENT: return "Music Event";
                 case TV_SHOW: return "TV Show";
@@ -196,6 +198,7 @@ public enum UpcomingEventType {
                 case SPORT_NFL: return "NFL Schedule";
                 case SPORT_UFC: return "UFC Schedule";
                 case SPORT_PROFESSIONAL_WRESTLING: return "Professional Wrestling";
+                case SPOTIFY_NEW_MUSIC_FRIDAY: return "Spotify New Music Friday";
 
                 case TICKETMASTER_MUSIC_EVENT: return "Music Events";
                 case TV_SHOW: return "TV Shows";
@@ -224,6 +227,7 @@ public enum UpcomingEventType {
                 case SPORT_NFL: return "%team% has a game today!";
                 case SPORT_UFC: return "%title% is tonight!";
                 case SPORT_PROFESSIONAL_WRESTLING: return "%title% is tonight!";
+                case SPOTIFY_NEW_MUSIC_FRIDAY: return "Spotify's New Music Friday has been updated!";
 
                 case TICKETMASTER_MUSIC_EVENT: return "\"%title%\" happens tonight!";
                 case TV_SHOW: return "A new episode for \"%title%\" is now available!";
@@ -249,6 +253,7 @@ public enum UpcomingEventType {
                 case SPORT_NFL: return "%team% have games today!";
                 case SPORT_UFC: return "%title% are tonight!";
                 case SPORT_PROFESSIONAL_WRESTLING: return "%title% are tonight!";
+                case SPOTIFY_NEW_MUSIC_FRIDAY: return "Spotify's New Music Friday has been updated!";
 
                 case TICKETMASTER_MUSIC_EVENT: return "\"%title%\" happens tonight!";
                 case TV_SHOW: return "New episodes for \"%title%\" are now available!";

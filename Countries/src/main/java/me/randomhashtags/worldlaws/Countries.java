@@ -3,7 +3,6 @@ package me.randomhashtags.worldlaws;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
-import me.randomhashtags.worldlaws.currency.CurrencyExchange;
 import me.randomhashtags.worldlaws.info.CountryInfoKeys;
 import me.randomhashtags.worldlaws.info.CountryValues;
 import me.randomhashtags.worldlaws.info.agriculture.ProductionFoods;
@@ -65,6 +64,12 @@ public final class Countries implements WLServer {
     public void load() {
         loadServices();
         startServer();
+    }
+
+    @Override
+    public long getHomeResponseUpdateInterval() {
+        registerFixedTimer(UpdateIntervals.Countries.CURRENCY_EXCHANGE_CLEAR_CACHE, CurrencyExchange::clear);
+        return 0;
     }
 
     private void loadServices() {

@@ -16,9 +16,14 @@ public final class ServerRequest {
     public ServerRequest(ServerRequestType type, String target, HashMap<String, String> query) {
         this.type = type;
         if(target != null && target.contains("?")) {
-            final String[] values = target.split("\\?");
+            final String[] values = target.split("\\?")[1].split("&");
             this.target = values[0];
-            this.query = new HashMap<>();
+            final HashMap<String, String> realQuery = new HashMap<>();
+            for(String string : values) {
+                final String[] test = string.split("=");
+                realQuery.put(test[0], test[1]);
+            }
+            this.query = realQuery;
         } else {
             this.target = target;
             this.query = query;

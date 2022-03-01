@@ -82,7 +82,7 @@ public final class ProxyHeaders {
 
     private HashSet<String> getQuery(String target) {
         final boolean hasQuery = target.contains("?q=");
-        return hasQuery ? new HashSet<>(Arrays.asList(target.split("\\?q=")[1].split(","))) : new HashSet<>();
+        return hasQuery ? new HashSet<>(Arrays.asList(target.split("\\?q=")[1].split("&"))) : new HashSet<>();
     }
 
     public boolean isValidRequest() {

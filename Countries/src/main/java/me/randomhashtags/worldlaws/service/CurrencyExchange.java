@@ -1,4 +1,4 @@
-package me.randomhashtags.worldlaws.currency;
+package me.randomhashtags.worldlaws.service;
 
 import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.Jsoupable;
@@ -26,6 +26,9 @@ public enum CurrencyExchange {
             final String from = query.get("from"), to = query.get("to");
             final WLCurrency fromCurrency = WLCurrency.valueOf(from), toCurrency = WLCurrency.valueOf(to);
             final double value = get(fromCurrency, toCurrency);
+            return "{" +
+                    "\"value\":" + value +
+                    "}";
         }
         return null;
     }

@@ -21,10 +21,11 @@ public enum ServerStatuses {
         final long started = System.currentTimeMillis();
         WLLogger.logInfo("ServerHandler - shutting down Paradigm Servers...");
         final List<TargetServer> servers = Arrays.asList(TargetServer.values());
+        final APIVersion apiVersion = APIVersion.getLatest();
         final String uuid = Settings.Server.getUUID();
         new CompletableFutures<TargetServer>().stream(servers, server -> {
             if(server.isRealServer()) {
-                final String string = server.handleResponse(APIVersion.getLatest(), uuid, RequestMethod.GET, "stop", null);
+                final String string = server.handleResponse(apiVersion, uuid, RequestMethod.GET, "stop", null);
             }
         });
         WLLogger.logInfo("ServerHandler - shutdown Paradigm Servers (took " + WLUtilities.getElapsedTime(started) + ")");
@@ -108,10 +109,11 @@ public enum ServerStatuses {
     private static void replaceFiles(HashSet<Path> files, HashMap<String, String> fileFolders, Folder sourceFolder, Folder updatedFilesFolder) {
         final long started = System.currentTimeMillis();
         int updated = 0;
+        final String separator = File.separator;
         for(Path path : files) {
             final String fullFileName = path.getFileName().toString();
             if(fileFolders.containsKey(fullFileName)) {
-                final String filePath = fileFolders.get(fullFileName).replace("/", File.separator);
+                final String filePath = fileFolders.get(fullFileName).replace("/", separator);
                 final String fileName = fullFileName.split("\\.")[0];
                 sourceFolder.setCustomFolderName(fileName, filePath);
                 updatedFilesFolder.setCustomFolderName(fileName, null);
@@ -122,7 +124,7 @@ public enum ServerStatuses {
                         final boolean deleted = oldFile.delete();
                     }
 
-                    final String oldURI = sourceFolder.getFullFolderPath(fileName) + File.separator + fullFileName, newURI = updatedFilesFolder.getFullFolderPath(fileName) + File.separator + fullFileName;
+                    final String oldURI = sourceFolder.getFullFolderPath(fileName) + separator + fullFileName, newURI = updatedFilesFolder.getFullFolderPath(fileName) + separator + fullFileName;
                     final Path sourcePath = Paths.get(newURI), targetPath = Paths.get(oldURI);
                     try {
                         Files.move(sourcePath, targetPath);
