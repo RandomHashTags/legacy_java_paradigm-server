@@ -352,6 +352,9 @@ public enum WLCountry {
         return WLGovernmentWebsite.get(this);
     }
 
+    public String[] getDemonyms(boolean singular) {
+        return WLCountryDemonyms.getSingular(this);
+    }
     public String getISOAlpha2Official() {
         return WLCountryISOAlpha2.getOfficial(this);
     }

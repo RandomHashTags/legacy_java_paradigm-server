@@ -71,15 +71,14 @@ public enum WeatherUSA implements WeatherController {
                 preAlertIDs = new HashMap<>();
 
                 final HashSet<String> zoneIDs = new HashSet<>();
-                final HashSet<JSONObject> jsons = new HashSet<>();
-                new CompletableFutures<JSONObject>().stream(array.spliterator(), jsonAlert -> {
+                final Spliterator<Object> test = array.spliterator();
+                new CompletableFutures<JSONObject>().stream(test, jsonAlert -> {
                     final JSONObject properties = jsonAlert.getJSONObject("properties");
                     final JSONArray affectedZones = properties.getJSONArray("affectedZones");
                     zoneIDs.addAll(getZoneIDs(affectedZones));
-                    jsons.add(jsonAlert);
                 });
                 processZones(zoneIDs);
-                string = processAlerts(jsons);
+                string = processAlerts(test);
             }
         }
         return string;
@@ -139,13 +138,13 @@ public enum WeatherUSA implements WeatherController {
             WLLogger.logInfo("WeatherUSA - loaded" + suffix + " (took " + WLUtilities.getElapsedTime(started) + ")");
         }
     }
-    private String processAlerts(HashSet<JSONObject> jsons) {
+    private String processAlerts(Spliterator<Object> array) {
         final ConcurrentHashMap<String, Integer> eventsMap = new ConcurrentHashMap<>();
         final ConcurrentHashMap<String, HashSet<WeatherPreAlert>> eventPreAlertsMap = new ConcurrentHashMap<>();
         final ConcurrentHashMap<String, ConcurrentHashMap<String, WeatherEvent>> subdivisionEventsMap = new ConcurrentHashMap<>();
         final ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<WeatherPreAlert>>> territoryPreAlertsMap = new ConcurrentHashMap<>();
 
-        new CompletableFutures<JSONObject>().stream(jsons, json -> {
+        new CompletableFutures<JSONObject>().stream(array, json -> {
             final String id = json.getString("id").split("/alerts/")[1];
             final JSONObject properties = json.getJSONObject("properties");
 
@@ -179,7 +178,9 @@ public enum WeatherUSA implements WeatherController {
             final HashSet<WeatherZone> zones = new HashSet<>();
             for(String zoneID : zoneIDs) {
                 final WeatherZone zone = getWeatherZone(zoneID);
-                zones.add(zone);
+                if(zone != null) {
+                    zones.add(zone);
+                }
             }
 
             final HashSet<String> subdivisions = new HashSet<>();

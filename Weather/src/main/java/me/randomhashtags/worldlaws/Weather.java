@@ -23,9 +23,8 @@ public final class Weather implements WLServer {
 
     private void test() {
         final long started = System.currentTimeMillis();
-        final NASA_EONET earthquakes = NASA_EONET.INSTANCE;
-        earthquakes.refresh(APIVersion.v1);
-        WLLogger.logInfo("Weather;test;took=" + WLUtilities.getElapsedTime(started));
+        final String string = WeatherAlerts.INSTANCE.getResponse("all");
+        WLLogger.logInfo("Weather;test;string=" + string + ";took=" + WLUtilities.getElapsedTime(started));
     }
 
     @Override

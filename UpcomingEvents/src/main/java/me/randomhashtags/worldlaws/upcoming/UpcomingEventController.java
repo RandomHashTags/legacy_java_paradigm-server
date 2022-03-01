@@ -61,12 +61,6 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
         return month.getValue() + "-" + year + "-" + day;
     }
     public String getEventsFromDates(HashSet<String> dates) {
-        if(preUpcomingEvents.isEmpty() && upcomingEvents.isEmpty()) {
-            refresh();
-        }
-        return getEventsOnDates(dates);
-    }
-    private String getEventsOnDates(HashSet<String> dates) {
         final HashSet<String> set = new HashSet<>((!preUpcomingEvents.isEmpty() ? preUpcomingEvents : upcomingEvents).keySet());
         set.removeIf(id -> {
             final String dateString = id.split("\\.")[0];

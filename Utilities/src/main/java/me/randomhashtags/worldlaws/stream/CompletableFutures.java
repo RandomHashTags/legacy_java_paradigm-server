@@ -16,7 +16,8 @@ public final class CompletableFutures<T> {
     private static final int MAXIMUM_PARALLEL_THREADS = Settings.Performance.getMaximumParallelThreads();
 
     public void stream(Collection<? super T> items, Consumer<? super T> action) {
-        stream(items.stream(), action, MAXIMUM_PARALLEL_THREADS);
+        final Stream<? super T> a = items.stream();
+        stream(a, action, MAXIMUM_PARALLEL_THREADS);
     }
 
     public void stream(Spliterator<? super T> items, Consumer<? super T> action) {
