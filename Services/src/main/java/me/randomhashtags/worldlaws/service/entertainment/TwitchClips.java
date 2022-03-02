@@ -1,6 +1,9 @@
 package me.randomhashtags.worldlaws.service.entertainment;
 
-import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.EventSource;
+import me.randomhashtags.worldlaws.EventSources;
+import me.randomhashtags.worldlaws.WLLogger;
+import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.service.RefreshableService;
 import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
@@ -95,7 +98,7 @@ public enum TwitchClips implements RefreshableService {
     private JSONObject refreshKraken(HashMap<String, String> headers, HashMap<String, String> query, String type) {
         final String url = "https://api.twitch.tv/kraken/clips/top";
         query.put("period", type);
-        final JSONObject json = requestJSONObject(url, RequestMethod.GET, headers, query);
+        final JSONObject json = requestJSONObject(url, headers, query);
         JSONObject clipsJSON = null;
         if(json != null) {
             final JSONArray clipsArray = json.getJSONArray("clips");

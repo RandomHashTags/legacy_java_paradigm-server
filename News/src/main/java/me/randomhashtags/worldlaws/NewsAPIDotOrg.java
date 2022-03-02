@@ -42,7 +42,7 @@ public enum NewsAPIDotOrg implements NewsService {
         final HashMap<String, String> query = new HashMap<>();
         query.put("country", countryISOAlpha2);
         query.put("pageSize", "100");
-        final JSONObject response = requestJSONObject("https://newsapi.org/v2/top-headlines", RequestMethod.GET, NEWSAPI_HEADERS, query);
+        final JSONObject response = requestJSONObject("https://newsapi.org/v2/top-headlines", NEWSAPI_HEADERS, query);
         final JSONArray articles = response.getJSONArray("articles");
         final List<NewsArticle> headlines = new ArrayList<>();
         for(Object obj : articles) {

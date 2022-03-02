@@ -114,27 +114,27 @@ public enum TargetServer implements RestAPI, DataValues {
         return apiVersion;
     }
 
-    public String sendResponse(APIVersion version, String identifier, RequestMethod method, String request, HashSet<String> query) {
+    public String sendResponse(APIVersion version, String identifier, String request, HashSet<String> query) {
         switch (this) {
             default:
-                return handleResponse(version, identifier, method, request, query);
+                return handleResponse(version, identifier, request, query);
         }
     }
 
-    public String handleResponse(APIVersion version, String identifier, RequestMethod method, String request, HashSet<String> query) {
+    public String handleResponse(APIVersion version, String identifier, String request, HashSet<String> query) {
         final HashMap<String, String> headers = new HashMap<>();
         headers.put("Content-Type", "application/json");
         headers.put("Charset", DataValues.ENCODING.name());
         headers.put("***REMOVED***", identifier);
         switch (this) {
             case COMBINE:
-                return getCombinedResponse(version, identifier, method, request);
+                return getCombinedResponse(version, identifier, request);
             default:
-                return handleProxyResponse(version, method, request, headers);
+                return handleProxyResponse(version, request, headers);
         }
     }
 
-    private String getCombinedResponse(APIVersion version, String identifier, RequestMethod method, String request) {
+    private String getCombinedResponse(APIVersion version, String identifier, String request) {
         final String[] values = request.split("&&");
         final ConcurrentHashMap<String, String> responses = new ConcurrentHashMap<>();
         new CompletableFutures<String>().stream(Arrays.asList(values), value -> {
@@ -142,7 +142,7 @@ public enum TargetServer implements RestAPI, DataValues {
             final String apiVersionString = target[0], serverBackendID = target[1];
             final APIVersion apiVersion = APIVersion.valueOfInput(apiVersionString);
             final TargetServer server = TargetServer.valueOfBackendID(serverBackendID);
-            final String string = server != null ? server.sendResponse(apiVersion, identifier, method, value, null) : null;
+            final String string = server != null ? server.sendResponse(apiVersion, identifier, value, null) : null;
             if(string != null) {
                 responses.put(value, string);
             }
@@ -157,12 +157,12 @@ public enum TargetServer implements RestAPI, DataValues {
         builder.append("}");
         return builder.toString();
     }
-    private String handleProxyResponse(APIVersion version, RequestMethod method, String request, HashMap<String, String> headers) {
+    private String handleProxyResponse(APIVersion version, String request, HashMap<String, String> headers) {
         final String url = getIpAddress() + "/" + version.name() + "/" + request;
-        return handleProxyResponse(url, method, headers);
+        return handleProxyResponse(url, headers);
     }
-    private String handleProxyResponse(String url, RequestMethod method, HashMap<String, String> headers) {
-        return request(url, method, headers, null);
+    private String handleProxyResponse(String url, HashMap<String, String> headers) {
+        return request(url, headers, null);
     }
 
     public static TargetServer valueOfBackendID(String backendID) {

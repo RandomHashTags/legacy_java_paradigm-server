@@ -1,4 +1,4 @@
-package me.randomhashtags.worldlaws.past.science;
+package me.randomhashtags.worldlaws.recent;
 
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSource;

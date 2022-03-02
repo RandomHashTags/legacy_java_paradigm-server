@@ -105,7 +105,7 @@ public enum AppleNotifications implements DeviceTokenController {
             new CompletableFutures<String>().stream(deviceTokens.spliterator(), deviceToken -> {
                 final HashMap<String, String> headers = new HashMap<>(primaryHeaders);
                 headers.put("path", "/3/device/" + deviceToken);
-                final JSONObject postJSON = requestJSONObject(url, RequestMethod.POST, headers);
+                final JSONObject postJSON = postJSONObject(url, new HashMap<>(), true, headers, null);
             });
         }
         WLLogger.logInfo("AppleNotifications - sent " + uuid + " to " + deviceTokens.size() + " devices (took " + WLUtilities.getElapsedTime(started) + ")");

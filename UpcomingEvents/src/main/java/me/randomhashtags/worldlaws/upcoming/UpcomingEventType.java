@@ -91,11 +91,13 @@ public enum UpcomingEventType {
     private int getPriority(boolean widget) {
         if(widget) {
             switch (this) {
-                case WORD_OF_THE_DAY:
+                case SPOTIFY_NEW_MUSIC_FRIDAY:
                     return 1;
                 case PRESENTATION:
                     return 2;
+                case ASTRONOMY_PICTURE_OF_THE_DAY:
                 case SCIENCE_YEAR_REVIEW:
+                case WORD_OF_THE_DAY:
                     return 4;
                 case SPORT_CHAMPIONSHIPS:
                 case TICKETMASTER_MUSIC_EVENT:
@@ -110,17 +112,19 @@ public enum UpcomingEventType {
                 case ASTRONOMY_PICTURE_OF_THE_DAY:
                 case WORD_OF_THE_DAY:
                     return 1;
-                case PRESENTATION:
+                case SPOTIFY_NEW_MUSIC_FRIDAY:
                     return 2;
-                case SCIENCE_YEAR_REVIEW:
+                case PRESENTATION:
                     return 3;
+                case SCIENCE_YEAR_REVIEW:
+                    return 4;
                 case SPORT_CHAMPIONSHIPS:
                 case TICKETMASTER_MUSIC_EVENT:
-                    return 5;
-                case TV_SHOW:
                     return 6;
+                case TV_SHOW:
+                    return 7;
                 default:
-                    return 4;
+                    return 5;
             }
         }
     }

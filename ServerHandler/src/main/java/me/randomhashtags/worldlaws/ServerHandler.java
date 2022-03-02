@@ -17,6 +17,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
 import java.util.Timer;
+import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.TimeUnit;
 
@@ -93,7 +94,9 @@ public final class ServerHandler implements UserServer {
         try {
             while (!server.isClosed()) {
                 final Socket client = server.accept();
-                handleClient(client);
+                CompletableFuture.runAsync(() -> {
+                    handleClient(client);
+                });
             }
         } catch (Exception e) {
             WLLogger.logInfo("ServerHandler - stopped listening for clients");
@@ -113,18 +116,18 @@ public final class ServerHandler implements UserServer {
                     headers.put("Content-Type", "application/json");
                     headers.put("Charset", DataValues.ENCODING.name());
                     headers.put("***REMOVED***", identifier);
-                    final String homeResponse = getHomeResponse(clientHeaders.getAPIVersion(), RequestMethod.GET, headers, clientHeaders.getQuery());
+                    final String homeResponse = getHomeResponse(clientHeaders.getAPIVersion(), headers, clientHeaders.getQuery());
                     WLUtilities.writeClientOutput(client, DataValues.HTTP_SUCCESS_200 + homeResponse);
                     break;
                 default:
                     if(MAINTENANCE_MODE) {
                         WLUtilities.writeClientOutput(client, DataValues.HTTP_MAINTENANCE_MODE);
                     } else {
-                        new Thread(() -> {
-                            final String string = TargetServer.PROXY.sendResponse(clientHeaders.getAPIVersion(), identifier, RequestMethod.GET, totalRequest, clientHeaders.getQuery());
+                        CompletableFuture.runAsync(() -> {
+                            final String string = TargetServer.PROXY.sendResponse(clientHeaders.getAPIVersion(), identifier, totalRequest, clientHeaders.getQuery());
                             final String response = string == null ? WLUtilities.SERVER_EMPTY_JSON_RESPONSE : string;
                             WLUtilities.writeClientOutput(client, DataValues.HTTP_SUCCESS_200 + response);
-                        }).start();
+                        });
                     }
                     break;
             }
@@ -219,7 +222,7 @@ public final class ServerHandler implements UserServer {
         for(TargetServer server : TargetServer.values()) {
             if(server.isRealServer()) {
                 final String url = server.getIpAddress() + "/ping";
-                final String string = server.request(url, RequestMethod.GET, null, null);
+                final String string = server.request(url, null, null);
                 if(string == null) {
                     offlineServers.put(server.getBackendID());
                 }
@@ -256,9 +259,9 @@ public final class ServerHandler implements UserServer {
         }
     }
 
-    private String getHomeResponse(APIVersion version, RequestMethod method, HashMap<String, String> headers, HashSet<String> query) {
+    private String getHomeResponse(APIVersion version, HashMap<String, String> headers, HashSet<String> query) {
         if(!HOME_JSON.containsKey(version)) {
-            final String string = updateHomeResponse(version, false, method, headers);
+            final String string = updateHomeResponse(version, false, headers);
         }
         return getHomeResponse(version, query);
     }
@@ -305,13 +308,13 @@ public final class ServerHandler implements UserServer {
         headers.put("Content-Type", "application/json");
         headers.put("Charset", DataValues.ENCODING.name());
         headers.put("***REMOVED***", Settings.Server.getUUID());
-        return updateHomeResponse(version, true, RequestMethod.GET, headers);
+        return updateHomeResponse(version, true, headers);
     }
-    private static String updateHomeResponse(APIVersion version, boolean isUpdate, RequestMethod method, HashMap<String, String> headers) {
+    private static String updateHomeResponse(APIVersion version, boolean isUpdate, HashMap<String, String> headers) {
         final long started = System.currentTimeMillis();
         if(!isUpdate) {
             final long interval = UpdateIntervals.ServerHandler.HOME;
-            final Timer timer = WLUtilities.getTimer(null, interval, () -> updateHomeResponse(version, true, method, headers));
+            final Timer timer = WLUtilities.getTimer(null, interval, () -> updateHomeResponse(version, true, headers));
             INSTANCE.timers.add(timer);
         }
 
@@ -338,7 +341,7 @@ public final class ServerHandler implements UserServer {
                     value = json == null ? null : json.toString();
                     break;
                 default:
-                    value = RestAPI.requestStatic(serverIP, method, headers, null);
+                    value = RestAPI.requestStatic(serverIP, headers, null);
                     break;
             }
             if(value != null) {

@@ -26,7 +26,7 @@ public enum Elections implements RestAPI, DataValues {
         final HashMap<String, String> query = new HashMap<>();
         query.put("key", getAPIKey());
 
-        final JSONObject json = requestJSONObject("https://www.googleapis.com/civicinfo/v2/elections", RequestMethod.GET, CONTENT_HEADERS, query);
+        final JSONObject json = requestJSONObject("https://www.googleapis.com/civicinfo/v2/elections", CONTENT_HEADERS, query);
         String string = null;
         if(json != null) {
             final JSONArray elections = json.getJSONArray("elections");
@@ -102,7 +102,7 @@ public enum Elections implements RestAPI, DataValues {
     private void getRepresentatives(String ocdDivisionId, CompletionHandler handler) {
         final HashMap<String, String> query = new HashMap<>();
         query.put("key", getAPIKey());
-        final JSONObject json = requestJSONObject("https://www.googleapis.com/civicinfo/v2/representatives/" + ocdDivisionId.replace("/", "%2F").replace(":", "%3A"), RequestMethod.GET, CONTENT_HEADERS, query);
+        final JSONObject json = requestJSONObject("https://www.googleapis.com/civicinfo/v2/representatives/" + ocdDivisionId.replace("/", "%2F").replace(":", "%3A"), CONTENT_HEADERS, query);
         final JSONArray offices = json.getJSONArray("offices"), officials = json.getJSONArray("officials");
         int index = 0;
         for(Object obj : offices) {

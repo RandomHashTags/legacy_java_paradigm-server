@@ -2,7 +2,7 @@ package me.randomhashtags.worldlaws.upcoming;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.WLCountry;
-import me.randomhashtags.worldlaws.past.science.ScienceYearReview;
+import me.randomhashtags.worldlaws.recent.ScienceYearReview;
 import me.randomhashtags.worldlaws.service.YouTubeService;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.upcoming.entertainment.TVShows;

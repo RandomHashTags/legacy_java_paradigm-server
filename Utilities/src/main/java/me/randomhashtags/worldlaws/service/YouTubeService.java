@@ -1,7 +1,6 @@
 package me.randomhashtags.worldlaws.service;
 
 import me.randomhashtags.worldlaws.Jsonable;
-import me.randomhashtags.worldlaws.RequestMethod;
 import me.randomhashtags.worldlaws.RestAPI;
 import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
@@ -24,7 +23,7 @@ public interface YouTubeService extends RestAPI, Jsonable {
         query.put("q", q);
         query.put("type", "video");
         query.put("key", apiKey);
-        final JSONObject json = requestJSONObject(url, RequestMethod.GET, headers, query);
+        final JSONObject json = requestJSONObject(url, headers, query);
         JSONArray array = null;
         if(json != null) {
             final JSONArray items = json.getJSONArray("items");

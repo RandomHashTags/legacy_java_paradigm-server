@@ -73,7 +73,7 @@ public final class Proxy implements WLServer {
             final APIVersion version = headers.getAPIVersion();
             final HashSet<String> query = headers.getQuery();
             final String request = headers.getRequest();
-            final String string = server.sendResponse(version, identifier, RequestMethod.GET, request, query);
+            final String string = server.sendResponse(version, identifier, request, query);
             if(string != null && !string.equals("null")) {
                 return string;
             }

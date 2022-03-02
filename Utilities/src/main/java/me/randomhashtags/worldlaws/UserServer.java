@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws;
 
 import java.util.HashMap;
 import java.util.Scanner;
+import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ConcurrentHashMap;
 
 public interface UserServer {
@@ -13,7 +14,7 @@ public interface UserServer {
 
     default void listenForUserInput() {
         INPUT_SCANNERS.put(this, new Scanner(System.in));
-        new Thread(() -> executeUserInput(getUserInput())).start();
+        CompletableFuture.runAsync(() -> executeUserInput(getUserInput()));
     }
     default void stopListeningForUserInput() {
         final Scanner scanner = INPUT_SCANNERS.get(this);

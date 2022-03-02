@@ -1,7 +1,6 @@
 package me.randomhashtags.worldlaws.service;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
-import me.randomhashtags.worldlaws.RequestMethod;
 import me.randomhashtags.worldlaws.RestAPI;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -30,7 +29,7 @@ public enum TwitterTrends implements RestAPI {
 
     private void refreshTrendingTopics(String WOEID, CompletionHandler handler) {
         final String url = "https://api.twitter.com/1.1/trends/place.json?id=" + WOEID;
-        final JSONArray array = requestJSONArray(url, RequestMethod.GET);
+        final JSONArray array = requestJSONArray(url);
         final JSONObject obj = (JSONObject) array.get(0);
         final JSONArray trends = obj.getJSONArray("trends");
     }

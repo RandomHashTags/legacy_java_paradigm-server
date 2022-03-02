@@ -40,7 +40,7 @@ public enum YahooFinance implements StockService {
             public String loadJSONObjectString() {
                 final HashMap<String, String> query = new HashMap<>();
                 query.put("q", term);
-                final JSONObject json = requestJSONObject("https://apidojo-yahoo-finance-v1.p.rapidapi.com/auto-complete", RequestMethod.GET, getHeaders(), query);
+                final JSONObject json = requestJSONObject("https://apidojo-yahoo-finance-v1.p.rapidapi.com/auto-complete", getHeaders(), query);
                 final JSONArray quotes = json.getJSONArray("quotes");
                 for(Object obj : quotes) {
                     final JSONObject quoteJSON = (JSONObject) obj;
@@ -68,7 +68,7 @@ public enum YahooFinance implements StockService {
         query.put("region", "US");
         query.put("count", "25");
         query.put("start", Integer.toString(offset));
-        return requestJSONObject("https://apidojo-yahoo-finance-v1.p.rapidapi.com/market/v2/get-movers", RequestMethod.GET, getHeaders(), query);
+        return requestJSONObject("https://apidojo-yahoo-finance-v1.p.rapidapi.com/market/v2/get-movers", getHeaders(), query);
     }
     private HashSet<String> getQuoteSymbols(JSONArray array) {
         final HashSet<String> symbols = new HashSet<>();
@@ -95,7 +95,7 @@ public enum YahooFinance implements StockService {
         query.put("symbols", symbolBuilder.toString());
 
         final HashSet<Stock> stocks = new HashSet<>();
-        final JSONObject json = requestJSONObject("https://apidojo-yahoo-finance-v1.p.rapidapi.com/market/v2/get-quotes", RequestMethod.GET, headers, query);
+        final JSONObject json = requestJSONObject("https://apidojo-yahoo-finance-v1.p.rapidapi.com/market/v2/get-quotes", headers, query);
         final JSONObject quoteResponse = json.getJSONObject("quoteResponse");
         final JSONArray results = quoteResponse.getJSONArray("result");
         final int max = results.length();
@@ -167,7 +167,7 @@ public enum YahooFinance implements StockService {
         query.put("symbol", symbol);
         query.put("range", "10y");
         final String url = "https://apidojo-yahoo-finance-v1.p.rapidapi.com/stock/v2/get-chart";
-        final JSONObject json = requestJSONObject(url, RequestMethod.GET, headers, query);
+        final JSONObject json = requestJSONObject(url, headers, query);
         final JSONObject chartJSON = json.getJSONObject("chart");
         final JSONObject resultsJSON = chartJSON.getJSONArray("result").getJSONObject(0);
         final JSONObject quotesJSON = resultsJSON.getJSONObject("indicators").getJSONArray("quote").getJSONObject(0);
@@ -193,7 +193,7 @@ public enum YahooFinance implements StockService {
                 final HashMap<String, String> query = new HashMap<>();
                 query.put("symbol", symbol);
                 query.put("region", "US");
-                final JSONObject json = requestJSONObject("https://apidojo-yahoo-finance-v1.p.rapidapi.com/stock/v2/get-profile", RequestMethod.GET, getHeaders(), query);
+                final JSONObject json = requestJSONObject("https://apidojo-yahoo-finance-v1.p.rapidapi.com/stock/v2/get-profile", getHeaders(), query);
                 final JSONObject quoteType = json.getJSONObject("quoteType");
                 final String shortName = quoteType.getString("shortName"), longName = quoteType.getString("longName");
 
@@ -204,6 +204,6 @@ public enum YahooFinance implements StockService {
     }
 
     private JSONObject requestYahooFinanceJSONObject(String url, HashMap<String, String> headers, HashMap<String, String> query) {
-        return requestJSONObject(url, RequestMethod.GET, headers, query);
+        return requestJSONObject(url, headers, query);
     }
 }

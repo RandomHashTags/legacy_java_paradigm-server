@@ -2,7 +2,6 @@ package me.randomhashtags.worldlaws.upcoming.space.nasa;
 
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
-import me.randomhashtags.worldlaws.RequestMethod;
 import me.randomhashtags.worldlaws.service.NASAService;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.upcoming.USAUpcomingEventController;
@@ -32,7 +31,7 @@ public final class NASANeo extends USAUpcomingEventController {
         final String startDateString = getURLFormattedDateString(startDate), endDateString = getURLFormattedDateString(startDate.plusWeeks(1)), apiKey = NASAService.getNASA_APIKey();
 
         final String url = "https://api.nasa.gov/neo/rest/v1/feed?start_date=" + startDateString + "&end_date=" + endDateString + "&detailed=true&api_key=" + apiKey;
-        final JSONObject json = requestJSONObject(url, RequestMethod.GET);
+        final JSONObject json = requestJSONObject(url);
         if(json != null) {
             final UpcomingEventType type = getType();
             final String formattedDateString = getFormattedDateString(startDate);

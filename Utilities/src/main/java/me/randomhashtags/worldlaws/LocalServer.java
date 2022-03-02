@@ -9,6 +9,7 @@ import java.net.SocketException;
 import java.net.SocketTimeoutException;
 import java.time.LocalDateTime;
 import java.util.*;
+import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ConcurrentHashMap;
 
 public final class LocalServer implements UserServer, DataValues {
@@ -109,8 +110,7 @@ public final class LocalServer implements UserServer, DataValues {
     }
     @Override
     public void saveStatistics() {
-        final long started = System.currentTimeMillis();
-        Statistics.INSTANCE.save(started, wlserver.getServer(), totalUniqueIdentifiers, uniqueRequests, totalRequests);
+        Statistics.INSTANCE.save(wlserver.getServer(), totalUniqueIdentifiers, uniqueRequests, totalRequests);
         totalRequests.clear();
         totalUniqueIdentifiers.clear();
         uniqueRequests.clear();
@@ -132,8 +132,16 @@ public final class LocalServer implements UserServer, DataValues {
         while (!server.isClosed()) {
             try {
                 final Socket socket = server.accept();
-                final WLClient client = new WLClient(socket, handler);
-                client.start();
+                final WLClient client = new WLClient(socket);
+                CompletableFuture.runAsync(() -> {
+                    try {
+                        if(!socket.isOutputShutdown()) {
+                            handler.handleClient(client);
+                        }
+                    } catch (Exception e) {
+                        WLUtilities.saveException(e);
+                    }
+                });
             } catch (SocketException | SocketTimeoutException ignored) {
             } catch (Exception e) {
                 WLUtilities.saveException(e);

@@ -8,6 +8,7 @@ import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.concurrent.CompletableFuture;
 import java.util.stream.Collectors;
 
 public interface Jsonable {
@@ -144,12 +145,12 @@ public interface Jsonable {
         folder.removeCustomFolderName(fileName);
     }
     private static void write(Path path, Object value) {
-        new Thread(() -> {
+        CompletableFuture.runAsync(() -> {
             try {
                 Files.writeString(path, value.toString(), StandardCharsets.UTF_8);
             } catch (Exception e) {
                 WLUtilities.saveException(e);
             }
-        }).start();
+        });
     }
 }

@@ -1,6 +1,9 @@
 package me.randomhashtags.worldlaws.service;
 
-import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.DataValues;
+import me.randomhashtags.worldlaws.RestAPI;
+import me.randomhashtags.worldlaws.WLLogger;
+import me.randomhashtags.worldlaws.WLUtilities;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -34,7 +37,7 @@ public interface SpotifyService extends QuotaHandler, RestAPI, DataValues {
         final HashMap<String, String> query = new HashMap<>();
         query.put("grant_type", "client_credentials");
         final long requestTime = System.currentTimeMillis();
-        final JSONObject json = requestJSONObject(url, RequestMethod.POST, headers, query);
+        final JSONObject json = postJSONObject(url, new HashMap<>(), true, headers, query);// requestJSONObject(url, RequestMethod.POST, headers, query);
         final int expireDuration = json.getInt("expires_in") * 1_000;
         json.put("expiration", requestTime + expireDuration);
         json.remove("expires_in");
@@ -54,7 +57,7 @@ public interface SpotifyService extends QuotaHandler, RestAPI, DataValues {
         headers.put("Authorization", "Basic " + accessToken);
         final HashMap<String, String> query = new HashMap<>();
         query.put("market", "US");
-        return requestJSONObject(url, RequestMethod.GET, headers, query);
+        return requestJSONObject(url, headers, query);
     }
     default JSONObject getSpotifyAlbum(HashSet<String> artists, String album) {
         final long started = System.currentTimeMillis();
@@ -82,7 +85,7 @@ public interface SpotifyService extends QuotaHandler, RestAPI, DataValues {
             query.put("q", album.replace(" ", "%20"));
             query.put("limit", "50");
             query.put("type", "album");
-            json = requestJSONObject(url, RequestMethod.GET, headers, query);
+            json = requestJSONObject(url, headers, query);
         }
         return json;
     }

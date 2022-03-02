@@ -3,7 +3,6 @@ package me.randomhashtags.worldlaws.upcoming.science;
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
-import me.randomhashtags.worldlaws.RequestMethod;
 import me.randomhashtags.worldlaws.service.NASAService;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
@@ -23,7 +22,7 @@ public final class AstronomyPictureOfTheDay extends LoadedUpcomingEventControlle
     @Override
     public void load() {
         final String apiKey = NASAService.getNASA_APIKey();
-        final JSONObject json = requestJSONObject("https://api.nasa.gov/planetary/apod?api_key=" + apiKey, RequestMethod.GET, CONTENT_HEADERS);
+        final JSONObject json = requestJSONObject("https://api.nasa.gov/planetary/apod?api_key=" + apiKey, CONTENT_HEADERS);
         if(json != null) {
             final UpcomingEventType type = getType();
             final EventSources sources = new EventSources(

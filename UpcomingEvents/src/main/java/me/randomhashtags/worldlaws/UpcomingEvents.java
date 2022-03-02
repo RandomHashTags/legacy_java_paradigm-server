@@ -1,8 +1,8 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.observances.Holidays;
-import me.randomhashtags.worldlaws.past.science.ScienceYearReview;
 import me.randomhashtags.worldlaws.politics.Elections;
+import me.randomhashtags.worldlaws.recent.ScienceYearReview;
 import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.server.ServerRequestTypeUpcomingEvents;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
@@ -36,6 +36,7 @@ public final class UpcomingEvents implements WLServer {
                 new MLB(),
                 new Movies(),
                 new MusicAlbums(),
+                new MusicSpotify(),
                 //NASANeo.INSTANCE,
                 //NFL.INSTANCE, // problem
                 new Presentations(),

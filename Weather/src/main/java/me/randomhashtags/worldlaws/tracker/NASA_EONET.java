@@ -48,7 +48,7 @@ public enum NASA_EONET implements WLService {
         final HashMap<String, String> volcanoWikipediaPages = Settings.ServerValues.Weather.getVolcanoWikipediaPages();
         final ConcurrentHashMap<String, HashSet<String>> homeValues = new ConcurrentHashMap<>();
         final String url = "https://eonet.sci.gsfc.nasa.gov/api/v3/events?status=open&days=30";
-        final JSONObject json = requestJSONObject(url, RequestMethod.GET, CONTENT_HEADERS);
+        final JSONObject json = requestJSONObject(url, CONTENT_HEADERS);
         int amount = 0;
         if(json != null) {
             final String unitedStatesBackendID = WLCountry.UNITED_STATES.getBackendID();

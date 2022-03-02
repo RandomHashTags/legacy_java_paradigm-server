@@ -80,7 +80,7 @@ public enum Earthquakes implements RestAPI {
         recentTerritoryEarthquakes = new HashMap<>();
         topRecentTerritoryEarthquakes = new HashMap<>();
 
-        final JSONObject json = requestJSONObject(url, RequestMethod.GET);
+        final JSONObject json = requestJSONObject(url);
         if(json != null) {
             final JSONArray array = json.getJSONArray("features");
             final ConcurrentHashMap<String, HashSet<PreEarthquake>> territoryEarthquakesMap = new ConcurrentHashMap<>();
@@ -188,7 +188,7 @@ public enum Earthquakes implements RestAPI {
 
     private String getEarthquake(String id) {
         if(!cachedEarthquakes.containsKey(id)) {
-            final JSONObject json = requestJSONObject("https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=" + id + "&format=geojson", RequestMethod.GET);
+            final JSONObject json = requestJSONObject("https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=" + id + "&format=geojson");
             if(json != null) {
                 final JSONObject properties = json.getJSONObject("properties");
                 final Object mag = properties.get("mag");

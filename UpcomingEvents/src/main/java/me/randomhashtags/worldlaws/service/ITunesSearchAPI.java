@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.service;
 
-import me.randomhashtags.worldlaws.RequestMethod;
 import me.randomhashtags.worldlaws.RestAPI;
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.WLUtilities;
@@ -18,7 +17,7 @@ public interface ITunesSearchAPI extends RestAPI {
         query.put("limit", "200");
         query.put("media", media);
         query.put("entity", entity);
-        return requestJSONObject(url, RequestMethod.GET, headers, query);
+        return requestJSONObject(url, headers, query);
     }
 
     default JSONObject getITunesAlbum(String term, String artist) {

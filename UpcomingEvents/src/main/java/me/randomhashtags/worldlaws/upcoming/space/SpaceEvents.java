@@ -3,7 +3,6 @@ package me.randomhashtags.worldlaws.upcoming.space;
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
-import me.randomhashtags.worldlaws.RequestMethod;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
@@ -25,7 +24,7 @@ public final class SpaceEvents extends LoadedUpcomingEventController {
     public void load() {
         final UpcomingEventType eventType = getType();
         final String url = "https://ll.thespacedevs.com/2.0.0/event/upcoming/?format=json&limit=50&offset=0";
-        final JSONObject json = requestJSONObject(url, RequestMethod.GET);
+        final JSONObject json = requestJSONObject(url);
         if(json != null) {
             final JSONArray resultsArray = json.getJSONArray("results");
             final int max = resultsArray.length();

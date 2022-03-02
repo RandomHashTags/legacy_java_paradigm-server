@@ -1,6 +1,9 @@
 package me.randomhashtags.worldlaws.info.service;
 
-import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.CompletionHandler;
+import me.randomhashtags.worldlaws.Folder;
+import me.randomhashtags.worldlaws.WLLogger;
+import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
 import me.randomhashtags.worldlaws.service.CountryService;
@@ -67,7 +70,7 @@ public enum TravelBriefing implements CountryService {
                             break;
                     }
                     final String url = "https://travelbriefing.org/" + country + "?format=json";
-                    JSONObject json = requestJSONObject(url, RequestMethod.GET);
+                    JSONObject json = requestJSONObject(url);
                     if(json != null) {
                         json.remove("names");
                         json.remove("timezone");

@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.service.SpotifyService;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import me.randomhashtags.worldlaws.upcoming.events.SpotifyNewMusicFridayEvent;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -31,7 +32,7 @@ public final class MusicSpotify extends LoadedUpcomingEventController implements
             final UpcomingEventType type = getType();
             final String dateString = EventDate.getDateString(date);
             final String imageURL = responseJSON.getJSONArray("images").getJSONObject(0).getString("url");
-            final String title = LocalServer.fixEscapeValues(responseJSON.getString("description"));
+            final String title = "Spotify: New Music Friday", description = LocalServer.fixEscapeValues(responseJSON.getString("description"));
 
             final JSONArray tracksArray = responseJSON.getJSONObject("tracks").getJSONArray("items");
             final JSONObject tracks = new JSONObject();
@@ -70,10 +71,14 @@ public final class MusicSpotify extends LoadedUpcomingEventController implements
                 tracks.put(name, track);
             }
 
-            final String identifier = getEventDateIdentifier(dateString, title);
-            final PreUpcomingEvent event = new PreUpcomingEvent(identifier, title, null, null);
-            putLoadedPreUpcomingEvent(identifier, event.toStringWithImageURL(type, imageURL));
-            putUpcomingEvent(identifier, null);
+            final String identifier = getEventDateIdentifier(dateString, description);
+            final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(identifier, description, null, null);
+            putLoadedPreUpcomingEvent(identifier, preUpcomingEvent.toStringWithImageURL(type, imageURL));
+
+            final EventSources sources = new EventSources();
+            sources.add(new EventSource(title + " Playlist", "https://open.spotify.com/playlist/37i9dQZF1DX4JAvHpjipBk"));
+            final SpotifyNewMusicFridayEvent event = new SpotifyNewMusicFridayEvent(title, description, imageURL, tracks, sources);
+            putUpcomingEvent(identifier, event.toString());
         }
     }
 

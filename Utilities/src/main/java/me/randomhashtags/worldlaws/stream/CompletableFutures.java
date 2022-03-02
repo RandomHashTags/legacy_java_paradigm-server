@@ -20,6 +20,10 @@ public final class CompletableFutures<T> {
         stream(a, action, MAXIMUM_PARALLEL_THREADS);
     }
 
+    public void stream(Iterable<? super T> items, Consumer<? super T> action) {
+        final Spliterator<? super T> a = items.spliterator();
+        stream(a, action);
+    }
     public void stream(Spliterator<? super T> items, Consumer<? super T> action) {
         final Stream<? super T> a = StreamSupport.stream(items, false);
         stream(a, action, MAXIMUM_PARALLEL_THREADS);

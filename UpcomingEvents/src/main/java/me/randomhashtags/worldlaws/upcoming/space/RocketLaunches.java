@@ -3,7 +3,6 @@ package me.randomhashtags.worldlaws.upcoming.space;
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
-import me.randomhashtags.worldlaws.RequestMethod;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
@@ -22,7 +21,7 @@ public final class RocketLaunches extends LoadedUpcomingEventController {
     @Override
     public void load() {
         final UpcomingEventType eventType = getType();
-        final JSONObject json = requestJSONObject("https://ll.thespacedevs.com/2.0.0/launch/upcoming/?format=json&limit=50&mode=detailed&offset=0", RequestMethod.GET);
+        final JSONObject json = requestJSONObject("https://ll.thespacedevs.com/2.0.0/launch/upcoming/?format=json&limit=50&mode=detailed&offset=0");
         if(json != null) {
             final JSONArray launches = json.getJSONArray("results");
             final EventSources sources = new EventSources(new EventSource("The Space Devs", "https://thespacedevs.com"));

@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.country.usa.service;
 
-import me.randomhashtags.worldlaws.RequestMethod;
 import me.randomhashtags.worldlaws.RestAPI;
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.WLUtilities;
@@ -37,7 +36,7 @@ public enum UnitedStatesProject implements RestAPI, CongressService {
         final long started = System.currentTimeMillis();
         final String typeString = type.name();
         final String url = "https://theunitedstates.io/congress-legislators/legislators-" + typeString.toLowerCase() + ".json";
-        final JSONArray array = requestJSONArray(url, RequestMethod.GET);
+        final JSONArray array = requestJSONArray(url);
         int amount = 0;
         if(array != null) {
             amount = array.length();

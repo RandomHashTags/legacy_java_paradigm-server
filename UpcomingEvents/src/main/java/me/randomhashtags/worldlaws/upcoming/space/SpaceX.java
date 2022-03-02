@@ -3,7 +3,6 @@ package me.randomhashtags.worldlaws.upcoming.space;
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.PreUpcomingEvent;
-import me.randomhashtags.worldlaws.RequestMethod;
 import me.randomhashtags.worldlaws.upcoming.USAUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import org.json.JSONArray;
@@ -40,7 +39,7 @@ public final class SpaceX extends USAUpcomingEventController {
 
     private void refreshUpcomingLaunches() {
         final String url = "https://api.spacexdata.com/v4/launches/upcoming";
-        final JSONArray array = requestJSONArray(url, RequestMethod.GET);
+        final JSONArray array = requestJSONArray(url);
         for(Object obj : array) {
             final JSONObject json = (JSONObject) obj;
             final String title = json.getString("name");
@@ -61,7 +60,7 @@ public final class SpaceX extends USAUpcomingEventController {
             handler.handleString(launchpads.get(id));
         } else {
             final String launchpadURL = "https://api.spacexdata.com/v4/launchpads/" + id;
-            final JSONObject json = requestJSONObject(launchpadURL, RequestMethod.GET);
+            final JSONObject json = requestJSONObject(launchpadURL);
             final String string = json.toString();
             launchpads.put(id, string);
             handler.handleString(string);

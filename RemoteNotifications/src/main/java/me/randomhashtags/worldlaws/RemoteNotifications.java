@@ -105,8 +105,9 @@ public final class RemoteNotifications implements WLServer {
                     WLUtilities.saveException(e);
                 }
             }
+            final AppleNotifications apple = AppleNotifications.INSTANCE;
             for(RemoteNotification notification : notifications) {
-                new Thread(() -> AppleNotifications.INSTANCE.sendNotification(notification)).start();
+                new Thread(() -> apple.sendNotification(notification)).start();
             }
         }
         WLLogger.logInfo("RemoteNotifications - sending " + amount + " remote notifications");

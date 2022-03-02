@@ -3,7 +3,6 @@ package me.randomhashtags.worldlaws.upcoming.entertainment;
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
-import me.randomhashtags.worldlaws.RequestMethod;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
@@ -30,7 +29,7 @@ public final class TVShows extends LoadedUpcomingEventController {
     private void refreshSchedule() {
         final String url = "https://api.tvmaze.com/schedule/full";
         final UpcomingEventType eventType = getType();
-        final JSONArray array = requestJSONArray(url, RequestMethod.GET);
+        final JSONArray array = requestJSONArray(url);
         if(array != null) {
             final int max = array.length();
             if(max > 0) {

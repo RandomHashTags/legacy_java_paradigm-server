@@ -3,7 +3,6 @@ package me.randomhashtags.worldlaws.upcoming.entertainment;
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
-import me.randomhashtags.worldlaws.RequestMethod;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.JokeOfTheDayEvent;
@@ -20,7 +19,7 @@ public final class JokeOfTheDay extends LoadedUpcomingEventController {
     @Override
     public void load() {
         final String url = "https://api.jokes.one/jod";
-        final JSONObject json = requestJSONObject(url, RequestMethod.GET);
+        final JSONObject json = requestJSONObject(url);
         if(json != null) {
             final UpcomingEventType type = getType();
             final String imageURL = "https://jokes.one/img/joke_of_the_day.jpg", copyright = "Jokes.One";

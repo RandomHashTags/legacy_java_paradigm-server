@@ -62,7 +62,7 @@ public final class BandwidthTester implements UserServer, RestAPI {
     private void makeRequest(HashMap<String, String> headers, int number, int max) {
         final long started = System.currentTimeMillis();
         final String target = REQUESTS.get(RANDOM.nextInt(REQUESTS.size()));
-        final JSONObject json = requestJSONObject("http://localhost:0/v1/" + target, false, RequestMethod.GET, headers);
+        final JSONObject json = requestJSONObject("http://localhost:0/v1/" + target, false, headers);
         WLLogger.logInfo("BandwidthTester - completed request #" + number + " out of " + max + " (took " + WLUtilities.getElapsedTime(started) + ")");
     }
 }

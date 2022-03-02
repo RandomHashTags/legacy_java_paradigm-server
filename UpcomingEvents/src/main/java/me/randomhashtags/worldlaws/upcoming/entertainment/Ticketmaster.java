@@ -1,6 +1,9 @@
 package me.randomhashtags.worldlaws.upcoming.entertainment;
 
-import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.EventDate;
+import me.randomhashtags.worldlaws.EventSource;
+import me.randomhashtags.worldlaws.EventSources;
+import me.randomhashtags.worldlaws.RestAPI;
 import me.randomhashtags.worldlaws.country.Location;
 import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
@@ -34,7 +37,7 @@ public enum Ticketmaster implements RestAPI {
         query.put("segmentId", segmentID);
 
         final String url = "https://app.ticketmaster.com/discovery/v2/events";
-        return requestJSONObject(url, RequestMethod.GET, headers, query);
+        return requestJSONObject(url, headers, query);
     }
     private String getFormattedDateString(LocalDate date) {
         final int monthValue = date.getMonthValue(), day = date.getDayOfMonth();

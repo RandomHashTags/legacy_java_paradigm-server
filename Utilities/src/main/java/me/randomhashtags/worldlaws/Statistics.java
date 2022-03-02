@@ -28,7 +28,8 @@ public enum Statistics implements Jsonable, QuotaHandler {
         FOLDER.setCustomFolderName(fileName, folderPath);
         return getJSONObject(FOLDER, fileName, null);
     }
-    public void save(long started, TargetServer targetServer, HashSet<String> totalUniqueIdentifiers, ConcurrentHashMap<String, HashSet<String>> uniqueRequests, ConcurrentHashMap<String, Integer> totalRequests) {
+    public void save(TargetServer targetServer, HashSet<String> totalUniqueIdentifiers, ConcurrentHashMap<String, HashSet<String>> uniqueRequests, ConcurrentHashMap<String, Integer> totalRequests) {
+        final long started = System.currentTimeMillis();
         if(!QUOTA_REQUESTS.isEmpty()) {
             saveQuota();
         }

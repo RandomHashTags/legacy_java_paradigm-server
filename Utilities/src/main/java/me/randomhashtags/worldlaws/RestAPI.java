@@ -3,14 +3,19 @@ package me.randomhashtags.worldlaws;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-import java.io.BufferedReader;
-import java.io.InputStream;
-import java.io.InputStreamReader;
-import java.net.HttpURLConnection;
-import java.net.URL;
+import java.net.ConnectException;
+import java.net.URI;
+import java.net.URLEncoder;
+import java.net.http.HttpClient;
+import java.net.http.HttpRequest;
+import java.net.http.HttpResponse;
+import java.nio.charset.StandardCharsets;
+import java.time.Duration;
 import java.util.AbstractMap;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.concurrent.CompletableFuture;
+import java.util.concurrent.CompletionException;
 
 public interface RestAPI {
     HashMap<String, String> CONTENT_HEADERS = new HashMap<>() {{
@@ -18,45 +23,55 @@ public interface RestAPI {
         put("User-Agent", "(Paradigm Proxy - Java Application, ***REMOVED***)");
     }};
 
-    default JSONArray requestJSONArray(String url, RequestMethod method) {
-        return requestJSONArray(url, method, CONTENT_HEADERS);
+    HttpClient CLIENT = HttpClient.newHttpClient();
+
+
+    default JSONArray requestJSONArray(String url) {
+        return requestJSONArray(url, CONTENT_HEADERS);
     }
-    default JSONArray requestJSONArray(String url, RequestMethod method, HashMap<String, String> headers) {
-        return requestJSONArray(url, method, headers, null);
+    default JSONArray requestJSONArray(String url, HashMap<String, String> headers) {
+        return requestJSONArray(url, headers, null);
     }
-    default JSONArray requestJSONArray(String url, RequestMethod method, HashMap<String, String> headers, HashMap<String, String> query) {
-        final String string = request(url, method, headers, query);
+    default JSONArray requestJSONArray(String url, HashMap<String, String> headers, HashMap<String, String> query) {
+        final String string = requestStatic(url, headers, query);
         return string != null ? new JSONArray(string) : null;
     }
 
-    default JSONObject requestJSONObject(String url, RequestMethod method) {
-        return requestJSONObject(url, method, CONTENT_HEADERS);
+    default JSONObject requestJSONObject(String url) {
+        return requestJSONObject(url, CONTENT_HEADERS);
     }
-    default JSONObject requestJSONObject(String url, RequestMethod method, HashMap<String, String> headers) {
-        return requestJSONObject(url, method, headers, null);
+    default JSONObject requestJSONObject(String url, HashMap<String, String> headers) {
+        return requestJSONObject(url, headers, null);
     }
-    default JSONObject requestJSONObject(String url, boolean isLimited, RequestMethod method, HashMap<String, String> headers) {
-        return requestJSONObject(url, isLimited, method, headers, null);
+    default JSONObject requestJSONObject(String url, boolean isLimited, HashMap<String, String> headers) {
+        return requestJSONObject(url, isLimited, headers, null);
     }
-    default JSONObject requestJSONObject(String url, RequestMethod method, HashMap<String, String> headers, AbstractMap<String, String> query) {
-        return requestJSONObject(url, true, method, headers, query);
+    default JSONObject requestJSONObject(String url, HashMap<String, String> headers, AbstractMap<String, String> query) {
+        return requestJSONObject(url, true, headers, query);
     }
-    default JSONObject requestJSONObject(String url, boolean isLimited, RequestMethod method, HashMap<String, String> headers, AbstractMap<String, String> query) {
-        final String string = request(url, isLimited, method, headers, query);
+    default JSONObject requestJSONObject(String url, boolean isLimited, HashMap<String, String> headers, AbstractMap<String, String> query) {
+        final String string = request(url, isLimited, headers, query);
+        return string != null ? new JSONObject(string) : null;
+    }
+    default JSONObject postJSONObject(String url, Map<String, String> postData, boolean isLimited, HashMap<String, String> headers, AbstractMap<String, String> query) {
+        final String string = requestStatic(url, postData, isLimited, headers, query);
         return string != null ? new JSONObject(string) : null;
     }
 
-    default String request(String targetURL, RequestMethod method, HashMap<String, String> headers, AbstractMap<String, String> query) {
-        return request(targetURL, true, method, headers, query);
+    default String request(String targetURL, HashMap<String, String> headers, AbstractMap<String, String> query) {
+        return request(targetURL, true, headers, query);
     }
-    default String request(String targetURL, boolean isLimited, RequestMethod method, HashMap<String, String> headers, AbstractMap<String, String> query) {
-        return requestStatic(targetURL, isLimited, method, headers, query);
+    default String request(String targetURL, boolean isLimited, HashMap<String, String> headers, AbstractMap<String, String> query) {
+        return requestStatic(targetURL, isLimited, headers, query);
+    }
+    static String requestStatic(String targetURL, HashMap<String, String> headers, AbstractMap<String, String> query) {
+        return requestStatic(targetURL, true, headers, query);
+    }
+    static String requestStatic(String targetURL, boolean isLimited, HashMap<String, String> headers, AbstractMap<String, String> query) {
+        return requestStatic(targetURL, null, isLimited, headers, query);
     }
 
-    static String requestStatic(String targetURL, RequestMethod method, HashMap<String, String> headers, AbstractMap<String, String> query) {
-        return requestStatic(targetURL, true, method, headers, query);
-    }
-    static String requestStatic(String targetURL, boolean isLimited, RequestMethod method, HashMap<String, String> headers, AbstractMap<String, String> query) {
+    static String requestStatic(String targetURL, Map<String, String> postData, boolean isLimited, HashMap<String, String> headers, AbstractMap<String, String> query) {
         final boolean isLocal = targetURL.startsWith("http://localhost") || targetURL.startsWith("http://192.168");
 
         final StringBuilder target = new StringBuilder(targetURL);
@@ -74,66 +89,60 @@ public interface RestAPI {
         }
         targetURL = target.toString();
 
-        HttpURLConnection connection = null;
-        try {
-            final URL url = new URL(targetURL);
-            connection = (HttpURLConnection) url.openConnection();
-            connection.setConnectTimeout(10_000);
-            connection.setRequestMethod(method.name());
-            switch (method) {
-                case POST:
-                    connection.setFixedLengthStreamingMode(0);
-                    break;
-                default:
-                    break;
-            }
-            if(headers != null) {
-                for(Map.Entry<String, String> entry : headers.entrySet()) {
-                    final String key = entry.getKey(), value = entry.getValue();
-                    connection.setRequestProperty(key, value);
+        final HttpRequest.Builder requestBuilder = HttpRequest.newBuilder()
+                .uri(URI.create(targetURL))
+                .header("Content-Language", "en-US")
+                .timeout(Duration.ofSeconds(10));
+        if(postData != null) {
+            final HttpRequest.BodyPublisher publisher = parsePostData(postData);
+            requestBuilder.POST(publisher);
+        } else {
+            requestBuilder.GET();
+        }
+        if(isLocal) {
+            requestBuilder.header("Accept-Charset", DataValues.ENCODING.displayName());
+        }
+        if(headers != null) {
+            for(Map.Entry<String, String> entry : headers.entrySet()) {
+                final String key = entry.getKey(), value = entry.getValue();
+                if(key != null && value != null) {
+                    requestBuilder.header(key, value);
                 }
             }
-            if(isLocal) {
-                connection.setRequestProperty("Accept-Charset", DataValues.ENCODING.displayName());
-            }
-            connection.setRequestProperty("Content-Language", "en-US");
-
-            connection.setUseCaches(false);
-            connection.setDoOutput(true);
-
-            String responseString = null;
-            try {
-                final int responseCode = connection.getResponseCode();
-                if(responseCode >= 200 && responseCode < 400) {
-                    final InputStream is = connection.getInputStream();
-                    final BufferedReader reader = new BufferedReader(new InputStreamReader(is));
-                    final StringBuilder response = new StringBuilder();
-                    String line;
-                    while ((line = reader.readLine()) != null) {
-                        response.append(line).append('\r');
+        }
+        String string = null;
+        final CompletableFuture<String> test = CLIENT.sendAsync(requestBuilder.build(), HttpResponse.BodyHandlers.ofString()).thenApply(HttpResponse::body).exceptionally(throwable -> {
+            final Exception e = throwable instanceof Exception ? (Exception) throwable : null;
+            if(e != null) {
+                if(e instanceof CompletionException || e instanceof ConnectException) {
+                    final String msg = e.getMessage();
+                    if(msg.contains("Connection refused") && isLocal) {
+                        return null;
                     }
-                    reader.close();
-                    responseString = response.toString();
-                } else {
-                    WLLogger.logError("RestAPI", "invalid response code (" + responseCode + ") for url \"" + targetURL + "\"!");
                 }
-            } catch (Exception e) {
-                if(!isLocal) {
-                    WLUtilities.saveException(e);
-                }
-            }
-            return responseString;
-        } catch (Exception e) {
-            if(!isLocal) {
-                final StackTraceElement[] stackTrace = e.getStackTrace();
-                WLLogger.logWarning("[REST API] - \"(" + stackTrace[0].getClassName() + ") " + e.getMessage() + " with url \"" + targetURL + "\" with headers: " + (headers != null ? headers.toString() : "null") + ", and query: " + (query != null ? query.toString() : "null"));
                 WLUtilities.saveException(e);
             }
             return null;
-        } finally {
-            if(connection != null) {
-                connection.disconnect();
-            }
+        });
+        //final long started = System.currentTimeMillis();
+        try {
+            string = test.get();
+            //WLLogger.logInfo("RestAPI;requestStaticGET;targetURL=" + targetURL + " ;serverResponseTime=" + WLUtilities.getElapsedTime(started));
+        } catch (Exception e) {
+            WLUtilities.saveException(e);
         }
+        return string;
+    }
+    private static HttpRequest.BodyPublisher parsePostData(Map<String, String> data) {
+        final StringBuilder builder = new StringBuilder();
+        for(Map.Entry<String, String> map : data.entrySet()) {
+            if(builder.length() > 0) {
+                builder.append("&");
+            }
+            builder.append(URLEncoder.encode(map.getKey(), StandardCharsets.UTF_8));
+            builder.append("=");
+            builder.append(URLEncoder.encode(map.getValue(), StandardCharsets.UTF_8));
+        }
+        return HttpRequest.BodyPublishers.ofString(builder.toString());
     }
 }

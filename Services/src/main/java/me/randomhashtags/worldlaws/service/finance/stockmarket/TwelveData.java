@@ -52,7 +52,7 @@ public enum TwelveData implements StockService {
             }
             final String typeURL = "https://api.twelvedata.com/%type%?symbol=" + builder.toString() + "&type=Stock&format=JSON&apikey=" + getAPIKey();
             final String priceURL = typeURL.replace("%type%", "price"), quoteURL = typeURL.replace("%type%", "quote");
-            final JSONObject json = requestJSONObject(priceURL, RequestMethod.GET);
+            final JSONObject json = requestJSONObject(priceURL);
             String string = null;
             if(json != null) {
                 final HashMap<String, Float> prices = new HashMap<>();
@@ -68,7 +68,7 @@ public enum TwelveData implements StockService {
         return null;
     }
     private String getQuotes(APIVersion version, String quoteURL, HashSet<String> symbols, HashMap<String, Float> prices) {
-        final JSONObject json = requestJSONObject(quoteURL, RequestMethod.GET);
+        final JSONObject json = requestJSONObject(quoteURL);
         String string = null;
         if(json != null) {
             final HashSet<Stock> stocks = new HashSet<>();
@@ -113,7 +113,7 @@ public enum TwelveData implements StockService {
         final int outputsize = 3650;
         final String interval = "1day", format = "JSON";
         final String url = "https://api.twelvedata.com/time_series?symbol=" + symbol + "&interval=" + interval + "&outputsize=" + outputsize + "&format=" + format + "&apikey=" + getAPIKey();
-        final JSONObject json = requestJSONObject(url, RequestMethod.GET);
+        final JSONObject json = requestJSONObject(url);
         final JSONArray valuesArray = json.getJSONArray("values");
         final TimeZone timezone = TimeZone.getTimeZone(json.getJSONObject("meta").getString("exchange_timezone"));
         final Calendar calendar = Calendar.getInstance(timezone);

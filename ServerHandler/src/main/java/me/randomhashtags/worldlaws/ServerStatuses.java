@@ -25,7 +25,7 @@ public enum ServerStatuses {
         final String uuid = Settings.Server.getUUID();
         new CompletableFutures<TargetServer>().stream(servers, server -> {
             if(server.isRealServer()) {
-                final String string = server.handleResponse(apiVersion, uuid, RequestMethod.GET, "stop", null);
+                final String string = server.handleResponse(apiVersion, uuid, "stop", null);
             }
         });
         WLLogger.logInfo("ServerHandler - shutdown Paradigm Servers (took " + WLUtilities.getElapsedTime(started) + ")");

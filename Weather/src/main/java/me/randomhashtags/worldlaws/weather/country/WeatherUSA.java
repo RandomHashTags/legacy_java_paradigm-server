@@ -59,7 +59,7 @@ public enum WeatherUSA implements WeatherController {
         final String url = "https://api.weather.gov/alerts/active?status=actual";
         final HashMap<String, String> headers = new HashMap<>(CONTENT_HEADERS);
         headers.put("User-Agent", "(Paradigm Proxy, Weather Module - Java Application, ***REMOVED***)");
-        final JSONObject json = requestJSONObject(url, RequestMethod.GET, headers);
+        final JSONObject json = requestJSONObject(url, headers);
         String string = null;
         if(json != null) {
             final JSONArray array = json.getJSONArray("features");
@@ -71,15 +71,14 @@ public enum WeatherUSA implements WeatherController {
                 preAlertIDs = new HashMap<>();
 
                 final HashSet<String> zoneIDs = new HashSet<>();
-                final Spliterator<Object> spliterator = array.spliterator();
-                new CompletableFutures<JSONObject>().stream(spliterator, jsonAlert -> {
+                new CompletableFutures<JSONObject>().stream(array, jsonAlert -> {
                     final JSONObject properties = jsonAlert.getJSONObject("properties");
                     final JSONArray affectedZones = properties.getJSONArray("affectedZones");
                     final HashSet<String> targetZoneIDs = getZoneIDs(affectedZones);
                     zoneIDs.addAll(targetZoneIDs);
                 });
                 processZones(zoneIDs);
-                string = processAlerts(spliterator);
+                string = processAlerts(array);
             }
         }
         return string;
@@ -139,13 +138,13 @@ public enum WeatherUSA implements WeatherController {
             WLLogger.logInfo("WeatherUSA - loaded" + suffix + " (took " + WLUtilities.getElapsedTime(started) + ")");
         }
     }
-    private String processAlerts(Spliterator<Object> spliterator) {
+    private String processAlerts(JSONArray array) {
         final ConcurrentHashMap<String, Integer> eventsMap = new ConcurrentHashMap<>();
         final ConcurrentHashMap<String, HashSet<WeatherPreAlert>> eventPreAlertsMap = new ConcurrentHashMap<>();
         final ConcurrentHashMap<String, ConcurrentHashMap<String, WeatherEvent>> subdivisionEventsMap = new ConcurrentHashMap<>();
         final ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<WeatherPreAlert>>> territoryPreAlertsMap = new ConcurrentHashMap<>();
 
-        new CompletableFutures<JSONObject>().stream(spliterator, json -> {
+        new CompletableFutures<JSONObject>().stream(array, json -> {
             final String id = json.getString("id").split("/alerts/")[1];
             final JSONObject properties = json.getJSONObject("properties");
 
@@ -272,7 +271,7 @@ public enum WeatherUSA implements WeatherController {
             @Override
             public JSONObject loadJSONObject() {
                 final String url = "https://api.weather.gov/zones/" + zoneID;
-                return requestJSONObject(url, RequestMethod.GET);
+                return requestJSONObject(url);
             }
         });
     }
@@ -308,7 +307,7 @@ public enum WeatherUSA implements WeatherController {
             final JSONObject json = getLocalOffice(identifier, new CompletionHandler() {
                 @Override
                 public JSONObject loadJSONObject() {
-                    return requestJSONObject(url, RequestMethod.GET);
+                    return requestJSONObject(url);
                 }
             });
             forecastOffices.put(identifier, json);

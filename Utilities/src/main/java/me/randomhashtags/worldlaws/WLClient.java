@@ -6,26 +6,13 @@ import java.io.Reader;
 import java.net.Socket;
 import java.net.SocketException;
 
-public final class WLClient extends Thread {
+public final class WLClient {
     private final Socket httpClient;
-    private final CompletionHandler handler;
     private String headers, target;
 
-    public WLClient(Socket client, CompletionHandler handler) {
+    public WLClient(Socket client) {
         httpClient = client;
-        this.handler = handler;
-    }
-
-    @Override
-    public void run() {
-        try {
-            setupHeaders(httpClient);
-            if(!httpClient.isOutputShutdown()) {
-                handler.handleClient(this);
-            }
-        } catch (Exception e) {
-            WLUtilities.saveException(e);
-        }
+        setupHeaders(httpClient);
     }
 
     public Socket getClient() {
