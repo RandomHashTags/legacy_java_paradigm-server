@@ -18,7 +18,7 @@ public enum Verification implements RestAPI {
         headers.put("receipt-data", value);
         headers.put("exclude-old-transactions", "true");
         headers.put("password", sharedSecret);
-        final JSONObject json = postJSONObject(url, null, true, headers, null);
+        final JSONObject json = postJSONObject(url, null, true, headers);
         String string = null;
         int status = 0;
         if(json != null) {

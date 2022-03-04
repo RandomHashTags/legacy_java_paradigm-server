@@ -25,10 +25,13 @@ public enum ServerStatuses {
         final String uuid = Settings.Server.getUUID();
         new CompletableFutures<TargetServer>().stream(servers, server -> {
             if(server.isRealServer()) {
-                final String string = server.handleResponse(apiVersion, uuid, "stop", null);
+                final String string = shutdownServer(server, apiVersion, uuid);
             }
         });
         WLLogger.logInfo("ServerHandler - shutdown Paradigm Servers (took " + WLUtilities.getElapsedTime(started) + ")");
+    }
+    public static String shutdownServer(TargetServer server, APIVersion version, String uuid) {
+        return server.handleResponse(version, uuid, "stop", null);
     }
     public static void spinUpServers() {
         final long started = System.currentTimeMillis();

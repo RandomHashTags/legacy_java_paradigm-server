@@ -23,10 +23,6 @@ public interface RestAPI {
         put("Accept", "application/json");
         put("User-Agent", USER_AGENT);
     }};
-    LinkedHashMap<String, String> POST_CONTENT_HEADERS = new LinkedHashMap<>() {{
-        put("Content-Type", "application/json");
-        put("User-Agent", USER_AGENT);
-    }};
 
     HttpClient CLIENT = getClient();
 
@@ -93,12 +89,18 @@ public interface RestAPI {
         }
         return null;
     }
-    default JSONObject postJSONObject(String url, LinkedHashMap<String, String> postData, boolean isLimited, LinkedHashMap<String, String> headers, LinkedHashMap<String, String> query) {
+    default JSONObject postJSONObject(String url, LinkedHashMap<String, String> postData, boolean isLimited, LinkedHashMap<String, String> headers) {
         if(postData == null) {
             postData = new LinkedHashMap<>();
         }
-        postData.putAll(POST_CONTENT_HEADERS);
-        final String string = requestStatic(url, postData, isLimited, headers, query);
+        if(!headers.containsKey("User-Agent")) {
+            headers.put("User-Agent", USER_AGENT);
+        }
+        if(!headers.containsKey("Content-Type")) {
+            headers.put("Content-Type", "application/json");
+        }
+
+        final String string = requestStatic(url, postData, isLimited, headers, null);
         return string != null ? new JSONObject(string) : null;
     }
 
@@ -133,9 +135,10 @@ public interface RestAPI {
         }
         targetURL = target.toString();
 
-        final HttpRequest.Builder requestBuilder = HttpRequest.newBuilder()
-                .uri(URI.create(targetURL))
-                .timeout(Duration.ofSeconds(10));
+        final HttpRequest.Builder requestBuilder = HttpRequest.newBuilder().uri(URI.create(targetURL));
+        if(!isLocal) {
+            requestBuilder.timeout(Duration.ofSeconds(10));
+        }
         if(postData != null) {
             final HttpRequest.BodyPublisher publisher = parsePostData(postData);
             requestBuilder.POST(publisher);

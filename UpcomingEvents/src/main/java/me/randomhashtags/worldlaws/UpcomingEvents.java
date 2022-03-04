@@ -82,9 +82,8 @@ public final class UpcomingEvents implements WLServer {
 
     private void test() {
         final long started = System.currentTimeMillis();
-        final Presentations presentations = new Presentations();
-        presentations.refresh();
-        final String string = presentations.getEventsFromDates(getWeeklyEventDateStrings(LocalDate.now()));
+        final JSONObject json = new MusicAlbums().getSpotifyPlaylistJSON("37i9dQZF1DX4JAvHpjipBk");
+        final String string = json != null ? json.toString() : "null";
         WLLogger.logInfo("UpcomingEvents;test;string=" + string + ";took " + WLUtilities.getElapsedTime(started));
     }
 

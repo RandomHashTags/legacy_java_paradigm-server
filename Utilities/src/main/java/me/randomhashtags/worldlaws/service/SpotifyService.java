@@ -31,13 +31,12 @@ public interface SpotifyService extends QuotaHandler, RestAPI, DataValues {
         final String url = "https://accounts.spotify.com/api/token";
         final LinkedHashMap<String, String> headers = new LinkedHashMap<>();
         headers.put("Content-Type", "application/x-www-form-urlencoded");
-        headers.put("Content-Length", "0");
         final String encodedString = Base64.getEncoder().encodeToString((clientID + ":" + clientSecret).getBytes());
         headers.put("Authorization", "Basic " + encodedString);
-        final LinkedHashMap<String, String> query = new LinkedHashMap<>();
-        query.put("grant_type", "client_credentials");
+        final LinkedHashMap<String, String> postData = new LinkedHashMap<>();
+        postData.put("grant_type", "client_credentials");
         final long requestTime = System.currentTimeMillis();
-        final JSONObject json = postJSONObject(url, null, true, headers, query);// requestJSONObject(url, RequestMethod.POST, headers, query);
+        final JSONObject json = postJSONObject(url, postData, true, headers);// requestJSONObject(url, RequestMethod.POST, headers, query);
         final int expireDuration = json.getInt("expires_in") * 1_000;
         json.put("expiration", requestTime + expireDuration);
         json.remove("expires_in");

@@ -37,7 +37,7 @@ public final class MusicSpotify extends LoadedUpcomingEventController implements
             final JSONArray tracksArray = responseJSON.getJSONObject("tracks").getJSONArray("items");
             final JSONObject tracks = new JSONObject();
             for(Object obj : tracksArray) {
-                final JSONObject trackJSON = (JSONObject) obj;
+                final JSONObject trackJSON = ((JSONObject) obj).getJSONObject("track");
 
                 final JSONObject albumJSON = trackJSON.getJSONObject("album");
                 final JSONArray albumImages = albumJSON.getJSONArray("images");
