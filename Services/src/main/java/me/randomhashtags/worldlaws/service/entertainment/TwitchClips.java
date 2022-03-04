@@ -12,6 +12,7 @@ import org.json.JSONObject;
 
 import java.util.Arrays;
 import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.List;
 
 public enum TwitchClips implements RefreshableService {
@@ -72,11 +73,11 @@ public enum TwitchClips implements RefreshableService {
     private String refreshKraken() {
         types.clear();
         final String clientID = Settings.PrivateValues.Twitch.getClientID();
-        final HashMap<String, String> headers = new HashMap<>() {{
+        final LinkedHashMap<String, String> headers = new LinkedHashMap<>() {{
             put("Client-ID", clientID);
             put("Accept", "application/vnd.twitchtv.v5+json");
         }};
-        final HashMap<String, String> query = new HashMap<>();
+        final LinkedHashMap<String, String> query = new LinkedHashMap<>();
         query.put("limit", Integer.toString(Settings.PrivateValues.Twitch.getRequestLimit()));
         query.put("trending", "true");
         final JSONObject clipsJSON = new JSONObject();
@@ -95,7 +96,7 @@ public enum TwitchClips implements RefreshableService {
         types.put("getAll", string);
         return string;
     }
-    private JSONObject refreshKraken(HashMap<String, String> headers, HashMap<String, String> query, String type) {
+    private JSONObject refreshKraken(LinkedHashMap<String, String> headers, LinkedHashMap<String, String> query, String type) {
         final String url = "https://api.twitch.tv/kraken/clips/top";
         query.put("period", type);
         final JSONObject json = requestJSONObject(url, headers, query);

@@ -22,7 +22,7 @@ public final class AstronomyPictureOfTheDay extends LoadedUpcomingEventControlle
     @Override
     public void load() {
         final String apiKey = NASAService.getNASA_APIKey();
-        final JSONObject json = requestJSONObject("https://api.nasa.gov/planetary/apod?api_key=" + apiKey, CONTENT_HEADERS);
+        final JSONObject json = requestJSONObject("https://api.nasa.gov/planetary/apod?api_key=" + apiKey, GET_CONTENT_HEADERS);
         if(json != null) {
             final UpcomingEventType type = getType();
             final EventSources sources = new EventSources(

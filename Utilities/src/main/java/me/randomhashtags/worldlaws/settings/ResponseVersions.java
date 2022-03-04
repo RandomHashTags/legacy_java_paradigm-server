@@ -5,8 +5,10 @@ public enum ResponseVersions {
     COUNTRIES,
     MOVIE_PRODUCTION_COMPANIES,
     MUSIC_ARTISTS,
+    PRESENTATIONS,
     UPCOMING_EVENT_TYPES,
     UPDATE_NOTES,
+    VIDEO_GAMES,
 
     // Server Side
     AVAILABILITIES,
@@ -36,8 +38,12 @@ public enum ResponseVersions {
                 return 2;
             case MUSIC_ARTISTS:
                 return 1;
+            case PRESENTATIONS:
+                return 1;
             case UPCOMING_EVENT_TYPES:
                 return 6;
+            case VIDEO_GAMES:
+                return 1;
 
             case AVAILABILITIES:
                 return 1;

@@ -8,8 +8,8 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.util.Base64;
-import java.util.HashMap;
 import java.util.HashSet;
+import java.util.LinkedHashMap;
 
 public interface SpotifyService extends QuotaHandler, RestAPI, DataValues {
     default String getSpotifyAccessToken() {
@@ -29,15 +29,15 @@ public interface SpotifyService extends QuotaHandler, RestAPI, DataValues {
         final String clientID = "***REMOVED***";
         final String clientSecret = "***REMOVED***";
         final String url = "https://accounts.spotify.com/api/token";
-        final HashMap<String, String> headers = new HashMap<>();
+        final LinkedHashMap<String, String> headers = new LinkedHashMap<>();
         headers.put("Content-Type", "application/x-www-form-urlencoded");
         headers.put("Content-Length", "0");
         final String encodedString = Base64.getEncoder().encodeToString((clientID + ":" + clientSecret).getBytes());
         headers.put("Authorization", "Basic " + encodedString);
-        final HashMap<String, String> query = new HashMap<>();
+        final LinkedHashMap<String, String> query = new LinkedHashMap<>();
         query.put("grant_type", "client_credentials");
         final long requestTime = System.currentTimeMillis();
-        final JSONObject json = postJSONObject(url, new HashMap<>(), true, headers, query);// requestJSONObject(url, RequestMethod.POST, headers, query);
+        final JSONObject json = postJSONObject(url, null, true, headers, query);// requestJSONObject(url, RequestMethod.POST, headers, query);
         final int expireDuration = json.getInt("expires_in") * 1_000;
         json.put("expiration", requestTime + expireDuration);
         json.remove("expires_in");
@@ -53,9 +53,9 @@ public interface SpotifyService extends QuotaHandler, RestAPI, DataValues {
     default JSONObject getSpotifyPlaylistJSON(String id) {
         final String accessToken = getSpotifyAccessToken();
         final String url = "https://api.spotify.com/v1/playlists/" + id;
-        final HashMap<String, String> headers = new HashMap<>(CONTENT_HEADERS);
+        final LinkedHashMap<String, String> headers = new LinkedHashMap<>(GET_CONTENT_HEADERS);
         headers.put("Authorization", "Basic " + accessToken);
-        final HashMap<String, String> query = new HashMap<>();
+        final LinkedHashMap<String, String> query = new LinkedHashMap<>();
         query.put("market", "US");
         return requestJSONObject(url, headers, query);
     }
@@ -79,9 +79,9 @@ public interface SpotifyService extends QuotaHandler, RestAPI, DataValues {
         if(success) {
             final String accessToken = getSpotifyAccessToken();
             final String url = "https://api.spotify.com/v1/search";
-            final HashMap<String, String> headers = new HashMap<>(CONTENT_HEADERS);
+            final LinkedHashMap<String, String> headers = new LinkedHashMap<>(GET_CONTENT_HEADERS);
             headers.put("Authorization", accessToken);
-            final HashMap<String, String> query = new HashMap<>();
+            final LinkedHashMap<String, String> query = new LinkedHashMap<>();
             query.put("q", album.replace(" ", "%20"));
             query.put("limit", "50");
             query.put("type", "album");

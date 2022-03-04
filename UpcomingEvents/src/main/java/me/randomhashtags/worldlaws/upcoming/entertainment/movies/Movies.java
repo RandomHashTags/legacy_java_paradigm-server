@@ -98,18 +98,6 @@ public final class Movies extends UpcomingEventController implements IMDbService
     }
 
     @Override
-    public String getResponse(String input) {
-        final String[] values = input.split("/");
-        final String key = values[0];
-        switch (key) {
-            case "productionCompanies":
-                return MovieProductionCompanies.getResponse(input.substring(key.length()));
-            default:
-                return super.getResponse(input);
-        }
-    }
-
-    @Override
     public String loadUpcomingEvent(String id) {
         final PreUpcomingEvent preUpcomingEvent = getPreUpcomingEvent(id);
         final String url = preUpcomingEvent.getURL();

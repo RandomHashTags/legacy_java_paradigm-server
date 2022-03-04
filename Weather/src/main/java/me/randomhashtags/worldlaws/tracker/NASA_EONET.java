@@ -47,14 +47,14 @@ public enum NASA_EONET implements WLService {
         final String wikipediaPrefix = "https://en.wikipedia.org/wiki/";
         final HashMap<String, String> volcanoWikipediaPages = Settings.ServerValues.Weather.getVolcanoWikipediaPages();
         final ConcurrentHashMap<String, HashSet<String>> homeValues = new ConcurrentHashMap<>();
-        final String url = "https://eonet.sci.gsfc.nasa.gov/api/v3/events?status=open&days=30";
-        final JSONObject json = requestJSONObject(url, CONTENT_HEADERS);
+        final String url = "https://eonet.gsfc.nasa.gov/api/v3/events?status=open&days=30";
+        final JSONObject json = requestJSONObject(url);
         int amount = 0;
         if(json != null) {
             final String unitedStatesBackendID = WLCountry.UNITED_STATES.getBackendID();
             final JSONArray eventsArray = json.getJSONArray("events");
             amount += eventsArray.length();
-            new CompletableFutures<JSONObject>().stream(eventsArray.spliterator(), eventJSON -> {
+            new CompletableFutures<JSONObject>().stream(eventsArray, eventJSON -> {
                 String place = eventJSON.getString("title").replace("&#039;", "'");
                 if(!place.startsWith("Iceberg ")) {
                     final String[] startingReplacements = new String[] {

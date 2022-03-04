@@ -77,12 +77,19 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
                 }
             });
         } else if(!loadedPreUpcomingEvents.isEmpty()) {
-            new CompletableFutures<String>().stream(loadedPreUpcomingEvents.keySet(), identifier -> {
-                final String string = loadedPreUpcomingEvents.get(identifier);
-                final String dateString = identifier.split("\\.")[0];
-                map.putIfAbsent(dateString, new HashSet<>());
-                map.get(dateString).add(string);
+            final HashSet<String> events = new HashSet<>(loadedPreUpcomingEvents.keySet());
+            events.removeIf(id -> {
+                final String dateString = id.split("\\.")[0];
+                return !dates.contains(dateString);
             });
+            if(!events.isEmpty()) {
+                for(String identifier : events) {
+                    final String string = loadedPreUpcomingEvents.get(identifier);
+                    final String dateString = identifier.split("\\.")[0];
+                    map.putIfAbsent(dateString, new HashSet<>());
+                    map.get(dateString).add(string);
+                }
+            }
         }
         String stringValue = null;
         if(!map.isEmpty()) {

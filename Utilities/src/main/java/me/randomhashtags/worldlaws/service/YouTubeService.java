@@ -7,15 +7,15 @@ import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-import java.util.HashMap;
+import java.util.LinkedHashMap;
 
 public interface YouTubeService extends RestAPI, Jsonable {
     default JSONArray getVideosJSONArray(YouTubeVideoType type, String title) {
         final String apiKey = Settings.PrivateValues.YouTube.getKey();
         final String url = "https://youtube.googleapis.com/youtube/v3/search";
         final int requestLimit = Settings.PrivateValues.YouTube.getRequestLimit();
-        final HashMap<String, String> headers = new HashMap<>(CONTENT_HEADERS);
-        final HashMap<String, String> query = new HashMap<>();
+        final LinkedHashMap<String, String> headers = new LinkedHashMap<>(GET_CONTENT_HEADERS);
+        final LinkedHashMap<String, String> query = new LinkedHashMap<>();
         query.put("part", "snippet");
         query.put("maxResults", Integer.toString(requestLimit));
         query.put("order", "relevance");

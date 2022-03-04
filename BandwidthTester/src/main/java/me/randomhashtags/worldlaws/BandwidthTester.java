@@ -39,7 +39,7 @@ public final class BandwidthTester implements UserServer, RestAPI {
 
     private void simulateRequestsPerSecond(int amount) {
         final Timer timer = new Timer();
-        final HashMap<String, String> headers = new HashMap<>();
+        final LinkedHashMap<String, String> headers = new LinkedHashMap<>();
         final String uuid = "***REMOVED***";
         headers.put("***REMOVED***", uuid);
         headers.put("***REMOVED***", "BandwidthTester");
@@ -59,7 +59,7 @@ public final class BandwidthTester implements UserServer, RestAPI {
             makeRequest(null, integer, max);
         });
     }
-    private void makeRequest(HashMap<String, String> headers, int number, int max) {
+    private void makeRequest(LinkedHashMap<String, String> headers, int number, int max) {
         final long started = System.currentTimeMillis();
         final String target = REQUESTS.get(RANDOM.nextInt(REQUESTS.size()));
         final JSONObject json = requestJSONObject("http://localhost:0/v1/" + target, false, headers);

@@ -23,8 +23,8 @@ public final class Weather implements WLServer {
 
     private void test() {
         final long started = System.currentTimeMillis();
-        final String string = WeatherAlerts.INSTANCE.getResponse("all");
-        WLLogger.logInfo("Weather;test;string=" + string + ";took=" + WLUtilities.getElapsedTime(started));
+        NASA_EONET.INSTANCE.refresh(APIVersion.v1);
+        WLLogger.logInfo("Weather;test;took=" + WLUtilities.getElapsedTime(started));
     }
 
     @Override

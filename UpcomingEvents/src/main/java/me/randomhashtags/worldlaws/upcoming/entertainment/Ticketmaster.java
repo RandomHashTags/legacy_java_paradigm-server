@@ -15,16 +15,15 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.time.LocalDate;
-import java.util.HashMap;
 import java.util.HashSet;
+import java.util.LinkedHashMap;
 
 public enum Ticketmaster implements RestAPI {
     INSTANCE;
 
     private JSONObject getEvents(String segmentID) {
         final String apiKey = Settings.PrivateValues.Ticketmaster.getAPIKey();
-        final HashMap<String, String> headers = new HashMap<>(CONTENT_HEADERS);
-        final HashMap<String, String> query = new HashMap<>();
+        final LinkedHashMap<String, String> query = new LinkedHashMap<>();
         final LocalDate now = LocalDate.now();
         final String startDateTime = getFormattedDateString(now);
         final String endDateTime = getFormattedDateString(now.plusDays(7));
@@ -37,7 +36,7 @@ public enum Ticketmaster implements RestAPI {
         query.put("segmentId", segmentID);
 
         final String url = "https://app.ticketmaster.com/discovery/v2/events";
-        return requestJSONObject(url, headers, query);
+        return requestJSONObject(url, GET_CONTENT_HEADERS, query);
     }
     private String getFormattedDateString(LocalDate date) {
         final int monthValue = date.getMonthValue(), day = date.getDayOfMonth();

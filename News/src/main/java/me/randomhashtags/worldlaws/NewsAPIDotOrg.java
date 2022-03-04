@@ -5,6 +5,7 @@ import org.json.JSONObject;
 
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.List;
 
 public enum NewsAPIDotOrg implements NewsService {
@@ -14,8 +15,8 @@ public enum NewsAPIDotOrg implements NewsService {
     private HashMap<String, NewsArticle> ARTICLES;
 
     // https://newsapi.org/docs/get-started | https://newsapi.org/account
-    private final HashMap<String, String> NEWSAPI_HEADERS = new HashMap<>() {{
-        putAll(CONTENT_HEADERS);
+    private final LinkedHashMap<String, String> NEWSAPI_HEADERS = new LinkedHashMap<>() {{
+        putAll(GET_CONTENT_HEADERS);
         put("X-Api-Key", "***REMOVED***"); // max of 500 requests per day
     }};
 
@@ -39,7 +40,7 @@ public enum NewsAPIDotOrg implements NewsService {
     private String getTopHeadlines(String countryISOAlpha2) {
         final long started = System.currentTimeMillis();
         countryHeadlines.remove(countryISOAlpha2);
-        final HashMap<String, String> query = new HashMap<>();
+        final LinkedHashMap<String, String> query = new LinkedHashMap<>();
         query.put("country", countryISOAlpha2);
         query.put("pageSize", "100");
         final JSONObject response = requestJSONObject("https://newsapi.org/v2/top-headlines", NEWSAPI_HEADERS, query);

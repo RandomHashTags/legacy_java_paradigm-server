@@ -3,7 +3,7 @@ package me.randomhashtags.worldlaws;
 import me.randomhashtags.worldlaws.settings.Settings;
 import org.json.JSONObject;
 
-import java.util.HashMap;
+import java.util.LinkedHashMap;
 
 public enum Verification implements RestAPI {
     INSTANCE;
@@ -14,11 +14,11 @@ public enum Verification implements RestAPI {
 
         final String prefix = productionMode ? "buy" : "sandbox";
         final String url = "https://" + prefix + ".itunes.apple.com/verifyReceipt";
-        final HashMap<String, String> headers = new HashMap<>(CONTENT_HEADERS);
+        final LinkedHashMap<String, String> headers = new LinkedHashMap<>(GET_CONTENT_HEADERS);
         headers.put("receipt-data", value);
         headers.put("exclude-old-transactions", "true");
         headers.put("password", sharedSecret);
-        final JSONObject json = postJSONObject(url, new HashMap<>(), true, headers, null);
+        final JSONObject json = postJSONObject(url, null, true, headers, null);
         String string = null;
         int status = 0;
         if(json != null) {

@@ -57,9 +57,7 @@ public enum WeatherUSA implements WeatherController {
     @Override
     public String refresh() {
         final String url = "https://api.weather.gov/alerts/active?status=actual";
-        final HashMap<String, String> headers = new HashMap<>(CONTENT_HEADERS);
-        headers.put("User-Agent", "(Paradigm Proxy, Weather Module - Java Application, ***REMOVED***)");
-        final JSONObject json = requestJSONObject(url, headers);
+        final JSONObject json = requestJSONObject(url);
         String string = null;
         if(json != null) {
             final JSONArray array = json.getJSONArray("features");

@@ -22,7 +22,7 @@ public enum MarsRoverPhotos implements WLService {
             final LocalDate today = LocalDate.now().minusDays(1);
             final int year = today.getYear(), month = today.getMonthValue(), day = today.getDayOfMonth();
             final String rover = "curiosity", apiKey = NASAService.getNASA_APIKey();
-            final JSONObject json = requestJSONObject("https://api.nasa.gov/mars-photos/api/v1/rovers/" + rover + "/photos?earth_date=" + year + "-" + month + "-" + day + "&api_key=" + apiKey, CONTENT_HEADERS);
+            final JSONObject json = requestJSONObject("https://api.nasa.gov/mars-photos/api/v1/rovers/" + rover + "/photos?earth_date=" + year + "-" + month + "-" + day + "&api_key=" + apiKey, GET_CONTENT_HEADERS);
             final JSONArray photos = json.getJSONArray("photos");
             if(!photos.isEmpty()) {
                 for(Object obj : photos) {

@@ -7,16 +7,16 @@ import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-import java.util.HashMap;
 import java.util.HashSet;
+import java.util.LinkedHashMap;
 import java.util.stream.IntStream;
 
 // https://rapidapi.com/apidojo/api/yahoo-finance1/
 public enum YahooFinance implements StockService {
     INSTANCE;
 
-    private HashMap<String, String> getHeaders() {
-        final HashMap<String, String> headers = new HashMap<>();
+    private LinkedHashMap<String, String> getHeaders() {
+        final LinkedHashMap<String, String> headers = new LinkedHashMap<>();
         headers.put("x-rapidapi-key", Settings.PrivateValues.YahooFinance.getAPIKey());
         headers.put("x-rapidapi-host", "apidojo-yahoo-finance-v1.p.rapidapi.com");
         return headers;
@@ -38,7 +38,7 @@ public enum YahooFinance implements StockService {
         final JSONObject json = getJSONObject(Folder.SERVICES_FINANCE_YAHOO_FINANCE_CHARTS, "_Auto completes", new CompletionHandler() {
             @Override
             public String loadJSONObjectString() {
-                final HashMap<String, String> query = new HashMap<>();
+                final LinkedHashMap<String, String> query = new LinkedHashMap<>();
                 query.put("q", term);
                 final JSONObject json = requestJSONObject("https://apidojo-yahoo-finance-v1.p.rapidapi.com/auto-complete", getHeaders(), query);
                 final JSONArray quotes = json.getJSONArray("quotes");
@@ -64,7 +64,7 @@ public enum YahooFinance implements StockService {
         return getQuotes(version, symbols);
     }
     private JSONObject getMovers(APIVersion version, int offset) {
-        final HashMap<String, String> query = new HashMap<>();
+        final LinkedHashMap<String, String> query = new LinkedHashMap<>();
         query.put("region", "US");
         query.put("count", "25");
         query.put("start", Integer.toString(offset));
@@ -83,8 +83,8 @@ public enum YahooFinance implements StockService {
     @Override
     public String getQuotes(APIVersion version, HashSet<String> symbols) { // 50 symbols limit per request
         final long started = System.currentTimeMillis();
-        final HashMap<String, String> headers = getHeaders();
-        final HashMap<String, String> query = new HashMap<>();
+        final LinkedHashMap<String, String> headers = getHeaders();
+        final LinkedHashMap<String, String> query = new LinkedHashMap<>();
         query.put("region", "US");
         final StringBuilder symbolBuilder = new StringBuilder();
         boolean isFirstSymbol = true;
@@ -161,8 +161,8 @@ public enum YahooFinance implements StockService {
     }
     private JSONObject requestChart(boolean refresh, APIVersion version, String symbol) {
         final long started = System.currentTimeMillis();
-        final HashMap<String, String> headers = getHeaders();
-        final HashMap<String, String> query = new HashMap<>();
+        final LinkedHashMap<String, String> headers = getHeaders();
+        final LinkedHashMap<String, String> query = new LinkedHashMap<>();
         query.put("interval", "1d");
         query.put("symbol", symbol);
         query.put("range", "10y");
@@ -190,7 +190,7 @@ public enum YahooFinance implements StockService {
         final JSONObject json = getJSONObject(Folder.SERVICES_FINANCE_YAHOO_FINANCE_CHARTS, symbol, new CompletionHandler() {
             @Override
             public String loadJSONArrayString() {
-                final HashMap<String, String> query = new HashMap<>();
+                final LinkedHashMap<String, String> query = new LinkedHashMap<>();
                 query.put("symbol", symbol);
                 query.put("region", "US");
                 final JSONObject json = requestJSONObject("https://apidojo-yahoo-finance-v1.p.rapidapi.com/stock/v2/get-profile", getHeaders(), query);
@@ -203,7 +203,7 @@ public enum YahooFinance implements StockService {
         });
     }
 
-    private JSONObject requestYahooFinanceJSONObject(String url, HashMap<String, String> headers, HashMap<String, String> query) {
+    private JSONObject requestYahooFinanceJSONObject(String url, LinkedHashMap<String, String> headers, LinkedHashMap<String, String> query) {
         return requestJSONObject(url, headers, query);
     }
 }

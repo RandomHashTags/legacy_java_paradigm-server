@@ -13,10 +13,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.security.KeyStore;
 import java.time.LocalDateTime;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Map;
-import java.util.Timer;
+import java.util.*;
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.TimeUnit;
@@ -112,8 +109,8 @@ public final class ServerHandler implements UserServer {
                     WLUtilities.writeClientOutput(client, DataValues.HTTP_SUCCESS_200 + pingResponse);
                     break;
                 case "home":
-                    final HashMap<String, String> headers = new HashMap<>();
-                    headers.put("Content-Type", "application/json");
+                    final LinkedHashMap<String, String> headers = new LinkedHashMap<>();
+                    headers.put("Accept", "application/json");
                     headers.put("Charset", DataValues.ENCODING.name());
                     headers.put("***REMOVED***", identifier);
                     final String homeResponse = getHomeResponse(clientHeaders.getAPIVersion(), headers, clientHeaders.getQuery());
@@ -259,7 +256,7 @@ public final class ServerHandler implements UserServer {
         }
     }
 
-    private String getHomeResponse(APIVersion version, HashMap<String, String> headers, HashSet<String> query) {
+    private String getHomeResponse(APIVersion version, LinkedHashMap<String, String> headers, HashSet<String> query) {
         if(!HOME_JSON.containsKey(version)) {
             final String string = updateHomeResponse(version, false, headers);
         }
@@ -304,13 +301,13 @@ public final class ServerHandler implements UserServer {
 
     public static String updateHomeResponse() {
         final APIVersion version = APIVersion.getLatest();
-        final HashMap<String, String> headers = new HashMap<>();
+        final LinkedHashMap<String, String> headers = new LinkedHashMap<>();
         headers.put("Content-Type", "application/json");
         headers.put("Charset", DataValues.ENCODING.name());
         headers.put("***REMOVED***", Settings.Server.getUUID());
         return updateHomeResponse(version, true, headers);
     }
-    private static String updateHomeResponse(APIVersion version, boolean isUpdate, HashMap<String, String> headers) {
+    private static String updateHomeResponse(APIVersion version, boolean isUpdate, LinkedHashMap<String, String> headers) {
         final long started = System.currentTimeMillis();
         if(!isUpdate) {
             final long interval = UpdateIntervals.ServerHandler.HOME;
@@ -349,7 +346,7 @@ public final class ServerHandler implements UserServer {
                     final JSONObject json = new JSONObject(value);
                     values.put(key, json);
                 } catch (Exception e) {
-                    final String details = "isUpdate=" + isUpdate + ";string!=null;key=" + key + ";server=" + serverIP + "\n\nvalue=" + value + "\n\n" + WLUtilities.getExceptionStackTrace(e);
+                    final String details = "isUpdate=" + isUpdate + ";string!=null;key=" + key + ";server=" + serverIP + "\n\nvalue=" + value + "\n\n" + WLUtilities.getThrowableStackTrace(e);
                     WLUtilities.saveLoggedError("ServerHandler", "failed to parse string to JSONObject! " + details);
                 }
             }

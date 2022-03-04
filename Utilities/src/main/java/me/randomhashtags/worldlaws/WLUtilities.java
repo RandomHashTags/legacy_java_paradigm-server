@@ -59,7 +59,7 @@ public abstract class WLUtilities {
         connection.setConnectTimeout(10_000);
         connection.setUseCaches(false);
         connection.setDoOutput(true);
-        connection.setRequestProperty("User-Agent", "Java Application/11 (application: Paradigm; contact:***REMOVED***)");
+        connection.setRequestProperty("User-Agent", RestAPI.USER_AGENT);
         int responseCode = 200;
         if(connection instanceof HttpsURLConnection) {
             final HttpsURLConnection httpsConnection = (HttpsURLConnection) connection;
@@ -171,17 +171,17 @@ public abstract class WLUtilities {
     }
 
     public static void saveException(Exception exception) {
-        final String trace = getExceptionStackTrace(exception);
+        final String trace = getThrowableStackTrace(exception);
         final String errorName = exception.getClass().getSimpleName();
         saveError("WLUtilities.saveException", errorName, trace);
     }
-    public static String getExceptionStackTrace(Exception exception) {
-        String message = exception.getLocalizedMessage();
+    public static String getThrowableStackTrace(Throwable throwable) {
+        String message = throwable.getLocalizedMessage();
         if(message == null) {
-            message = exception.getMessage();
+            message = throwable.getMessage();
         }
-        final StringBuilder builder = new StringBuilder(message != null ? message : "null message");
-        for(StackTraceElement element : exception.getStackTrace()) {
+        final StringBuilder builder = new StringBuilder(message != null && !message.isEmpty() ? message : "null message");
+        for(StackTraceElement element : throwable.getStackTrace()) {
             builder.append("\n").append(element.toString());
         }
         return builder.toString();

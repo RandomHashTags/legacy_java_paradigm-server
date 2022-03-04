@@ -3,10 +3,7 @@ package me.randomhashtags.worldlaws;
 import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Map;
+import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 
 public enum TargetServer implements RestAPI, DataValues {
@@ -122,7 +119,7 @@ public enum TargetServer implements RestAPI, DataValues {
     }
 
     public String handleResponse(APIVersion version, String identifier, String request, HashSet<String> query) {
-        final HashMap<String, String> headers = new HashMap<>();
+        final LinkedHashMap<String, String> headers = new LinkedHashMap<>();
         headers.put("Content-Type", "application/json");
         headers.put("Charset", DataValues.ENCODING.name());
         headers.put("***REMOVED***", identifier);
@@ -157,11 +154,11 @@ public enum TargetServer implements RestAPI, DataValues {
         builder.append("}");
         return builder.toString();
     }
-    private String handleProxyResponse(APIVersion version, String request, HashMap<String, String> headers) {
+    private String handleProxyResponse(APIVersion version, String request, LinkedHashMap<String, String> headers) {
         final String url = getIpAddress() + "/" + version.name() + "/" + request;
         return handleProxyResponse(url, headers);
     }
-    private String handleProxyResponse(String url, HashMap<String, String> headers) {
+    private String handleProxyResponse(String url, LinkedHashMap<String, String> headers) {
         return request(url, headers, null);
     }
 

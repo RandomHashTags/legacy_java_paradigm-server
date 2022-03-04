@@ -9,6 +9,7 @@ import org.json.JSONObject;
 import java.util.Base64;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.LinkedHashMap;
 
 public enum AppleNotifications implements DeviceTokenController {
     // https://developer.apple.com/documentation/usernotifications/setting_up_a_remote_notification_server
@@ -103,9 +104,9 @@ public enum AppleNotifications implements DeviceTokenController {
             final String key = Settings.PrivateValues.Apple.isProductionMode() ? "" : "sandbox.";
             final String url = "https://api." + key + "push.apple.com:443";
             new CompletableFutures<String>().stream(deviceTokens.spliterator(), deviceToken -> {
-                final HashMap<String, String> headers = new HashMap<>(primaryHeaders);
+                final LinkedHashMap<String, String> headers = new LinkedHashMap<>(primaryHeaders);
                 headers.put("path", "/3/device/" + deviceToken);
-                final JSONObject postJSON = postJSONObject(url, new HashMap<>(), true, headers, null);
+                final JSONObject postJSON = postJSONObject(url, null, true, headers, null);
             });
         }
         WLLogger.logInfo("AppleNotifications - sent " + uuid + " to " + deviceTokens.size() + " devices (took " + WLUtilities.getElapsedTime(started) + ")");

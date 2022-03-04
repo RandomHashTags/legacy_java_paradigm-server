@@ -11,6 +11,7 @@ import org.json.JSONObject;
 import java.time.Month;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.LinkedHashMap;
 import java.util.Map;
 
 public enum Elections implements RestAPI, DataValues {
@@ -23,10 +24,10 @@ public enum Elections implements RestAPI, DataValues {
     public String refresh() {
         // https://developers.google.com/civic-information/docs/v2
         final long started = System.currentTimeMillis();
-        final HashMap<String, String> query = new HashMap<>();
+        final LinkedHashMap<String, String> query = new LinkedHashMap<>();
         query.put("key", getAPIKey());
 
-        final JSONObject json = requestJSONObject("https://www.googleapis.com/civicinfo/v2/elections", CONTENT_HEADERS, query);
+        final JSONObject json = requestJSONObject("https://www.googleapis.com/civicinfo/v2/elections", GET_CONTENT_HEADERS, query);
         String string = null;
         if(json != null) {
             final JSONArray elections = json.getJSONArray("elections");
@@ -100,9 +101,9 @@ public enum Elections implements RestAPI, DataValues {
         return string;
     }
     private void getRepresentatives(String ocdDivisionId, CompletionHandler handler) {
-        final HashMap<String, String> query = new HashMap<>();
+        final LinkedHashMap<String, String> query = new LinkedHashMap<>();
         query.put("key", getAPIKey());
-        final JSONObject json = requestJSONObject("https://www.googleapis.com/civicinfo/v2/representatives/" + ocdDivisionId.replace("/", "%2F").replace(":", "%3A"), CONTENT_HEADERS, query);
+        final JSONObject json = requestJSONObject("https://www.googleapis.com/civicinfo/v2/representatives/" + ocdDivisionId.replace("/", "%2F").replace(":", "%3A"), GET_CONTENT_HEADERS, query);
         final JSONArray offices = json.getJSONArray("offices"), officials = json.getJSONArray("officials");
         int index = 0;
         for(Object obj : offices) {

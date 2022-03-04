@@ -91,9 +91,12 @@ public final class Championships extends UpcomingEventController { // https://en
             if(!eventElementLinks.isEmpty()) { // TODO: fix more than 1 event per row (example: Men & Women's sporting event, same row, same dates)
                 final Elements flagIconElements = eventElement.select("span.flagicon");
                 for(Element flagIcon : flagIconElements) {
-                    final String[] href = flagIcon.selectFirst("a[href]").attr("href").split("/");
-                    final String country = href[href.length-1].toLowerCase().replace("(country)", "");
-                    countries.add(country.replace(" ", "").replace("_", ""));
+                    final Element flagElement = flagIcon.selectFirst("a[href]");
+                    if(flagElement != null) {
+                        final String[] href = flagElement.attr("href").split("/");
+                        final String country = href[href.length-1].toLowerCase().replace("(country)", "");
+                        countries.add(country.replace(" ", "").replace("_", ""));
+                    }
                 }
                 final int max = flagIconElements.size();
                 if(eventElementLinks.size() > max) {

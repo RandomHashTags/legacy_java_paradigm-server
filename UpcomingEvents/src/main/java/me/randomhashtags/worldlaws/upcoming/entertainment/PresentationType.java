@@ -2,8 +2,12 @@ package me.randomhashtags.worldlaws.upcoming.entertainment;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.service.WikipediaDocument;
+import me.randomhashtags.worldlaws.settings.ResponseVersions;
 import me.randomhashtags.worldlaws.upcoming.events.PresentationEvent;
 import me.randomhashtags.worldlaws.upcoming.events.PresentationEventType;
+import org.json.JSONArray;
+import org.json.JSONObject;
+import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
@@ -13,31 +17,130 @@ import java.util.ArrayList;
 import java.util.List;
 
 public enum PresentationType implements Jsoupable {
-    //ACADEMY_AWARDS("https://en.wikipedia.org/wiki/Academy_Awards", PresentationEventType.AWARD_CEREMONY),
-    BLIZZCON("https://en.wikipedia.org/wiki/BlizzCon", PresentationEventType.CONVENTION_GAMING),
-    COACHELLA("https://en.wikipedia.org/wiki/Coachella_Valley_Music_and_Arts_Festival", PresentationEventType.FESTIVAL_MUSIC),
-    E3("https://en.wikipedia.org/wiki/E3", PresentationEventType.EXPO_GAMING),
-    //EGX("https://en.wikipedia.org/wiki/EGX_(expo)", PresentationEventType.EXPO_GAMING),
-    //G20("https://en.wikipedia.org/wiki/List_of_G20_summits", PresentationEventType.SUMMIT),
-    //GAME_DEVELOPERS_CONFERENCE("https://en.wikipedia.org/wiki/Game_Developers_Conference", PresentationEventType.CONFERENCE),
-    //GAMESCON("https://en.wikipedia.org/wiki/Gamescom", PresentationEventType.EXPO_GAMING),
-    GOLDEN_GLOBE_AWARDS("https://en.wikipedia.org/wiki/List_of_Golden_Globe_Awards_ceremonies", PresentationEventType.AWARD_CEREMONY),
-    GOOGLE_IO("https://en.wikipedia.org/wiki/Google_I/O", PresentationEventType.CONFERENCE_DEVELOPER),
-    MET_GALA("https://en.wikipedia.org/wiki/Met_Gala", PresentationEventType.EXHIBIT_FASHION),
-    //MINECON("https://en.wikipedia.org/wiki/Minecon", PresentationEventType.CONVENTION_GAMING),
-    NINTENDO_DIRECT("https://en.wikipedia.org/wiki/Nintendo_Direct", PresentationEventType.PRESENTATION),
-    //PAX("https://en.wikipedia.org/wiki/List_of_PAX_events", PresentationEventType.FESTIVAL_GAMING),
-    //SOUTH_BY_SOUTHWEST("https://en.wikipedia.org/wiki/South_by_Southwest", PresentationEventType.FESTIVAL_MUSIC),
-    TWITCHCON("https://en.wikipedia.org/wiki/TwitchCon", PresentationEventType.CONVENTION_GAMING),
-    //TWITCH_RIVALS("https://en.wikipedia.org/wiki/Twitch_Rivals", PresentationEventType.TOURNAMENT_GAMING),
+    APPLE_EVENT(
+            getNames("Apple Event", "WWDC"),
+            "https://www.apple.com/apple-events/",
+            PresentationEventType.PRESENTATION
+    ),
+
+    /*ACADEMY_AWARDS(
+            "Academy Awards",
+            "https://en.wikipedia.org/wiki/Academy_Awards",
+            PresentationEventType.AWARD_CEREMONY
+    ),*/
+    BLIZZCON(
+            "BlizzCon",
+            "https://en.wikipedia.org/wiki/BlizzCon",
+            PresentationEventType.CONVENTION_GAMING)
+    ,
+    COACHELLA(
+            "Coachella",
+            "https://en.wikipedia.org/wiki/Coachella_Valley_Music_and_Arts_Festival",
+            PresentationEventType.FESTIVAL_MUSIC
+    ),
+    E3(
+            "E3",
+            "https://en.wikipedia.org/wiki/E3",
+            PresentationEventType.EXPO_GAMING
+    ),
+    /*EGX(
+            "EGX",
+            "https://en.wikipedia.org/wiki/EGX_(expo)",
+            PresentationEventType.EXPO_GAMING
+    ),*/
+    /*G20(
+            "G20 summit",
+            "https://en.wikipedia.org/wiki/List_of_G20_summits",
+            PresentationEventType.SUMMIT
+    ),*/
+    /*GAME_DEVELOPERS_CONFERENCE(
+            "Game Developers Conference",
+            "https://en.wikipedia.org/wiki/Game_Developers_Conference",
+            PresentationEventType.CONFERENCE
+    ),*/
+    /*GAMESCON(
+            "Gamescon",
+            "https://en.wikipedia.org/wiki/Gamescom",
+            PresentationEventType.EXPO_GAMING
+    ),*/
+    GOLDEN_GLOBE_AWARDS(
+            "Golden Globe Awards",
+            "https://en.wikipedia.org/wiki/List_of_Golden_Globe_Awards_ceremonies",
+            PresentationEventType.AWARD_CEREMONY
+    ),
+    GOOGLE_IO(
+            "Google I/O",
+            "https://en.wikipedia.org/wiki/Google_I/O",
+            PresentationEventType.CONFERENCE_DEVELOPER
+    ),
+    MET_GALA(
+            "Met Gala",
+            "https://en.wikipedia.org/wiki/Met_Gala",
+            PresentationEventType.EXHIBIT_FASHION
+    ),
+    /*MINECON(
+            "Minecon",
+            "https://en.wikipedia.org/wiki/Minecon",
+            PresentationEventType.CONVENTION_GAMING
+    ),*/
+    NINTENDO_DIRECT(
+            "Nintendo Direct",
+            "https://en.wikipedia.org/wiki/Nintendo_Direct",
+            PresentationEventType.PRESENTATION
+    ),
+    /*PAX(
+            "PAX",
+            "https://en.wikipedia.org/wiki/List_of_PAX_events",
+            PresentationEventType.FESTIVAL_GAMING
+    ),*/
+    /*SOUTH_BY_SOUTHWEST(
+            "South by Southwest",
+            "https://en.wikipedia.org/wiki/South_by_Southwest",
+            PresentationEventType.FESTIVAL_MUSIC
+    ),*/
+    TWITCHCON(
+            "TwitchCon",
+            "https://en.wikipedia.org/wiki/TwitchCon",
+            PresentationEventType.CONVENTION_GAMING
+    ),
+    /*TWITCH_RIVALS(
+            "Twitch Rivals",
+            "https://en.wikipedia.org/wiki/Twitch_Rivals",
+            PresentationEventType.TOURNAMENT_GAMING
+    ),*/
     ;
 
+    private static String[] getNames(String...names) {
+        return names;
+    }
+
+
+    private final String[] names;
     private final String url;
     private final PresentationEventType type;
 
-    PresentationType(String url, PresentationEventType type) {
+    PresentationType(String name, String url, PresentationEventType type) {
+        this(new String[] { name }, url, type);
+    }
+    PresentationType(String[] names, String url, PresentationEventType type) {
+        this.names = names;
         this.url = url;
         this.type = type;
+    }
+
+    public static String getTypesJSON() {
+        final JSONObject json = new JSONObject();
+        json.put("version", ResponseVersions.PRESENTATIONS.getValue());
+
+        final JSONObject typesJSON = new JSONObject();
+        for(PresentationType type : values()) {
+            final JSONObject typeJSON = new JSONObject();
+            typeJSON.put("names", new JSONArray(type.names));
+            typeJSON.put("type", type.type.getName());
+            typesJSON.put(type.name().toLowerCase(), typeJSON);
+        }
+        json.put("types", typesJSON);
+        return json.toString();
     }
 
     public List<PresentationEvent> refresh(LocalDate startingDay) {
@@ -46,8 +149,10 @@ public enum PresentationType implements Jsoupable {
             final EventSources keySources = getSources();
             events.removeIf(event -> event.getDate().getLocalDate().isBefore(startingDay));
             for(PresentationEvent event : events) {
-                final EventSources sources = new EventSources(keySources);
-                sources.addAll(event.getExternalLinks());
+                final EventSources sources = new EventSources(keySources), externalLinks = event.getExternalLinks();
+                if(externalLinks != null) {
+                    sources.addAll(externalLinks);
+                }
                 event.setSources(sources);
                 event.setCustomTypeSingularName(type.getName());
             }
@@ -57,6 +162,7 @@ public enum PresentationType implements Jsoupable {
 
     private List<PresentationEvent> get() {
         switch (this) {
+            case APPLE_EVENT: return refreshAppleEvent();
             case BLIZZCON: return refreshBlizzCon();
             case COACHELLA: return refreshCoachella();
             case E3: return refreshE3();
@@ -70,8 +176,15 @@ public enum PresentationType implements Jsoupable {
     }
     private EventSources getSources() {
         final EventSources sources = new EventSources();
-        final String wikipediaName = url.substring("https://en.wikipedia.org/wiki/".length()).replace("_", " ");
-        sources.add(new EventSource("Wikipedia: " + wikipediaName, url));
+        switch (this) {
+            case APPLE_EVENT:
+                sources.add(new EventSource("Apple: Apple Events", url));
+                break;
+            default:
+                final String wikipediaName = url.substring("https://en.wikipedia.org/wiki/".length()).replace("_", " ");
+                sources.add(new EventSource("Wikipedia: " + wikipediaName, url));
+                break;
+        }
         return sources;
     }
 
@@ -100,6 +213,63 @@ public enum PresentationType implements Jsoupable {
         }
     }
 
+    private List<PresentationEvent> refreshAppleEvent() {
+        final String location = "apple.com";
+        final List<PresentationEvent> events = new ArrayList<>();
+        final Document doc = getDocument(url);
+        if(doc != null) {
+            final Element container = doc.selectFirst("div.section-content div.copy-container");
+            if(container != null) {
+                final Element header = container.selectFirst("h1");
+                if(header != null) {
+                    final String title = header.text();
+                    final Element paragraph = container.selectFirst("p");
+                    if(paragraph != null) {
+                        final String text = paragraph.text(), textLowercase = text.toLowerCase();
+                        final String[] prefixes = {
+                                "watch on ",
+                                "watch the event on ",
+                                "watch tomorrow at "
+                        };
+                        for(String prefix : prefixes) {
+                            if(textLowercase.startsWith(prefix)) {
+                                final boolean isTomorrow = textLowercase.contains("tomorrow");
+                                final int year, day;
+                                final Month month;
+                                final LocalDate now = LocalDate.now();
+                                LocalDate localDate = null;
+                                if(isTomorrow) {
+                                    localDate = now.plusDays(1);
+                                } else {
+                                    final String[] values = textLowercase.substring(prefix.length()).split(" ");
+                                    if(values[0].contains("/")) {
+                                        final String[] dateValues = values[0].split("/");
+                                        if(dateValues[0].matches("[0-9]+") && dateValues[1].matches("[0-9]+")) {
+                                            year = now.getYear();
+                                            month = Month.of(Integer.parseInt(dateValues[0]));
+                                            day = Integer.parseInt(dateValues[1]);
+                                            localDate = LocalDate.of(year, month, day);
+                                        }
+                                    }
+                                }
+
+                                if(localDate != null) {
+                                    final String description = "View online at apple.com or on the Apple TV app.";
+                                    // u = 21
+                                    final String imageURL = "https://www.apple.com/v/apple-events/home/u/images/overview/hero__d6adldydsqye_xlarge_2x.jpg";
+                                    final EventDate date = new EventDate(localDate);
+                                    final PresentationEvent event = new PresentationEvent(date, title, description, imageURL, location, null, null);
+                                    events.add(event);
+                                }
+                                break;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        return events;
+    }
     private List<PresentationEvent> refreshBlizzCon() {
         final String title = "BlizzCon", location = "Anaheim, California, United States", imageURL = null;
         final WikipediaDocument doc = new WikipediaDocument(url);

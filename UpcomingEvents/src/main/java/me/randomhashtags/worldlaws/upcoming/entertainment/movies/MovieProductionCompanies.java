@@ -239,27 +239,19 @@ public enum MovieProductionCompanies {
 
     ;
 
-    private static String CACHE;
-
-    public static String getResponse(String input) {
-        return getJSON();
-    }
-    private static String getJSON() {
-        if(CACHE == null) {
-            JSONObject json = Jsonable.getStaticJSONObject(Folder.UPCOMING_EVENTS_MOVIES, "productionCompanies", new CompletionHandler() {
-                @Override
-                public JSONObject loadJSONObject() {
-                    return loadJSON();
-                }
-            });
-            final int responseVersion = ResponseVersions.MOVIE_PRODUCTION_COMPANIES.getValue();
-            final int previousVersion = json.has("response_version") ? json.getInt("response_version") : 0;
-            if(previousVersion < responseVersion) {
-                json = loadJSON();
+    public static String getTypesJSON() {
+        JSONObject json = Jsonable.getStaticJSONObject(Folder.UPCOMING_EVENTS_MOVIES, "productionCompanies", new CompletionHandler() {
+            @Override
+            public JSONObject loadJSONObject() {
+                return loadJSON();
             }
-            CACHE = json.toString();
+        });
+        final int responseVersion = ResponseVersions.MOVIE_PRODUCTION_COMPANIES.getValue();
+        final int previousVersion = json.has("version") ? json.getInt("version") : 0;
+        if(previousVersion < responseVersion) {
+            json = loadJSON();
         }
-        return CACHE;
+        return json.toString();
     }
     private static JSONObject loadJSON() {
         final MovieProductionCompanies[] companies = values();
@@ -270,8 +262,7 @@ public enum MovieProductionCompanies {
         });
 
         final JSONObject json = new JSONObject();
-        final int responseVersion = ResponseVersions.MOVIE_PRODUCTION_COMPANIES.getValue();
-        json.put("response_version", responseVersion);
+        json.put("version", ResponseVersions.MOVIE_PRODUCTION_COMPANIES.getValue());
         json.put("imageURLPrefix", getImageURLPrefix());
         json.put("companies", companiesJSON);
         return json;

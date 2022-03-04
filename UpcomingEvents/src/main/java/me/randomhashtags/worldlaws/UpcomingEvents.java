@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws;
 import me.randomhashtags.worldlaws.observances.Holidays;
 import me.randomhashtags.worldlaws.politics.Elections;
 import me.randomhashtags.worldlaws.recent.ScienceYearReview;
+import me.randomhashtags.worldlaws.recent.VideoGameUpdates;
 import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.server.ServerRequestTypeUpcomingEvents;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
@@ -10,6 +11,7 @@ import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.education.WordOfTheDay;
 import me.randomhashtags.worldlaws.upcoming.entertainment.*;
+import me.randomhashtags.worldlaws.upcoming.entertainment.movies.MovieProductionCompanies;
 import me.randomhashtags.worldlaws.upcoming.entertainment.movies.Movies;
 import me.randomhashtags.worldlaws.upcoming.entertainment.music.MusicAlbums;
 import me.randomhashtags.worldlaws.upcoming.entertainment.music.MusicSpotify;
@@ -24,6 +26,7 @@ import org.json.JSONObject;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.Arrays;
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Optional;
 
@@ -60,7 +63,12 @@ public final class UpcomingEvents implements WLServer {
         INSTANCE.initialize();
     }
 
-    private String typesJSON, weeklyEvents;
+    private String weeklyEvents;
+    private final HashMap<ServerRequestTypeUpcomingEvents, String> typeJSONs;
+
+    UpcomingEvents() {
+        typeJSONs = new HashMap<>();
+    }
 
     private void initialize() {
         //test();
@@ -74,8 +82,10 @@ public final class UpcomingEvents implements WLServer {
 
     private void test() {
         final long started = System.currentTimeMillis();
-        new MusicSpotify().refresh();
-        WLLogger.logInfo("UpcomingEvents;test;took " + WLUtilities.getElapsedTime(started));
+        final Presentations presentations = new Presentations();
+        presentations.refresh();
+        final String string = presentations.getEventsFromDates(getWeeklyEventDateStrings(LocalDate.now()));
+        WLLogger.logInfo("UpcomingEvents;test;string=" + string + ";took " + WLUtilities.getElapsedTime(started));
     }
 
     private UpcomingEventController valueOfEventType(String eventType) {
@@ -102,7 +112,10 @@ public final class UpcomingEvents implements WLServer {
             case ELECTIONS:
                 return Elections.INSTANCE.refresh();
             case EVENT_TYPES:
-                return getEventTypesJSON();
+            case MOVIE_PRODUCTION_COMPANIES:
+            case PRESENTATIONS:
+            case VIDEO_GAMES:
+                return getTypeJSON(type);
             case HAPPENING_NOW:
                 //StreamingEvents.TWITCH.getUpcomingEvents(handler);
                 return null;
@@ -112,9 +125,6 @@ public final class UpcomingEvents implements WLServer {
                 return null;
             case RECENT_EVENTS:
                 return RecentEvents.INSTANCE.refresh(7);
-            case VIDEO_GAMES:
-                return null;
-                //return VideoGameUpdates.INSTANCE.getAllVideoGames();
             case WEEKLY_EVENTS:
                 return getWeeklyEvents();
             default:
@@ -130,7 +140,9 @@ public final class UpcomingEvents implements WLServer {
                 new ServerRequest(ServerRequestTypeUpcomingEvents.EVENT_TYPES),
                 //new ServerRequest(ServerRequestTypeUpcomingEvents.HAPPENING_NOW),
                 new ServerRequest(ServerRequestTypeUpcomingEvents.HOLIDAYS, "near"),
+                new ServerRequest(ServerRequestTypeUpcomingEvents.MOVIE_PRODUCTION_COMPANIES),
                 //new ServerRequest(ServerRequestTypeUpcomingEvents.MUSIC_ARTISTS),
+                new ServerRequest(ServerRequestTypeUpcomingEvents.PRESENTATIONS),
                 new ServerRequest(ServerRequestTypeUpcomingEvents.RECENT_EVENTS),
                 new ServerRequest(ServerRequestTypeUpcomingEvents.WEEKLY_EVENTS),
         };
@@ -141,11 +153,30 @@ public final class UpcomingEvents implements WLServer {
         return 0;
     }
 
-    private String getEventTypesJSON() {
-        if(typesJSON == null) {
-            typesJSON = UpcomingEventType.getTypesJSON();
+    private String getTypeJSON(ServerRequestTypeUpcomingEvents type) {
+        if(!typeJSONs.containsKey(type)) {
+            String string = null;
+            switch (type) {
+                case EVENT_TYPES:
+                    string = UpcomingEventType.getTypesJSON();
+                    break;
+                case PRESENTATIONS:
+                    string = PresentationType.getTypesJSON();
+                    break;
+                case MOVIE_PRODUCTION_COMPANIES:
+                    string = MovieProductionCompanies.getTypesJSON();
+                    break;
+                case VIDEO_GAMES:
+                    string = VideoGameUpdates.getTypesJSON();
+                    break;
+                default:
+                    break;
+            }
+            if(string != null) {
+                typeJSONs.put(type, string);
+            }
         }
-        return typesJSON;
+        return typeJSONs.get(type);
     }
     private HashSet<String> getWeeklyEventDateStrings(LocalDate now) {
         final HashSet<String> dates = new HashSet<>();
@@ -214,7 +245,7 @@ public final class UpcomingEvents implements WLServer {
             try {
                 return new JSONObject(stringValue);
             } catch (Exception e) {
-                final String stackTrace = WLUtilities.getExceptionStackTrace(e);
+                final String stackTrace = WLUtilities.getThrowableStackTrace(e);
                 WLUtilities.saveLoggedError("UpcomingEvents", "failed parsing string to JSONObject\n\n" + stringValue + "\n\n" + stackTrace);
             }
         }

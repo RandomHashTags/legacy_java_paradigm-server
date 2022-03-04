@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.recent.software.videogame.NoMansSky;
 import me.randomhashtags.worldlaws.recent.software.videogame.VideoGameUpdate;
 import me.randomhashtags.worldlaws.recent.software.videogame.VideoGameUpdateController;
+import me.randomhashtags.worldlaws.settings.ResponseVersions;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONObject;
 
@@ -19,8 +20,6 @@ public final class VideoGameUpdates extends RecentEventController {
                 //Overwatch.INSTANCE
         };
     }
-
-    private String allVideoGames;
 
     @Override
     public RecentEventType getType() {
@@ -42,14 +41,14 @@ public final class VideoGameUpdates extends RecentEventController {
         return values;
     }
 
-    public String getAllVideoGames() {
-        if(allVideoGames == null) {
-            final JSONObject json = new JSONObject();
-            for(VideoGameUpdateController controller : getSupportedVideoGames()) {
-                json.put(LocalServer.fixEscapeValues(controller.getName()), controller.getDetailsJSONObject());
-            }
-            allVideoGames = json.toString();
+    public static String getTypesJSON() {
+        final JSONObject json = new JSONObject();
+        json.put("version", ResponseVersions.VIDEO_GAMES.getValue());
+        final JSONObject typesJSON = new JSONObject();
+        for(VideoGameUpdateController controller : getSupportedVideoGames()) {
+            typesJSON.put(LocalServer.fixEscapeValues(controller.getName()), controller.getDetailsJSONObject());
         }
-        return allVideoGames;
+        json.put("types", typesJSON);
+        return json.toString();
     }
 }
