@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.weather;
 
 import me.randomhashtags.worldlaws.LocalServer;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 
 import java.util.HashSet;
 
@@ -31,6 +32,9 @@ public final class WeatherPreAlert {
         return new WeatherPreAlert(0, null, id, subdivisions, null, null, null, null, subdivisionZones, time);
     }
 
+    public String getID() {
+        return id;
+    }
     public int getDefcon() {
         return defcon;
     }
@@ -76,5 +80,10 @@ public final class WeatherPreAlert {
                 "\"areas\":" + getAreas() + "," +
                 "\"time\":" + time.toString() +
                 "}";
+    }
+    public JSONObjectTranslatable toJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable();
+        json.put("time", time);
+        return json;
     }
 }

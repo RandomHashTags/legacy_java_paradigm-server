@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.weather.country;
 
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.weather.WeatherAlert;
 import me.randomhashtags.worldlaws.weather.WeatherController;
 import me.randomhashtags.worldlaws.weather.WeatherEvent;
@@ -17,8 +18,8 @@ import java.util.concurrent.ConcurrentHashMap;
 public enum WeatherCA implements WeatherController {
     INSTANCE;
 
-    private HashMap<String, String> alertIDs, eventPreAlerts, territoryEvents;
-    private HashMap<String, HashMap<String, String>> territoryPreAlerts;
+    private HashMap<String, JSONObjectTranslatable> alertIDs, eventPreAlerts, territoryEvents;
+    private HashMap<String, HashMap<String, JSONObjectTranslatable>> territoryPreAlerts;
     private HashMap<String, WeatherPreAlert> preAlertIDs;
 
     @Override
@@ -32,22 +33,22 @@ public enum WeatherCA implements WeatherController {
     }
 
     @Override
-    public HashMap<String, String> getEventPreAlerts() {
+    public HashMap<String, JSONObjectTranslatable> getEventPreAlerts() {
         return eventPreAlerts;
     }
 
     @Override
-    public HashMap<String, String> getSubdivisionEvents() {
+    public HashMap<String, JSONObjectTranslatable> getSubdivisionEvents() {
         return territoryEvents;
     }
 
     @Override
-    public HashMap<String, HashMap<String, String>> getSubdivisionPreAlerts() {
+    public HashMap<String, HashMap<String, JSONObjectTranslatable>> getSubdivisionPreAlerts() {
         return territoryPreAlerts;
     }
 
     @Override
-    public String refresh() {
+    public JSONObjectTranslatable refresh() {
         alertIDs = new HashMap<>();
         eventPreAlerts = new HashMap<>();
         territoryEvents = new HashMap<>();
@@ -125,20 +126,20 @@ public enum WeatherCA implements WeatherController {
     }
 
     @Override
-    public String getAlert(String id) {
+    public JSONObjectTranslatable getAlert(String id) {
         if(alertIDs == null) {
-            final String string = refresh();
+            final JSONObjectTranslatable string = refresh();
         }
         return tryGettingAlert(id);
     }
-    private String tryGettingAlert(String id) {
+    private JSONObjectTranslatable tryGettingAlert(String id) {
         if(alertIDs.containsKey(id)) {
             return alertIDs.get(id);
         } else if(preAlertIDs.containsKey(id)) {
             final EventSource source = getSource();
             final WeatherPreAlert preAlert = preAlertIDs.get(id);
             final WeatherAlert alert = new WeatherAlert(preAlert, null, source);
-            return alert.toString();
+            return alert.toJSONObject();
             /*
             final HashSet<String> zones = preAlert.getZoneIDs();
             final int max = zones.size();

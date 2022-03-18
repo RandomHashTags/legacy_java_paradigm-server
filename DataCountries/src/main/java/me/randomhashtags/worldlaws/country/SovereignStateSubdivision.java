@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.country;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.service.CountryService;
 import me.randomhashtags.worldlaws.service.WikipediaCountryService;
 import me.randomhashtags.worldlaws.service.WikipediaService;
@@ -14,7 +15,7 @@ import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
 public interface SovereignStateSubdivision extends SovereignState, WikipediaService {
-    HashMap<String, String> INFORMATION_CACHE = new HashMap<>();
+    HashMap<String, JSONObjectTranslatable> INFORMATION_CACHE = new HashMap<>();
 
     String name();
     WLCountry getCountry();
@@ -73,7 +74,7 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
     }
 
     @Override
-    default String getInformation(APIVersion version) {
+    default JSONObjectTranslatable getInformation(APIVersion version) {
         final String fileName = name();
         if(INFORMATION_CACHE.containsKey(fileName)) {
             return INFORMATION_CACHE.get(fileName);
@@ -81,7 +82,8 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
         final Folder folder = Folder.COUNTRIES_SUBDIVISIONS_INFORMATION;
         final WLCountry country = getCountry();
         folder.setCustomFolderName(fileName, folder.getFolderName().replace("%country%", country.getBackendID()));
-        final JSONObject json = getJSONObject(folder, fileName, new CompletionHandler() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable();
+        final JSONObject local = getJSONObject(folder, fileName, new CompletionHandler() {
             @Override
             public String loadJSONObjectString() {
                 final ConcurrentHashMap<SovereignStateInformationType, HashSet<String>> values = new ConcurrentHashMap<>();
@@ -148,10 +150,13 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
                 return info.toString(false);
             }
         });
+        for(String key : local.keySet()) {
+            json.put(key, local.get(key));
+            json.addTranslatedKey(key);
+        }
 
-        final String string = json != null ? json.toString() : null;
-        INFORMATION_CACHE.put(fileName, string);
-        return string;
+        INFORMATION_CACHE.put(fileName, json);
+        return json;
     }
 
     private HashSet<String> getNeighborsJSON() {
@@ -182,12 +187,12 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
         return null;
     }
 
-    default JSONObject toJSONObject() {
+    default JSONObjectTranslatable toJSONObject() {
         final String flagURL = getFlagURL(), isoAlpha2 = getISOAlpha2();
         final WLTimeZone[] timezones = getTimeZones();
         final SubdivisionType type = getType();
 
-        final JSONObject json = new JSONObject();
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("type_name_singular", "type_name_plural");
         if(type != null) {
             json.put("type_name_singular", type.getSingularName());
             json.put("type_name_plural", type.getPluralName());

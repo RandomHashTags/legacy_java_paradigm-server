@@ -28,17 +28,16 @@ public enum NoMansSky implements VideoGameUpdateController {
 
     @Override
     public VideoGameUpdate refresh(LocalDate startingDate) {
-        final String url = getUpdatePageURL();
+        final String url = getUpdatePageURL(), identifier = getName();
         final Document doc = getDocument(url);
         VideoGameUpdate update = null;
         if(doc != null) {
             final Elements elements = doc.select("main section.section div.section__content div.box div.grid div.grid__cell a.link");
             final Element first = elements.get(0);
             if(first != null) {
-                final String name = getName();
                 String ahref = first.attr("href");
                 final EventSources sources = new EventSources();
-                sources.add(new EventSource(name + ": Release log", url));
+                sources.add(new EventSource(identifier + ": Release log", url));
 
                 if(ahref.startsWith("/") && ahref.endsWith("/")) { // new major release
                     final String slug = ahref.substring(1, ahref.length()-1).replace("-", " ");
@@ -48,10 +47,10 @@ public enum NoMansSky implements VideoGameUpdateController {
                         final String imageURL = targetDoc.selectFirst("section.section div.section__content img.no-lazy").attr("src");
                         final String description = targetDoc.selectFirst("section.section div.section__content div.box div.icons-header p.text--narrow").text();
                         final String title = LocalServer.toCorrectCapitalization(slug.replace(" ", "_"));
-                        sources.add(new EventSource(name + ": " + title, ahref));
+                        sources.add(new EventSource(identifier + ": " + title, ahref));
                         final LocalDate now = WLUtilities.getNowUTC();
                         final EventDate date = new EventDate(now.getMonth(), 1, now.getYear());
-                        update = new VideoGameUpdate(date, title.replace(" Update", ""), description, imageURL, sources);
+                        update = new VideoGameUpdate(identifier, date, title.replace(" Update", ""), description, imageURL, sources);
                     }
                 } else {
                     final Document targetDoc = getDocument(ahref);
@@ -67,8 +66,8 @@ public enum NoMansSky implements VideoGameUpdateController {
                             if(startingDate.isBefore(eventDate.getLocalDate())) {
                                 final String title = box.select("h1").get(0).text();
                                 final String description = first.select("div.grid__cell-content p").get(0).text().replace(". Read more", "");
-                                sources.add(new EventSource(name + ": " + title, ahref));
-                                update = new VideoGameUpdate(eventDate, title, description, getLatestCoverArtURL(doc), sources);
+                                sources.add(new EventSource(identifier + ": " + title, ahref));
+                                update = new VideoGameUpdate(identifier, eventDate, title, description, getLatestCoverArtURL(doc), sources);
                             }
                         }
                     }

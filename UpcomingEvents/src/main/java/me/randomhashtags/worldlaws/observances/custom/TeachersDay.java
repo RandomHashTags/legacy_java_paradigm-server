@@ -8,11 +8,11 @@ import me.randomhashtags.worldlaws.country.WLCountry;
 import java.time.DayOfWeek;
 import java.time.Month;
 
-public enum TeachersDay implements CustomIHoliday {
+public enum TeachersDay implements CustomHoliday {
     INSTANCE;
 
     @Override
-    public String getOfficialName() {
+    public String getWikipediaName() {
         return "Teacher's Day";
     }
 
@@ -58,13 +58,13 @@ public enum TeachersDay implements CustomIHoliday {
             case UNITED_KINGDOM:
                 return new EventDate(Month.OCTOBER, 5, year);
             case AUSTRALIA:
-                final EventDate day = getLast(DayOfWeek.FRIDAY, Month.OCTOBER, year);
+                final EventDate day = EventDate.getLast(DayOfWeek.FRIDAY, Month.OCTOBER, year);
                 return day.getDay() == 31 ? new EventDate(Month.NOVEMBER, 7, year) : day;
             case BELARUS:
             case KAZAKHSTAN:
             case LATVIA:
             case UKRAINE:
-                return getFirst(DayOfWeek.SUNDAY, Month.OCTOBER, year);
+                return EventDate.getFirst(DayOfWeek.SUNDAY, Month.OCTOBER, year);
             case BHUTAN:
             case IRAN:
                 return new EventDate(Month.MAY, 2, year);
@@ -93,7 +93,7 @@ public enum TeachersDay implements CustomIHoliday {
             case GREECE: return new EventDate(Month.JANUARY, 30, year);
             case GUATEMALA: return new EventDate(Month.JUNE, 25, year);
             case HONDURAS: return new EventDate(Month.SEPTEMBER, 17, year);
-            case HUNGARY: return getFirst(DayOfWeek.SUNDAY, Month.JUNE, year);
+            case HUNGARY: return EventDate.getFirst(DayOfWeek.SUNDAY, Month.JUNE, year);
             case INDONESIA: return new EventDate(Month.NOVEMBER, 25, year);
             case IRAQ: return new EventDate(Month.MARCH, 1, year);
             case JAMAICA: return new EventDate(Month.MAY, 6, year);
@@ -112,7 +112,7 @@ public enum TeachersDay implements CustomIHoliday {
             case PARAGUAY: return new EventDate(Month.APRIL, 30, year);
             case PERU: return new EventDate(Month.JULY, 6, year);
             case POLAND: return new EventDate(Month.OCTOBER, 14, year);
-            case SINGAPORE: return getFirst(DayOfWeek.FRIDAY, Month.SEPTEMBER, year);
+            case SINGAPORE: return EventDate.getFirst(DayOfWeek.FRIDAY, Month.SEPTEMBER, year);
             case SLOVAKIA: return new EventDate(Month.MARCH, 28, year);
             case SOMALIA: return new EventDate(Month.NOVEMBER, 21, year);
             case SPAIN: return new EventDate(Month.NOVEMBER, 27, year);

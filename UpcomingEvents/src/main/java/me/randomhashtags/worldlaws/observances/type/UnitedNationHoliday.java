@@ -4,13 +4,14 @@ import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.observances.Holiday;
 import me.randomhashtags.worldlaws.observances.HolidaySource;
-import me.randomhashtags.worldlaws.observances.IHoliday;
+import me.randomhashtags.worldlaws.observances.HolidayType;
 
 import java.time.DayOfWeek;
 import java.time.Month;
 
-public enum UnitedNationHoliday implements IHoliday {
+public enum UnitedNationHoliday implements Holiday {
     // https://en.wikipedia.org/wiki/Category:United_Nations_days
 
     ASTEROID_DAY,
@@ -138,12 +139,12 @@ public enum UnitedNationHoliday implements IHoliday {
     }
 
     @Override
-    public Enum<? extends IHoliday> getEnum() {
-        return this;
+    public HolidayType getType() {
+        return HolidayType.UNITED_NATIONS;
     }
 
     @Override
-    public String getOfficialName() {
+    public String getWikipediaName() {
         return wikipediaName;
     }
 
@@ -173,7 +174,7 @@ public enum UnitedNationHoliday implements IHoliday {
             case INTERNATIONAL_ALBINISM_AWARENESS_DAY: return new EventDate(Month.JUNE, 13, year);
             case INTERNATIONAL_ANTI_CORRUPTION_DAY: return new EventDate(Month.DECEMBER, 9, year);
             case INTERNATIONAL_CHERNOBYL_DISASTER_REMEMBRANCE_DAY: return new EventDate(Month.APRIL, 26, year);
-            case INTERNATIONAL_COOPERATIVE_DAY: return getFirst(DayOfWeek.SATURDAY, Month.JULY, year);
+            case INTERNATIONAL_COOPERATIVE_DAY: return EventDate.getFirst(DayOfWeek.SATURDAY, Month.JULY, year);
             case INTERNATIONAL_DANCE_DAY: return new EventDate(Month.APRIL, 29, year);
             case INTERNATIONAL_DAY_FOR_THE_ABOLITION_OF_SLAVERY: return new EventDate(Month.DECEMBER, 2, year);
             case INTERNATIONAL_DAY_FOR_THE_PRESERVATION_OF_THE_OZONE_LAYER: return new EventDate(Month.SEPTEMBER, 16, year);
@@ -200,7 +201,7 @@ public enum UnitedNationHoliday implements IHoliday {
             case INTERNATIONAL_WIDOWS_DAY: return new EventDate(Month.JUNE, 23, year);
             case INTERNATIONAL_WOMENS_DAY: return new EventDate(Month.MARCH, 8, year);
             case INTERNATIONAL_YOUTH_DAY: return new EventDate(Month.AUGUST, 12, year);
-            case NATIONAL_CLEANUP_DAY: return getThird(DayOfWeek.SATURDAY, Month.SEPTEMBER, year);
+            case NATIONAL_CLEANUP_DAY: return EventDate.getThird(DayOfWeek.SATURDAY, Month.SEPTEMBER, year);
             case NATIONAL_WORLD_BOOK_DAY: return new EventDate(Month.APRIL, 23, year);
             case UNITED_NATIONS_DAY:
             case WORLD_DEVELOPMENT_INFORMATION_DAY:
@@ -215,11 +216,11 @@ public enum UnitedNationHoliday implements IHoliday {
             case WORLD_CITIES_DAY: return new EventDate(Month.OCTOBER, 31, year);
             case WORLD_CREATIVITY_AND_INNOVATION_DAY: return new EventDate(Month.APRIL, 21, year);
             case WORLD_DAY_AGAINST_CHILD_LABOUR: return new EventDate(Month.JUNE, 12, year);
-            case WORLD_DAY_OF_REMEMBRANCE_FOR_ROAD_TRAFFIC_VICTIMS: return getThird(DayOfWeek.SUNDAY, Month.NOVEMBER, year);
+            case WORLD_DAY_OF_REMEMBRANCE_FOR_ROAD_TRAFFIC_VICTIMS: return EventDate.getThird(DayOfWeek.SUNDAY, Month.NOVEMBER, year);
             case WORLD_DAY_TO_COMBAT_DESERTIFICATION_AND_DROUGHT: return new EventDate(Month.JUNE, 17, year);
             case WORLD_ENVIRONMENT_DAY: return new EventDate(Month.JUNE, 5, year);
             case WORLD_FOOD_DAY: return new EventDate(Month.OCTOBER, 16, year);
-            case WORLD_HABITAT_DAY: return getFirst(DayOfWeek.MONDAY, Month.OCTOBER, year);
+            case WORLD_HABITAT_DAY: return EventDate.getFirst(DayOfWeek.MONDAY, Month.OCTOBER, year);
             case WORLD_HEALTH_DAY: return new EventDate(Month.APRIL, 7, year);
             case WORLD_HEPATITIS_DAY: return new EventDate(Month.JULY, 28, year);
             case WORLD_HUMANITARIAN_DAY: return new EventDate(Month.AUGUST, 19, year);
@@ -230,7 +231,7 @@ public enum UnitedNationHoliday implements IHoliday {
             case WORLD_NO_TOBACCO_DAY: return new EventDate(Month.MAY, 31, year);
             case WORLD_OCEANS_DAY: return new EventDate(Month.JUNE, 8, year);
             case WORLD_PATIENT_SAFETY_DAY: return new EventDate(Month.SEPTEMBER, 17, year);
-            case WORLD_PHILOSOPHY_DAY: return getThird(DayOfWeek.THURSDAY, Month.NOVEMBER, year);
+            case WORLD_PHILOSOPHY_DAY: return EventDate.getThird(DayOfWeek.THURSDAY, Month.NOVEMBER, year);
             case WORLD_POETRY_DAY: return new EventDate(Month.MARCH, 21, year);
             case WORLD_POPULATION_DAY: return new EventDate(Month.JULY, 22, year);
             case WORLD_PRESS_FREEDOM_DAY: return new EventDate(Month.MAY, 3, year);

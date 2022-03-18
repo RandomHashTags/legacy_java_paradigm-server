@@ -83,39 +83,31 @@ public final class FederalGovernment extends LawSubdivisionController {
         }
     }
     @Override
-    public String getStatute(String title, String chapter, String section) {
-        final String path = title + "." + section;
-        if(statutes.containsKey(path)) {
-            return statutes.get(path);
-        } else {
-            final String url = statuteURL.replace("%index%", title).replace("%section%", section);
-            final Document doc = getDocument(url);
-            if(doc != null) {
-                final Elements article = doc.select("article"), labels = article.select("p.section-label");
-                final HashSet<String> set = new HashSet<>();
-                for(Element label : labels) {
-                    set.add(label.text());
-                }
-                final StringBuilder description = new StringBuilder();
-                boolean isFirst = true, foundTitle = false;
-                for(Element element : article.select("p")) {
-                    final String text = element.text();
-                    if(set.contains(text)) {
-                        if(foundTitle) {
-                            break;
-                        }
-                        foundTitle = text.substring(2).startsWith(section);
-                    } else if(foundTitle) {
-                        description.append(isFirst ? "" : "\n").append(text);
-                        isFirst = false;
-                    }
-                }
-                final SubdivisionStatute statute = new SubdivisionStatute(StateReference.build(title, chapter, section, url), null, description.toString());
-                final String string = statute.toString();
-                statutes.put(path, string);
-                return string;
+    public SubdivisionStatute loadStatute(String title, String chapter, String section) {
+        final String url = statuteURL.replace("%index%", title).replace("%section%", section);
+        final Document doc = getDocument(url);
+        if(doc != null) {
+            final Elements article = doc.select("article"), labels = article.select("p.section-label");
+            final HashSet<String> set = new HashSet<>();
+            for(Element label : labels) {
+                set.add(label.text());
             }
-            return null;
+            final StringBuilder description = new StringBuilder();
+            boolean isFirst = true, foundTitle = false;
+            for(Element element : article.select("p")) {
+                final String text = element.text();
+                if(set.contains(text)) {
+                    if(foundTitle) {
+                        break;
+                    }
+                    foundTitle = text.substring(2).startsWith(section);
+                } else if(foundTitle) {
+                    description.append(isFirst ? "" : "\n").append(text);
+                    isFirst = false;
+                }
+            }
+            return new SubdivisionStatute(StateReference.build(title, chapter, section, url), null, description.toString());
         }
+        return null;
     }
 }

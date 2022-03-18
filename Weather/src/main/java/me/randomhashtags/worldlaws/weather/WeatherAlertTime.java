@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.weather;
 
 import me.randomhashtags.worldlaws.WLUtilities;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 
 import java.time.LocalDateTime;
 import java.time.ZoneOffset;
@@ -38,13 +39,14 @@ public final class WeatherAlertTime {
         }
     }
 
-    @Override
-    public String toString() {
-        return "{" +
-                (ends != 0 ? "\"ends\":" + ends + "," : "") +
-                "\"sent\":" + sent + "," +
-                "\"effective\":" + effective + "," +
-                "\"expires\":" + expires +
-                "}";
+    public JSONObjectTranslatable toJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable();
+        if(ends != 0) {
+            json.put("ends", ends);
+        }
+        json.put("sent", sent);
+        json.put("effective", effective);
+        json.put("expires", expires);
+        return json;
     }
 }

@@ -4,13 +4,7 @@
   },
   "server": {
     "uuid": "***REMOVED***",
-    "runServersCommand": {
-      "configuration": "manjaro",
-      "configurations": {
-        "raspberry pi": "lxterminal --command='bash runServers.sh'",
-        "manjaro": "xfce4-terminal --command='bash runServers.sh'"
-      }
-    },
+    "runServersCommand": "bash runServers.sh",
     "serverRebootFrequencyInDays": 3,
     "server_handler_port": 0,
     "default_address": "http://localhost",

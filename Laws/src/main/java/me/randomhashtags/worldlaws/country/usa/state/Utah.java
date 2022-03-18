@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.country.usa.state;
 
 import me.randomhashtags.worldlaws.LawSubdivisionController;
+import me.randomhashtags.worldlaws.country.SubdivisionStatute;
 import me.randomhashtags.worldlaws.country.SubdivisionStatuteIndex;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -74,20 +75,16 @@ public final class Utah extends LawSubdivisionController {
         }
     }
     @Override
-    public String getStatute(String title, String chapter, String section) {
+    public SubdivisionStatute loadStatute(String title, String chapter, String section) {
         final String path = chapter + "." + section;
-        if(statutes.containsKey(path)) {
-            return statutes.get(path);
-        } else {
-            final Document doc = getDocument(statuteURL.replace("%chapter%", chapter).replace("%section%", section));
-            if(doc != null) {
-                final Elements desc = doc.select("div.content h2 ~ p");
-                //final StateStatute statute = new StateStatute(null, element, chapter, section);
-                //final String string = statute.toString();
-                //statutes.put(path, string);
-                //return string;
-            }
-            return null;
+        final Document doc = getDocument(statuteURL.replace("%chapter%", chapter).replace("%section%", section));
+        if(doc != null) {
+            final Elements desc = doc.select("div.content h2 ~ p");
+            //final StateStatute statute = new StateStatute(null, element, chapter, section);
+            //final String string = statute.toString();
+            //statutes.put(path, string);
+            //return string;
         }
+        return null;
     }
 }

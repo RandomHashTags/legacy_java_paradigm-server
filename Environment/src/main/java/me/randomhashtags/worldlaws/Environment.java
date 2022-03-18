@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.globalwarming.GlobalWarming;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.request.ServerRequest;
 
 public final class Environment implements WLServer {
@@ -23,7 +24,7 @@ public final class Environment implements WLServer {
     }
 
     @Override
-    public String getServerResponse(APIVersion version, String identifier, ServerRequest request) {
+    public JSONObjectTranslatable getServerResponse(APIVersion version, String identifier, ServerRequest request) {
         final String target = request.getTarget();
         final String[] values = target.split("/");
         final String key = values[0];

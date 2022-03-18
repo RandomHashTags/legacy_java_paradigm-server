@@ -5,11 +5,11 @@ import me.randomhashtags.worldlaws.country.WLCountry;
 
 import java.time.Month;
 
-public enum InternationalWorkersDay implements CustomIHoliday {
+public enum InternationalWorkersDay implements CustomHoliday {
     INSTANCE;
 
     @Override
-    public String getOfficialName() {
+    public String getWikipediaName() {
         return "International Workers' Day";
     }
 

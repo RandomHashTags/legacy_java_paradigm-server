@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.country.usa.federal;
 
 import me.randomhashtags.worldlaws.EventSources;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 
 import java.util.List;
 
@@ -32,5 +33,11 @@ public final class CongressBill {
                 "\"actions\":" + actions + "," +
                 "\"sources\":" + sources.toString() +
                 "}";
+    }
+
+    public JSONObjectTranslatable toJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("summary");
+        json.put("summary", summary);
+        return json;
     }
 }

@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.service;
 
 import me.randomhashtags.worldlaws.LocalServer;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 
 public final class WikipediaPicture {
     public String country;
@@ -12,11 +13,14 @@ public final class WikipediaPicture {
         this.imageURL = imageURL;
     }
 
-    @Override
-    public String toString() {
-        return "\"" + name + "\":{" +
-                (title != null ? "\"title\":\"" + title + "\"," : "") +
-                "\"imageURL\":\"" + imageURL + "\"," +
-                "}";
+    public JSONObjectTranslatable toJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("name");
+        json.put("name", name);
+        if(title != null) {
+            json.put("title", title);
+            json.addTranslatedKey("title");
+        }
+        json.put("imageURL", imageURL);
+        return json;
     }
 }

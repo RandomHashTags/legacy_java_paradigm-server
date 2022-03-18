@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.upcoming;
 
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.settings.ResponseVersions;
-import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.util.HashSet;
@@ -29,27 +29,30 @@ public enum UpcomingEventType {
     TICKETMASTER_MUSIC_EVENT,
     TV_SHOW,
     VIDEO_GAME,
+    WIKIPEDIA_TODAYS_FEATURED_PICTURE,
     WORD_OF_THE_DAY,
     ;
 
-    public static String getTypesJSON() {
-        final JSONObject json = new JSONObject();
+    public static JSONObjectTranslatable getTypesJSON() { // TODO: save to file
+        final JSONObjectTranslatable json = new JSONObjectTranslatable();
+        json.setTranslatedKeys("types");
         json.put("version", ResponseVersions.UPCOMING_EVENT_TYPES.getValue());
 
-        final JSONObject typesJSON = new JSONObject(), categoriesJSON = new JSONObject();
+        final JSONObjectTranslatable typesJSON = new JSONObjectTranslatable();
+        final JSONObject categoriesJSON = new JSONObject();
         for(UpcomingEventType type : UpcomingEventType.values()) {
             final String imageURLPrefix = type.getImageURLPrefix();
-            final JSONObject typeJSON = new JSONObject();
+            final JSONObjectTranslatable typeJSON = new JSONObjectTranslatable("singular", "plural");
 
-            final String name = "name";
-            final String notificationDescription = "notificationDescription";
+            final String name = "name", notificationDescription = "notificationDescription";
+            final String[] translatableKeys = { name };
 
-            final JSONObject singular = new JSONObject();
+            final JSONObjectTranslatable singular = new JSONObjectTranslatable(translatableKeys);
             singular.put(name, type.getName(true));
             singular.put(notificationDescription, type.getNotificationDescription(true));
             typeJSON.put("singular", singular);
 
-            final JSONObject plural = new JSONObject();
+            final JSONObjectTranslatable plural = new JSONObjectTranslatable(translatableKeys);
             plural.put(name, type.getName(false));
             plural.put(notificationDescription, type.getNotificationDescription(false));
             typeJSON.put("plural", plural);
@@ -65,11 +68,13 @@ public enum UpcomingEventType {
 
             final UpcomingEventValue[] values = type.getValues();
             if(values != null) {
-                final JSONArray valuesJSON = new JSONArray();
+                final JSONObjectTranslatable valuesJSON = new JSONObjectTranslatable();
                 final HashSet<UpcomingEventValueCategory> categories = new HashSet<>();
                 for(UpcomingEventValue value : values) {
+                    final String key = value.getKey();
                     categories.add(value.getCategory());
-                    valuesJSON.put(value.toJSONObject());
+                    valuesJSON.put(key, value.toJSONObject());
+                    valuesJSON.addTranslatedKey(key);
                 }
                 typeJSON.put("values", valuesJSON);
 
@@ -77,11 +82,13 @@ public enum UpcomingEventType {
                     categoriesJSON.put(category.name(), category.toJSONObject());
                 }
             }
-            typesJSON.put(type.getID(), typeJSON);
+            final String typeID = type.getID();
+            typesJSON.put(typeID, typeJSON);
+            typesJSON.addTranslatedKey(typeID);
         }
         json.put("types", typesJSON);
         json.put("categories", categoriesJSON);
-        return json.toString();
+        return json;
     }
 
     public String getID() {
@@ -97,6 +104,7 @@ public enum UpcomingEventType {
                     return 2;
                 case ASTRONOMY_PICTURE_OF_THE_DAY:
                 case SCIENCE_YEAR_REVIEW:
+                case WIKIPEDIA_TODAYS_FEATURED_PICTURE:
                 case WORD_OF_THE_DAY:
                     return 4;
                 case SPORT_CHAMPIONSHIPS:
@@ -110,6 +118,7 @@ public enum UpcomingEventType {
         } else {
             switch (this) {
                 case ASTRONOMY_PICTURE_OF_THE_DAY:
+                case WIKIPEDIA_TODAYS_FEATURED_PICTURE:
                 case WORD_OF_THE_DAY:
                     return 1;
                 case SPOTIFY_NEW_MUSIC_FRIDAY:
@@ -181,6 +190,7 @@ public enum UpcomingEventType {
                 case TICKETMASTER_MUSIC_EVENT: return "Music Event";
                 case TV_SHOW: return "TV Show";
                 case VIDEO_GAME: return "Video Game Release";
+                case WIKIPEDIA_TODAYS_FEATURED_PICTURE: return "Wikipedia: Today's Featured Picture";
                 case WORD_OF_THE_DAY: return "Word of the Day";
                 default: return "Unknown Singular Name";
             }
@@ -207,6 +217,7 @@ public enum UpcomingEventType {
                 case TICKETMASTER_MUSIC_EVENT: return "Music Events";
                 case TV_SHOW: return "TV Shows";
                 case VIDEO_GAME: return "Video Game Releases";
+                case WIKIPEDIA_TODAYS_FEATURED_PICTURE: return "Wikipedia: Today's Featured Picture";
                 case WORD_OF_THE_DAY: return "Word of the Day";
                 default: return "Unknown Plural Name";
             }
@@ -236,6 +247,7 @@ public enum UpcomingEventType {
                 case TICKETMASTER_MUSIC_EVENT: return "\"%title%\" happens tonight!";
                 case TV_SHOW: return "A new episode for \"%title%\" is now available!";
                 case VIDEO_GAME: return "\"%title%\" releases today!";
+                case WIKIPEDIA_TODAYS_FEATURED_PICTURE: return "Today's Wikipedia Featured Picture is \"%title%\"!";
                 case WORD_OF_THE_DAY: return "Today's Word of the Day is \"%title%\"!";
                 default: return "Unknown Singular Notification Description!";
             }
@@ -262,6 +274,7 @@ public enum UpcomingEventType {
                 case TICKETMASTER_MUSIC_EVENT: return "\"%title%\" happens tonight!";
                 case TV_SHOW: return "New episodes for \"%title%\" are now available!";
                 case VIDEO_GAME: return "\"%title%\" release today!";
+                case WIKIPEDIA_TODAYS_FEATURED_PICTURE: return "Today's Wikipedia Featured Pictures are \"%title%\"!";
                 case WORD_OF_THE_DAY: return "Today's Words of the Day are \"%title%\"!";
                 default: return "Unknown Plural Notification Description!";
             }

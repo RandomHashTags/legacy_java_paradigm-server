@@ -14,7 +14,7 @@ public abstract class RecentEventController implements Jsoupable {
     public HashSet<PreRecentEvent> refreshHashSet(LocalDate startingDate) {
         return null;
     }
-    public ConcurrentHashMap<String, HashSet<String>> refreshHashMap(LocalDate startingDate) {
+    public ConcurrentHashMap<String, HashSet<PreRecentEvent>> refreshHashMap(LocalDate startingDate) {
         return null;
     }
 

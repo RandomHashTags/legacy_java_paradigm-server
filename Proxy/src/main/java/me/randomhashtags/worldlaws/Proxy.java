@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.proxy.ProxyHeaders;
 import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.settings.Settings;
@@ -85,7 +86,7 @@ public final class Proxy implements WLServer {
     }
 
     @Override
-    public String getServerResponse(APIVersion version, String identifier, ServerRequest request) {
+    public JSONObjectTranslatable getServerResponse(APIVersion version, String identifier, ServerRequest request) {
         return null;
     }
 }

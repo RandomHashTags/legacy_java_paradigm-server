@@ -35,6 +35,7 @@ public enum Overwatch implements VideoGameUpdateController {
         final Document doc = getDocument(url);
         VideoGameUpdate update = null;
         if(doc != null) {
+            final String identifier = getName();
             final Elements patchElements = doc.select("section section.NotchPage-body div.Container div.PatchNotes-body div.PatchNotes-patch");
             final EventSources sources = new EventSources(new EventSource("Overwatch: Patch Notes", url));
             for(Element patchElement : patchElements) {
@@ -51,7 +52,7 @@ public enum Overwatch implements VideoGameUpdateController {
                     }
                     String month = date.getMonth().name();
                     month = month.charAt(0) + month.substring(1, 3).toLowerCase() + " " + day;
-                    update = new VideoGameUpdate(eventDate, month + " Patch Notes", description.toString(), null, sources);
+                    update = new VideoGameUpdate(identifier, eventDate, month + " Patch Notes", description.toString(), null, sources);
                     break;
                 }
             }

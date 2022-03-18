@@ -3,7 +3,9 @@ package me.randomhashtags.worldlaws.upcoming.education;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
 import me.randomhashtags.worldlaws.upcoming.events.WordOfTheDayEvent;
+import org.json.JSONObject;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
@@ -30,12 +32,18 @@ public final class WordOfTheDay extends LoadedUpcomingEventController {
             final EventSources sources = new EventSources(
                     new EventSource("Merriam-Webster", url)
             );
-            final String dateString = new EventDate(now).getDateString(), word = wordOfTheDay.word;
+            final EventDate date = new EventDate(now);
+            final String dateString = date.getDateString(), word = wordOfTheDay.word;
             final String identifier = getEventDateIdentifier(dateString, word);
-            final WordOfTheDayEvent event = new WordOfTheDayEvent(word, wordOfTheDay.description, imageURL, wordOfTheDay.pronunciationURL, wordOfTheDay.type, wordOfTheDay.syllables, sources);
+            final WordOfTheDayEvent event = new WordOfTheDayEvent(date, word, wordOfTheDay.description, imageURL, wordOfTheDay.pronunciationURL, wordOfTheDay.type, wordOfTheDay.syllables, sources);
             putLoadedPreUpcomingEvent(identifier, event.toPreUpcomingEventJSON(type, identifier, null));
-            putUpcomingEvent(identifier, event.toString());
+            putUpcomingEvent(identifier, event);
         }
+    }
+
+    @Override
+    public UpcomingEvent parseUpcomingEvent(JSONObject json) {
+        return new WordOfTheDayEvent(json);
     }
 
     private WordOfTheDayObj getWordOfTheDay(String url) { // TODO: more in-depth properties (+"see entry")

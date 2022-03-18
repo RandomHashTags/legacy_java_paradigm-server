@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.RestAPI;
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.country.usa.CongressService;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.people.HumanName;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -13,13 +14,13 @@ import java.util.HashMap;
 public enum UnitedStatesProject implements RestAPI, CongressService {
     INSTANCE;
 
-    private final HashMap<String, String> politicians;
+    private final HashMap<String, JSONObjectTranslatable> politicians;
 
     UnitedStatesProject() {
         politicians = new HashMap<>();
     }
 
-    public String getPolitician(String id) {
+    public JSONObjectTranslatable getPolitician(String id) {
         if(!politicians.containsKey(id)) {
             loadPoliticians(CongressType.CURRENT);
             if(!politicians.containsKey(id)) {
@@ -45,7 +46,7 @@ public enum UnitedStatesProject implements RestAPI, CongressService {
                 final UnitedStatesProjectPolitician politician = new UnitedStatesProjectPolitician(json);
                 final HumanName name = politician.getName();
                 final String id = name.getFirstName() + name.getMiddleName() + name.getLastName();
-                politicians.put(id, politician.toString());
+                politicians.put(id, politician.toJSONObject());
             }
         } else {
             WLLogger.logError(this, "loadPoliticians - array == null!");

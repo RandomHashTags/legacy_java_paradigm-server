@@ -1,5 +1,7 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
+import me.randomhashtags.worldlaws.locale.JSONTranslatable;
 import me.randomhashtags.worldlaws.observances.Holidays;
 import me.randomhashtags.worldlaws.politics.Elections;
 import me.randomhashtags.worldlaws.recent.ScienceYearReview;
@@ -15,20 +17,18 @@ import me.randomhashtags.worldlaws.upcoming.entertainment.movies.MovieProduction
 import me.randomhashtags.worldlaws.upcoming.entertainment.movies.Movies;
 import me.randomhashtags.worldlaws.upcoming.entertainment.music.MusicAlbums;
 import me.randomhashtags.worldlaws.upcoming.entertainment.music.MusicSpotify;
+import me.randomhashtags.worldlaws.upcoming.events.LoadedPreUpcomingEvent;
 import me.randomhashtags.worldlaws.upcoming.science.AstronomyPictureOfTheDay;
 import me.randomhashtags.worldlaws.upcoming.space.RocketLaunches;
 import me.randomhashtags.worldlaws.upcoming.space.SpaceEvents;
 import me.randomhashtags.worldlaws.upcoming.sports.Championships;
 import me.randomhashtags.worldlaws.upcoming.sports.MLB;
 import me.randomhashtags.worldlaws.upcoming.sports.UFC;
-import org.json.JSONObject;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Optional;
+import java.util.*;
+import java.util.concurrent.ConcurrentHashMap;
 
 public final class UpcomingEvents implements WLServer {
     public static final UpcomingEvents INSTANCE = new UpcomingEvents();
@@ -63,8 +63,8 @@ public final class UpcomingEvents implements WLServer {
         INSTANCE.initialize();
     }
 
-    private String weeklyEvents;
-    private final HashMap<ServerRequestTypeUpcomingEvents, String> typeJSONs;
+    private JSONObjectTranslatable weeklyEvents;
+    private final HashMap<ServerRequestTypeUpcomingEvents, JSONObjectTranslatable> typeJSONs;
 
     UpcomingEvents() {
         typeJSONs = new HashMap<>();
@@ -82,9 +82,10 @@ public final class UpcomingEvents implements WLServer {
 
     private void test() {
         final long started = System.currentTimeMillis();
-        final JSONObject json = new MusicAlbums().getSpotifyPlaylistJSON("37i9dQZF1DX4JAvHpjipBk");
-        final String string = json != null ? json.toString() : "null";
-        WLLogger.logInfo("UpcomingEvents;test;string=" + string + ";took " + WLUtilities.getElapsedTime(started));
+        final AstronomyPictureOfTheDay apod = new AstronomyPictureOfTheDay();
+        apod.refresh();
+        //WLLogger.logInfo("UpcomingEvents;test;string=" + holidays.toString());
+        WLLogger.logInfo("UpcomingEvents;test;took " + WLUtilities.getElapsedTime(started));
     }
 
     private UpcomingEventController valueOfEventType(String eventType) {
@@ -93,7 +94,7 @@ public final class UpcomingEvents implements WLServer {
     }
 
     @Override
-    public String getServerResponse(APIVersion version, String identifier, ServerRequest request) {
+    public JSONTranslatable getServerResponse(APIVersion version, String identifier, ServerRequest request) {
         final ServerRequestTypeUpcomingEvents type = (ServerRequestTypeUpcomingEvents) request.getType();
         final String target = request.getTarget();
         final String[] values = target != null ? target.split("/") : null;
@@ -101,12 +102,13 @@ public final class UpcomingEvents implements WLServer {
             final String key = values[0];
             final UpcomingEventController controller = valueOfEventType(key);
             if(controller != null) {
-                return controller.getResponse(target.substring(key.length()+1));
+                return controller.getUpcomingEvent(target.substring(key.length()+1));
             } else {
                 WLLogger.logError(this, "getServerResponse - failed to get controller using key \"" + key + "\" with target \"" + target + "\"!");
             }
             return null;
         }
+
         switch (type) {
             case ELECTIONS:
                 return Elections.INSTANCE.refresh();
@@ -152,27 +154,27 @@ public final class UpcomingEvents implements WLServer {
         return 0;
     }
 
-    private String getTypeJSON(ServerRequestTypeUpcomingEvents type) {
+    private JSONObjectTranslatable getTypeJSON(ServerRequestTypeUpcomingEvents type) {
         if(!typeJSONs.containsKey(type)) {
-            String string = null;
+            JSONObjectTranslatable json = null;
             switch (type) {
                 case EVENT_TYPES:
-                    string = UpcomingEventType.getTypesJSON();
+                    json = UpcomingEventType.getTypesJSON();
                     break;
                 case PRESENTATIONS:
-                    string = PresentationType.getTypesJSON();
+                    json = PresentationType.getTypesJSON();
                     break;
                 case MOVIE_PRODUCTION_COMPANIES:
-                    string = MovieProductionCompanies.getTypesJSON();
+                    json = MovieProductionCompanies.getTypesJSON();
                     break;
                 case VIDEO_GAMES:
-                    string = VideoGameUpdates.getTypesJSON();
+                    json = VideoGameUpdates.getTypesJSON();
                     break;
                 default:
                     break;
             }
-            if(string != null) {
-                typeJSONs.put(type, string);
+            if(json != null) {
+                typeJSONs.put(type, json);
             }
         }
         return typeJSONs.get(type);
@@ -185,7 +187,7 @@ public final class UpcomingEvents implements WLServer {
         return dates;
     }
 
-    private String getWeeklyEvents() {
+    private JSONObjectTranslatable getWeeklyEvents() {
         if(weeklyEvents == null) {
             refreshEventsFromThisWeek(true);
         }
@@ -210,44 +212,38 @@ public final class UpcomingEvents implements WLServer {
         final LocalDate now = LocalDate.now();
         final HashSet<String> dates = getWeeklyEventDateStrings(now);
         new CompletableFutures<UpcomingEventController>().stream(CONTROLLERS, UpcomingEventController::refresh);
-        final JSONObject json = getEventsFromDates(dates);
+        final JSONObjectTranslatable json = getEventsFromDates(dates);
         if(json != null) {
-            weeklyEvents = json.toString();
+            weeklyEvents = json;
         }
         WLLogger.logInfo("UpcomingEvents - " + (registerAutoUpdates ? "" : "auto-") + "refreshed events from this week (took " + WLUtilities.getElapsedTime(started) + ")");
     }
     private String getEventStringForDate(LocalDate date) {
         return date.getMonthValue() + "-" + date.getYear() + "-" + date.getDayOfMonth();
     }
-    private JSONObject getEventsFromDates(HashSet<String> dateStrings) {
-        final HashSet<String> values = new HashSet<>();
+    private JSONObjectTranslatable getEventsFromDates(HashSet<String> dateStrings) {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable();
         new CompletableFutures<UpcomingEventController>().stream(CONTROLLERS, controller -> {
-            final String string = controller.getEventsFromDates(dateStrings);
+            final ConcurrentHashMap<String, List<LoadedPreUpcomingEvent>> string = controller.getEventsFromDates(dateStrings);
             if(string != null) {
+                final JSONObjectTranslatable controllerJSON = new JSONObjectTranslatable();
+                for(Map.Entry<String, List<LoadedPreUpcomingEvent>> map : string.entrySet()) {
+                    final JSONObjectTranslatable dateStringJSON = new JSONObjectTranslatable();
+                    final String dateString = map.getKey();
+                    final List<LoadedPreUpcomingEvent> events = map.getValue();
+                    for(LoadedPreUpcomingEvent event : events) {
+                        final String identifier = event.getIdentifier();
+                        dateStringJSON.put(identifier, event.getJSONObject());
+                        dateStringJSON.addTranslatedKey(identifier);
+                    }
+                    controllerJSON.put(dateString, dateStringJSON);
+                    controllerJSON.addTranslatedKey(dateString);
+                }
                 final String key = controller.getType().name().toLowerCase();
-                final String value = "\"" + key + "\":" + string;
-                values.add(value);
+                json.put(key, controllerJSON);
+                json.addTranslatedKey(key);
             }
         });
-
-        String stringValue = null;
-        if(!values.isEmpty()) {
-            final StringBuilder builder = new StringBuilder("{");
-            boolean isFirst = true;
-            for(String value : values) {
-                builder.append(isFirst ? "" : ",").append(value);
-                isFirst = false;
-            }
-            stringValue = builder.append("}").toString();
-        }
-        if(stringValue != null) {
-            try {
-                return new JSONObject(stringValue);
-            } catch (Exception e) {
-                final String stackTrace = WLUtilities.getThrowableStackTrace(e);
-                WLUtilities.saveLoggedError("UpcomingEvents", "failed parsing string to JSONObject\n\n" + stringValue + "\n\n" + stackTrace);
-            }
-        }
-        return null;
+        return json.isEmpty() ? null : json;
     }
 }

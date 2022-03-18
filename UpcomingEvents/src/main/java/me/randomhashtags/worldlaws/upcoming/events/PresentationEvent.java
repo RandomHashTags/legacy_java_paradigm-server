@@ -2,19 +2,27 @@ package me.randomhashtags.worldlaws.upcoming.events;
 
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSources;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import org.json.JSONObject;
 
 public final class PresentationEvent extends UpcomingEvent {
 
     private final String tag;
-    private final EventDate date;
     private final EventSources externalLinks;
 
+    public PresentationEvent(JSONObject json) {
+        super(json);
+        final JSONObject properties = json.getJSONObject("properties");
+        tag = properties.getString("tag");
+        externalLinks = null;//new EventSources(properties.getJSONObject("externalLinks")); // TODO: fix this
+        insertProperties();
+    }
     public PresentationEvent(EventDate date, String title, String description, String imageURL, String location, String tag, EventSources externalLinks) {
-        super(title, description, imageURL, location, null, null);
-        this.date = date;
+        super(date, title, description, imageURL, location, null, null);
         this.tag = tag;
         this.externalLinks = externalLinks;
+        insertProperties();
     }
 
     @Override
@@ -22,9 +30,7 @@ public final class PresentationEvent extends UpcomingEvent {
         return UpcomingEventType.PRESENTATION;
     }
 
-    public EventDate getDate() {
-        return date;
-    }
+
     public String getTag() {
         return tag;
     }
@@ -33,7 +39,10 @@ public final class PresentationEvent extends UpcomingEvent {
     }
 
     @Override
-    public String getPropertiesJSONObject() {
-        return null;
+    public JSONObjectTranslatable getPropertiesJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable();
+        json.put("tag", tag);
+        json.put("externalLinks", externalLinks.toJSONObject());
+        return json;
     }
 }

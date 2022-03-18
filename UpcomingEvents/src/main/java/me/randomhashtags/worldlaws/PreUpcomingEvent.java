@@ -1,16 +1,17 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import me.randomhashtags.worldlaws.upcoming.events.LoadedPreUpcomingEvent;
+import org.json.JSONArray;
 import org.json.JSONObject;
 
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 public final class PreUpcomingEvent {
     private final String customTypeSingularName, id, title, url, tag;
     private final List<String> countries;
-    private final HashMap<String, Object> customValues;
+    private final JSONObjectTranslatable customValues;
 
     public static PreUpcomingEvent fromUpcomingEventJSON(UpcomingEventType type, String id, JSONObject json) {
         final String title = json.getString("title");
@@ -42,10 +43,10 @@ public final class PreUpcomingEvent {
     public PreUpcomingEvent(String id, String title, String url, String tag, List<String> countries) {
         this(id, title, url, tag, countries, null);
     }
-    public PreUpcomingEvent(String id, String title, String url, String tag, List<String> countries, HashMap<String, Object> customValues) {
+    public PreUpcomingEvent(String id, String title, String url, String tag, List<String> countries, JSONObjectTranslatable customValues) {
         this(null, id, title, url, tag, countries, customValues);
     }
-    public PreUpcomingEvent(String customTypeSingularName, String id, String title, String url, String tag, List<String> countries, HashMap<String, Object> customValues) {
+    public PreUpcomingEvent(String customTypeSingularName, String id, String title, String url, String tag, List<String> countries, JSONObjectTranslatable customValues) {
         this.customTypeSingularName = customTypeSingularName;
         this.id = id;
         this.title = LocalServer.fixEscapeValues(title);
@@ -55,8 +56,17 @@ public final class PreUpcomingEvent {
         this.customValues = customValues;
     }
 
+    public String getDateString() {
+        return id.split("\\.")[0];
+    }
+    public EventDate getEventDate() {
+        return EventDate.valueOfDateString(getDateString());
+    }
     public String getID() {
         return id;
+    }
+    public String getIdentifier() {
+        return id.split("\\.")[1];
     }
     public String getTitle() {
         return title;
@@ -75,18 +85,15 @@ public final class PreUpcomingEvent {
     }
 
     public Object getCustomValue(String key) {
-        return customValues != null ? customValues.getOrDefault(key, null) : null;
+        return customValues != null ? customValues.opt(key) : null;
     }
 
-    private String getCountriesArray() {
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
+    private JSONArray getCountriesArray() {
+        final JSONArray array = new JSONArray();
         for(String country : countries) {
-            builder.append(isFirst ? "" : ",").append("\"").append(country).append("\"");
-            isFirst = false;
+            array.put(country);
         }
-        builder.append("]");
-        return builder.toString();
+        return array;
     }
 
     private String optimizeImageURL(UpcomingEventType type, String imageURL) {
@@ -99,20 +106,7 @@ public final class PreUpcomingEvent {
         return imageURL;
     }
 
-    private String getCustomValuesJSON() {
-        final StringBuilder builder = new StringBuilder("{");
-        boolean isFirst = true;
-        for(Map.Entry<String, Object> map : customValues.entrySet()) {
-            final Object value = map.getValue();
-            final boolean isString = value instanceof String;
-            builder.append(isFirst ? "" : ",").append("\"").append(map.getKey()).append("\":").append(isString ? "\"" : "").append(value.toString()).append(isString ? "\"" : "");
-            isFirst = false;
-        }
-        builder.append("}");
-        return builder.toString();
-    }
-
-    public String toStringWithImageURL(UpcomingEventType type, String imageURL) {
+    /*public String toStringWithImageURL(UpcomingEventType type, String imageURL) {
         final String[] values = id.split("\\.");
         return "\"" + id.substring(values[0].length() + 1) + "\":{" +
                 (customTypeSingularName != null ? "\"customTypeSingularName\":\"" + customTypeSingularName + "\"," : "") +
@@ -122,5 +116,26 @@ public final class PreUpcomingEvent {
                 (customValues != null ? "\"customValues\":" + getCustomValuesJSON() + "," : "") +
                 "\"title\":\"" + title + "\"" +
                 "}";
+    }*/
+
+    public LoadedPreUpcomingEvent toLoadedPreUpcomingEventWithImageURL(UpcomingEventType type, String imageURL) {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("title", "tag", "customTypeSingularName");
+        json.put("title", title);
+        if(tag != null && !tag.equals(title)) {
+            json.put("tag", getTag());
+        }
+        if(customTypeSingularName != null) {
+            json.put("customTypeSingularName", customTypeSingularName);
+        }
+        if(imageURL != null) {
+            json.put("imageURL", optimizeImageURL(type, imageURL));
+        }
+        if(countries != null) {
+            json.put("countries", getCountriesArray());
+        }
+        if(customValues != null) {
+            json.put("customValues", customValues);
+        }
+        return new LoadedPreUpcomingEvent(getIdentifier(), json);
     }
 }

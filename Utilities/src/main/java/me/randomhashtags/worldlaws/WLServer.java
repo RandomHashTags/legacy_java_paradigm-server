@@ -1,19 +1,23 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
+import me.randomhashtags.worldlaws.locale.JSONTranslatable;
+import me.randomhashtags.worldlaws.locale.Language;
+import me.randomhashtags.worldlaws.locale.LanguageTranslator;
 import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.ServerRequestType;
 import me.randomhashtags.worldlaws.request.server.*;
 import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
+import org.json.JSONObject;
 
 import java.time.LocalDateTime;
 import java.util.Arrays;
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.concurrent.ConcurrentHashMap;
 
 public interface WLServer extends DataValues, Jsoupable, Jsonable {
-    ConcurrentHashMap<TargetServer, HashMap<APIVersion, String>> CACHED_HOME_RESPONSES = new ConcurrentHashMap<>();
+    ConcurrentHashMap<TargetServer, HashMap<APIVersion, JSONObjectTranslatable>> CACHED_HOME_RESPONSES = new ConcurrentHashMap<>();
     HashMap<TargetServer, LocalServer> LOCAL_SERVERS = new HashMap<>();
     TargetServer getServer();
     default ServerRequestType[] getRequestTypes() {
@@ -72,7 +76,9 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
                     return;
                 }
                 final String identifier = client.getIdentifier();
-                final String string = getResponse(localServer, identifier, target);
+                final Language clientLanguage = client.getLanguage();
+                final LanguageTranslator languageType = client.getLanguageType();
+                final String string = getResponse(localServer, identifier, target, clientLanguage, languageType);
                 client.sendResponse(string);
             }
         };
@@ -81,13 +87,16 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
     default void stop() {
     }
 
-    private String getResponse(LocalServer localServer, String identifier, String target) {
+    private String getResponse(LocalServer localServer, String identifier, String target, Language clientLanguage, LanguageTranslator translator) {
         final String[] values = target.split("/");
         final String versionString = values[0];
         final APIVersion version = APIVersion.valueOfInput(versionString);
+        final JSONObject json;
         switch (values[1]) {
             case "home":
-                return getHomeResponse(version);
+                final JSONObjectTranslatable response = getHomeResponse(version);
+                json = WLUtilities.translateJSON(response, translator, clientLanguage);
+                return json != null ? json.toString() : null;
             case "stop":
                 if(identifier.equals(Settings.Server.getUUID())) {
                     localServer.stop();
@@ -104,28 +113,27 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
                     requestTarget = requestTarget.substring(targetType.length() + (requestTarget.contains("/") ? 1 : 0));
                 }
                 final ServerRequest request = new ServerRequest(type, requestTarget);
-                String string = getServerResponse(version, identifier, request);
-                if(string == null || string.isEmpty()) {
-                    string = null;
-                }
-                return string;
+                final JSONTranslatable serverJSON = getServerResponse(version, identifier, request);
+                json = WLUtilities.translateJSON(serverJSON, translator, clientLanguage);
+                return json != null ? json.toString() : null;
         }
     }
-    String getServerResponse(APIVersion version, String identifier, ServerRequest request);
+
+    JSONTranslatable getServerResponse(APIVersion version, String identifier, ServerRequest request);
     default long getHomeResponseUpdateInterval() {
         return 0;
     }
     default ServerRequest[] getHomeRequests() {
         return null;
     }
-    default String getHomeResponse(APIVersion version) {
+    default JSONObjectTranslatable getHomeResponse(APIVersion version) {
         final TargetServer server = getServer();
         CACHED_HOME_RESPONSES.putIfAbsent(server, new HashMap<>());
-        final HashMap<APIVersion, String> map = CACHED_HOME_RESPONSES.get(server);
+        final HashMap<APIVersion, JSONObjectTranslatable> map = CACHED_HOME_RESPONSES.get(server);
         if(map.containsKey(version)) {
             return map.get(version);
         } else {
-            final String string = refreshHome(server, version);
+            final JSONObjectTranslatable string = refreshHome(server, version);
             tryStartingAutoUpdates(server, version);
             return string;
         }
@@ -140,40 +148,29 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
             });
         }
     }
-    default String autoRefreshHome(String simpleName, long started, String serverName, TargetServer server, APIVersion version) {
-        final String string = refreshHome(server, version);
+    default JSONObjectTranslatable autoRefreshHome(String simpleName, long started, String serverName, TargetServer server, APIVersion version) {
+        final JSONObjectTranslatable string = refreshHome(server, version);
         WLLogger.logInfo(simpleName + " - auto updated \"" + serverName + "\"'s home response (took " + WLUtilities.getElapsedTime(started) + ")");
         return string;
     }
-    private String refreshHome(TargetServer server, APIVersion version) {
+    private JSONObjectTranslatable refreshHome(TargetServer server, APIVersion version) {
         final ServerRequest[] requests = getHomeRequests();
         if(requests == null) {
             CACHED_HOME_RESPONSES.get(server).put(version, null);
             return null;
         } else {
-            final HashSet<String> values = new HashSet<>();
+            final JSONObjectTranslatable json = new JSONObjectTranslatable();
             final String serverUUID = Settings.Server.getUUID();
             new CompletableFutures<ServerRequest>().stream(Arrays.asList(requests), request -> {
-                final String string = getServerResponse(version, serverUUID, request);
-                if(string != null) {
-                    final String target = "\"" + request.getTotalPath() + "\":" + string;
-                    values.add(target);
+                final JSONTranslatable response = getServerResponse(version, serverUUID, request);
+                if(response != null) {
+                    final String path = request.getTotalPath();
+                    json.put(path, response);
+                    json.addTranslatedKey(path);
                 }
             });
-
-            String value = null;
-            if(!values.isEmpty()) {
-                final StringBuilder builder = new StringBuilder("{");
-                boolean isFirst = true;
-                for(String stringValue : values) {
-                    builder.append(isFirst ? "" : ",").append(stringValue);
-                    isFirst = false;
-                }
-                builder.append("}");
-                value = builder.toString();
-            }
-            CACHED_HOME_RESPONSES.get(server).put(version, value);
-            return value;
+            CACHED_HOME_RESPONSES.get(server).put(version, json);
+            return json;
         }
     }
 }

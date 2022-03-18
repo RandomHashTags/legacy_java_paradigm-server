@@ -3,13 +3,14 @@ package me.randomhashtags.worldlaws.observances.type;
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.country.WLCountry;
-import me.randomhashtags.worldlaws.observances.IHoliday;
+import me.randomhashtags.worldlaws.observances.Holiday;
+import me.randomhashtags.worldlaws.observances.HolidayType;
 import me.randomhashtags.worldlaws.observances.custom.*;
 
 import java.time.DayOfWeek;
 import java.time.Month;
 
-public enum SocialHoliday implements IHoliday {
+public enum SocialHoliday implements Holiday {
 
     AFRICA_DAY,
     ANZAC_DAY,
@@ -97,15 +98,15 @@ public enum SocialHoliday implements IHoliday {
     }
 
     @Override
-    public Enum<? extends IHoliday> getEnum() {
-        return this;
+    public HolidayType getType() {
+        return HolidayType.COUNTRIES;
     }
 
     @Override
-    public String getOfficialName() {
-        final IHoliday holiday = getHoliday();
+    public String getWikipediaName() {
+        final Holiday holiday = getHoliday();
         if(holiday != null) {
-            final String name = holiday.getOfficialName();
+            final String name = holiday.getWikipediaName();
             if(name != null) {
                 return name;
             }
@@ -115,7 +116,7 @@ public enum SocialHoliday implements IHoliday {
 
     @Override
     public String[] getAliases() {
-        final IHoliday holiday = getHoliday();
+        final Holiday holiday = getHoliday();
         if(holiday != null) {
             return holiday.getAliases();
         }
@@ -128,7 +129,7 @@ public enum SocialHoliday implements IHoliday {
 
     @Override
     public EventDate getDate(WLCountry country, int year) {
-        final IHoliday holiday = getHoliday();
+        final Holiday holiday = getHoliday();
         if(holiday != null) {
             return holiday.getDate(country, year);
         }
@@ -187,7 +188,7 @@ public enum SocialHoliday implements IHoliday {
                 switch (country) {
                     case ANTIGUA_AND_BARBUDA:
                     case UNITED_STATES:
-                        return getFirst(DayOfWeek.SUNDAY, Month.JUNE, year);
+                        return EventDate.getFirst(DayOfWeek.SUNDAY, Month.JUNE, year);
                     default:
                         return null;
                 }
@@ -208,11 +209,11 @@ public enum SocialHoliday implements IHoliday {
 
     @Override
     public EventSources getSources(WLCountry country) {
-        final IHoliday holiday = getHoliday();
+        final Holiday holiday = getHoliday();
         return holiday != null ? holiday.getSources(country) : getDefaultSources();
     }
 
-    private IHoliday getHoliday() {
+    private Holiday getHoliday() {
         switch (this) {
             case AFRICA_DAY: return AfricaDay.INSTANCE;
             case ANZAC_DAY: return AnzacDay.INSTANCE;

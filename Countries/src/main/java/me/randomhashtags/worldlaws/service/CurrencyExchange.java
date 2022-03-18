@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws.service;
 import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.Jsoupable;
 import me.randomhashtags.worldlaws.country.WLCurrency;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.request.ServerRequest;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
@@ -20,15 +21,15 @@ public enum CurrencyExchange {
         }
     }
 
-    public static String getResponse(ServerRequest request) {
+    public static JSONObjectTranslatable getResponse(ServerRequest request) {
         final HashMap<String, String> query = request.getQuery();
         if(query != null && query.containsKey("from") && query.containsKey("to")) {
             final String from = query.get("from"), to = query.get("to");
             final WLCurrency fromCurrency = WLCurrency.valueOf(from), toCurrency = WLCurrency.valueOf(to);
+            final JSONObjectTranslatable json = new JSONObjectTranslatable();
             final double value = get(fromCurrency, toCurrency);
-            return "{" +
-                    "\"value\":" + value +
-                    "}";
+            json.put("value", value);
+            return json;
         }
         return null;
     }

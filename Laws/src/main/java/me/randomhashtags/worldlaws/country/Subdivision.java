@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.country;
 
 import me.randomhashtags.worldlaws.LocalServer;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 
 public final class Subdivision {
 
@@ -22,11 +23,10 @@ public final class Subdivision {
         this.description = description;
     }
 
-    @Override
-    public String toString() {
-        return "{" +
-                "\"title\":\"" + title + "\"," +
-                "\"description\":\"" + description + "\"" +
-                "}";
+    public JSONObjectTranslatable toJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("title", "description");
+        json.put("title", title);
+        json.put("description", description);
+        return json;
     }
 }

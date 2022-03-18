@@ -103,7 +103,10 @@ public interface Jsonable {
         return array;
     }
     static void setFileJSONObject(Folder folder, String fileName, JSONObject json) {
-        setFileJSON(folder, fileName, json);
+        setFileJSONObject(folder, fileName, json, true);
+    }
+    static void setFileJSONObject(Folder folder, String fileName, JSONObject json, boolean async) {
+        setFileJSON(folder, fileName, json, async);
     }
     static void setFileJSONArray(Folder folder, String fileName, JSONArray array) {
         setFileJSON(folder, fileName, array);
@@ -112,7 +115,10 @@ public interface Jsonable {
         setFileJSON(folder, fileName, (Object) value);
     }
     private static void setFileJSON(Folder folder, String fileName, Object value) {
-        writeFile(null, folder, fileName, value, "json", true);
+        setFileJSON(folder, fileName, value, true);
+    }
+    private static void setFileJSON(Folder folder, String fileName, Object value, boolean async) {
+        writeFile(null, folder, fileName, value, "json", true, async);
     }
     static void saveFileJSON(Folder folder, String fileName, String value) {
         saveFile(folder, fileName, value, "json");
@@ -124,6 +130,9 @@ public interface Jsonable {
         writeFile(sender, folder, fileName, value, extension, false);
     }
     private static void writeFile(String sender, Folder folder, String fileName, Object value, String extension, boolean canExist) {
+        writeFile(sender, folder, fileName, value, extension, canExist, true);
+    }
+    private static void writeFile(String sender, Folder folder, String fileName, Object value, String extension, boolean canExist, boolean async) {
         if(value != null) {
             final String directory = getFilePath(folder, fileName, extension);
             final Path path = Paths.get(directory);
@@ -134,23 +143,28 @@ public interface Jsonable {
                     WLLogger.logError("Jsonable", sender + "Jsonable - writeFile(" + fileName + ") - already exists at " + directory + " (folder=" + folder.name() + ")!");
                 } else {
                     WLLogger.logInfo(sender + "Jsonable - overriding file with folder " + folder.name() + " at " + path.toAbsolutePath().toString());
-                    write(path, value);
+                    write(path, value, async);
                 }
             } else {
                 WLLogger.logInfo(sender + "Jsonable - creating file with folder " + folder.name() + " at " + path.toAbsolutePath().toString());
                 tryCreatingParentFolders(path);
-                write(path, value);
+                write(path, value, async);
             }
         }
         folder.removeCustomFolderName(fileName);
     }
-    private static void write(Path path, Object value) {
-        CompletableFuture.runAsync(() -> {
-            try {
-                Files.writeString(path, value.toString(), StandardCharsets.UTF_8);
-            } catch (Exception e) {
-                WLUtilities.saveException(e);
-            }
-        });
+    private static void write(Path path, Object value, boolean async) {
+        if(async) {
+            CompletableFuture.runAsync(() -> writeString(path, value));
+        } else {
+            writeString(path, value);
+        }
+    }
+    private static void writeString(Path path, Object value) {
+        try {
+            Files.writeString(path, value.toString(), StandardCharsets.UTF_8);
+        } catch (Exception e) {
+            WLUtilities.saveException(e);
+        }
     }
 }

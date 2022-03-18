@@ -1,12 +1,13 @@
 package me.randomhashtags.worldlaws.globalwarming;
 
 import me.randomhashtags.worldlaws.APIVersion;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 
 public enum GlobalWarming {
     INSTANCE;
     ;
 
-    public String getResponse(APIVersion version, String[] values) {
+    public JSONObjectTranslatable getResponse(APIVersion version, String[] values) {
         final String key = values[0];
         switch (key) {
             case "causes":
@@ -18,11 +19,11 @@ public enum GlobalWarming {
         }
     }
 
-    private String getCauses(APIVersion version) {
+    private JSONObjectTranslatable getCauses(APIVersion version) {
         return null;
     }
 
-    private String getProjections(APIVersion version) {
+    private JSONObjectTranslatable getProjections(APIVersion version) {
         return null;
     }
 }

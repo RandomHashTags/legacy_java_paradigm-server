@@ -6,11 +6,11 @@ import me.randomhashtags.worldlaws.country.WLCountry;
 import java.time.DayOfWeek;
 import java.time.Month;
 
-public enum LabourDay implements CustomIHoliday {
+public enum LabourDay implements CustomHoliday {
     INSTANCE;
 
     @Override
-    public String getOfficialName() {
+    public String getWikipediaName() {
         return "Labour Day";
     }
 
@@ -163,17 +163,17 @@ public enum LabourDay implements CustomIHoliday {
             case ZAMBIA:
             case ZIMBABWE:
                 return new EventDate(Month.MAY, 1, year);
-            case AUSTRALIA: return getFirst(DayOfWeek.MONDAY, Month.OCTOBER, year);
-            case BAHAMAS: return getFirst(DayOfWeek.FRIDAY, Month.JUNE, year);
-            case CANADA: return getFirst(DayOfWeek.MONDAY, Month.SEPTEMBER, year);
+            case AUSTRALIA: return EventDate.getFirst(DayOfWeek.MONDAY, Month.OCTOBER, year);
+            case BAHAMAS: return EventDate.getFirst(DayOfWeek.FRIDAY, Month.JUNE, year);
+            case CANADA: return EventDate.getFirst(DayOfWeek.MONDAY, Month.SEPTEMBER, year);
             case JAMAICA: return new EventDate(Month.MAY, 23, year);
             case JAPAN:
                 final EventDate date = new EventDate(Month.NOVEMBER, 23, year);
                 return date.getLocalDate().getDayOfWeek() == DayOfWeek.SUNDAY ? date.plusDays(1) : date;
-            case KAZAKHSTAN: return getLast(DayOfWeek.SUNDAY, Month.SEPTEMBER, year);
-            case NEW_ZEALAND: return getLast(DayOfWeek.MONDAY, Month.OCTOBER, year);
+            case KAZAKHSTAN: return EventDate.getLast(DayOfWeek.SUNDAY, Month.SEPTEMBER, year);
+            case NEW_ZEALAND: return EventDate.getLast(DayOfWeek.MONDAY, Month.OCTOBER, year);
             case TRINIDAD_AND_TOBAGO: return new EventDate(Month.JUNE, 19, year);
-            case UNITED_KINGDOM: return getFirst(DayOfWeek.MONDAY, Month.MAY, year);
+            case UNITED_KINGDOM: return EventDate.getFirst(DayOfWeek.MONDAY, Month.MAY, year);
             default: return null;
         }
     }

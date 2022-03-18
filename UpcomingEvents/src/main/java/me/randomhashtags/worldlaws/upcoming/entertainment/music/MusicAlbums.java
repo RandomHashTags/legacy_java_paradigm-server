@@ -9,6 +9,7 @@ import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.MusicAlbumEvent;
+import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -33,17 +34,6 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
     public void load() {
         final LocalDate now = WLUtilities.getNow();
         refresh(now.getYear(), now.getMonth(), now.getDayOfMonth());
-    }
-
-    @Override
-    public String getResponse(String input) {
-        final String key = input.split("/")[0];
-        switch (key) {
-            case "artists":
-                return getArtists();
-            default:
-                return super.getResponse(input);
-        }
     }
 
     private String getArtists() {
@@ -141,11 +131,10 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
     }
 
     @Override
-    public String loadUpcomingEvent(String identifier) {
+    public UpcomingEvent loadUpcomingEvent(String identifier) {
         final PreUpcomingEvent preUpcomingEvent = getPreUpcomingEvent(identifier);
         final String url = preUpcomingEvent.getURL();
         final Document albumDoc = getDocument(url);
-        String string = null;
         if(albumDoc != null) {
             final String artist = preUpcomingEvent.getUnfixedTag(), album = preUpcomingEvent.getTitle();
             final EventSources sources = new EventSources();
@@ -165,10 +154,8 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
                 albumImageURL = null;
             }
 
-            final LocalDate now = LocalDate.now();
-            final Month month = now.getMonth();
-            final int day = now.getDayOfMonth(), year = now.getYear();
-            final String todayDateString = getEventDateString(new EventDate(month, day, year)) + ".";
+            final EventDate date = new EventDate(LocalDate.now());
+            final String todayDateString = date.getDateString() + ".";
             if(identifier.startsWith(todayDateString)) {
                 final HashSet<String> artists = new HashSet<>();
                 if(artist.contains(" (") && artist.endsWith(")")) {
@@ -199,14 +186,14 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
                 }
                 final JSONObject spotifyDetails = getSpotifyAlbum(artists, album);
                 final JSONObject itunesDetails = getITunesAlbum(album, artist);
-                string = putUpcomingEvent(identifier, artist, album, albumImageURL, description, spotifyDetails, itunesDetails, sources);
+                return putUpcomingEvent(date, identifier, artist, album, albumImageURL, description, spotifyDetails, itunesDetails, sources);
             } else {
-                string = putUpcomingEvent(identifier, artist, album, albumImageURL, description, null, null, sources);
+                return putUpcomingEvent(date, identifier, artist, album, albumImageURL, description, null, null, sources);
             }
         }
-        return string;
+        return null;
     }
-    private String putUpcomingEvent(String id, String artist, String album, String imageURL, String description, JSONObject spotifyDetails, JSONObject itunesDetails, EventSources sources) {
+    private UpcomingEvent putUpcomingEvent(EventDate date, String id, String artist, String album, String imageURL, String description, JSONObject spotifyDetails, JSONObject itunesDetails, EventSources sources) {
         String customImageURL = null;
         if(spotifyDetails != null) {
             customImageURL = spotifyDetails.getString("imageURL");
@@ -222,9 +209,11 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
         if(customImageURL == null) {
             customImageURL = imageURL;
         }
-        final MusicAlbumEvent event = new MusicAlbumEvent(artist, album, customImageURL, description, spotifyDetails, itunesDetails, sources);
-        final String string = event.toString();
-        putUpcomingEvent(id, string);
-        return string;
+        return new MusicAlbumEvent(date, artist, album, customImageURL, description, spotifyDetails, itunesDetails, sources);
+    }
+
+    @Override
+    public UpcomingEvent parseUpcomingEvent(JSONObject json) {
+        return new MusicAlbumEvent(json);
     }
 }

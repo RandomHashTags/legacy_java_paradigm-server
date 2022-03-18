@@ -1,12 +1,11 @@
 package me.randomhashtags.worldlaws.upcoming.sports;
 
-import me.randomhashtags.worldlaws.EventSource;
-import me.randomhashtags.worldlaws.EventSources;
-import me.randomhashtags.worldlaws.PreUpcomingEvent;
-import me.randomhashtags.worldlaws.WLUtilities;
+import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.upcoming.USAUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.SportEvent;
+import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
+import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -58,24 +57,26 @@ public final class UFC extends USAUpcomingEventController {
     }
 
     @Override
-    public String loadUpcomingEvent(String id) {
+    public UpcomingEvent loadUpcomingEvent(String id) {
         final PreUpcomingEvent preUpcomingEvent = getPreUpcomingEvent(id);
         final String url = preUpcomingEvent.getURL();
         final String title = preUpcomingEvent.getTitle(), location = preUpcomingEvent.getTag();
         final Document wikidoc = getDocument(url);
-        String string = null;
         if(wikidoc != null) {
-            final String description = removeReferences(wikidoc.select("div.mw-parser-output p").get(0).text());
+            final String description = LocalServer.removeWikipediaReferences(wikidoc.select("div.mw-parser-output p").get(0).text());
             final Elements infobox = wikidoc.select("table.infobox tbody tr");
             final Elements image = infobox.get(1).select("td a img");
             final String posterURL = !image.isEmpty() ? "https:" + image.attr("src") : null;
             final EventSource source = new EventSource("Wikipedia: " + title, url);
 
             final EventSources sources = new EventSources(source);
-            final SportEvent ufc = new SportEvent(title, description, location, posterURL, "unknown venue", sources);
-            string = ufc.toString();
-            putUpcomingEvent(id, string);
+            return new SportEvent(preUpcomingEvent.getEventDate(), title, description, location, posterURL, "unknown venue", sources);
         }
-        return string;
+        return null;
+    }
+
+    @Override
+    public UpcomingEvent parseUpcomingEvent(JSONObject json) {
+        return new SportEvent(json);
     }
 }

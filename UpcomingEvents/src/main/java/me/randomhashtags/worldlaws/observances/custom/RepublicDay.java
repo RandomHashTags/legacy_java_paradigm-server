@@ -5,11 +5,11 @@ import me.randomhashtags.worldlaws.country.WLCountry;
 
 import java.time.Month;
 
-public enum RepublicDay implements CustomIHoliday {
+public enum RepublicDay implements CustomHoliday {
     INSTANCE;
 
     @Override
-    public String getOfficialName() {
+    public String getWikipediaName() {
         return "Republic Day";
     }
 

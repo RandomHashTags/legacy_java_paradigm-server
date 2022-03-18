@@ -5,6 +5,7 @@ import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.Jsonable;
 import me.randomhashtags.worldlaws.Jsoupable;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 
@@ -74,7 +75,7 @@ public abstract class TestLawSubdivisionController implements Jsoupable, Jsonabl
 
     public abstract HashSet<? extends TestStatuteAbstract> getStatutesAbstract(Document doc, String index, String chapter, SubdivisionLegislationType type);
 
-    public String getIndexes() {
+    public JSONObjectTranslatable getIndexes() {
         return test("indexes", new CompletionHandler() {
             @Override
             public String loadJSONObjectString() {
@@ -83,7 +84,7 @@ public abstract class TestLawSubdivisionController implements Jsoupable, Jsonabl
             }
         });
     }
-    public String getTableOfChapters(String index) {
+    public JSONObjectTranslatable getTableOfChapters(String index) {
         final String fileName = index + File.separator + "chapters";
         return test(fileName, new CompletionHandler() {
             @Override
@@ -93,7 +94,7 @@ public abstract class TestLawSubdivisionController implements Jsoupable, Jsonabl
             }
         });
     }
-    public String getStatutesList(String index, String chapter) {
+    public JSONObjectTranslatable getStatutesList(String index, String chapter) {
         final String fileName = getFileName(index + File.separator + chapter + File.separator + "statutes_list");
         return test(fileName, new CompletionHandler() {
             @Override
@@ -103,7 +104,7 @@ public abstract class TestLawSubdivisionController implements Jsoupable, Jsonabl
             }
         });
     }
-    public String getStatute(String index, String chapter, String section) {
+    public JSONObjectTranslatable getStatute(String index, String chapter, String section) {
         final String fileName = getFileName(index + File.separator + chapter + File.separator + "statutes" + File.separator + section);
         return test(fileName, new CompletionHandler() {
             @Override
@@ -128,21 +129,27 @@ public abstract class TestLawSubdivisionController implements Jsoupable, Jsonabl
         builder.append("}");
         return builder.toString();
     }
-    private String test(String fileName, CompletionHandler loadHandler) {
+    private JSONObjectTranslatable test(String fileName, CompletionHandler loadHandler) {
         final SovereignStateSubdivision subdivision = getSubdivision();
-        String string = null;
+        JSONObjectTranslatable json = null;
         if(subdivision != null) {
             final String countryBackendID = subdivision.getCountry().getBackendID(), backendID = subdivision.getBackendID(), year = Integer.toString(getPublishedDataYear());
             final Folder folder = Folder.LAWS_COUNTRY_SUBDIVISIONS_SUBDIVISION_YEAR;
             folder.setCustomFolderName(fileName, folder.getFolderName().replace("%country%", countryBackendID).replace("%subdivision%", backendID).replace("%year%", year));
-            final JSONObject json = getJSONObject(folder, fileName, new CompletionHandler() {
+            final JSONObject localJSON = getJSONObject(folder, fileName, new CompletionHandler() {
                 @Override
                 public String loadJSONObjectString() {
                     return loadHandler.loadJSONObjectString();
                 }
             });
-            string = json != null ? json.toString() : null;
+            if(localJSON != null) {
+                json = new JSONObjectTranslatable();
+                for(String key : localJSON.keySet()) {
+                    json.put(key, localJSON.get(key));
+                    json.addTranslatedKey(key);
+                }
+            }
         }
-        return string;
+        return json;
     }
 }

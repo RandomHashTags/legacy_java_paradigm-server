@@ -1,17 +1,20 @@
 package me.randomhashtags.worldlaws.weather;
 
 import me.randomhashtags.worldlaws.EventSource;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
+import org.json.JSONArray;
 
 import java.util.HashSet;
 
 public final class WeatherAlert {
-    private final String event, certainty, headline, instruction, description, zones;
+    private final String event, certainty, headline, instruction, description;
+    private final HashSet<WeatherZone> zones;
     private final HashSet<String> subdivisions;
     private final int defcon;
     private final WeatherAlertTime time;
     private final EventSource source;
 
-    public WeatherAlert(WeatherPreAlert preAlert, String zones, EventSource source) {
+    public WeatherAlert(WeatherPreAlert preAlert, HashSet<WeatherZone> zones, EventSource source) {
         this.event = preAlert.getEvent();
         this.defcon = preAlert.getDefcon();
         this.subdivisions = preAlert.getSubdivisions();
@@ -24,30 +27,22 @@ public final class WeatherAlert {
         this.source = source;
     }
 
-    private String getSubdivisionsArray() {
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
-        for(String subdivision : subdivisions) {
-            builder.append(isFirst ? "" : ",").append("\"").append(subdivision).append("\"");
-            isFirst = false;
+    public JSONObjectTranslatable toJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("event", "headline", "instruction", "description");
+        json.put("defcon", defcon);
+        json.put("event", event);
+        if(subdivisions != null) {
+            json.put("subdivisions", new JSONArray(subdivisions));
         }
-        builder.append("]");
-        return builder.toString();
-    }
-
-    @Override
-    public String toString() {
-        return "{" +
-                "\"defcon\":" + defcon + "," +
-                "\"event\":\"" + event + "\"," +
-                (subdivisions != null ? "\"subdivisions\":" + getSubdivisionsArray() + "," : "") +
-                "\"certainty\":\"" + certainty + "\"," +
-                "\"headline\":\"" + headline + "\"," +
-                (instruction != null && !instruction.isEmpty() ? "\"instruction\":\"" + instruction + "\"," : "") +
-                "\"description\":\"" + description + "\"," +
-                "\"time\":" + time.toString() + "," +
-                "\"zones\":" + zones + "," +
-                "\"source\":{" + source.toString() + "}" +
-                "}";
+        json.put("certainty", certainty);
+        json.put("headline", headline);
+        if(instruction != null && !instruction.isEmpty()) {
+            json.put("instruction", instruction);
+        }
+        json.put("description", description);
+        json.put("time", time.toJSONObject());
+        json.put("zones", new JSONArray(zones));
+        json.put("source", source.toJSONObject());
+        return json;
     }
 }

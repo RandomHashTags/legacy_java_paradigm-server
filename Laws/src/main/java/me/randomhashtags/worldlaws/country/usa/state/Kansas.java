@@ -82,38 +82,30 @@ public final class Kansas extends LawSubdivisionController {
         }
     }
     @Override
-    public String getStatute(String title, String chapter, String section) {
-        final String path = title + "." + chapter + "." + section;
+    public SubdivisionStatute loadStatute(String title, String chapter, String section) {
         title = prefixZeros(title, 3);
         chapter = prefixZeros(chapter, 3);
         section = prefixZeros(section, 4+(String.valueOf(section.charAt(section.length()-1)).matches("[0-9]+") ? 0 : 1));
-        if(statutes.containsKey(path)) {
-            return statutes.get(path);
-        } else {
-            final String url = statuteURL.replace("%index%", title).replace("%chapter%", chapter).replace("%section%", section);
-            final Document doc = getDocument(url);
-            if(doc != null) {
-                final Elements table = doc.select("table tbody tr td p"), topics = table.select("span");
-                final String topic = topics.get(0).text() + " " + topics.get(1).text();
-                final Element last = table.last();
-                final String history = last.text();
-                if(history.startsWith("History")) {
-                    table.remove(last);
-                }
-                final StringBuilder description = new StringBuilder();
-                boolean isFirst = true;
-                for(Element element : table) {
-                    final String text = element.text().replace(topic + " ", "");
-                    description.append(isFirst ? "" : "\n").append(text);
-                    isFirst = false;
-                }
-
-                final SubdivisionStatute statute = new SubdivisionStatute(StateReference.build(title, chapter, section, url), topic.split(" ")[1], description.toString());
-                final String string = statute.toString();
-                statutes.put(path, string);
-                return string;
+        final String url = statuteURL.replace("%index%", title).replace("%chapter%", chapter).replace("%section%", section);
+        final Document doc = getDocument(url);
+        if(doc != null) {
+            final Elements table = doc.select("table tbody tr td p"), topics = table.select("span");
+            final String topic = topics.get(0).text() + " " + topics.get(1).text();
+            final Element last = table.last();
+            final String history = last.text();
+            if(history.startsWith("History")) {
+                table.remove(last);
             }
-            return null;
+            final StringBuilder description = new StringBuilder();
+            boolean isFirst = true;
+            for(Element element : table) {
+                final String text = element.text().replace(topic + " ", "");
+                description.append(isFirst ? "" : "\n").append(text);
+                isFirst = false;
+            }
+
+            return new SubdivisionStatute(StateReference.build(title, chapter, section, url), topic.split(" ")[1], description.toString());
         }
+        return null;
     }
 }

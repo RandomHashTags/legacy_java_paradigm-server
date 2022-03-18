@@ -5,11 +5,11 @@ import me.randomhashtags.worldlaws.country.WLCountry;
 
 import java.time.Month;
 
-public enum DataPrivacyDay implements CustomIHoliday {
+public enum DataPrivacyDay implements CustomHoliday {
     INSTANCE;
 
     @Override
-    public String getOfficialName() {
+    public String getWikipediaName() {
         return "Data Privacy Day";
     }
 

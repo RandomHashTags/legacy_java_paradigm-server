@@ -1,28 +1,26 @@
 package me.randomhashtags.worldlaws.upcoming.entertainment.videogames;
 
+import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSources;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
-
-import java.util.HashSet;
+import org.json.JSONArray;
+import org.json.JSONObject;
 
 public class VideoGameRelease extends UpcomingEvent {
-    private final HashSet<String> genres;
+    private final JSONArray genres;
 
-    public VideoGameRelease(String title, String description, String imageURL, HashSet<String> genres, EventSources sources) {
-        super(title, description, imageURL, null, null, sources);
-        this.genres = genres;
+    public VideoGameRelease(JSONObject json) {
+        super(json);
+        final JSONObject properties = json.getJSONObject("properties");
+        genres = properties.getJSONArray("genres");
+        insertProperties();
     }
-
-    private String getGenresArray() {
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
-        for(String genre : genres) {
-            builder.append(isFirst ? "" : ",").append("\"").append(genre).append("\"");
-            isFirst = false;
-        }
-        builder.append("]");
-        return builder.toString();
+    public VideoGameRelease(EventDate date, String title, String description, String imageURL, JSONArray genres, EventSources sources) {
+        super(date, title, description, imageURL, null, null, sources);
+        this.genres = genres;
+        insertProperties();
     }
 
     @Override
@@ -31,9 +29,9 @@ public class VideoGameRelease extends UpcomingEvent {
     }
 
     @Override
-    public String getPropertiesJSONObject() {
-        return "{" +
-                "\"genres\":" + getGenresArray() +
-                "}";
+    public JSONObjectTranslatable getPropertiesJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable();
+        json.put("genres", genres);
+        return json;
     }
 }

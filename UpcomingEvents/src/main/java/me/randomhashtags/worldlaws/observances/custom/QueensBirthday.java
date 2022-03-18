@@ -6,11 +6,11 @@ import me.randomhashtags.worldlaws.country.WLCountry;
 import java.time.DayOfWeek;
 import java.time.Month;
 
-public enum QueensBirthday implements CustomIHoliday {
+public enum QueensBirthday implements CustomHoliday {
     INSTANCE;
 
     @Override
-    public String getOfficialName() {
+    public String getWikipediaName() {
         return "Queen's Official Birthday";
     }
 
@@ -32,12 +32,12 @@ public enum QueensBirthday implements CustomIHoliday {
             case SAINT_HELENA_ASCENSION_AND_TRISTAN_DA_CUNHA:
             case SOLOMON_ISLANDS:
             case TURKS_AND_CAICOS_ISLANDS:
-                return getSecond(DayOfWeek.MONDAY, Month.JUNE, year);
+                return EventDate.getSecond(DayOfWeek.MONDAY, Month.JUNE, year);
             case FALKLAND_ISLANDS: return new EventDate(Month.APRIL, 21, year);
-            case NEW_ZEALAND: return getFirst(DayOfWeek.MONDAY, Month.JUNE, year);
+            case NEW_ZEALAND: return EventDate.getFirst(DayOfWeek.MONDAY, Month.JUNE, year);
             case TUVALU:
             case UNITED_KINGDOM:
-                return getSecond(DayOfWeek.SATURDAY, Month.JUNE, year);
+                return EventDate.getSecond(DayOfWeek.SATURDAY, Month.JUNE, year);
         }
         return null;
     }

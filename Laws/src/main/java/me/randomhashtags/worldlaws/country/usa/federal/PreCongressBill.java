@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.Chamber;
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.country.usa.USChamber;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 
 public final class PreCongressBill {
     private final USChamber chamber;
@@ -36,5 +37,16 @@ public final class PreCongressBill {
                 "\"title\":\"" + title + "\"," +
                 "\"committees\":\"" + committees + "\"" +
                 "}";
+    }
+
+    public JSONObjectTranslatable toJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("title");
+        if(notes != null) {
+            json.put("notes", notes);
+            json.addTranslatedKey("notes");
+        }
+        json.put("title", title);
+        json.put("committees", committees);
+        return json;
     }
 }

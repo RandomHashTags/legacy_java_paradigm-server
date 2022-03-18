@@ -52,10 +52,6 @@ public interface Jsoupable {
         }
     }
 
-    default String removeReferences(String string) {
-        return LocalServer.removeWikipediaReferences(string);
-    }
-
     default Document getDocument(String url) {
         return getDocument(Folder.OTHER, url, false);
     }

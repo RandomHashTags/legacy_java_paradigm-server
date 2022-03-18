@@ -7,11 +7,11 @@ import me.randomhashtags.worldlaws.observances.type.ChristianHoliday;
 import java.time.DayOfWeek;
 import java.time.Month;
 
-public enum FathersDay implements CustomIHoliday {
+public enum FathersDay implements CustomHoliday {
     INSTANCE;
 
     @Override
-    public String getOfficialName() {
+    public String getWikipediaName() {
         return "Father's Day";
     }
 
@@ -103,7 +103,7 @@ public enum FathersDay implements CustomIHoliday {
             case VIETNAM:
             case ZAMBIA:
             case ZIMBABWE:
-                return getThird(DayOfWeek.SUNDAY, Month.JUNE, year);
+                return EventDate.getThird(DayOfWeek.SUNDAY, Month.JUNE, year);
             case ANDORRA:
             case ANGOLA:
             case BOLIVIA:
@@ -119,13 +119,13 @@ public enum FathersDay implements CustomIHoliday {
             case FIJI:
             case NEW_ZEALAND:
             case PAPUA_NEW_GUINEA:
-                return getFirst(DayOfWeek.SUNDAY, Month.SEPTEMBER, year);
+                return EventDate.getFirst(DayOfWeek.SUNDAY, Month.SEPTEMBER, year);
             case AUSTRIA:
             case BELGIUM:
-                return getSecond(DayOfWeek.SUNDAY, Month.JUNE, year);
+                return EventDate.getSecond(DayOfWeek.SUNDAY, Month.JUNE, year);
             case BRAZIL:
             case SAMOA:
-                return getSecond(DayOfWeek.SUNDAY, Month.AUGUST, year);
+                return EventDate.getSecond(DayOfWeek.SUNDAY, Month.AUGUST, year);
             case BULGARIA:
                 return new EventDate(Month.DECEMBER, 26, year);
             case DENMARK:
@@ -142,26 +142,26 @@ public enum FathersDay implements CustomIHoliday {
             case ICELAND:
             case NORWAY:
             case SWEDEN:
-                return getSecond(DayOfWeek.SUNDAY, Month.NOVEMBER, year);
+                return EventDate.getSecond(DayOfWeek.SUNDAY, Month.NOVEMBER, year);
             case GERMANY: return ChristianHoliday.FEAST_OF_THE_ASCENSION.getDate(country, year);
             case HAITI:
-                return getLast(DayOfWeek.SUNDAY, Month.JUNE, year);
+                return EventDate.getLast(DayOfWeek.SUNDAY, Month.JUNE, year);
             case INDONESIA:
                 return new EventDate(Month.NOVEMBER, 12, year);
-            case LATVIA: return getSecond(DayOfWeek.SUNDAY, Month.SEPTEMBER, year);
+            case LATVIA: return EventDate.getSecond(DayOfWeek.SUNDAY, Month.SEPTEMBER, year);
             case LITHUANIA:
             case SWITZERLAND:
-                return getFirst(DayOfWeek.SUNDAY, Month.JUNE, year);
-            case LUXEMBOURG: return getFirst(DayOfWeek.SUNDAY, Month.OCTOBER, year);
+                return EventDate.getFirst(DayOfWeek.SUNDAY, Month.JUNE, year);
+            case LUXEMBOURG: return EventDate.getFirst(DayOfWeek.SUNDAY, Month.OCTOBER, year);
             case NICARAGUA:
             case POLAND:
                 return new EventDate(Month.JUNE, 23, year);
-            case ROMANIA: return getSecond(DayOfWeek.SUNDAY, Month.MAY, year);
+            case ROMANIA: return EventDate.getSecond(DayOfWeek.SUNDAY, Month.MAY, year);
             case SEYCHELLES: return new EventDate(Month.JUNE, 16, year);
-            case SOUTH_SUDAN: return getLast(DayOfWeek.MONDAY, Month.AUGUST, year);
+            case SOUTH_SUDAN: return EventDate.getLast(DayOfWeek.MONDAY, Month.AUGUST, year);
             case TAIWAN: return new EventDate(Month.AUGUST, 8, year);
             case THAILAND: return new EventDate(Month.DECEMBER, 5, year);
-            case TONGA: return getThird(DayOfWeek.SUNDAY, Month.MAY, year);
+            case TONGA: return EventDate.getThird(DayOfWeek.SUNDAY, Month.MAY, year);
         }
         return null;
     }

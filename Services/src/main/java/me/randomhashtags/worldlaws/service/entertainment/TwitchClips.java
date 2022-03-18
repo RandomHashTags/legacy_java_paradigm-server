@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.WLUtilities;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.service.RefreshableService;
 import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
@@ -20,7 +21,7 @@ public enum TwitchClips implements RefreshableService {
 
     // TODO: Have to migrate to https://dev.twitch.tv/docs/api/reference#get-clips due to deprecation and shutdown of v5 Twitch API (kraken)
 
-    private final HashMap<String, String> types, ids;
+    private final HashMap<String, JSONObjectTranslatable> types, ids;
     private final List<String> clipTypes;
     private final String thumbnailURLPrefix;
 
@@ -31,7 +32,7 @@ public enum TwitchClips implements RefreshableService {
         thumbnailURLPrefix = "https://clips-media-assets.twitch.tv/";
     }
 
-    public String getResponse(String target) {
+    public JSONObjectTranslatable getResponse(String target) {
         final String[] values = target.split("/");
         switch (values[0]) {
             case "id":
@@ -48,9 +49,9 @@ public enum TwitchClips implements RefreshableService {
     }
 
     @Override
-    public String refresh() {
+    public JSONObjectTranslatable refresh() {
         final long started = System.currentTimeMillis();
-        final String string = refreshKraken();
+        final JSONObjectTranslatable string = refreshKraken();
         WLLogger.logInfo("TwitchClips - refreshed (took " + WLUtilities.getElapsedTime(started) + ")");
         return string;
     }
@@ -70,7 +71,7 @@ public enum TwitchClips implements RefreshableService {
         );
     }
 
-    private String refreshKraken() {
+    private JSONObjectTranslatable refreshKraken() {
         types.clear();
         final String clientID = Settings.PrivateValues.Twitch.getClientID();
         final LinkedHashMap<String, String> headers = new LinkedHashMap<>() {{
@@ -82,21 +83,20 @@ public enum TwitchClips implements RefreshableService {
         query.put("trending", "true");
         final JSONObject clipsJSON = new JSONObject();
         new CompletableFutures<String>().stream(clipTypes, type -> {
-            final JSONObject typeJSON = refreshKraken(headers, query, type);
+            final JSONObjectTranslatable typeJSON = refreshKraken(headers, query, type);
             if(typeJSON != null) {
                 clipsJSON.put(type, typeJSON);
-                types.put(type, typeJSON.toString());
+                types.put(type, typeJSON);
             }
         });
-        final JSONObject json = new JSONObject();
+        final JSONObjectTranslatable json = new JSONObjectTranslatable();
         json.put("clips", clipsJSON);
         json.put("thumbnailURLPrefix", thumbnailURLPrefix);
 
-        final String string = json.toString();
-        types.put("getAll", string);
-        return string;
+        types.put("getAll", json);
+        return json;
     }
-    private JSONObject refreshKraken(LinkedHashMap<String, String> headers, LinkedHashMap<String, String> query, String type) {
+    private JSONObjectTranslatable refreshKraken(LinkedHashMap<String, String> headers, LinkedHashMap<String, String> query, String type) {
         final String url = "https://api.twitch.tv/kraken/clips/top";
         query.put("period", type);
         final JSONObject json = requestJSONObject(url, headers, query);
@@ -104,7 +104,7 @@ public enum TwitchClips implements RefreshableService {
         if(json != null) {
             final JSONArray clipsArray = json.getJSONArray("clips");
             final JSONObject clips = new JSONObject();
-            new CompletableFutures<JSONObject>().stream(clipsArray.spliterator(), clipJSON -> {
+            new CompletableFutures<JSONObject>().stream(clipsArray, clipJSON -> {
                 final String slug = clipJSON.getString("slug");
 
                 final String clipURL = clipJSON.getString("url"), embedHTML = clipJSON.getString("embed_html");
@@ -123,14 +123,14 @@ public enum TwitchClips implements RefreshableService {
 
                 final Clip clip = new Clip(title, broadcaster, game, thumbnail, viewCount, duration, embedHTML, sources);
                 clips.put(slug, clip.toPreJSONObject());
-                ids.put(slug, clip.toString());
+                ids.put(slug, clip.toJSONObject());
             });
             clipsJSON = clips;
         }
-        return clipsJSON;
+        return JSONObjectTranslatable.copy(clipsJSON);
     }
 
-    private String getClip(String id) {
+    private JSONObjectTranslatable getClip(String id) {
         return ids.get(id);
     }
 }

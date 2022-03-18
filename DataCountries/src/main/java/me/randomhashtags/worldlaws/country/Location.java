@@ -5,6 +5,9 @@ import org.json.JSONArray;
 public final class Location {
     private final double longitude, latitude;
 
+    public Location(JSONArray array) {
+        this(array.getDouble(0), array.getDouble(1));
+    }
     public Location(double latitude, double longitude) {
         this.latitude = latitude;
         this.longitude = longitude;

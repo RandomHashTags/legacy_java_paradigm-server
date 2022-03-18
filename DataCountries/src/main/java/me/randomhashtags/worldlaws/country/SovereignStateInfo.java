@@ -93,8 +93,6 @@ public enum SovereignStateInfo {
     AVAILABILITY_YOUTUBE_PREMIUM("YouTube Premium"),
     AVAILABILITY_YOUTUBE_TV("YouTube TV"),
 
-    GOVERNMENT_TYPE,
-
     INFO_AGE_STRUCTURE("Age Structure"),
     INFO_BLOOD_TYPE_DISTRIBUTION("Blood Type Distribution"),
     INFO_MEDIAN_AGE("Estimated Median Age"),
@@ -119,8 +117,10 @@ public enum SovereignStateInfo {
     LEGALITY_PROSTITUTION("Prostitution"),
     LEGALITY_SMOKING_AGE("Smoking"),
 
+    NATIONAL_ANIMALS("National Animals"),
     NATIONAL_ANTHEM("National Anthem"),
     NATIONAL_CAPITAL("National Capital"),
+    NATIONAL_TREES("National Trees"),
 
     RANKING_ADULT_HIV_PREVALENCE("Adult HIV Prevalence"),
     RANKING_CANNABIS_USE("Cannabis Use"),
@@ -164,6 +164,7 @@ public enum SovereignStateInfo {
     SERVICE_TRAVEL_ADVISORIES("Travel Advisories"),
     SERVICE_TRAVEL_BRIEFING("Travel Briefing"),
     SERVICE_WIKIPEDIA("Wikipedia"),
+    SERVICE_WIKIPEDIA_FEATURED_PICTURES("Wikipedia Featured Pictures"),
 
     SERVICE_YAHOO_FINANCE("Yahoo Finance"),
     SERVICE_TWELVE_DATA("Twelve Data"),
@@ -189,6 +190,9 @@ public enum SovereignStateInfo {
         this.title = title;
     }
 
+    public String getID() {
+        return name().toLowerCase();
+    }
     public String getTitle() {
         return title;
     }

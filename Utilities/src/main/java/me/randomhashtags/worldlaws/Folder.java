@@ -45,7 +45,7 @@ public enum Folder {
     UPDATES_FILES("_updates" + File.separator + "files"),
 
     UPCOMING_EVENTS("upcoming events"),
-    UPCOMING_EVENTS_IDS("upcoming events" + File.separator + "%year%" + File.separator + "%month%" + File.separator + "%day%" + File.separator + "ids" + File.separator + "%type%"),
+    UPCOMING_EVENTS_IDS("upcoming events" + File.separator + "%year%" + File.separator + "%month%" + File.separator + "%day%" + File.separator + "%type%"),
     UPCOMING_EVENTS_HOLIDAYS("upcoming events" + File.separator + "holidays" + File.separator + "%year%"),
     UPCOMING_EVENTS_HOLIDAYS_COUNTRIES("upcoming events" + File.separator + "holidays" + File.separator + "%year%" + File.separator + "countries"),
     UPCOMING_EVENTS_HOLIDAYS_DESCRIPTIONS("upcoming events" + File.separator + "holidays" + File.separator + "descriptions" + File.separator + "%type%"),

@@ -2,7 +2,7 @@ package me.randomhashtags.worldlaws.service.entertainment;
 
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.LocalServer;
-import org.json.JSONObject;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 
 public final class Clip {
     private final String title, game, thumbnail, embedHTML;
@@ -26,14 +26,14 @@ public final class Clip {
     public String toString() {
         return toJSONObject().toString();
     }
-    public JSONObject toJSONObject() {
-        final JSONObject json = new JSONObject();
+    public JSONObjectTranslatable toJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable();
         json.put("embedHTML", embedHTML);
         json.put("sources", sources.toJSONObject());
         return json;
     }
-    public JSONObject toPreJSONObject() {
-        final JSONObject json = new JSONObject();
+    public JSONObjectTranslatable toPreJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable();
         json.put("title", title);
         json.put("broadcaster", broadcaster);
         json.put("game", game);

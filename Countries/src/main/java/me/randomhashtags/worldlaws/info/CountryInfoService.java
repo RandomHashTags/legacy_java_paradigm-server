@@ -4,10 +4,10 @@ import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
-import me.randomhashtags.worldlaws.service.CountryService;
+import me.randomhashtags.worldlaws.service.NewCountryService;
 import org.jsoup.select.Elements;
 
-public interface CountryInfoService extends CountryService {
+public interface CountryInfoService extends NewCountryService {
     String getURL();
     int getYearOfData();
     default EventSources getSources() {

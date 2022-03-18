@@ -4,14 +4,15 @@ import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.observances.Holiday;
 import me.randomhashtags.worldlaws.observances.HolidaySource;
-import me.randomhashtags.worldlaws.observances.IHoliday;
+import me.randomhashtags.worldlaws.observances.HolidayType;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;
 import java.time.Month;
 
-public enum FunHoliday implements IHoliday { // https://www.timeanddate.com/holidays/fun/
+public enum FunHoliday implements Holiday { // https://www.timeanddate.com/holidays/fun/
     BOOK_LOVERS_DAY,
     DARWIN_DAY,
     FIBONACCI_DAY,
@@ -45,12 +46,12 @@ public enum FunHoliday implements IHoliday { // https://www.timeanddate.com/holi
     }
 
     @Override
-    public Enum<? extends IHoliday> getEnum() {
-        return this;
+    public HolidayType getType() {
+        return HolidayType.FUN;
     }
 
     @Override
-    public String getOfficialName() {
+    public String getWikipediaName() {
         return officialName;
     }
 
@@ -119,7 +120,7 @@ public enum FunHoliday implements IHoliday { // https://www.timeanddate.com/holi
             case BOOK_LOVERS_DAY: return new EventDate(Month.AUGUST, 9, year);
             case DARWIN_DAY: return new EventDate(Month.FEBRUARY, 12, year);
             case FIBONACCI_DAY: return new EventDate(Month.NOVEMBER, 23, year);
-            case INTERNATIONAL_BEER_DAY: return getFirst(DayOfWeek.FRIDAY, Month.AUGUST, year);
+            case INTERNATIONAL_BEER_DAY: return EventDate.getFirst(DayOfWeek.FRIDAY, Month.AUGUST, year);
             case INTERNATIONAL_DNA_DAY: return new EventDate(Month.APRIL, 25, year);
             case INTERNATIONAL_DOG_DAY: return new EventDate(Month.AUGUST, 26, year);
             case INTERNATIONAL_PROGRAMMERS_DAY:
@@ -148,7 +149,7 @@ public enum FunHoliday implements IHoliday { // https://www.timeanddate.com/holi
                         return null;
                 }
             case STAR_WARS_DAY: return new EventDate(Month.MAY, 4, year);
-            case UGLY_SWEATER_DAY: return getThird(DayOfWeek.FRIDAY, Month.DECEMBER, year);
+            case UGLY_SWEATER_DAY: return EventDate.getThird(DayOfWeek.FRIDAY, Month.DECEMBER, year);
             case WIKIPEDIA_DAY: return new EventDate(Month.JANUARY, 15, year);
             case WORLD_EMOJI_DAY: return new EventDate(Month.JULY, 17, year);
             case WORLD_LOGIC_DAY: return new EventDate(Month.JANUARY, 14, year);

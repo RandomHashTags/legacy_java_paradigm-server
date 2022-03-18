@@ -15,6 +15,9 @@ public abstract class LawUtilities {
         }
     }
     public static HashSet<Integer> getAdministrationVersions(WLCountry country) {
+        if(country == null) {
+            return null;
+        }
         switch (country) {
             case UNITED_STATES: return getUSAdministrationVersions();
             default: return null;

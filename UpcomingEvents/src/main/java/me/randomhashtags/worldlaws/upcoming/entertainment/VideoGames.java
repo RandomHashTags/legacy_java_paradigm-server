@@ -1,15 +1,15 @@
 package me.randomhashtags.worldlaws.upcoming.entertainment;
 
-import me.randomhashtags.worldlaws.EventSource;
-import me.randomhashtags.worldlaws.EventSources;
-import me.randomhashtags.worldlaws.PreUpcomingEvent;
-import me.randomhashtags.worldlaws.WLUtilities;
+import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
 import me.randomhashtags.worldlaws.upcoming.events.VideoGameEvent;
 import org.json.JSONArray;
+import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -128,7 +128,7 @@ public final class VideoGames extends UpcomingEventController {
                                     isFirst = false;
                                 }
 
-                                final HashMap<String, Object> customValues = new HashMap<>();
+                                final JSONObjectTranslatable customValues = new JSONObjectTranslatable("genres");
                                 customValues.put("genres", genres);
                                 final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, title, wikipediaURL, builder.toString(), null, customValues);
                                 putPreUpcomingEvent(id, preUpcomingEvent);
@@ -167,12 +167,11 @@ public final class VideoGames extends UpcomingEventController {
     }
 
     @Override
-    public String loadUpcomingEvent(String id) {
+    public UpcomingEvent loadUpcomingEvent(String id) {
         final PreUpcomingEvent preUpcomingEvent = getPreUpcomingEvent(id);
         final String url = preUpcomingEvent.getURL();
         final String title = preUpcomingEvent.getTitle(), platforms = preUpcomingEvent.getTag(), genres = (String) preUpcomingEvent.getCustomValue("genres");
         final Document wikidoc = getDocument(url);
-        String string = null;
         if(wikidoc != null) {
             final String wikipediaName = url.split("/wiki/")[1].replace("_", " ");
             final EventSource videoGameSource = new EventSource("Wikipedia: " + wikipediaName, url);
@@ -184,13 +183,16 @@ public final class VideoGames extends UpcomingEventController {
             final String coverArtURL = !images.isEmpty() ? "https:" + images.get(0).attr("src") : null;
             final Elements paragraphs = wikidoc.select("div.mw-parser-output p");
             paragraphs.removeIf(p -> p.className().equals("mw-empty-elt"));
-            final String desc = removeReferences(paragraphs.get(0).text());
+            final String desc = LocalServer.removeWikipediaReferences(paragraphs.get(0).text());
 
             final JSONArray array = getVideosJSONArray(YouTubeVideoType.VIDEO_GAME, title);
-            final VideoGameEvent event = new VideoGameEvent(title, desc, coverArtURL, platforms, genres, array, sources);
-            string = event.toString();
-            putUpcomingEvent(id, string);
+            return new VideoGameEvent(preUpcomingEvent.getEventDate(), title, desc, coverArtURL, platforms, genres, array, sources);
         }
-        return string;
+        return null;
+    }
+
+    @Override
+    public UpcomingEvent parseUpcomingEvent(JSONObject json) {
+        return new VideoGameEvent(json);
     }
 }

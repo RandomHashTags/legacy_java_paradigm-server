@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.country.usa.USLaws;
 import me.randomhashtags.worldlaws.country.usa.state.recode.Minnesota;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.server.ServerRequestTypeLaws;
 
@@ -31,7 +32,7 @@ public final class Laws implements WLServer {
 
     private void test() {
         final Minnesota minnesota = Minnesota.INSTANCE;
-        final String string = minnesota.getIndexes();
+        final JSONObjectTranslatable string = minnesota.getIndexes();
         WLLogger.logInfo("Laws;test;string=" + string);
     }
 
@@ -45,7 +46,7 @@ public final class Laws implements WLServer {
     }
 
     @Override
-    public String getServerResponse(APIVersion version, String identifier, ServerRequest request) {
+    public JSONObjectTranslatable getServerResponse(APIVersion version, String identifier, ServerRequest request) {
         final ServerRequestTypeLaws type = (ServerRequestTypeLaws) request.getType();
         final String target = request.getTarget();
         final String[] values = target.split("/");

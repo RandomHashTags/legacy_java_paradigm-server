@@ -1,9 +1,9 @@
 package me.randomhashtags.worldlaws.service.finance.stockmarket;
 
 import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.service.JSONDataValue;
 import me.randomhashtags.worldlaws.settings.Settings;
-import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -50,7 +50,7 @@ public enum YahooFinance implements StockService {
         });
     }
     @Override
-    public String getMovers(APIVersion version) {
+    public JSONObjectTranslatable getMovers(APIVersion version) {
         final JSONObject json = getMovers(version, 0);
         final JSONObject finance = json.getJSONObject("finance");
         final JSONArray results = finance.getJSONArray("result");
@@ -81,7 +81,7 @@ public enum YahooFinance implements StockService {
     }
 
     @Override
-    public String getQuotes(APIVersion version, HashSet<String> symbols) { // 50 symbols limit per request
+    public JSONObjectTranslatable getQuotes(APIVersion version, HashSet<String> symbols) { // 50 symbols limit per request
         final long started = System.currentTimeMillis();
         final LinkedHashMap<String, String> headers = getHeaders();
         final LinkedHashMap<String, String> query = new LinkedHashMap<>();
@@ -94,12 +94,13 @@ public enum YahooFinance implements StockService {
         }
         query.put("symbols", symbolBuilder.toString());
 
-        final HashSet<Stock> stocks = new HashSet<>();
         final JSONObject json = requestJSONObject("https://apidojo-yahoo-finance-v1.p.rapidapi.com/market/v2/get-quotes", headers, query);
         final JSONObject quoteResponse = json.getJSONObject("quoteResponse");
         final JSONArray results = quoteResponse.getJSONArray("result");
         final int max = results.length();
-        new CompletableFutures<JSONObject>().stream(results.spliterator(), targetQuote -> {
+        final JSONObjectTranslatable translatable = new JSONObjectTranslatable();
+        for(Object obj : results) {
+            final JSONObject targetQuote = (JSONObject) obj;
             final String symbol = targetQuote.getString("symbol");
             final String shortName = targetQuote.getString("shortName");
             final String longName = targetQuote.getString("longName");
@@ -126,23 +127,14 @@ public enum YahooFinance implements StockService {
             }
 
             final Stock symbolStock = new Stock(symbol, shortName, longName, regularMarket, postMarket);
-            stocks.add(symbolStock);
-        });
-
-        final StringBuilder builder = new StringBuilder("{");
-        boolean isFirst = true;
-        for(Stock stock : stocks) {
-            builder.append(isFirst ? "" : ",").append(stock.toString());
-            isFirst = false;
+            translatable.put(symbol, symbolStock.toJSONObject());
         }
-        builder.append("}");
-        final String string = builder.toString();
         WLLogger.logInfo("YahooFinance - loaded " + max + " quotes (took " + WLUtilities.getElapsedTime(started) + ")");
-        return string;
+        return translatable;
     }
 
     @Override
-    public String getChart(APIVersion version, String symbol) {
+    public JSONObjectTranslatable getChart(APIVersion version, String symbol) {
         final Folder folder = Folder.SERVICES_FINANCE_YAHOO_FINANCE_CHARTS;
         final JSONObject json = getJSONObject(folder, symbol, new CompletionHandler() {
             @Override
@@ -154,9 +146,9 @@ public enum YahooFinance implements StockService {
         if(elapsedTime >= 604_800) {
             final JSONObject chartJSON = requestChart(true, version, symbol);
             Jsonable.setFileJSONObject(folder, symbol, chartJSON);
-            return chartJSON.toString();
+            return JSONObjectTranslatable.copy(chartJSON);
         } else {
-            return json.toString();
+            return JSONObjectTranslatable.copy(json);
         }
     }
     private JSONObject requestChart(boolean refresh, APIVersion version, String symbol) {

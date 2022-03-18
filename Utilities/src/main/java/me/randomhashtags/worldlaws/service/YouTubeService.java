@@ -38,7 +38,7 @@ public interface YouTubeService extends RestAPI, Jsonable {
         final String alternateTitle2 = titleLowercase.replace(" – ", " ");
         final String alternateTitle3 = titleLowercase.replace(":", "").replace(" – ", " ");
 
-        new CompletableFutures<JSONObject>().stream(items.spliterator(), itemJSON -> {
+        new CompletableFutures<JSONObject>().stream(items, itemJSON -> {
             final JSONObject snippet = itemJSON.getJSONObject("snippet");
             final String uploader = snippet.getString("channelTitle");
             if(type.isLegitUploader(uploader)) {

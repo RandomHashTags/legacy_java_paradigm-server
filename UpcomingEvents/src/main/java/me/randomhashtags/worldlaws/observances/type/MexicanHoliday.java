@@ -2,11 +2,12 @@ package me.randomhashtags.worldlaws.observances.type;
 
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.country.WLCountry;
-import me.randomhashtags.worldlaws.observances.IHoliday;
+import me.randomhashtags.worldlaws.observances.Holiday;
+import me.randomhashtags.worldlaws.observances.HolidayType;
 
 import java.time.Month;
 
-public enum MexicanHoliday implements IHoliday { // https://en.wikipedia.org/wiki/Public_holidays_in_Mexico
+public enum MexicanHoliday implements Holiday { // https://en.wikipedia.org/wiki/Public_holidays_in_Mexico
 
     CINCO_DE_MAYO,
     CRY_OF_DOLORES,
@@ -25,12 +26,12 @@ public enum MexicanHoliday implements IHoliday { // https://en.wikipedia.org/wik
     }
 
     @Override
-    public Enum<? extends IHoliday> getEnum() {
-        return this;
+    public HolidayType getType() {
+        return HolidayType.MEXICAN;
     }
 
     @Override
-    public String getOfficialName() {
+    public String getWikipediaName() {
         return wikipediaName;
     }
 

@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.WLUtilities;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.notifications.RemoteNotificationCategory;
 import me.randomhashtags.worldlaws.recent.PreRecentEvent;
 import me.randomhashtags.worldlaws.recent.RecentEventController;
@@ -39,7 +40,7 @@ public final class AppleSoftwareUpdates extends RecentEventController {
                     put(" (Details available soon)", "Details available soon");
                     put(" This update has no published CVE entries.", "This update doesn't share its patch notes.");
                 }};
-                new CompletableFutures<Element>().stream(updateElements.spliterator(), updateElement -> {
+                new CompletableFutures<Element>().stream(updateElements, updateElement -> {
                     final Elements tds = updateElement.select("td");
                     final Element releaseDateElement = tds.get(2);
                     final String releaseDateString = releaseDateElement.text();
@@ -87,7 +88,7 @@ public final class AppleSoftwareUpdates extends RecentEventController {
                                         }
                                     }
 
-                                    final HashMap<String, Object> customValues = new HashMap<>();
+                                    final JSONObjectTranslatable customValues = new JSONObjectTranslatable();
                                     customValues.put("availableFor", tds.get(1).text());
 
                                     final EventDate date = new EventDate(localDate);

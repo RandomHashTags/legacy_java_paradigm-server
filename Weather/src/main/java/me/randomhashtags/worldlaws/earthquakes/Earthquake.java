@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws.earthquakes;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.country.Location;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 
 public final class Earthquake {
     private final String country, subdivision, cause, magnitude, place;
@@ -38,5 +39,26 @@ public final class Earthquake {
                 "\"location\":" + location.toString() + "," +
                 "\"sources\":" + sources.toString() +
                 "}";
+    }
+
+    public JSONObjectTranslatable toJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("place");
+        json.put("cause", cause);
+        json.put("magnitude", magnitude);
+        json.put("place", place);
+        if(country != null) {
+            json.put("country", country);
+        }
+        if(subdivision != null) {
+            json.put("subdivision", subdivision);
+        }
+        json.put("time", time);
+        json.put("lastUpdated", lastUpdated);
+        if(depthKM > 0.00) {
+            json.put("depthKM", depthKM);
+        }
+        json.put("location", location.toJSONArray());
+        json.put("sources", sources.toJSONObject());
+        return json;
     }
 }

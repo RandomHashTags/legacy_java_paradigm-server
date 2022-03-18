@@ -269,9 +269,11 @@ public enum UpcomingEventValue {
             values.put(UpcomingEventValueKey.CELL_TYPE, UpcomingEventValueCellType.LABEL);
         }
         for(UpcomingEventValueKey key : values.keySet()) {
-            final Object value = values.get(key);
-            final Object realValue = value instanceof Enum ? ((Enum<?>) value).name() : value;
-            json.put(key.getKey(), realValue);
+            if(key != UpcomingEventValueKey.KEY) {
+                final Object value = values.get(key);
+                final Object realValue = value instanceof Enum ? ((Enum<?>) value).name() : value;
+                json.put(key.getKey(), realValue);
+            }
         }
         return json;
     }

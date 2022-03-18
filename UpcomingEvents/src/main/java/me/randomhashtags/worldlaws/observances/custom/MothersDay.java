@@ -6,11 +6,11 @@ import me.randomhashtags.worldlaws.country.WLCountry;
 import java.time.DayOfWeek;
 import java.time.Month;
 
-public enum MothersDay implements CustomIHoliday {
+public enum MothersDay implements CustomHoliday {
     INSTANCE;
 
     @Override
-    public String getOfficialName() {
+    public String getWikipediaName() {
         return "Mother's Day";
     }
 
@@ -52,7 +52,7 @@ public enum MothersDay implements CustomIHoliday {
             case TAIWAN:
             case UKRAINE:
             case UNITED_STATES:
-                return getSecond(DayOfWeek.SUNDAY, Month.MAY, year);
+                return EventDate.getSecond(DayOfWeek.SUNDAY, Month.MAY, year);
             case MEXICO:
                 return new EventDate(Month.MAY, 10, year);
             case BELARUS: return new EventDate(Month.OCTOBER, 14, year);
@@ -74,16 +74,16 @@ public enum MothersDay implements CustomIHoliday {
             case MALDIVES: return new EventDate(Month.MAY, 13, year);
             case NICARAGUA: return new EventDate(Month.MAY, 30, year);
             case NORTH_KOREA: return new EventDate(Month.NOVEMBER, 16, year);
-            case NORWAY: return getSecond(DayOfWeek.SUNDAY, Month.FEBRUARY, year);
+            case NORWAY: return EventDate.getSecond(DayOfWeek.SUNDAY, Month.FEBRUARY, year);
             case PANAMA: return new EventDate(Month.DECEMBER, 8, year);
             case PORTUGAL:
             case ROMANIA:
             case SPAIN:
-                return getFirst(DayOfWeek.SUNDAY, Month.MAY, year);
+                return EventDate.getFirst(DayOfWeek.SUNDAY, Month.MAY, year);
             case RUSSIA:
             case TRANSNISTRIA:
-                return getLast(DayOfWeek.SUNDAY, Month.NOVEMBER, year);
-            case SOUTH_SUDAN: return getFirst(DayOfWeek.MONDAY, Month.JULY, year);
+                return EventDate.getLast(DayOfWeek.SUNDAY, Month.NOVEMBER, year);
+            case SOUTH_SUDAN: return EventDate.getFirst(DayOfWeek.MONDAY, Month.JULY, year);
             case THAILAND: return new EventDate(Month.AUGUST, 12, year);
         }
         return null;

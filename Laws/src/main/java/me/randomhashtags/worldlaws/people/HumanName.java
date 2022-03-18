@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.people;
 
 import me.randomhashtags.worldlaws.LocalServer;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import org.json.JSONObject;
 
 public final class HumanName {
@@ -27,11 +28,14 @@ public final class HumanName {
         return lastName;
     }
 
-    @Override
-    public String toString() {
-        return "{\"firstName\":\"" + firstName + "\"," +
-                (middleName != null ? "\"middleName\":\"" + middleName + "\"," : "") +
-                "\"lastName\":\"" + lastName + "\"" +
-                "}";
+    public JSONObjectTranslatable toJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("firstName", "lastName");
+        json.put("firstName", firstName);
+        if(middleName != null) {
+            json.put("middleName", middleName);
+            json.addTranslatedKey("middleName");
+        }
+        json.put("lastName", lastName);
+        return json;
     }
 }

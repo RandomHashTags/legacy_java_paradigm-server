@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws.country;
 import me.randomhashtags.worldlaws.APIVersion;
 import me.randomhashtags.worldlaws.Jsonable;
 import me.randomhashtags.worldlaws.Jsoupable;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import org.json.JSONArray;
 
 public interface SovereignState extends Jsoupable, Jsonable {
@@ -20,7 +21,7 @@ public interface SovereignState extends Jsoupable, Jsonable {
     default WLTimeZone[] collectTimeZones(WLTimeZone...timezones) {
         return timezones;
     }
-    String getInformation(APIVersion version);
+    JSONObjectTranslatable getInformation(APIVersion version);
 
     default JSONArray getTimeZonesJSONArray(WLTimeZone...timezones) {
         final JSONArray array = new JSONArray();

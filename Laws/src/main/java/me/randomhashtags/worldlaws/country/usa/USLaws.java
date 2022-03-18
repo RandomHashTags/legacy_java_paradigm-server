@@ -13,6 +13,7 @@ import me.randomhashtags.worldlaws.country.usa.state.unfinished.Connecticut;
 import me.randomhashtags.worldlaws.country.usa.state.unfinished.Indiana;
 import me.randomhashtags.worldlaws.country.usa.state.unfinished.NorthCarolina;
 import me.randomhashtags.worldlaws.country.usa.state.unfinished.Oregon;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.recode.TestLawSubdivisionController;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 
@@ -41,7 +42,7 @@ public final class USLaws extends LawController {
     }
 
     @Override
-    public String refreshRecentActivity(APIVersion version) {
+    public JSONObjectTranslatable refreshRecentActivity(APIVersion version) {
         final LocalDate startingDate = LocalDate.now().minusDays(30);
         final USCongress congress = USCongress.getCongress(getCurrentAdministrationVersion());
         final USBillStatus[] statuses = new USBillStatus[] {
@@ -60,32 +61,30 @@ public final class USLaws extends LawController {
             }
         });
 
-        String string = null;
+        JSONObjectTranslatable json = null;
         if(!values.isEmpty()) {
-            final StringBuilder builder = new StringBuilder("{");
-            builder.append("\"statuses\":{");
-            boolean isFirstBillStatus = true;
+            json = new JSONObjectTranslatable("statuses");
+
+            final JSONObjectTranslatable statusesJSON = new JSONObjectTranslatable();
             for(BillStatus status : getBillStatuses()) {
-                builder.append(isFirstBillStatus ? "" : ",").append(status.toJSON());
-                isFirstBillStatus = false;
+                final String id = status.getID();
+                statusesJSON.put(id, status.toJSONObject());
+                statusesJSON.addTranslatedKey(id);
             }
-            builder.append("},");
-            boolean isFirstStatus = true;
+            json.put("statuses", statusesJSON);
+
             for(Map.Entry<USBillStatus, HashSet<PreCongressBill>> map : values.entrySet()) {
                 final USBillStatus status = map.getKey();
-                builder.append(isFirstStatus ? "" : ",").append("\"").append(status.getName()).append("\":");
-                final String json = USCongress.getPreCongressBillsJSON(map.getValue());
-                builder.append(json);
-                isFirstStatus = false;
+                final String key = status.getName();
+                final JSONObjectTranslatable activity = USCongress.getPreCongressBillsJSON(map.getValue());
+                json.put(key, activity);
             }
-            builder.append("}");
-            string = builder.toString();
         }
-        return string;
+        return json;
     }
 
     @Override
-    public String getResponse(APIVersion version, String input) {
+    public JSONObjectTranslatable getResponse(APIVersion version, String input) {
         final String[] values = input.replace("?", "").split("/");
         final String key = values[0];
         switch (key) {
@@ -107,7 +106,7 @@ public final class USLaws extends LawController {
     }
 
     @Override
-    public String getGovernmentResponse(APIVersion version, int administration, String input) {
+    public JSONObjectTranslatable getGovernmentResponse(APIVersion version, int administration, String input) {
         final String[] values = input.split("/");
         final String key = values[0];
         final USCongress congress = USCongress.getCongress(administration);
@@ -124,7 +123,7 @@ public final class USLaws extends LawController {
         }
     }
 
-    private String handleSubdivisionResponse(SubdivisionsUnitedStates usstate, String[] values) {
+    private JSONObjectTranslatable handleSubdivisionResponse(SubdivisionsUnitedStates usstate, String[] values) {
         final TestLawSubdivisionController controller = getSubdivisionFrom(usstate);
         if(controller != null) {
             final int length = values.length;
@@ -151,7 +150,7 @@ public final class USLaws extends LawController {
             return getSubdivisionResponse(usstate, values);
         }
     }
-    private String getSubdivisionResponse(SubdivisionsUnitedStates usstate, String[] values) {
+    private JSONObjectTranslatable getSubdivisionResponse(SubdivisionsUnitedStates usstate, String[] values) {
         final LawSubdivisionController state = getStateFrom(usstate);
         if(state != null) {
             final int length = values.length;

@@ -1,6 +1,9 @@
 package me.randomhashtags.worldlaws.upcoming.entertainment.movies;
 
-import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.EventSource;
+import me.randomhashtags.worldlaws.EventSources;
+import me.randomhashtags.worldlaws.LocalServer;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.service.WikipediaDocument;
 import me.randomhashtags.worldlaws.settings.ResponseVersions;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
@@ -239,7 +242,10 @@ public enum MovieProductionCompanies {
 
     ;
 
-    public static String getTypesJSON() {
+    public static JSONObjectTranslatable getTypesJSON() {
+        return null;
+
+        /*
         JSONObject json = Jsonable.getStaticJSONObject(Folder.UPCOMING_EVENTS_MOVIES, "productionCompanies", new CompletionHandler() {
             @Override
             public JSONObject loadJSONObject() {
@@ -251,7 +257,7 @@ public enum MovieProductionCompanies {
         if(previousVersion < responseVersion) {
             json = loadJSON();
         }
-        return json.toString();
+        return json.toString();*/ // TODO: fix this
     }
     private static JSONObject loadJSON() {
         final MovieProductionCompanies[] companies = values();

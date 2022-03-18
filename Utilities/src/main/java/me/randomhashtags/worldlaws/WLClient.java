@@ -1,5 +1,8 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.locale.Language;
+import me.randomhashtags.worldlaws.locale.LanguageTranslator;
+
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.Reader;
@@ -8,7 +11,9 @@ import java.net.SocketException;
 
 public final class WLClient {
     private final Socket httpClient;
-    private String headers, target;
+    private String target, identifier, platform;
+    private Language language;
+    private LanguageTranslator languageType;
 
     public WLClient(Socket client) {
         httpClient = client;
@@ -18,28 +23,20 @@ public final class WLClient {
     public Socket getClient() {
         return httpClient;
     }
-    public String getHeaders() {
-        return headers;
-    }
     public String getIdentifier() {
-        return getFirstHeaderThatStartsWith("***REMOVED***");
+        return identifier;
     }
     public String getPlatform() {
-        return getFirstHeaderThatStartsWith("***REMOVED***");
-    }
-    private String getFirstHeaderThatStartsWith(String key) {
-        for(String string : getHeaderList()) {
-            if(string.startsWith(key)) {
-                return string.substring(key.length());
-            }
-        }
-        return "null";
-    }
-    public String[] getHeaderList() {
-        return headers.replaceAll("\r", "").split("\n");
+        return platform;
     }
     public String getTarget() {
         return target;
+    }
+    public Language getLanguage() {
+        return language;
+    }
+    public LanguageTranslator getLanguageType() {
+        return languageType;
     }
 
     public void sendResponse(@NotNull String response) {
@@ -48,34 +45,58 @@ public final class WLClient {
     }
 
     private void setupHeaders(@NotNull Socket client) {
-        if(headers == null) {
+        try {
+            final InputStream input = client.getInputStream();
+            final Reader reader = new InputStreamReader(input);
+            String headers = "";
             try {
-                final InputStream input = client.getInputStream();
-                final Reader reader = new InputStreamReader(input);
-                String headers = "";
-                try {
-                    int c;
-                    while ((c = reader.read()) != -1) {
-                        headers += (char) c;
-                        if (headers.contains("\r\n\r\n")) {
-                            break;
-                        }
+                int c;
+                while ((c = reader.read()) != -1) {
+                    headers += (char) c;
+                    if (headers.contains("\r\n\r\n")) {
+                        break;
                     }
-                } catch (SocketException ignored) {
-                } catch (Exception e) {
-                    WLUtilities.saveException(e);
                 }
-                this.headers = headers;
-                setupTarget();
+            } catch (SocketException ignored) {
             } catch (Exception e) {
                 WLUtilities.saveException(e);
             }
+            loadHeaderData(headers.replaceAll("\r", "").split("\n"));
+        } catch (Exception e) {
+            WLUtilities.saveException(e);
         }
     }
-    private void setupTarget() {
+    private void loadHeaderData(String[] headers) {
+        identifier = getFirstHeaderThatStartsWith(headers, "***REMOVED***");
+        platform = getFirstHeaderThatStartsWith(headers, "***REMOVED***");
+        final String targetLanguage = getFirstHeaderThatStartsWith(headers, "***REMOVED***");
+        if(!targetLanguage.equals("null")) {
+            language = Language.valueOfString(targetLanguage);
+        }
+        if(language == null) {
+            language = Language.ENGLISH;
+        }
+        final String targetLanguageType = getFirstHeaderThatStartsWith(headers, "***REMOVED***");
+        if(!targetLanguageType.equals("null")) {
+            languageType = LanguageTranslator.valueOfString(targetLanguageType);
+        }
+        if(languageType == null) {
+            languageType = LanguageTranslator.ARGOS;
+        }
+        setupTarget(headers);
+    }
+    private String getFirstHeaderThatStartsWith(String[] headers, String key) {
+        for(String string : headers) {
+            if(string.startsWith(key)) {
+                return string.substring(key.length());
+            }
+        }
+        return "null";
+    }
+    private void setupTarget(String[] headers) {
         if(target == null) {
             final String httpVersion = DataValues.HTTP_VERSION;
-            for(String string : getHeaderList()) {
+            for(String string : headers) {
                 if(string.endsWith(httpVersion)) {
                     if(string.startsWith("POST")) {
                         target = string.split("POST ")[1].split(" " + httpVersion)[0].replaceFirst("/", "");

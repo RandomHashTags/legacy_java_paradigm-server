@@ -2,11 +2,14 @@ package me.randomhashtags.worldlaws.upcoming.entertainment;
 
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSources;
+import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.service.WikipediaDocument;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.ProWrestlingEvent;
+import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
+import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -77,7 +80,7 @@ public final class ProfessionalWrestling extends LoadedUpcomingEventController {
                             final String imageURL = !images.isEmpty() ? images.get(0) : null;
                             final String description = eventDoc.getDescription();
 
-                            final String title = removeReferences(eventElement.text());
+                            final String title = LocalServer.removeWikipediaReferences(eventElement.text());
                             final String identifier = getEventDateIdentifier(dateString, title);
 
                             final String location;
@@ -97,14 +100,19 @@ public final class ProfessionalWrestling extends LoadedUpcomingEventController {
                             }
 
                             final EventSources sources = new EventSources(eventDoc.getEventSource());
-                            final ProWrestlingEvent event = new ProWrestlingEvent(title, description, imageURL, location, mainEvent, notes, sources);
+                            final ProWrestlingEvent event = new ProWrestlingEvent(eventDate, title, description, imageURL, location, mainEvent, notes, sources);
                             putLoadedPreUpcomingEvent(identifier, event.toPreUpcomingEventJSON(type, identifier, location));
-                            putUpcomingEvent(identifier, event.toString());
+                            putUpcomingEvent(identifier, event);
                         }
                     }
                 }
             }
         }
+    }
+
+    @Override
+    public UpcomingEvent parseUpcomingEvent(JSONObject json) {
+        return new ProWrestlingEvent(json);
     }
 
     private HashSet<String> getPromoters() {

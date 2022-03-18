@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.notifications.RemoteNotification;
 import me.randomhashtags.worldlaws.notifications.RemoteNotificationCategory;
 import me.randomhashtags.worldlaws.recent.PreRecentEvent;
@@ -27,10 +28,10 @@ public enum RecentEvents {
             new VideoGameUpdates()
     };
 
-    public String refresh(int daysOffset) {
+    public JSONObjectTranslatable refresh(int daysOffset) {
         final long started = System.currentTimeMillis();
         final LocalDate lastWeek = LocalDate.now().minusDays(daysOffset);
-        final ConcurrentHashMap<RecentEventType, ConcurrentHashMap<String, HashSet<String>>> allValues = new ConcurrentHashMap<>();
+        final ConcurrentHashMap<RecentEventType, ConcurrentHashMap<String, HashSet<PreRecentEvent>>> allValues = new ConcurrentHashMap<>();
         new CompletableFutures<RecentEventController>().stream(Arrays.asList(events), controller -> {
             final HashSet<PreRecentEvent> preRecentEvents = controller.refreshHashSet(lastWeek);
             final HashSet<PreRecentEvent> newEvents = controller.getNewInformation(preRecentEvents);
@@ -47,10 +48,10 @@ public enum RecentEvents {
                 for(PreRecentEvent recentEvent : preRecentEvents) {
                     final String dateString = recentEvent.getDate().getDateString();
                     allValues.get(type).putIfAbsent(dateString, new HashSet<>());
-                    allValues.get(type).get(dateString).add(recentEvent.toString());
+                    allValues.get(type).get(dateString).add(recentEvent);
                 }
             }
-            final ConcurrentHashMap<String, HashSet<String>> hashmap = controller.refreshHashMap(lastWeek);
+            final ConcurrentHashMap<String, HashSet<PreRecentEvent>> hashmap = controller.refreshHashMap(lastWeek);
             if(hashmap != null && !hashmap.isEmpty()) {
                 final RecentEventType type = controller.getType();
                 allValues.putIfAbsent(type, new ConcurrentHashMap<>());
@@ -59,36 +60,30 @@ public enum RecentEvents {
         });
         return completeHandler(started, allValues);
     }
-    private String completeHandler(long started, ConcurrentHashMap<RecentEventType, ConcurrentHashMap<String, HashSet<String>>> values) {
-        String value = null;
+    private JSONObjectTranslatable completeHandler(long started, ConcurrentHashMap<RecentEventType, ConcurrentHashMap<String, HashSet<PreRecentEvent>>> values) {
+        JSONObjectTranslatable json = null;
         if(!values.isEmpty()) {
-            final StringBuilder builder = new StringBuilder("{");
-            boolean isFirstType = true;
-            for(Map.Entry<RecentEventType, ConcurrentHashMap<String, HashSet<String>>> map : values.entrySet()) {
+            json = new JSONObjectTranslatable();
+            for(Map.Entry<RecentEventType, ConcurrentHashMap<String, HashSet<PreRecentEvent>>> map : values.entrySet()) {
                 final RecentEventType type = map.getKey();
-                builder.append(isFirstType ? "" : ",").append("\"").append(type.name().toLowerCase()).append("\":{");
-                isFirstType = false;
-
-                boolean isFirstDateString = true;
-                final ConcurrentHashMap<String, HashSet<String>> dateMap = map.getValue();
-                for(Map.Entry<String, HashSet<String>> dates : dateMap.entrySet()) {
+                final String typeID = type.name().toLowerCase();
+                final JSONObjectTranslatable typeJSON = new JSONObjectTranslatable();
+                for(Map.Entry<String, HashSet<PreRecentEvent>> dates : map.getValue().entrySet()) {
                     final String dateString = dates.getKey();
-                    builder.append(isFirstDateString ? "" : ",").append("\"").append(dateString).append("\":{");
-                    isFirstDateString = false;
-                    final HashSet<String> set = dates.getValue();
-                    boolean isFirst = true;
-                    for(String s : set) {
-                        builder.append(isFirst ? "" : ",").append(s);
-                        isFirst = false;
+                    final JSONObjectTranslatable valuesJSON = new JSONObjectTranslatable();
+                    for(PreRecentEvent event : dates.getValue()) {
+                        final String identifier = event.getIdentifier();
+                        valuesJSON.put(identifier, event.toJSONObject());
+                        valuesJSON.addTranslatedKey(identifier);
                     }
-                    builder.append("}");
+                    typeJSON.put(dateString, valuesJSON);
+                    typeJSON.addTranslatedKey(dateString);
                 }
-                builder.append("}");
+                json.put(typeID, typeJSON);
+                json.addTranslatedKey(typeID);
             }
-            builder.append("}");
-            value = builder.toString();
         }
         WLLogger.logInfo("RecentEvents - loaded (took " + WLUtilities.getElapsedTime (started) + ")");
-        return value;
+        return json;
     }
 }

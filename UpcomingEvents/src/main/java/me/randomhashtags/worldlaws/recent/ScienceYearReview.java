@@ -9,6 +9,7 @@ import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.nodes.Element;
@@ -55,9 +56,14 @@ public final class ScienceYearReview extends LoadedUpcomingEventController {
                 }
             }
             final String string = json.toString(), realString = string.substring(1, string.length()-1);
-            putLoadedPreUpcomingEvent(identifier, realString);
+            //putLoadedPreUpcomingEvent(identifier, realString); // TODO: fix this
             //putUpcomingEvent(identifier, realString);
         }
+    }
+
+    @Override
+    public UpcomingEvent parseUpcomingEvent(JSONObject json) {
+        return null;
     }
 
     private JSONObject getTodayEventsFromThePastJSON(LocalDate...dates) {
@@ -121,7 +127,4 @@ public final class ScienceYearReview extends LoadedUpcomingEventController {
         }
         return json;
     }
-
-
-
 }

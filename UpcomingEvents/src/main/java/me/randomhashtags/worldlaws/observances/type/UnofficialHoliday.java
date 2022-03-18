@@ -2,14 +2,15 @@ package me.randomhashtags.worldlaws.observances.type;
 
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.observances.Holiday;
 import me.randomhashtags.worldlaws.observances.HolidaySource;
-import me.randomhashtags.worldlaws.observances.IHoliday;
+import me.randomhashtags.worldlaws.observances.HolidayType;
 import me.randomhashtags.worldlaws.observances.custom.NationalDonutDay;
 
 import java.time.DayOfWeek;
 import java.time.Month;
 
-public enum UnofficialHoliday implements IHoliday {
+public enum UnofficialHoliday implements Holiday {
     // https://en.wikipedia.org/wiki/Category:International_observances
     // https://en.wikipedia.org/wiki/List_of_minor_secular_observances
 
@@ -46,12 +47,12 @@ public enum UnofficialHoliday implements IHoliday {
     }
 
     @Override
-    public Enum<? extends IHoliday> getEnum() {
-        return this;
+    public HolidayType getType() {
+        return HolidayType.UNOFFICIAL;
     }
 
     @Override
-    public String getOfficialName() {
+    public String getWikipediaName() {
         return wikipediaName;
     }
 
@@ -87,8 +88,8 @@ public enum UnofficialHoliday implements IHoliday {
                     return null;
                 }
             case NATIONAL_DONUT_DAY: return NationalDonutDay.INSTANCE.getDate(country, year);
-            case NATIONAL_HONEY_BEE_DAY: return country == WLCountry.UNITED_STATES ? getThird(DayOfWeek.SATURDAY, Month.AUGUST, year) : null;
-            case NATIONAL_INTERN_DAY: return country == WLCountry.UNITED_STATES ? getLast(DayOfWeek.THURSDAY, Month.JULY, year) : null;
+            case NATIONAL_HONEY_BEE_DAY: return country == WLCountry.UNITED_STATES ? EventDate.getThird(DayOfWeek.SATURDAY, Month.AUGUST, year) : null;
+            case NATIONAL_INTERN_DAY: return country == WLCountry.UNITED_STATES ? EventDate.getLast(DayOfWeek.THURSDAY, Month.JULY, year) : null;
             case NATIONAL_NUDE_DAY: return new EventDate(Month.JULY, 14, year);
             case NATIONAL_PUZZLE_DAY: return country == WLCountry.UNITED_STATES ? new EventDate(Month.JANUARY, 29, year) : null;
             case NATIONAL_SHOWER_WITH_A_FRIEND_DAY: return country == WLCountry.UNITED_STATES ? new EventDate(Month.FEBRUARY, 5, year) : null;
@@ -98,7 +99,7 @@ public enum UnofficialHoliday implements IHoliday {
                     switch (country) {
                         case CANADA:
                         case UNITED_STATES:
-                            return getThird(DayOfWeek.THURSDAY, Month.OCTOBER, year);
+                            return EventDate.getThird(DayOfWeek.THURSDAY, Month.OCTOBER, year);
                         default:
                             return null;
                     }
@@ -121,9 +122,9 @@ public enum UnofficialHoliday implements IHoliday {
                     default: return null;
                 }
             case SUPER_BOWL_SUNDAY:
-                return year <= 2021 ? getFirst(DayOfWeek.SUNDAY, Month.FEBRUARY, year) : getSecond(DayOfWeek.SUNDAY, Month.FEBRUARY, year);
+                return year <= 2021 ? EventDate.getFirst(DayOfWeek.SUNDAY, Month.FEBRUARY, year) : EventDate.getSecond(DayOfWeek.SUNDAY, Month.FEBRUARY, year);
             case WEAR_IT_PURPLE_DAY:
-                return country == WLCountry.AUSTRALIA ? getLast(DayOfWeek.FRIDAY, Month.AUGUST, year) : null;
+                return country == WLCountry.AUSTRALIA ? EventDate.getLast(DayOfWeek.FRIDAY, Month.AUGUST, year) : null;
             case WORLD_CONTACT_DAY: return new EventDate(Month.MARCH, 15, year);
         }
         return null;

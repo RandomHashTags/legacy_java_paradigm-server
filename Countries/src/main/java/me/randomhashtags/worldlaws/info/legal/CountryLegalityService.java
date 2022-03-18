@@ -4,18 +4,15 @@ import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
-import me.randomhashtags.worldlaws.service.CountryService;
+import me.randomhashtags.worldlaws.info.CountryInfoKey;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
+import me.randomhashtags.worldlaws.service.NewCountryService;
+import org.json.JSONObject;
 import org.jsoup.select.Elements;
 
-public interface CountryLegalityService extends CountryService {
+public interface CountryLegalityService extends NewCountryService {
     String getURL();
     int getYearOfData();
-    default EventSources getSources() {
-        final String url = getURL();
-        final String siteName = url.split("/wiki/")[1].replace("_", " ");
-        final EventSource source = new EventSource("Wikipedia: " + siteName, url);
-        return new EventSources(source);
-    }
 
     @Override
     default Folder getFolder() {
@@ -31,5 +28,31 @@ public interface CountryLegalityService extends CountryService {
     }
     default Elements getLegalityDocumentElements(String url, String targetElements, int index) {
         return getDocumentElements(Folder.COUNTRIES_LEGALITIES, url, targetElements, index);
+    }
+
+    @Override
+    default JSONObjectTranslatable parseData(JSONObject json) {
+        final JSONObjectTranslatable translatable = new JSONObjectTranslatable();
+        for(String country : json.keySet()) {
+            final JSONObject countryJSON = json.getJSONObject(country);
+            final CountryInfoKey value = CountryInfoKey.parse(countryJSON);
+            translatable.put(country, value.toJSONObject());
+            translatable.addTranslatedKey(country);
+        }
+        return translatable;
+    }
+
+    @Override
+    default void insertCountryData(JSONObjectTranslatable dataJSON, JSONObjectTranslatable countryJSON) {
+        countryJSON.addTranslatedKey("title");
+        countryJSON.put("title", getInfo().getTitle());
+        countryJSON.put("sources", getSources().toJSONObject());
+    }
+
+    private EventSources getSources() {
+        final String url = getURL();
+        final String siteName = url.split("/wiki/")[1].replace("_", " ");
+        final EventSource source = new EventSource("Wikipedia: " + siteName, url);
+        return new EventSources(source);
     }
 }

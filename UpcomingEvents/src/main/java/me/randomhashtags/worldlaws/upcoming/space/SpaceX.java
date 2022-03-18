@@ -5,6 +5,7 @@ import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.PreUpcomingEvent;
 import me.randomhashtags.worldlaws.upcoming.USAUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -26,6 +27,7 @@ public final class SpaceX extends USAUpcomingEventController {
         launchpads = new HashMap<>();
         if(autoUpdateTimer == null) {
             final long EVERY_HOUR = 1000*60*60;
+
             autoUpdateTimer = new Timer();
             autoUpdateTimer.scheduleAtFixedRate(new TimerTask() {
                 @Override
@@ -68,7 +70,7 @@ public final class SpaceX extends USAUpcomingEventController {
     }
 
     @Override
-    public String loadUpcomingEvent(String id) {
+    public UpcomingEvent loadUpcomingEvent(String id) {
         return null;
         /*final PreUpcomingEvent preUpcomingEvent = preUpcomingEvents.get(id);
         final String launchpadID = preUpcomingEvent.getURL(), description = preUpcomingEvent.getTag();
@@ -87,5 +89,10 @@ public final class SpaceX extends USAUpcomingEventController {
                 handler.handleString(value);
             }
         });*/
+    }
+
+    @Override
+    public UpcomingEvent parseUpcomingEvent(JSONObject json) {
+        return null;
     }
 }

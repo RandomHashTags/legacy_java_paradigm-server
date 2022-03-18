@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.country.usa.state.unfinished;
 
 import me.randomhashtags.worldlaws.LawSubdivisionController;
+import me.randomhashtags.worldlaws.country.SubdivisionStatute;
 import me.randomhashtags.worldlaws.country.SubdivisionStatuteIndex;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -61,7 +62,7 @@ public final class NorthCarolina extends LawSubdivisionController {
     }
 
     @Override
-    public String getStatute(String title, String chapter, String section) {
+    public SubdivisionStatute loadStatute(String title, String chapter, String section) {
         return null;
     }
 }

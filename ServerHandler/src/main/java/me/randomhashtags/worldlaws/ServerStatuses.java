@@ -36,7 +36,7 @@ public enum ServerStatuses {
     public static void spinUpServers() {
         final long started = System.currentTimeMillis();
         final String command = Settings.Server.getRunServersCommand();
-        WLUtilities.executeCommand(command);
+        WLUtilities.executeCommand(command, false);
         WLLogger.logInfo("ServerHandler - spun up servers (took " + WLUtilities.getElapsedTime(started) + ")");
     }
     public static void rebootServers() {

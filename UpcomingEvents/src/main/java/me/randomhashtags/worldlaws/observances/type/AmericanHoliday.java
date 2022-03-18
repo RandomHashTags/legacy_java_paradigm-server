@@ -2,12 +2,13 @@ package me.randomhashtags.worldlaws.observances.type;
 
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.country.WLCountry;
-import me.randomhashtags.worldlaws.observances.IHoliday;
+import me.randomhashtags.worldlaws.observances.Holiday;
+import me.randomhashtags.worldlaws.observances.HolidayType;
 
 import java.time.DayOfWeek;
 import java.time.Month;
 
-public enum AmericanHoliday implements IHoliday {
+public enum AmericanHoliday implements Holiday {
 
     ABRAHAM_LINCOLNS_BIRTHDAY(
             "Lincoln's Birthday"
@@ -65,12 +66,12 @@ public enum AmericanHoliday implements IHoliday {
     }
 
     @Override
-    public Enum<? extends IHoliday> getEnum() {
-        return this;
+    public HolidayType getType() {
+        return HolidayType.AMERICAN;
     }
 
     @Override
-    public String getOfficialName() {
+    public String getWikipediaName() {
         return wikipediaName;
     }
 
@@ -92,12 +93,12 @@ public enum AmericanHoliday implements IHoliday {
     public EventDate getDate(WLCountry country, int year) {
         switch (this) {
             case ABRAHAM_LINCOLNS_BIRTHDAY: return new EventDate(Month.FEBRUARY, 12, year);
-            case CHILD_HEALTH_DAY: return getFirst(DayOfWeek.MONDAY, Month.OCTOBER, year);
+            case CHILD_HEALTH_DAY: return EventDate.getFirst(DayOfWeek.MONDAY, Month.OCTOBER, year);
             //case GOLD_STAR_MOTHERS_AND_FAMILYS_DAY: return getLast(DayOfWeek.SUNDAY, Month.SEPTEMBER, year);
             case HARRIET_TUBMAN_DAY: return UnitedNationHoliday.INTERNATIONAL_WOMENS_DAY.getDate(country, year).plusDays(2);
             case HELEN_KELLER_DAY: return new EventDate(Month.JUNE, 27, year);
             case JUNETEENTH: return new EventDate(Month.JUNE, 19, year);
-            case LABOR_DAY: return getFirst(DayOfWeek.MONDAY, Month.SEPTEMBER, year);
+            case LABOR_DAY: return EventDate.getFirst(DayOfWeek.MONDAY, Month.SEPTEMBER, year);
             case LAW_DAY:
             case LOYALTY_DAY:
                 return new EventDate(Month.MAY, 1, year);
@@ -106,17 +107,17 @@ public enum AmericanHoliday implements IHoliday {
             case PAN_AMERICAN_AVIATION_DAY:
             case WRIGHT_BROTHERS_DAY:
                 return new EventDate(Month.DECEMBER, 17, year);
-            case PATRIOTS_DAY: return getThird(DayOfWeek.MONDAY, Month.APRIL, year);
+            case PATRIOTS_DAY: return EventDate.getThird(DayOfWeek.MONDAY, Month.APRIL, year);
             case MALCOLM_X_DAY: return new EventDate(Month.MAY, 19, year);
-            case MEMORIAL_DAY: return getLast(DayOfWeek.MONDAY, Month.MAY, year);
+            case MEMORIAL_DAY: return EventDate.getLast(DayOfWeek.MONDAY, Month.MAY, year);
             case NATIONAL_AVIATION_DAY: return new EventDate(Month.AUGUST, 19, year);
             case NATIONAL_FREEDOM_DAY: return new EventDate(Month.FEBRUARY, 1, year);
             case NATIONAL_PEARL_HARBOR_REMEMBRANCE_DAY: return new EventDate(Month.DECEMBER, 7, year);
-            case MARTIN_LUTHER_KING_JR_DAY: return getThird(DayOfWeek.MONDAY, Month.JANUARY, year);
+            case MARTIN_LUTHER_KING_JR_DAY: return EventDate.getThird(DayOfWeek.MONDAY, Month.JANUARY, year);
             case ROSA_PARKS_DAY_ARRESTED: return new EventDate(Month.FEBRUARY, 4, year);
             case ROSA_PARKS_DAY_BIRTHDAY: return new EventDate(Month.DECEMBER, 1, year);
             case THOMAS_JEFFERSON_DAY: return new EventDate(Month.APRIL, 13, year);
-            case WASHINGTONS_BIRTHDAY: return getThird(DayOfWeek.MONDAY, Month.FEBRUARY, year);
+            case WASHINGTONS_BIRTHDAY: return EventDate.getThird(DayOfWeek.MONDAY, Month.FEBRUARY, year);
             case WHITE_CANE_SAFETY_DAY: return new EventDate(Month.OCTOBER, 15, year);
         }
         return null;

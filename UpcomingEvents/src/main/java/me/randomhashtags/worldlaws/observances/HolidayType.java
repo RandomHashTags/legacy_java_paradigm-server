@@ -1,16 +1,14 @@
 package me.randomhashtags.worldlaws.observances;
 
-import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.observances.type.*;
-import me.randomhashtags.worldlaws.settings.ResponseVersions;
-import me.randomhashtags.worldlaws.stream.CompletableFutures;
-import org.json.JSONObject;
 
+import java.time.LocalDate;
 import java.util.*;
-import java.util.concurrent.ConcurrentHashMap;
 
-public enum HolidayType implements Jsonable {
+public enum HolidayType {
     AMERICAN(
             "Americans around the world",
             "\uD83C\uDDFA\uD83C\uDDF8"
@@ -64,57 +62,7 @@ public enum HolidayType implements Jsonable {
         this.emoji = emoji;
     }
 
-    public static void insertNearbyHolidays(int year, Collection<String> nearbyHolidayDays, ConcurrentHashMap<String, String> descriptions, ConcurrentHashMap<String, ConcurrentHashMap<String, HolidayObj>> nearbyHolidays) {
-        final HolidayType[] types = HolidayType.values();
-        new CompletableFutures<HolidayType>().stream(Arrays.asList(types), type -> {
-            final boolean isCountries = type == COUNTRIES;
-            final JSONObject json = type.getHolidaysJSONObject(year);
-            final JSONObject descriptionsJSON = json.getJSONObject("descriptions");
-            final Set<String> keys = new HashSet<>(json.keySet());
-            keys.remove("response_version");
-            keys.remove("descriptions");
-            if(isCountries) {
-                for(String country : keys) {
-                    final JSONObject countryJSON = json.getJSONObject(country);
-                    final Collection<String> days = nearbyHolidayDays != null ? nearbyHolidayDays : countryJSON.keySet();
-                    insertNearbyHolidays(days, descriptionsJSON, country, json, descriptions, nearbyHolidays);
-                }
-            } else {
-                final String celebratingCountry = type.getCelebratingCountryBackendID();
-                final Collection<String> days = nearbyHolidayDays != null ? nearbyHolidayDays : keys;
-                insertNearbyHolidays(days, descriptionsJSON, celebratingCountry, json, descriptions, nearbyHolidays);
-            }
-        });
-    }
-    private static void insertNearbyHolidays(Collection<String> days, JSONObject descriptionsJSON, String country, JSONObject json, ConcurrentHashMap<String, String> descriptions, ConcurrentHashMap<String, ConcurrentHashMap<String, HolidayObj>> nearbyHolidays) {
-        for(String holidayDay : days) {
-            insertNearbyHolidays(descriptionsJSON, country, holidayDay, json, descriptions, nearbyHolidays);
-        }
-    }
-    private static void insertNearbyHolidays(JSONObject descriptionsJSON, String country, String holidayDay, JSONObject json, ConcurrentHashMap<String, String> descriptions, ConcurrentHashMap<String, ConcurrentHashMap<String, HolidayObj>> nearbyHolidays) {
-        if(json.has(holidayDay)) {
-            final JSONObject array = json.getJSONObject(holidayDay);
-            final boolean isCountries = country != null;
-            for(String key : array.keySet()) {
-                final JSONObject holidayJSON = array.getJSONObject(key);
-                final HolidayObj holiday = new HolidayObj(key, holidayJSON);
-                if(isCountries) {
-                    holiday.addCountry(country);
-                }
-                final String holidayEnglishName = holiday.getEnglishName(), description = descriptionsJSON.getString(holidayEnglishName);
-                descriptions.put(holidayEnglishName, description);
-                nearbyHolidays.putIfAbsent(holidayDay, new ConcurrentHashMap<>());
-                final ConcurrentHashMap<String, HolidayObj> map = nearbyHolidays.get(holidayDay);
-                if(isCountries && map.containsKey(holidayEnglishName)) {
-                    map.get(holidayEnglishName).addCountry(country);
-                } else {
-                    map.put(holidayEnglishName, holiday);
-                }
-            }
-        }
-    }
-
-    private IHoliday[] getHolidays() {
+    private Holiday[] getHolidays() {
         switch (this) {
             case AMERICAN: return AmericanHoliday.values();
             case AUSTRALIAN: return AustralianHoliday.values();
@@ -132,6 +80,18 @@ public enum HolidayType implements Jsonable {
             default: return null;
         }
     }
+    public Holiday getHoliday(String identifier) {
+        final Holiday[] holidays = getHolidays();
+        if(holidays != null) {
+            for(Holiday holiday : holidays) {
+                final JSONObjectTranslatable json = holiday.getJSONObjectTranslatable();
+                if(json != null && json.has("identifier") && json.getString("identifier").equals(identifier)) {
+                    return holiday;
+                }
+            }
+        }
+        return null;
+    }
     public WLCountry getCelebratingCountry() {
         switch (this) {
             case AMERICAN: return WLCountry.UNITED_STATES;
@@ -145,133 +105,62 @@ public enum HolidayType implements Jsonable {
         return country != null ? country.getBackendID() : null;
     }
 
-    private JSONObject getHolidaysJSONObject(int year) {
-        final String fileName = year + "_" + name();
-        final boolean isCountries = this == COUNTRIES;
-
-        final Folder folder = Folder.UPCOMING_EVENTS_HOLIDAYS;
-        final String realFileName = folder.getFolderName().replace("%year%", Integer.toString(year));
-        folder.setCustomFolderName(fileName, realFileName);
-        JSONObject json = getJSONObject(folder, fileName, new CompletionHandler() {
-            @Override
-            public JSONObject loadJSONObject() {
-                return loadHolidaysJSONObject(isCountries, year);
+    public HashMap<String, HashMap<String, PreHoliday>> getNearHolidays(LocalDate startingDate, LocalDate endingDate) {
+        final HashMap<String, HashMap<String, PreHoliday>> list = new HashMap<>();
+        final Holiday[] holidays = getHolidays();
+        if(holidays != null) {
+            final int startingYear = startingDate.getYear(), endingYear = endingDate.getYear();
+            final List<Integer> years = new ArrayList<>() {{
+                add(startingYear);
+            }};
+            if(startingYear != endingYear) {
+                years.add(endingYear);
             }
-        });
-        final int responseVersion = json.has("response_version") ? json.getInt("response_version") : 0;
-        if(responseVersion < ResponseVersions.HOLIDAYS.getValue()) {
-            json = loadHolidaysJSONObject(isCountries, year);
-            if(json != null) {
-                folder.setCustomFolderName(fileName, realFileName);
-                setFileJSON(folder, fileName, json.toString());
-            }
-        }
-        return json;
-    }
-    private JSONObject loadHolidaysJSONObject(boolean isCountries, int year) {
-        final IHoliday[] holidays = getHolidays();
-        final ConcurrentHashMap<String, String> descriptions = new ConcurrentHashMap<>();
-        JSONObject json = null;
-        if(isCountries) {
-            json = loadCountryHolidays(year, holidays, descriptions);
-        } else if(holidays != null) {
-            final HolidayType self = this;
-            final boolean isChristian = self == CHRISTIAN_EAST || self == CHRISTIAN_WEST, isWestChristian = isChristian && self == CHRISTIAN_WEST;
-            final ConcurrentHashMap<String, HashSet<HolidayObj>> values = new ConcurrentHashMap<>();
-            new CompletableFutures<IHoliday>().stream(Arrays.asList(holidays), holiday -> {
-                final EventDate date = isChristian ? ((ChristianHoliday) holiday).getDate(isWestChristian, null, year) : holiday.getDate(null, year);
-                if(date != null) {
-                    final JSONObject holidayJSON = holiday.getHolidayJSON(self);
-                    final String imageURL = holidayJSON.getString("imageURL"), description = holidayJSON.has("description") ? holidayJSON.getString("description") : "null";
-                    final HolidayObj customHoliday = getHolidayObj(holiday, imageURL);
-                    descriptions.putIfAbsent(customHoliday.getEnglishName(), description);
 
-                    final String dateString = date.getDateString();
-                    values.putIfAbsent(dateString, new HashSet<>());
-                    values.get(dateString).add(customHoliday);
+            final Collection<WLCountry> countries = this == COUNTRIES ? Arrays.asList(WLCountry.values()) : null;
+
+            final boolean isChristianEast = this == CHRISTIAN_EAST, isChristian = isChristianEast || this == CHRISTIAN_WEST;
+            for(Holiday holiday : holidays) {
+                for(int year : years) {
+                    if(countries != null) {
+                        for(WLCountry country : countries) {
+                            insertNearHolidays(country, holiday, startingDate, endingDate, year, list);
+                        }
+                    } else {
+                        insertNearHolidays(null, holiday, startingDate, endingDate, year, list);
+                    }
                 }
-            });
-            json = completeHolidayJSONObject(descriptions, values);
-        }
-        if(json != null) {
-            json.put("response_version", ResponseVersions.HOLIDAYS.getValue());
-        }
-        return json;
-    }
-    private JSONObject completeHolidayJSONObject(ConcurrentHashMap<String, String> descriptions, ConcurrentHashMap<String, HashSet<HolidayObj>> values) {
-        final JSONObject json = new JSONObject(), descriptionsJSON = new JSONObject();
-        for(Map.Entry<String, String> map : descriptions.entrySet()) {
-            descriptionsJSON.put(map.getKey(), map.getValue());
-        }
-        json.put("descriptions", descriptionsJSON);
-        for(Map.Entry<String, HashSet<HolidayObj>> map : values.entrySet()) {
-            final JSONObject targetJSON = new JSONObject();
-            for(HolidayObj holiday : map.getValue()) {
-                targetJSON.put(holiday.getEnglishName(), holiday.getJSONObject());
-            }
-            json.put(map.getKey(), targetJSON);
-        }
-        return json;
-    }
-
-    private HolidayObj getHolidayObj(IHoliday holiday, String imageURL) {
-        final String englishName = holiday.getName();
-        final EventSources sources = holiday.getSources(null);
-        final String[] aliases = holiday.getAliases();
-        return new HolidayObj(celebrators, emoji, englishName, imageURL, aliases, sources);
-    }
-    private HolidayObj getHolidayObj(WLCountry country, IHoliday holiday, String imageURL, String description) {
-        final String englishName = holiday.getName();
-        final EventSources sources = holiday.getSources(country);
-        final String[] aliases = holiday.getAliases();
-        return new HolidayObj(englishName, imageURL, aliases, description, sources);
-    }
-
-    private JSONObject loadCountryHolidays(int year, IHoliday[] holidays, ConcurrentHashMap<String, String> descriptions) {
-        final WLCountry[] countries = WLCountry.values();
-        final JSONObject json = new JSONObject();
-        new CompletableFutures<WLCountry>().stream(Arrays.asList(countries), country -> {
-            final JSONObject targetJSON = loadCountryHolidays(descriptions, holidays, country, year);
-            if(targetJSON != null) {
-                final String backendID = country != null ? country.getBackendID() : null;
-                json.put(backendID, targetJSON);
-            }
-        });
-        json.put("descriptions", descriptions);
-        return json;
-    }
-    private JSONObject loadCountryHolidays(ConcurrentHashMap<String, String> descriptions, IHoliday[] socialHolidays, WLCountry country, int year) {
-        final HolidayType self = this;
-        final ConcurrentHashMap<String, HashSet<HolidayObj>> holidays = new ConcurrentHashMap<>();
-        new CompletableFutures<IHoliday>().stream(Arrays.asList(socialHolidays), socialHoliday -> {
-            final EventDate date = socialHoliday.getDate(country, year);
-            if(date != null) {
-                final JSONObject json = socialHoliday.getHolidayJSON(self);
-                final String imageURL = json.getString("imageURL"), description = json.getString("description");
-                final HolidayObj holiday = getHolidayObj(country, socialHoliday, imageURL, description);
-                final String englishName = holiday.getEnglishName();
-                descriptions.putIfAbsent(englishName, description);
-
-                final String dateString = date.getDateString();
-                holidays.putIfAbsent(dateString, new HashSet<>());
-                holidays.get(dateString).add(holiday);
-            }
-        });
-        return completeCountryHolidays(holidays);
-    }
-    private JSONObject completeCountryHolidays(ConcurrentHashMap<String, HashSet<HolidayObj>> holidays) {
-        JSONObject json = null;
-        if(!holidays.isEmpty()) {
-            json = new JSONObject();
-            for(Map.Entry<String, HashSet<HolidayObj>> map : holidays.entrySet()) {
-                final String dateKey = map.getKey();
-                final JSONObject holidaysJSON = new JSONObject();
-                for(HolidayObj holidayString : map.getValue()) {
-                    holidaysJSON.put(holidayString.getEnglishName(), holidayString.getJSONObject());
-                }
-                json.put(dateKey, holidaysJSON);
             }
         }
-        return json;
+        return list;
+    }
+    public HashMap<String, HashMap<String, PreHoliday>> getHolidays(WLCountry country, int year) {
+        final HashMap<String, HashMap<String, PreHoliday>> list = new HashMap<>();
+        final Holiday[] holidays = getHolidays();
+        if(holidays != null) {
+            for(Holiday holiday : holidays) {
+                insertNearHolidays(country, holiday, null, null, year, list);
+            }
+        }
+        return list;
+    }
+    private void insertNearHolidays(WLCountry country, Holiday holiday, LocalDate startingDate, LocalDate endingDate, int year, HashMap<String, HashMap<String, PreHoliday>> list) {
+        final boolean isChristian = this == CHRISTIAN_EAST || this == CHRISTIAN_WEST;
+        final boolean isWestern = isChristian && this == CHRISTIAN_WEST;
+        final EventDate eventDate = isChristian ? ((ChristianHoliday) holiday).getDate(isWestern, country, year) : holiday.getDate(country, year);
+        if(eventDate != null) {
+            final LocalDate date = eventDate.getLocalDate();
+            if(startingDate == null || endingDate == null
+                    || ((date.equals(startingDate) || date.isAfter(startingDate)) && (date.equals(endingDate) || date.isBefore(endingDate)))
+            ) {
+                final String dateString = eventDate.getDateString();
+                list.putIfAbsent(dateString, new HashMap<>());
+                final HashMap<String, PreHoliday> preHolidays = list.get(dateString);
+                final String name = holiday.getName();
+                final HolidayType type = holiday.getType();
+                preHolidays.putIfAbsent(name, new PreHoliday(holiday.getIdentifier(), name, type, emoji, celebrators));
+                preHolidays.get(name).addCountry(country);
+            }
+        }
     }
 }

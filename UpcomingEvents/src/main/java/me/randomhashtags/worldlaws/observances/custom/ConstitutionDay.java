@@ -6,11 +6,11 @@ import me.randomhashtags.worldlaws.country.WLCountry;
 import java.time.DayOfWeek;
 import java.time.Month;
 
-public enum ConstitutionDay implements CustomIHoliday {
+public enum ConstitutionDay implements CustomHoliday {
     INSTANCE;
 
     @Override
-    public String getOfficialName() {
+    public String getWikipediaName() {
         return "Constitution Day";
     }
 
@@ -57,7 +57,7 @@ public enum ConstitutionDay implements CustomIHoliday {
             case KYRGYZSTAN: return new EventDate(Month.MAY, 5, year);
             case LITHUANIA: return new EventDate(Month.OCTOBER, 25, year);
             case MALDIVES: return new EventDate(Month.DECEMBER, 22, year);
-            case MEXICO: return getFirst(DayOfWeek.MONDAY, Month.FEBRUARY, year);
+            case MEXICO: return EventDate.getFirst(DayOfWeek.MONDAY, Month.FEBRUARY, year);
             case MONGOLIA: return new EventDate(Month.JANUARY, 13, year);
             case NETHERLANDS:
                 final EventDate netherlands = new EventDate(Month.DECEMBER, 15, year);

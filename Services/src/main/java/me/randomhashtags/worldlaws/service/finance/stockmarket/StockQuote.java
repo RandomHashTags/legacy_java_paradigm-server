@@ -1,5 +1,7 @@
 package me.randomhashtags.worldlaws.service.finance.stockmarket;
 
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
+
 public final class StockQuote {
     private final float open, change, changePercent;
     private final float price, high, low;
@@ -17,16 +19,22 @@ public final class StockQuote {
         this.high = high;
         this.low = low;
     }
-
-    @Override
-    public String toString() {
-        return "{" +
-                (open != -1 ? "\"open\":" + open + "," : "") +
-                (high != -1 ? "\"high\":" + high + "," : "") +
-                (low != -1 ? "\"low\":" + low + "," : "") +
-                (!isChart ? "\"change\":" + change + "," : "") +
-                (!isChart ? "\"changePercent\":" + changePercent + "," : "") +
-                "\"price\":" + price +
-                "}";
+    public JSONObjectTranslatable toJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable();
+        json.put("price", price);
+        if(open != -1) {
+            json.put("open", open);
+        }
+        if(high != -1) {
+            json.put("high", high);
+        }
+        if(low != -1) {
+            json.put("low", low);
+        }
+        if(!isChart) {
+            json.put("change", change);
+            json.put("changePercent", changePercent);
+        }
+        return json;
     }
 }

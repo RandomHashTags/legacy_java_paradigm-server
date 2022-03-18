@@ -4,10 +4,12 @@ import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
-import me.randomhashtags.worldlaws.service.CountryService;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
+import me.randomhashtags.worldlaws.service.NewCountryService;
+import org.json.JSONObject;
 import org.jsoup.select.Elements;
 
-public interface CountryValueService extends CountryService {
+public interface CountryValueService extends NewCountryService {
     String getURL();
     int getYearOfData();
     default EventSources getSources() {
@@ -33,6 +35,29 @@ public interface CountryValueService extends CountryService {
     default SovereignStateInformationType getInformationType() {
         return SovereignStateInformationType.SINGLE_VALUES;
     }
+
+    @Override
+    default JSONObjectTranslatable parseData(JSONObject json) {
+        final JSONObjectTranslatable translatable = new JSONObjectTranslatable();
+        for(String country : json.keySet()) {
+            final JSONObject countryJSON = json.getJSONObject(country);
+            final CountrySingleValue value = CountrySingleValue.parse(countryJSON);
+            translatable.put(country, value.toJSONObject());
+            translatable.addTranslatedKey(country);
+        }
+        return translatable;
+    }
+
+    @Override
+    default void insertCountryData(JSONObjectTranslatable dataJSON, JSONObjectTranslatable countryJSON) {
+        countryJSON.addTranslatedKey("title");
+        countryJSON.put("title", getInfo().getTitle());
+        countryJSON.put("sources", getSources().toJSONObject());
+        if(!countryJSON.has("yearOfData")) {
+            countryJSON.put("yearOfData", getYearOfData());
+        }
+    }
+
 
     default Elements getValueDocumentElements(String url, String targetElements) {
         return getValueDocumentElements(url, targetElements, -1);

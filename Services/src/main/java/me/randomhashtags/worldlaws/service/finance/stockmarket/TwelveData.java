@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.service.finance.stockmarket;
 
 import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.service.JSONDataValue;
 import me.randomhashtags.worldlaws.settings.Settings;
 import org.json.JSONArray;
@@ -35,12 +36,12 @@ public enum TwelveData implements StockService {
     }
 
     @Override
-    public String getMovers(APIVersion version) {
+    public JSONObjectTranslatable getMovers(APIVersion version) {
         return null;
     }
 
     @Override
-    public String getQuotes(APIVersion version, HashSet<String> symbols) {
+    public JSONObjectTranslatable getQuotes(APIVersion version, HashSet<String> symbols) {
         // TODO: every symbol = 1 quota request (doo doo; total quota required to use this = symbols*2)
         final boolean success = makeQuotaRequest(JSONDataValue.FINANCE_TWELVE_DATA, 2);
         if(success) {
@@ -53,7 +54,7 @@ public enum TwelveData implements StockService {
             final String typeURL = "https://api.twelvedata.com/%type%?symbol=" + builder.toString() + "&type=Stock&format=JSON&apikey=" + getAPIKey();
             final String priceURL = typeURL.replace("%type%", "price"), quoteURL = typeURL.replace("%type%", "quote");
             final JSONObject json = requestJSONObject(priceURL);
-            String string = null;
+            JSONObjectTranslatable string = null;
             if(json != null) {
                 final HashMap<String, Float> prices = new HashMap<>();
                 json.keySet().parallelStream().forEach(symbol -> {
@@ -67,12 +68,11 @@ public enum TwelveData implements StockService {
         }
         return null;
     }
-    private String getQuotes(APIVersion version, String quoteURL, HashSet<String> symbols, HashMap<String, Float> prices) {
+    private JSONObjectTranslatable getQuotes(APIVersion version, String quoteURL, HashSet<String> symbols, HashMap<String, Float> prices) {
         final JSONObject json = requestJSONObject(quoteURL);
-        String string = null;
         if(json != null) {
-            final HashSet<Stock> stocks = new HashSet<>();
-            symbols.parallelStream().forEach(symbol -> {
+            final JSONObjectTranslatable translatable = new JSONObjectTranslatable();
+            for(String symbol : symbols) {
                 final JSONObject stockJSON = json.getJSONObject(symbol);
                 final String name = stockJSON.getString("name");
                 final float open = stockJSON.getFloat("open");
@@ -83,21 +83,15 @@ public enum TwelveData implements StockService {
                 final float price = prices.get(symbol);
                 final StockQuote quote = new StockQuote(open, change, changePercent, price, high, low);
                 final Stock stock = new Stock(symbol, name, null, quote, null);
-                stocks.add(stock);
-            });
-            final StringBuilder builder = new StringBuilder();
-            boolean isFirst = true;
-            for(Stock targetStock : stocks) {
-                builder.append(isFirst ? "" : ",").append(targetStock.toString());
-                isFirst = false;
+                translatable.put(symbol, stock.toJSONObject());
             }
-            string = builder.toString();
+            return translatable;
         }
-        return string;
+        return null;
     }
 
     @Override
-    public String getChart(APIVersion version, String symbol) {
+    public JSONObjectTranslatable getChart(APIVersion version, String symbol) {
         final JSONObject json = getJSONObject(Folder.SERVICES_FINANCE_TWELVE_DATA_CHARTS, symbol, new CompletionHandler() {
             @Override
             public String loadJSONObjectString() {
@@ -105,7 +99,7 @@ public enum TwelveData implements StockService {
                 return success ? requestChart(symbol) : null;
             }
         });
-        return json != null ? json.toString() : null;
+        return JSONObjectTranslatable.copy(json);
     }
 
     private String requestChart(String symbol) {

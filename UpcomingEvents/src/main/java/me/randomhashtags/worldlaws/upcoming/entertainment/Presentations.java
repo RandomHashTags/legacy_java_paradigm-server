@@ -5,6 +5,8 @@ import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.PresentationEvent;
+import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
+import org.json.JSONObject;
 
 import java.time.LocalDate;
 import java.util.Arrays;
@@ -30,9 +32,14 @@ public final class Presentations extends LoadedUpcomingEventController {
                     final String identifier = getEventDateIdentifier(date.getDateString(), title);
 
                     putLoadedPreUpcomingEvent(identifier, event.toPreUpcomingEventJSON(type, identifier, event.getTag()));
-                    putUpcomingEvent(identifier, event.toString());
+                    putUpcomingEvent(identifier, event);
                 }
             }
         });
+    }
+
+    @Override
+    public UpcomingEvent parseUpcomingEvent(JSONObject json) {
+        return new PresentationEvent(json);
     }
 }

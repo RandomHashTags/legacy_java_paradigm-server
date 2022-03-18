@@ -1,5 +1,7 @@
 package me.randomhashtags.worldlaws.country;
 
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
+
 public final class SubdivisionStatuteIndex implements SubdivisionLegal {
     private final String backendID;
     private String title;
@@ -8,7 +10,8 @@ public final class SubdivisionStatuteIndex implements SubdivisionLegal {
         this.backendID = backendID;
     }
 
-    public String getIndex() {
+    @Override
+    public String getID() {
         return backendID;
     }
     @Override
@@ -20,10 +23,14 @@ public final class SubdivisionStatuteIndex implements SubdivisionLegal {
         this.title = title;
     }
 
+    public String getBackendID() {
+        return backendID;
+    }
+
     @Override
-    public String toString() {
-        return "\"" + title + "\":{" +
-                "\"backendID\":\"" + backendID + "\"" +
-                "}";
+    public JSONObjectTranslatable toJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("title");
+        json.put("title", title);
+        return json;
     }
 }

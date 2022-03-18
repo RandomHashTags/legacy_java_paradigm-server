@@ -3,10 +3,12 @@ package me.randomhashtags.worldlaws.upcoming.sports;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.PreUpcomingEvent;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.upcoming.USAUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.MLBEvent;
+import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -14,7 +16,6 @@ import org.jsoup.select.Elements;
 
 import java.time.LocalDate;
 import java.time.Month;
-import java.util.HashMap;
 
 public final class MLB extends USAUpcomingEventController {
 
@@ -44,29 +45,32 @@ public final class MLB extends USAUpcomingEventController {
                     final Elements matches = dateElement.select("div.ScheduleGamestyle__DesktopScheduleGameWrapper-sc-b76vp3-0");
                     matches.parallelStream().forEach(matchElement -> {
                         final Element teamElement = matchElement.selectFirst("div.TeamMatchupLayerstyle__TeamMatchupLayerWrapper-sc-ouprud-0");
-                        final Element awayTeamElement = teamElement.selectFirst("div.TeamMatchupLayerstyle__AwayWrapper-sc-ouprud-1"), homeTeamElement = teamElement.selectFirst("div.TeamMatchupLayerstyle__HomeWrapper-sc-ouprud-2");
-                        final JSONObject awayTeamJSON = getTeamJSON(awayTeamElement), homeTeamJSON = getTeamJSON(homeTeamElement);
-                        final String title = awayTeamJSON.getString("name") + " @ " + homeTeamJSON.getString("name");
+                        if(teamElement != null) {
+                            final Element awayTeamElement = teamElement.selectFirst("div.TeamMatchupLayerstyle__AwayWrapper-sc-ouprud-1"), homeTeamElement = teamElement.selectFirst("div.TeamMatchupLayerstyle__HomeWrapper-sc-ouprud-2");
+                            if(awayTeamElement != null && homeTeamElement != null) {
+                                final JSONObjectTranslatable awayTeamJSON = getTeamJSON(awayTeamElement), homeTeamJSON = getTeamJSON(homeTeamElement);
+                                final String title = awayTeamJSON.getString("name") + " @ " + homeTeamJSON.getString("name");
 
-                        final Element timeElement = matchElement.selectFirst("div.GameInfoLayerstyle__GameInfoLayerWrapper-sc-1xxsnoa-0").selectFirst("div.GameInfoLayerstyle__GameInfoTextWrapper-sc-1xxsnoa-1").selectFirst("a[href]");
-                        final String url = timeElement.attr("href"), targetTimeET = timeElement.text();
+                                final Element timeElement = matchElement.selectFirst("div.GameInfoLayerstyle__GameInfoLayerWrapper-sc-1xxsnoa-0").selectFirst("div.GameInfoLayerstyle__GameInfoTextWrapper-sc-1xxsnoa-1").selectFirst("a[href]");
+                                final String url = timeElement.attr("href"), targetTimeET = timeElement.text();
 
-                        final String id = getEventDateIdentifier(dateString, title);
-                        final HashMap<String, Object> customValues = new HashMap<>() {{
-                            put("sources", sources);
-                            put("awayTeam", awayTeamJSON.toString());
-                            put("homeTeam", homeTeamJSON.toString());
-                        }};
-                        final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, title, url, targetTimeET, null, customValues);
-                        putPreUpcomingEvent(id, preUpcomingEvent);
+                                final String id = getEventDateIdentifier(dateString, title);
+                                final JSONObjectTranslatable customValues = new JSONObjectTranslatable();
+                                customValues.put("sources", sources.toJSONObject());
+                                customValues.put("awayTeam", awayTeamJSON);
+                                customValues.put("homeTeam", homeTeamJSON);
+                                final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, title, url, targetTimeET, null, customValues);
+                                putPreUpcomingEvent(id, preUpcomingEvent);
+                            }
+                        }
                     });
                 });
             }
         }
     }
 
-    private JSONObject getTeamJSON(Element teamElement) {
-        final JSONObject json = new JSONObject();
+    private JSONObjectTranslatable getTeamJSON(Element teamElement) {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("name");
         final Element ahrefElement = teamElement.selectFirst("div div a[href]");
         final String scheduleURL = ahrefElement.attr("href");
         json.put("scheduleURL", scheduleURL);
@@ -83,15 +87,16 @@ public final class MLB extends USAUpcomingEventController {
     }
 
     @Override
-    public String loadUpcomingEvent(String id) {
+    public UpcomingEvent loadUpcomingEvent(String id) {
         final PreUpcomingEvent preUpcomingEvent = getPreUpcomingEvent(id);
         final String title = preUpcomingEvent.getTitle();
         final EventSources sources = (EventSources) preUpcomingEvent.getCustomValue("sources");
         final String awayTeam = (String) preUpcomingEvent.getCustomValue("awayTeam"), homeTeam = (String) preUpcomingEvent.getCustomValue("homeTeam");
+        return new MLBEvent(preUpcomingEvent.getEventDate(), title, awayTeam, homeTeam, null, sources);
+    }
 
-        final MLBEvent event = new MLBEvent(title, awayTeam, homeTeam, null, sources);
-        final String string = event.toString();
-        putUpcomingEvent(id, string);
-        return string;
+    @Override
+    public UpcomingEvent parseUpcomingEvent(JSONObject json) {
+        return new MLBEvent(json);
     }
 }

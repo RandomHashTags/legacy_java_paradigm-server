@@ -2,11 +2,12 @@ package me.randomhashtags.worldlaws.observances.type.unfinished;
 
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.country.WLCountry;
-import me.randomhashtags.worldlaws.observances.IHoliday;
+import me.randomhashtags.worldlaws.observances.Holiday;
+import me.randomhashtags.worldlaws.observances.HolidayType;
 
 import java.time.Month;
 
-public enum MonthlyHoliday implements IHoliday {
+public enum MonthlyHoliday implements Holiday {
 
     ACADEMIC_WRITING_MONTH,
     ASIAN_PACIFIC_AMERICAN_HERITAGE_MONTH,
@@ -62,12 +63,12 @@ public enum MonthlyHoliday implements IHoliday {
     }
 
     @Override
-    public Enum<? extends IHoliday> getEnum() {
-        return this;
+    public HolidayType getType() {
+        return null;
     }
 
     @Override
-    public String getOfficialName() {
+    public String getWikipediaName() {
         return wikipediaName;
     }
 

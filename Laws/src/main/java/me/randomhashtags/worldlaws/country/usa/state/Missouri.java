@@ -5,6 +5,7 @@ import me.randomhashtags.worldlaws.country.StateReference;
 import me.randomhashtags.worldlaws.country.SubdivisionStatute;
 import me.randomhashtags.worldlaws.country.SubdivisionStatuteChapter;
 import me.randomhashtags.worldlaws.country.SubdivisionStatuteIndex;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.TextNode;
@@ -54,8 +55,7 @@ public final class Missouri extends LawSubdivisionController {
                 final String text = element.text();
                 final String[] range = text.split(" ")[1].split(" ")[1].split("‑");
                 final int min = Integer.parseInt(range[0]), max = Integer.parseInt(range[1]);
-                final StringBuilder builder = new StringBuilder("[");
-                boolean isFirst = true;
+                final JSONObjectTranslatable json = new JSONObjectTranslatable();
                 for(int i = min; i <= max; i++) {
                     final String chapterText = chapterTitles.get(chapterIndex).text();
                     final String[] values = chapterText.split(" ");
@@ -64,14 +64,13 @@ public final class Missouri extends LawSubdivisionController {
                         final String title = values[3], chapter = Integer.toString(i);
                         final SubdivisionStatuteChapter stateChapter = new SubdivisionStatuteChapter(chapter);
                         stateChapter.setTitle(title);
-                        builder.append(isFirst ? "" : ",").append(stateChapter.toString());
-                        isFirst = false;
+                        final String id = stateChapter.getID();
+                        json.put(id, stateChapter.toJSONObject());
+                        json.addTranslatedKey(id);
                         chapterIndex++;
                     }
                 }
-                builder.append("]");
-                final String string = builder.toString();
-                TABLE_OF_CHAPTERS_JSON.get(this).put(Integer.toString(index+1), string);
+                TABLE_OF_CHAPTERS_JSON.get(this).put(Integer.toString(index+1), json);
             }
             index++;
         }
@@ -102,29 +101,21 @@ public final class Missouri extends LawSubdivisionController {
         }
     }
     @Override
-    public String getStatute(String title, String chapter, String section) {
-        final String path = chapter + "." + section;
+    public SubdivisionStatute loadStatute(String title, String chapter, String section) {
         section = prefixZeros(section, 3);
-        if(statutes.containsKey(path)) {
-            return statutes.get(path);
-        } else {
-            final String url = statuteURL.replace("%chapter%", chapter).replace("%section%", section);
-            final Document doc = getDocument(url);
-            if(doc != null) {
-                final Elements div = doc.select("div.norm p.norm");
-                final String topic = div.select("span.bold").get(0).text();
-                final StringBuilder description = new StringBuilder();
-                boolean isFirst = true;
-                for(Element element : div) {
-                    description.append(isFirst ? "" : "\n").append(element.text());
-                    isFirst = false;
-                }
-                final SubdivisionStatute statute = new SubdivisionStatute(StateReference.build(title, chapter, section, url), topic, description.toString());
-                final String string = statute.toString();
-                statutes.put(path, string);
-                return string;
+        final String url = statuteURL.replace("%chapter%", chapter).replace("%section%", section);
+        final Document doc = getDocument(url);
+        if(doc != null) {
+            final Elements div = doc.select("div.norm p.norm");
+            final String topic = div.select("span.bold").get(0).text();
+            final StringBuilder description = new StringBuilder();
+            boolean isFirst = true;
+            for(Element element : div) {
+                description.append(isFirst ? "" : "\n").append(element.text());
+                isFirst = false;
             }
-            return null;
+            return new SubdivisionStatute(StateReference.build(title, chapter, section, url), topic, description.toString());
         }
+        return null;
     }
 }

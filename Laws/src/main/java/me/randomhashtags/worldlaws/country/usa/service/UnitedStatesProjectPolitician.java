@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.country.usa.service;
 
 import me.randomhashtags.worldlaws.EventDate;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.people.HumanName;
 import me.randomhashtags.worldlaws.people.PoliticalParty;
 import org.json.JSONArray;
@@ -49,6 +50,13 @@ public final class UnitedStatesProjectPolitician {
                 "\"terms\":" + terms.toString() + "," +
                 "\"urls\":" + urls.toString() +
                 "}";
+    }
+
+    public JSONObjectTranslatable toJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable();
+        json.put("name", name.toJSONObject());
+        json.put("birthday", birthday.toJSONObject());
+        return json;
     }
 
     private EventDate getEventDateFrom(String input) {

@@ -1,12 +1,12 @@
 package me.randomhashtags.worldlaws.upcoming.entertainment;
 
 import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.service.WikipediaDocument;
 import me.randomhashtags.worldlaws.settings.ResponseVersions;
 import me.randomhashtags.worldlaws.upcoming.events.PresentationEvent;
 import me.randomhashtags.worldlaws.upcoming.events.PresentationEventType;
 import org.json.JSONArray;
-import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -93,6 +93,11 @@ public enum PresentationType implements Jsoupable {
             "https://en.wikipedia.org/wiki/List_of_PAX_events",
             PresentationEventType.FESTIVAL_GAMING
     ),*/
+    /*PLAYSTATION_STATE_OF_PLAY(
+            "PlayStation State of Play",
+            "https://www.playstation.com/en-us/state-of-play",
+            PresentationEventType.PRESENTATION
+    ),*/
     /*SOUTH_BY_SOUTHWEST(
             "South by Southwest",
             "https://en.wikipedia.org/wiki/South_by_Southwest",
@@ -128,19 +133,20 @@ public enum PresentationType implements Jsoupable {
         this.type = type;
     }
 
-    public static String getTypesJSON() {
-        final JSONObject json = new JSONObject();
+    public static JSONObjectTranslatable getTypesJSON() { // TODO: save to file
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("types");
         json.put("version", ResponseVersions.PRESENTATIONS.getValue());
 
-        final JSONObject typesJSON = new JSONObject();
+        final JSONObjectTranslatable typesJSON = new JSONObjectTranslatable();
         for(PresentationType type : values()) {
-            final JSONObject typeJSON = new JSONObject();
+            final JSONObjectTranslatable typeJSON = new JSONObjectTranslatable("names", "type");
             typeJSON.put("names", new JSONArray(type.names));
             typeJSON.put("type", type.type.getName());
-            typesJSON.put(type.name().toLowerCase(), typeJSON);
+            final String typeID = type.name().toLowerCase();
+            typesJSON.put(typeID, typeJSON);
         }
         json.put("types", typesJSON);
-        return json.toString();
+        return json;
     }
 
     public List<PresentationEvent> refresh(LocalDate startingDay) {

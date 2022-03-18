@@ -103,10 +103,7 @@ public enum Settings {
             return getOrDefaultString(getServersJSON(), "uuid", "***REMOVED***");
         }
         public static String getRunServersCommand() {
-            final JSONObject json = getOrDefaultJSONObject(getServersJSON(), "runServersCommand", new JSONObject());
-            final String configuration = getOrDefaultString(json, "configuration", "manjaro");
-            final JSONObject configurations = getOrDefaultJSONObject(json, "configurations", new JSONObject());
-            return getOrDefaultString(configurations, configuration, "bash runServers.sh");
+            return getOrDefaultString(getServersJSON(), "runServersCommand", "bash runServers.sh");
         }
         public static int getServerRebootFrequencyInDays() {
             return getOrDefaultInt(getServersJSON(), "serverRebootFrequencyInDays", 3);

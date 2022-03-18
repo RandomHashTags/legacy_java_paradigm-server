@@ -1,12 +1,14 @@
 package me.randomhashtags.worldlaws.upcoming.entertainment.movies;
 
 import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.service.IMDbService;
 import me.randomhashtags.worldlaws.service.WikipediaDocument;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.MovieEvent;
+import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
@@ -85,7 +87,7 @@ public final class Movies extends UpcomingEventController implements IMDbService
                             final String dateString = getEventDateString(year, month, day), identifier = getEventDateIdentifier(dateString, title);
 
                             final JSONArray productionCompanies = new JSONArray(Arrays.asList(rows.get(1).text().split(" / ")));
-                            final HashMap<String, Object> customValues = new HashMap<>();
+                            final JSONObjectTranslatable customValues = new JSONObjectTranslatable();
                             customValues.put("productionCompanies", productionCompanies);
 
                             final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(identifier, title, wikipageURL, null, null, customValues);
@@ -98,7 +100,7 @@ public final class Movies extends UpcomingEventController implements IMDbService
     }
 
     @Override
-    public String loadUpcomingEvent(String id) {
+    public UpcomingEvent loadUpcomingEvent(String id) {
         final PreUpcomingEvent preUpcomingEvent = getPreUpcomingEvent(id);
         final String url = preUpcomingEvent.getURL();
         final String title = preUpcomingEvent.getTitle();
@@ -200,12 +202,14 @@ public final class Movies extends UpcomingEventController implements IMDbService
             }
 
             final JSONArray productionCompanies = (JSONArray) preUpcomingEvent.getCustomValue("productionCompanies");
-            final MovieEvent movie = new MovieEvent(title, premiseFinal, movieImageURL, productionCompanies, releaseInfoFinal, imdbJSON, ratingsString, youtubeVideoIDs, sources);
-            final String string = movie.toString();
-            putUpcomingEvent(id, string);
-            return string;
+            return new MovieEvent(preUpcomingEvent.getEventDate(), title, premiseFinal, movieImageURL, productionCompanies, releaseInfoFinal, imdbJSON, ratingsString, youtubeVideoIDs, sources);
         }
         return null;
+    }
+
+    @Override
+    public UpcomingEvent parseUpcomingEvent(JSONObject json) {
+        return new MovieEvent(json);
     }
 
     private HashMap<String, Object> getMovieDetails(String title, int year) {

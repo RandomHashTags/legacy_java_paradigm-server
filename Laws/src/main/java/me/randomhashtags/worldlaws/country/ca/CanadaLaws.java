@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.APIVersion;
 import me.randomhashtags.worldlaws.BillStatus;
 import me.randomhashtags.worldlaws.LawController;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 
 public final class CanadaLaws extends LawController {
     public static CanadaLaws INSTANCE = new CanadaLaws();
@@ -21,17 +22,17 @@ public final class CanadaLaws extends LawController {
     }
 
     @Override
-    public String refreshRecentActivity(APIVersion version) {
+    public JSONObjectTranslatable refreshRecentActivity(APIVersion version) {
         return null;
     }
 
     @Override
-    public String getResponse(APIVersion version, String value) {
+    public JSONObjectTranslatable getResponse(APIVersion version, String value) {
         return null;
     }
 
     @Override
-    public String getGovernmentResponse(APIVersion version, int administration, String value) {
+    public JSONObjectTranslatable getGovernmentResponse(APIVersion version, int administration, String value) {
         return null;
     }
 }

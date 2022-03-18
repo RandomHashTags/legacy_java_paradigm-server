@@ -106,46 +106,38 @@ public final class Pennsylvania extends LawSubdivisionController {
         iterateThroughStatuteTable(path, new Elements(list));
     }
     @Override
-    public String getStatute(String title, String chapter, String section) {
-        final String path = title + "." + chapter + "." + section;
+    public SubdivisionStatute loadStatute(String title, String chapter, String section) {
         title = prefixZeros(title, 2);
         chapter = prefixZeros(chapter, 3);
         section = prefixZeros(section, 3);
-        if(statutes.containsKey(path)) {
-            return statutes.get(path);
-        } else {
-            final String url = statuteURL.replaceFirst("%index%", title).replace("%index%", prefixZeros(title, 3)).replace("%chapter%", chapter).replace("%section%", section);
-            final Document doc = getDocument(url);
-            if(doc != null) {
-                final Elements container = doc.select("div.BodyContainer"), commentTitles = container.select("div.Comment + p");
-                final Elements elements = container.select("div.Comment + p ~ p");
-                boolean foundTopic = false, isFirst = true;
-                String topic = "";
-                final StringBuilder description = new StringBuilder();
-                for(Element element : elements) {
-                    final String text = element.text();
-                    if(text.startsWith("§")) {
-                        topic = text;
-                        foundTopic = true;
-                    } else if(foundTopic) {
-                        if(text.isEmpty()) {
-                            break;
-                        } else {
-                            description.append(isFirst ? "" : "\n").append(text);
-                            isFirst = false;
-                        }
+        final String url = statuteURL.replaceFirst("%index%", title).replace("%index%", prefixZeros(title, 3)).replace("%chapter%", chapter).replace("%section%", section);
+        final Document doc = getDocument(url);
+        if(doc != null) {
+            final Elements container = doc.select("div.BodyContainer"), commentTitles = container.select("div.Comment + p");
+            final Elements elements = container.select("div.Comment + p ~ p");
+            boolean foundTopic = false, isFirst = true;
+            String topic = "";
+            final StringBuilder description = new StringBuilder();
+            for(Element element : elements) {
+                final String text = element.text();
+                if(text.startsWith("§")) {
+                    topic = text;
+                    foundTopic = true;
+                } else if(foundTopic) {
+                    if(text.isEmpty()) {
+                        break;
+                    } else {
+                        description.append(isFirst ? "" : "\n").append(text);
+                        isFirst = false;
                     }
                 }
-                if(!foundTopic) {
-                    topic = commentTitles.size() > 0 ? commentTitles.get(0).text() : null;
-                    description.append(elements.get(0).text());
-                }
-                final SubdivisionStatute statute = new SubdivisionStatute(StateReference.build(title, chapter, section, url), topic, description.toString());
-                final String string = statute.toString();
-                statutes.put(path, string);
-                return string;
             }
-            return null;
+            if(!foundTopic) {
+                topic = commentTitles.size() > 0 ? commentTitles.get(0).text() : null;
+                description.append(elements.get(0).text());
+            }
+            return new SubdivisionStatute(StateReference.build(title, chapter, section, url), topic, description.toString());
         }
+        return null;
     }
 }

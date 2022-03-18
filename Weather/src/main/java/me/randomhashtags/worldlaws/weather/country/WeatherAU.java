@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.weather.country;
 
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.weather.WeatherController;
 import org.jsoup.nodes.Document;
 
@@ -21,34 +22,34 @@ public enum WeatherAU implements WeatherController {
     }
 
     @Override
-    public HashMap<String, String> getEventPreAlerts() {
+    public HashMap<String, JSONObjectTranslatable> getEventPreAlerts() {
         return null;
     }
 
     @Override
-    public HashMap<String, String> getSubdivisionEvents() {
+    public HashMap<String, JSONObjectTranslatable> getSubdivisionEvents() {
         return null;
     }
 
     @Override
-    public HashMap<String, HashMap<String, String>> getSubdivisionPreAlerts() {
+    public HashMap<String, HashMap<String, JSONObjectTranslatable>> getSubdivisionPreAlerts() {
         return null;
     }
 
     @Override
-    public String refresh() {
+    public JSONObjectTranslatable refresh() {
         final String url = "https://weather.news.com.au";
         final Document doc = getDocument(url);
-        String string = null;
+        JSONObjectTranslatable string = null;
         if(doc != null) {
-            final StringBuilder builder = new StringBuilder("[");
-            string = builder.append("]").toString();
+            //final StringBuilder builder = new StringBuilder("[");
+            //string = builder.append("]").toString();
         }
         return string;
     }
 
     @Override
-    public String getAlert(String id) {
+    public JSONObjectTranslatable getAlert(String id) {
         return null;
     }
 }

@@ -1,7 +1,10 @@
 package me.randomhashtags.worldlaws.info.rankings;
 
+import me.randomhashtags.worldlaws.EventSource;
+import me.randomhashtags.worldlaws.EventSources;
+import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
-import org.json.JSONObject;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
@@ -259,27 +262,39 @@ public enum CountryRankings implements CountryRankingService {
     }
 
     @Override
-    public String getSuffix() {
-        return suffix;
-    }
-
-    @Override
-    public NumberType getValueType() {
-        return valueType;
-    }
-
-    @Override
-    public int getYearOfData() {
-        return yearOfData;
-    }
-
-    @Override
-    public String loadData() {
-        final JSONObject json = new JSONObject();
+    public JSONObjectTranslatable loadData() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable();
         loadJSONData(json);
-        return json.toString();
+        for(String country : json.keySet()) {
+            json.put(country, json.get(country));
+            json.addTranslatedKey(country);
+        }
+        return json;
     }
-    private void loadJSONData(JSONObject json) {
+
+    @Override
+    public void insertCountryData(JSONObjectTranslatable dataJSON, JSONObjectTranslatable countryJSON) {
+        final String url = getURL().replace("%year%", Integer.toString(yearOfData)), valueType = this.valueType.name();
+
+        final String suffix = LocalServer.fixEscapeValues(this.suffix);
+        if(suffix != null) {
+            countryJSON.put("suffix", suffix);
+        }
+        countryJSON.put("valueType", valueType);
+        if(!countryJSON.has("yearOfData") && yearOfData != -1) {
+            countryJSON.put("yearOfData", yearOfData);
+        }
+        countryJSON.put("title", getInfo().getTitle());
+        countryJSON.addTranslatedKey("title");
+        countryJSON.put("maxWorldRank", dataJSON.keySet().size());
+
+        final String siteName = url.startsWith("https://en.wikipedia.org/wiki/") ? url.split("/wiki/")[1].replace("_", " ") : getSiteName();
+        final EventSource source = new EventSource("Wikipedia: " + siteName, url);
+        final JSONObjectTranslatable sources = new EventSources(source).toJSONObject();
+        countryJSON.put("sources", sources);
+    }
+
+    private void loadJSONData(JSONObjectTranslatable json) {
         switch (this) {
             case ADULT_HIV_PREVALENCE:
                 loadAdultHIVPrevalence(json);
@@ -388,7 +403,7 @@ public enum CountryRankings implements CountryRankingService {
         }
     }
 
-    private void loadAdultHIVPrevalence(JSONObject json) {
+    private void loadAdultHIVPrevalence(JSONObjectTranslatable json) {
         final Elements trs = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         trs.remove(0);
         trs.sort(Comparator.comparing(element -> {
@@ -396,8 +411,7 @@ public enum CountryRankings implements CountryRankingService {
             final String percentString = tds.get(1).text();
             return percentString.equals("-") ? -1 : Float.parseFloat(percentString.split("%")[0]);
         }));
-        final int maxWorldRank = trs.size();
-        int worldRank = maxWorldRank;
+        int worldRank = trs.size();
         for(Element element : trs) {
             final Elements tds = element.select("td");
             final String country = tds.get(0).text().toLowerCase().split("\\[")[0].split("\\(")[0].replace(" ", "").replace(",", "");
@@ -406,12 +420,11 @@ public enum CountryRankings implements CountryRankingService {
             final float percent = percentString.equals("-") ? -1 : Float.parseFloat(percentString.split("%")[0]);
             final int defcon = percent >= 10.00 ? 1 : percent >= 8.00 ? 2 : percent >= 6.00 ? 3 : percent >= 4.00 ? 4 : 5;
             final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, worldRank, yearOfData, percent, true);
-            value.setMaxWorldRank(maxWorldRank);
             json.put(country, value.toJSONObject());
             worldRank -= 1;
         }
     }
-    private void loadCO2Emissions(JSONObject json) {
+    private void loadCO2Emissions(JSONObjectTranslatable json) {
         final Elements elements = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         elements.remove(0);
         elements.remove(0);
@@ -422,8 +435,7 @@ public enum CountryRankings implements CountryRankingService {
             final Elements tds = element.select("td");
             return Float.parseFloat(tds.get(3).text().replace(",", ""));
         }));
-        final int maxWorldRank = elements.size();
-        int worldRank = maxWorldRank;
+        int worldRank = elements.size();
         for(Element element : elements) {
             final Elements tds = element.select("td");
             final Elements links = tds.select("a");
@@ -436,18 +448,16 @@ public enum CountryRankings implements CountryRankingService {
                 final String country = link.text().toLowerCase().replace(" ", "");
                 final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, worldRank, -1, emissions, false);
                 value.setOtherValues(values);
-                value.setMaxWorldRank(maxWorldRank);
                 json.put(country, value.toJSONObject());
             }
             worldRank -= 1;
         }
     }
-    private void loadCannabisUse(JSONObject json) {
+    private void loadCannabisUse(JSONObjectTranslatable json) {
         final Elements trs = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         trs.remove(0);
         trs.sort(Comparator.comparing(element -> Float.parseFloat(element.select("td").get(1).text())));
-        final int maxWorldRank = trs.size();
-        int worldRank = maxWorldRank;
+        int worldRank = trs.size();
         for(Element element : trs) {
             final Elements tds = element.select("td");
             final String country = tds.get(0).text().toLowerCase().replace(" ", "");
@@ -456,16 +466,14 @@ public enum CountryRankings implements CountryRankingService {
             final float percent = Float.parseFloat(tds.get(1).text());
             final int defcon = percent >= 15.00 ? 1 : percent >= 12.00 ? 2 : percent >= 9.00 ? 3 : percent >= 6.00 ? 4 : 5;
             final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, worldRank, yearOfData, percent, false);
-            value.setMaxWorldRank(maxWorldRank);
             json.put(country, value.toJSONObject());
             worldRank -= 1;
         }
     }
-    private void loadCivilianFirearms(JSONObject json) {
+    private void loadCivilianFirearms(JSONObjectTranslatable json) {
         final Elements elements = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         elements.remove(0);
         elements.remove(0);
-        final int maxWorldRank = elements.size();
         for(Element element : elements) {
             final Elements tds = element.select("td");
             final String estimate = tds.get(6).text().replace(",", ""), registeredFirearms = tds.get(8).text().replace(",", ""), unregisteredFirearms = tds.get(9).text().replace(",", "");
@@ -482,17 +490,15 @@ public enum CountryRankings implements CountryRankingService {
             values.add(new CountryRankingInfoValueOther(registered, NumberType.INTEGER, "Registered", null));
             values.add(new CountryRankingInfoValueOther(unregistered, NumberType.INTEGER, "Unregistered", null));
             value.setOtherValues(values);
-            value.setMaxWorldRank(maxWorldRank);
             json.put(country, value.toJSONObject());
         }
     }
-    private void loadClimateChangePerformanceIndex(JSONObject json) {
+    private void loadClimateChangePerformanceIndex(JSONObjectTranslatable json) {
         final Elements trs = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         trs.remove(0);
         trs.remove(0);
         trs.remove(0);
         trs.remove(0);
-        final int maxWorldRank = trs.size();
         for(Element element : trs) {
             final Elements tds = element.select("td");
             final int worldRank = Integer.parseInt(tds.get(0).text());
@@ -500,35 +506,34 @@ public enum CountryRankings implements CountryRankingService {
             final float score = Float.parseFloat(tds.get(2).text());
             final int defcon = score < 40 ? 1 : score < 50 ? 2 : score < 60 ? 3 : score < 70 ? 4 : 5;
             final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, worldRank, -1, score, false);
-            value.setMaxWorldRank(maxWorldRank);
             json.put(country, value.toJSONObject());
         }
     }
-    private void loadCorruptionPerceptionIndex(JSONObject json) {
+    private void loadCorruptionPerceptionIndex(JSONObjectTranslatable json) {
         final Elements trs = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 1).select("tbody tr");
         trs.remove(0);
         trs.remove(0);
-        final int maxWorldRank = trs.size();
         for(Element element : trs) {
             final Elements tds = element.select("td");
             final int worldRank = Integer.parseInt(tds.get(0).text());
             final String country = tds.get(1).select("a[href]").get(0).text().toLowerCase().replace(" ", "");
-            final float score = Float.parseFloat(tds.get(2).text());
-            final int defcon = score < 40 ? 1 : score < 60 ? 2 : score < 75 ? 3 : score < 90 ? 4 : 5;
-            final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, worldRank, -1, score, false);
-            value.setMaxWorldRank(maxWorldRank);
-            json.put(country, value.toJSONObject());
+            final String targetScore = tds.get(2).text();
+            if(targetScore.matches("[0-9]+")) {
+                final float score = Float.parseFloat(targetScore);
+                final int defcon = score < 40 ? 1 : score < 60 ? 2 : score < 75 ? 3 : score < 90 ? 4 : 5;
+                final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, worldRank, -1, score, false);
+                json.put(country, value.toJSONObject());
+            }
         }
     }
-    private void loadDemocracyIndex(JSONObject json) {
-        final Elements trs = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 5).select("tbody tr");
+    private void loadDemocracyIndex(JSONObjectTranslatable json) {
+        final Elements trs = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 4).select("tbody tr");
         trs.remove(0);
         trs.removeIf(tr -> {
             final Elements tds = tr.select("td");
             return tds.size() < 11;
         });
 
-        final int maxWorldRank = trs.size();
         for(Element element : trs) {
             final Elements tds = element.select("td");
             final int worldRank = Integer.parseInt(tds.get(0).text());
@@ -548,12 +553,11 @@ public enum CountryRankings implements CountryRankingService {
             values.add(new CountryRankingInfoValueOther(politicalCulture, NumberType.FLOAT, "Political culture", " score"));
             values.add(new CountryRankingInfoValueOther(civilLiberties, NumberType.FLOAT, "Civil liberties", " score"));
             value.setOtherValues(values);
-            value.setMaxWorldRank(maxWorldRank);
             json.put(country, value.toJSONObject());
         }
     }
-    private void loadDivorceRate(JSONObject json) {
-        final Elements elements = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
+    private void loadDivorceRate(JSONObjectTranslatable json) {
+        final Elements elements = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 1).select("tbody tr");
         elements.remove(0);
         elements.remove(0);
         elements.removeIf(element -> element.select("td").get(5).text().isEmpty());
@@ -561,8 +565,7 @@ public enum CountryRankings implements CountryRankingService {
             final Elements tds = element.select("td");
             return Float.parseFloat(tds.get(5).text());
         }));
-        final int maxWorldRank = elements.size();
-        int worldRank = maxWorldRank;
+        int worldRank = elements.size();
         for(Element element : elements) {
             final Elements tds = element.select("td");
             final String country = tds.get(0).select("a").get(0).text().toLowerCase().replace(" ", "");
@@ -570,15 +573,13 @@ public enum CountryRankings implements CountryRankingService {
             final int yearOfData = Integer.parseInt(tds.get(6).text().split("\\(")[1].split("\\)")[0]);
             final int defcon = percent >= 50.00 ? 1 : percent >= 40.00 ? 2 : percent >= 30.00 ? 3 : percent >= 20.00 ? 4 : 5;
             final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, worldRank, yearOfData, percent, false);
-            value.setMaxWorldRank(maxWorldRank);
             json.put(country, value.toJSONObject());
             worldRank -= 1;
         }
     }
-    private void loadEconomicFreedomIndex(JSONObject json) {
+    private void loadEconomicFreedomIndex(JSONObjectTranslatable json) {
         final Elements elements = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         elements.remove(0);
-        final int maxWorldRank = elements.size();
         for(Element element : elements) {
             final Elements tds = element.select("td");
             final String country = tds.get(0).text().toLowerCase().replace(" ", "");
@@ -586,11 +587,10 @@ public enum CountryRankings implements CountryRankingService {
             final float percent = Float.parseFloat(tds.get(2).text());
             final int defcon = percent < 60.00 ? 1 : percent < 65.00 ? 2 : percent < 70.00 ? 3 : percent < 80.00 ? 4 : 5;
             final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, worldRank, -1, percent, false);
-            value.setMaxWorldRank(maxWorldRank);
             json.put(country, value.toJSONObject());
         }
     }
-    private void loadEducationIndex(JSONObject json) {
+    private void loadEducationIndex(JSONObjectTranslatable json) {
         final Elements trs = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         trs.remove(0);
         final int maxWorldRank = trs.size();
@@ -602,7 +602,6 @@ public enum CountryRankings implements CountryRankingService {
             final int defcon = index < 0.500 ? 1 : index < 0.600 ? 2 : index < 0.700 ? 3 : index < 0.800 ? 4 : 5;
             final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, 0, -1, index, false);
             value.country = country;
-            value.setMaxWorldRank(maxWorldRank);
             values.add(value);
         }
         values.sort(Comparator.comparingDouble(value -> value.getValue().floatValue()));
@@ -613,11 +612,10 @@ public enum CountryRankings implements CountryRankingService {
             worldRank -= 1;
         }
     }
-    private void loadElectricityConsumption(JSONObject json) {
+    private void loadElectricityConsumption(JSONObjectTranslatable json) {
         final Elements elements = getRankingDocumentElements(url, "div.mw-content-ltr div.mw-parser-output table.wikitable", 0).select("tbody tr");
         elements.remove(0);
         elements.remove(0);
-        final int maxWorldRank = elements.size();
         for(Element element : elements) {
             final Elements tds = element.select("td");
             final int worldRank = Integer.parseInt(tds.get(0).text());
@@ -628,14 +626,12 @@ public enum CountryRankings implements CountryRankingService {
             final boolean isEstimate = yearValues.length > 1;
             final int defcon = -1;
             final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, worldRank, yearOfData, consumption, isEstimate);
-            value.setMaxWorldRank(maxWorldRank);
             json.put(country, value.toJSONObject());
         }
     }
-    private void loadFragileStateIndex(JSONObject json) {
+    private void loadFragileStateIndex(JSONObjectTranslatable json) {
         final Elements trs = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         trs.remove(0);
-        final int maxWorldRank = trs.size();
         int lastWorldRank = 0;
         for(Element element : trs) {
             final Elements tds = element.select("td");
@@ -646,12 +642,11 @@ public enum CountryRankings implements CountryRankingService {
             final float score = Float.parseFloat(hasRank ? two : one);
             final int defcon = score >= 90.00 ? 1 : score >= 80.00 ? 2 : score >= 70.00 ? 3 : score >= 60.00 ? 4 : 5;
             final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, worldRank, -1, score, false);
-            value.setMaxWorldRank(maxWorldRank);
             json.put(country, value.toJSONObject());
             lastWorldRank = worldRank;
         }
     }
-    private void loadFreedomRankings(JSONObject json) {
+    private void loadFreedomRankings(JSONObjectTranslatable json) {
         final Elements trs = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         trs.remove(0);
         trs.remove(0);
@@ -661,8 +656,7 @@ public enum CountryRankings implements CountryRankingService {
             final int max = tds.size();
             return Integer.parseInt(tds.get(max-1).text());
         }));
-        final int maxWorldRank = trs.size();
-        int worldRank = maxWorldRank;
+        int worldRank = trs.size();
         for(Element element : trs) {
             final Elements tds = element.select("td");
             final String country = tds.get(0).text().toLowerCase().replace(" ", "").replace("*", "").replace(" ", "");
@@ -673,15 +667,13 @@ public enum CountryRankings implements CountryRankingService {
             values.add(new CountryRankingInfoValueOther(politicalRightsScore, NumberType.INTEGER, "Political Rights Score", "pts"));
             values.add(new CountryRankingInfoValueOther(civilRightsScore, NumberType.INTEGER, "Civil Liberties Score", "pts"));
             value.setOtherValues(values);
-            value.setMaxWorldRank(maxWorldRank);
             json.put(country, value.toJSONObject());
             worldRank -= 1;
         }
     }
-    private void loadGlobalPeaceIndex(JSONObject json) {
+    private void loadGlobalPeaceIndex(JSONObjectTranslatable json) {
         final Elements trs = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 1).select("tbody tr");
         trs.remove(0);
-        final int maxWorldRank = trs.size();
         for(Element element : trs) {
             final Elements tds = element.select("td");
             final int worldRank = Integer.parseInt(tds.get(1).text());
@@ -689,14 +681,12 @@ public enum CountryRankings implements CountryRankingService {
             final float score = Float.parseFloat(tds.get(2).text());
             final int defcon = score >= 2.75 ? 1 : score >= 2.50 ? 2 : score >= 2.25 ? 3 : score >= 2.00 ? 4 : 5;
             final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, worldRank, -1, score, false);
-            value.setMaxWorldRank(maxWorldRank);
             json.put(country, value.toJSONObject());
         }
     }
-    private void loadGlobalTerrorismIndex(JSONObject json) {
+    private void loadGlobalTerrorismIndex(JSONObjectTranslatable json) {
         final Elements elements = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 4).select("tbody tr");
         elements.remove(0);
-        final int maxWorldRank = elements.size();
         for(Element element : elements) {
             final Elements tds = element.select("td");
             final int worldRank = Integer.parseInt(tds.get(0).text().replace("=", ""));
@@ -704,11 +694,10 @@ public enum CountryRankings implements CountryRankingService {
             final float score = Float.parseFloat(tds.get(2).text());
             final int defcon = score >= 8 ? 1 : score >= 6 ? 2 : score >= 4 ? 3 : score >= 2 ? 4 : 5;
             final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, worldRank, -1, score, false);
-            value.setMaxWorldRank(maxWorldRank);
             json.put(country, value.toJSONObject());
         }
     }
-    private void loadHomicideRate(JSONObject json) {
+    private void loadHomicideRate(JSONObjectTranslatable json) {
         final Elements elements = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 1).select("tbody tr");
         elements.remove(0);
         elements.remove(0);
@@ -716,8 +705,7 @@ public enum CountryRankings implements CountryRankingService {
             final Elements tds = element.select("td");
             return Float.parseFloat(tds.get(3).text());
         }));
-        final int maxWorldRank = elements.size();
-        int worldRank = maxWorldRank;
+        int worldRank = elements.size();
         for(Element element : elements) {
             final Elements headers = element.select("th");
             final boolean hasHeader = !headers.isEmpty();
@@ -727,17 +715,15 @@ public enum CountryRankings implements CountryRankingService {
             final float rate = Float.parseFloat(tds.get(hasHeader ? 2 : 3).text());
             final int defcon = rate > 20.00 ? 1 : rate > 10 ? 2 : rate > 5 ? 3 : rate > 2.50 ? 4 : 5;
             final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, worldRank, yearOfData, rate, false);
-            value.setMaxWorldRank(maxWorldRank);
             json.put(country, value.toJSONObject());
             worldRank -= 1;
         }
     }
-    private void loadHumanDevelopmentIndex(JSONObject json) {
+    private void loadHumanDevelopmentIndex(JSONObjectTranslatable json) {
         final Elements trs = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         trs.remove(0);
         trs.remove(0);
         trs.removeIf(element -> element.select("th").isEmpty() || element.select("td").get(0).text().equals("—"));
-        final int maxWorldRank = trs.size();
         for(Element element : trs) {
             final Elements tds = element.select("td");
             final int worldRank = Integer.parseInt(tds.get(0).text());
@@ -745,11 +731,10 @@ public enum CountryRankings implements CountryRankingService {
             final float score = Float.parseFloat(tds.get(2).text());
             final int defcon = score < 0.450 ? 1 : score < 0.550 ? 2 : score < 0.70 ? 3 : score < 0.850 ? 4 : 5;
             final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, worldRank, -1, score, false);
-            value.setMaxWorldRank(maxWorldRank);
             json.put(country, value.toJSONObject());
         }
     }
-    private void loadIncarcerationRate(JSONObject json) {
+    private void loadIncarcerationRate(JSONObjectTranslatable json) {
         final Elements trs = getRankingDocumentElements(url, "div.mw-parser-output table.sortable", 0).select("tbody tr");
         trs.remove(0);
         trs.removeIf(tr -> {
@@ -760,8 +745,7 @@ public enum CountryRankings implements CountryRankingService {
             final Elements tds = element.select("td");
             return Integer.parseInt(tds.get(3).text().replace(",", ""));
         }));
-        final int maxWorldRank = trs.size();
-        int worldRank = maxWorldRank;
+        int worldRank = trs.size();
         for(Element element : trs) {
             final Elements tds = element.select("td");
             final String country = tds.get(0).text().toLowerCase().replace(" ", "").split("\\[")[0].split(" \\(")[0].replace("*", "").replace(" ", "");
@@ -772,32 +756,29 @@ public enum CountryRankings implements CountryRankingService {
             final List<CountryRankingInfoValueOther> values = new ArrayList<>();
             values.add(new CountryRankingInfoValueOther(prisonPopulation, NumberType.INTEGER, "Prison Population", " people"));
             value.setOtherValues(values);
-            value.setMaxWorldRank(maxWorldRank);
             json.put(country, value.toJSONObject());
             worldRank -= 1;
         }
     }
-    private void loadInfantMortalityRate(JSONObject json) {
+    private void loadInfantMortalityRate(JSONObjectTranslatable json) {
         final Elements trs = getRankingDocumentElements(url, "div.mw-parser-output table.sortable", 0).select("tbody tr");
         trs.remove(0);
         trs.sort(Comparator.comparing(element -> {
             final Elements tds = element.select("td");
             return Float.parseFloat(tds.get(1).text());
         }));
-        final int maxWorldRank = trs.size();
-        int worldRank = maxWorldRank;
+        int worldRank = trs.size();
         for(Element element : trs) {
             final Elements tds = element.select("td");
             final String country = tds.get(0).text().toLowerCase().split("\\(")[0].replace(" ", "").replace(",", "").replace("*", "").replace(" ", "");
             final float mortalityRate = Float.parseFloat(tds.get(1).text());
             final int defcon = mortalityRate >= 80.00 ? 1 : mortalityRate >= 60.00 ? 2 : mortalityRate >= 40.00 ? 3 : mortalityRate >= 20.00 ? 4 : 5;
             final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, worldRank, -1, mortalityRate, true);
-            value.setMaxWorldRank(maxWorldRank);
             json.put(country, value.toJSONObject());
             worldRank -= 1;
         }
     }
-    private void loadInflationRate(JSONObject json) {
+    private void loadInflationRate(JSONObjectTranslatable json) {
         final Elements trs = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         trs.remove(0);
         trs.sort(Comparator.comparing(element -> {
@@ -809,8 +790,7 @@ public enum CountryRankings implements CountryRankingService {
             }
             return Float.parseFloat(percentString) * (isPositive ? 1 : -1);
         }));
-        final int maxWorldRank = trs.size();
-        int worldRank = maxWorldRank;
+        int worldRank = trs.size();
         for(Element element : trs) {
             final Elements tds = element.select("td");
             final String country = tds.get(0).text().toLowerCase().replace(" ", "").replace(",", "");
@@ -827,16 +807,14 @@ public enum CountryRankings implements CountryRankingService {
             final float percent = Float.parseFloat(percentString) * (isPositive ? 1 : -1);
             final int defcon = percent > 10.00 ? 1 : percent > 8.00 ? 2 : percent > 6.00 ? 3 : percent > 4.00 ? 4 : 5;
             final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, worldRank, yearOfData, percent, isEstimate);
-            value.setMaxWorldRank(maxWorldRank);
             json.put(country, value.toJSONObject());
             worldRank -= 1;
         }
     }
-    private void loadLegatumProsperityIndex(JSONObject json) {
+    private void loadLegatumProsperityIndex(JSONObjectTranslatable json) {
         final Elements trs = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         trs.remove(0);
         trs.remove(0);
-        final int maxWorldRank = trs.size();
         for(Element element : trs) {
             final Elements tds = element.select("td");
             final int worldRank = Integer.parseInt(tds.get(1).text());
@@ -844,11 +822,10 @@ public enum CountryRankings implements CountryRankingService {
             final float score = Float.parseFloat(tds.get(2).text());
             final int defcon = score < 40 ? 1 : score < 45 ? 2 : score < 55 ? 3 : score < 65 ? 4 : 5;
             final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, worldRank, -1, score, false);
-            value.setMaxWorldRank(maxWorldRank);
             json.put(country, value.toJSONObject());
         }
     }
-    private void loadLifeExpectancy(JSONObject json) {
+    private void loadLifeExpectancy(JSONObjectTranslatable json) {
         final Elements elements = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         elements.remove(0);
         elements.remove(0);
@@ -857,7 +834,6 @@ public enum CountryRankings implements CountryRankingService {
             return tds.isEmpty() || tds.get(0).text().equals("—");
         });
         int lastWorldRank = 1;
-        final int maxWorldRank = elements.size();
         for(Element element : elements) {
             final Elements tds = element.select("td");
             final int worldRank = lastWorldRank;
@@ -869,16 +845,14 @@ public enum CountryRankings implements CountryRankingService {
             values.add(new CountryRankingInfoValueOther(female, NumberType.FLOAT, "Female Life Expectancy", " years"));
             values.add(new CountryRankingInfoValueOther(male, NumberType.FLOAT, "Male Life Expectancy", " years"));
             value.setOtherValues(values);
-            value.setMaxWorldRank(maxWorldRank);
             json.put(country, value.toJSONObject());
             lastWorldRank += 1;
         }
     }
-    private void loadMaternalMortalityRate(JSONObject json) {
+    private void loadMaternalMortalityRate(JSONObjectTranslatable json) {
         final Elements elements = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         elements.remove(0);
         elements.remove(elements.size()-1);
-        final int maxWorldRank = elements.size();
         int previousWorldRank = -1;
         for(Element element : elements) {
             final Elements tds = element.select("td");
@@ -889,34 +863,30 @@ public enum CountryRankings implements CountryRankingService {
             final int ratio = Integer.parseInt(tds.get(hasWorldRank ? 2 : 1).text().split("\\[")[0].replace(",", ""));
             final int defcon = ratio >= 350 ? 1 : ratio >= 280 ? 2 : ratio >= 140 ? 3 : ratio >= 70 ? 4 : 5;
             final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, worldRank, -1, ratio, false);
-            value.setMaxWorldRank(maxWorldRank);
             json.put(country, value.toJSONObject());
         }
     }
-    private void loadNaturalDisasterRisk(JSONObject json) {
+    private void loadNaturalDisasterRisk(JSONObjectTranslatable json) {
         final Elements trs = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         trs.remove(0);
         trs.sort(Comparator.comparing(element -> {
             final Elements tds = element.select("td");
             return Float.parseFloat(tds.get(2).text().replace("%", ""));
         }));
-        final int maxWorldRank = trs.size();
-        int worldRank = maxWorldRank;
+        int worldRank = trs.size();
         for(Element element : trs) {
             final Elements tds = element.select("td");
             final String country = tds.get(1).text().toLowerCase().replace(" ", "");
             final float score = Float.parseFloat(tds.get(2).text().replace("%", ""));
             final int defcon = score >= 10.30 ? 1 : score >= 7.10 ? 2 : score >= 5.50 ? 3 : score >= 3.40 ? 4 : 5;
             final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, worldRank, -1, score, false);
-            value.setMaxWorldRank(maxWorldRank);
             json.put(country, value.toJSONObject());
             worldRank -= 1;
         }
     }
-    private void loadObesityRate(JSONObject json) {
+    private void loadObesityRate(JSONObjectTranslatable json) {
         final Elements elements = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         elements.remove(0);
-        final int maxWorldRank = elements.size();
         for(Element element : elements) {
             final Elements tds = element.select("td");
             final String country = tds.get(0).text().toLowerCase().replace(" ", "").replace("federatedstatesof", "");
@@ -924,18 +894,16 @@ public enum CountryRankings implements CountryRankingService {
             final float percent = Float.parseFloat(tds.get(2).text());
             final int defcon = percent >= 50.00 ? 1 : percent >= 40.00 ? 2 : percent >= 30.00 ? 3 : percent >= 20.00 ? 4 : 5;
             final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, worldRank, -1, percent, false);
-            value.setMaxWorldRank(maxWorldRank);
             json.put(country, value.toJSONObject());
         }
     }
-    private void loadPopulation(JSONObject json) {
+    private void loadPopulation(JSONObjectTranslatable json) {
         final Elements elements = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         elements.remove(0);
         elements.removeIf(element -> {
             final Elements ths = element.select("th");
             return ths.isEmpty() || ths.get(0).text().equals("–");
         });
-        final int maxWorldRank = elements.size();
         for(Element element : elements) {
             final Elements tds = element.select("td");
             final int worldRank = Integer.parseInt(element.selectFirst("th").text());
@@ -945,14 +913,12 @@ public enum CountryRankings implements CountryRankingService {
             final int yearOfData = Integer.parseInt(dateValues[dateValues.length-1]);
             final int defcon = -1;
             final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, worldRank, yearOfData, population, false);
-            value.setMaxWorldRank(maxWorldRank);
             json.put(country, value.toJSONObject());
         }
     }
-    private void loadPressFreedomIndex(JSONObject json) {
+    private void loadPressFreedomIndex(JSONObjectTranslatable json) {
         final String url = this.url.replace("%year%", Integer.toString(yearOfData));
         final Elements elements = getRankingDocumentElements(url, "body div.wrapper-page section.main-wrapper div.region section.block section.ranking-map__panel ul.ranking-map__countries-list li a");
-        final int maxWorldRank = elements.size();
         for(Element element : elements) {
             final Elements spans = element.select("span");
             final int worldRank = Integer.parseInt(spans.get(0).text());
@@ -960,17 +926,14 @@ public enum CountryRankings implements CountryRankingService {
             final float score = Float.parseFloat(spans.get(2).text());
             final int defcon = score >= 70 ? 1 : score >= 50 ? 2 : score >= 35 ? 3 : score >= 20 ? 4 : 5;
             final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, worldRank, -1, score, false);
-            value.setMaxWorldRank(maxWorldRank);
             json.put(country, value.toJSONObject());
         }
     }
-    private String loadPressFreedomIndexLegacy() {
+    private void loadPressFreedomIndexLegacy(JSONObjectTranslatable json) {
         final Elements trs = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         trs.remove(0);
         trs.removeIf(element -> element.select("td").get(1).text().equals("N/A"));
-        final int maxWorldRank = trs.size();
-        int worldRank = maxWorldRank;
-        final StringBuilder builder = new StringBuilder("[");
+        int worldRank = trs.size();
         for(Element element : trs) {
             final Elements tds = element.select("td");
             final String country = tds.get(0).text().toLowerCase().replace(" ", "").replace(",", "").split("\\[")[0];
@@ -978,16 +941,13 @@ public enum CountryRankings implements CountryRankingService {
             final int defcon = score >= 70 ? 1 : score >= 50 ? 2 : score >= 35 ? 3 : score >= 15 ? 4 : 5;
             final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, worldRank, -1, score, false);
             value.country = country;
-            builder.append(worldRank == maxWorldRank ? "" : ",").append(value.toServerJSON());
+            json.put(country, value.toJSONObject());
             worldRank -= 1;
         }
-        builder.append("]");
-        return builder.toString();
     }
-    private void loadQualityOfLifeIndex(JSONObject json) {
+    private void loadQualityOfLifeIndex(JSONObjectTranslatable json) {
         final Elements trs = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         trs.remove(0);
-        final int maxWorldRank = trs.size();
         for(Element element : trs) {
             final Elements tds = element.select("td");
             final int worldRank = Integer.parseInt(tds.get(0).text());
@@ -995,14 +955,12 @@ public enum CountryRankings implements CountryRankingService {
             final float score = Float.parseFloat(tds.get(2).text());
             final int defcon = score <= 4.00 ? 1 : score <= 5.00 ? 2 : score <= 6.00 ? 3 : score <= 7.00 ? 4 : 5;
             final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, worldRank, -1, score, false);
-            value.setMaxWorldRank(maxWorldRank);
             json.put(country, value.toJSONObject());
         }
     }
-    private void loadQualityOfNationalityIndex(JSONObject json) {
+    private void loadQualityOfNationalityIndex(JSONObjectTranslatable json) {
         final Elements elements = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         elements.remove(0);
-        final int maxWorldRank = elements.size();
         for(Element element : elements) {
             final Elements tds = element.select("td");
             final int worldRank = Integer.parseInt(tds.get(0).text());
@@ -1010,15 +968,13 @@ public enum CountryRankings implements CountryRankingService {
             final float score = Float.parseFloat(tds.get(2).text().split("%")[0]);
             final int defcon = score < 20 ? 1 : score < 40 ? 2 : score < 60 ? 3 : score < 80.00 ? 4 : 5;
             final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, worldRank, -1, score, false);
-            value.setMaxWorldRank(maxWorldRank);
             json.put(country, value.toJSONObject());
         }
     }
-    private void loadSocialProgressIndex(JSONObject json) {
+    private void loadSocialProgressIndex(JSONObjectTranslatable json) {
         final Elements trs = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 1).select("tbody tr");
         trs.remove(0);
         trs.remove(0);
-        final int maxWorldRank = trs.size();
         for(Element element : trs) {
             final Elements tds = element.select("td");
             final int worldRank = Integer.parseInt(tds.get(1).text());
@@ -1026,11 +982,10 @@ public enum CountryRankings implements CountryRankingService {
             final float score = Float.parseFloat(tds.get(2).text());
             final int defcon = score < 60.00 ? 1 : score < 70.00 ? 2 : score < 80.00 ? 3 : score < 90.00 ? 4 : 5;
             final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, worldRank, -1, score, false);
-            value.setMaxWorldRank(maxWorldRank);
             json.put(country, value.toJSONObject());
         }
     }
-    private void loadSuicideRate(JSONObject json) {
+    private void loadSuicideRate(JSONObjectTranslatable json) {
         final Elements trs = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         trs.remove(0);
         trs.removeIf(tr -> tr.select("td").size() < 4 || tr.hasAttr("style") && tr.attr("style").equals("font-weight:bold"));
@@ -1038,8 +993,7 @@ public enum CountryRankings implements CountryRankingService {
             final Elements tds = tr.select("td");
             return Float.parseFloat(tds.get(1).text());
         }));
-        final int maxWorldRank = trs.size();
-        int worldRank = maxWorldRank;
+        int worldRank = trs.size();
         for(Element element : trs) {
             final Elements tds = element.select("td");
             final String country = tds.get(0).text().toLowerCase().split("\\[")[0].split("\\(")[0].replace(" ", "").replace("*", "").replace(" ", "");
@@ -1052,55 +1006,49 @@ public enum CountryRankings implements CountryRankingService {
             values.add(new CountryRankingInfoValueOther(ratePer100_000male, NumberType.FLOAT, "Male Suicide Rate", " per 100,000"));
             values.add(new CountryRankingInfoValueOther(ratePer100_000female, NumberType.FLOAT, "Female Suicide Rate", " per 100,000"));
             value.setOtherValues(values);
-            value.setMaxWorldRank(maxWorldRank);
             json.put(country, value.toJSONObject());
             worldRank -= 1;
         }
     }
-    private void loadUnemploymentRate(JSONObject json) {
+    private void loadUnemploymentRate(JSONObjectTranslatable json) {
         final Elements trs = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         trs.remove(0);
         trs.sort(Comparator.comparing(element -> {
             final Elements tds = element.select("td");
             return Float.parseFloat(tds.get(1).text().split("\\[")[0]);
         }));
-        final int maxWorldRank = trs.size();
-        int worldRank = maxWorldRank;
+        int worldRank = trs.size();
         for(Element element : trs) {
             final Elements tds = element.select("td");
             final String country = tds.get(0).text().toLowerCase().split("\\(")[0].replace(" ", "").replace(",", "").replace("*", "").replace(" ", "");
             final String[] yearOfDataString = tds.get(2).text().split(" ");
-            final int yearOfData = Integer.parseInt(removeReferences(yearOfDataString[yearOfDataString.length-1]));
-            final float rate = Float.parseFloat(removeReferences(tds.get(1).text()));
+            final int yearOfData = Integer.parseInt(LocalServer.removeWikipediaReferences(yearOfDataString[yearOfDataString.length-1]));
+            final float rate = Float.parseFloat(LocalServer.removeWikipediaReferences(tds.get(1).text()));
             final int defcon = rate >= 25.00 ? 1 : rate >= 20.00 ? 2 : rate >= 15.00 ? 3 : rate >= 10.00 ? 4 : 5;
             final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, worldRank, yearOfData, rate, false);
-            value.setMaxWorldRank(maxWorldRank);
             json.put(country, value.toJSONObject());
             worldRank -= 1;
         }
     }
-    private void loadWorldGivingIndex(JSONObject json) {
+    private void loadWorldGivingIndex(JSONObjectTranslatable json) {
         final Elements trs = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         trs.remove(0);
         trs.removeIf(row -> {
             final String text = row.select("td").get(1).text();
             return text.equals("n/a");
         });
-        final int maxWorldRank = trs.size();
         for(Element element : trs) {
             final Elements tds = element.select("td");
             final String country = tds.get(0).select("a").get(0).text().toLowerCase().replace(" ", "");
             final int worldRank = Integer.parseInt(tds.get(1).text());
             final int defcon = worldRank >= 100 ? 1 : worldRank >= 80 ? 2 : worldRank >= 60 ? 3 : worldRank >= 40 ? 4 : 5;
             final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, worldRank, -1, -1, false);
-            value.setMaxWorldRank(maxWorldRank);
             json.put(country, value.toJSONObject());
         }
     }
-    private void loadWorldHappinessReport(JSONObject json) {
+    private void loadWorldHappinessReport(JSONObjectTranslatable json) {
         final Elements trs = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         trs.remove(0);
-        final int maxWorldRank = trs.size();
         for(Element element : trs) {
             final Elements tds = element.select("td");
             final int worldRank = Integer.parseInt(tds.get(0).text());
@@ -1108,7 +1056,6 @@ public enum CountryRankings implements CountryRankingService {
             final float score = Float.parseFloat(tds.get(2).text());
             final int defcon = score < 4 ? 1 : score < 5 ? 2 : score < 6 ? 3 : score < 7 ? 4 : 5;
             final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, worldRank, -1, score, false);
-            value.setMaxWorldRank(maxWorldRank);
             json.put(country, value.toJSONObject());
         }
     }

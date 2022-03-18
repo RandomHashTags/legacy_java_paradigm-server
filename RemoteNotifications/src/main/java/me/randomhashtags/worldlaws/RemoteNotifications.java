@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.notifications.RemoteNotification;
 import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.server.ServerRequestTypeRemoteNotifications;
@@ -42,7 +43,7 @@ public final class RemoteNotifications implements WLServer {
     }
 
     @Override
-    public String getServerResponse(APIVersion version, String identifier, ServerRequest request) {
+    public JSONObjectTranslatable getServerResponse(APIVersion version, String identifier, ServerRequest request) {
         final ServerRequestTypeRemoteNotifications type = (ServerRequestTypeRemoteNotifications) request.getType();
         final String target = request.getTarget();
         final String[] values = target != null ? target.split("/") : null;

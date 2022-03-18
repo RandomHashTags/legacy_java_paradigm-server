@@ -1,5 +1,7 @@
 package me.randomhashtags.worldlaws.country;
 
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
+
 public final class StateReference {
     private final String title, chapter, section, url;
 
@@ -35,5 +37,14 @@ public final class StateReference {
                 "\"section\":\"" + section + "\"," +
                 "\"url\":\"" + url + "\"" +
                 "}";
+    }
+
+    public JSONObjectTranslatable toJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("title", "chapter");
+        json.put("title", title);
+        json.put("chapter", chapter);
+        json.put("section", section);
+        json.put("url", url);
+        return json;
     }
 }

@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.politics;
 
 import me.randomhashtags.worldlaws.LocalServer;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 
 public final class Election {
     private final String id, name;
@@ -10,10 +11,13 @@ public final class Election {
         this.name = LocalServer.fixEscapeValues(name);
     }
 
-    @Override
-    public String toString() {
-        return "\"" + id + "\":{" +
-                "\"name\":\"" + name + "\"" +
-                "}";
+    public String getID() {
+        return id;
+    }
+
+    public JSONObjectTranslatable toJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("name");
+        json.put("name", name);
+        return json;
     }
 }

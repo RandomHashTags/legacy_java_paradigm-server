@@ -11,7 +11,7 @@ public final class CountryHistoryEra implements Jsoupable {
         this.title = LocalServer.fixEscapeValues(title);
         this.startingYear = startingYear;
         this.endingYear = endingYear;
-        this.description = LocalServer.fixEscapeValues(LocalServer.removeWikipediaTranslations(removeReferences(description)));
+        this.description = LocalServer.fixEscapeValues(LocalServer.removeWikipediaTranslations(LocalServer.removeWikipediaReferences(description)));
         this.imageURL = imageURL;
         this.url = url;
     }

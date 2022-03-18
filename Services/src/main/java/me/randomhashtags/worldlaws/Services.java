@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.server.ServerRequestTypeServices;
 import me.randomhashtags.worldlaws.service.entertainment.TwitchClips;
@@ -30,12 +31,12 @@ public final class Services implements WLServer {
     }
 
     private void test() {
-        final String string = TwitchClips.INSTANCE.getResponse("getAll");
+        final JSONObjectTranslatable string = TwitchClips.INSTANCE.getResponse("getAll");
         WLLogger.logInfo("Services;test;string=" + string);
     }
 
     @Override
-    public String getServerResponse(APIVersion version, String identifier, ServerRequest request) {
+    public JSONObjectTranslatable getServerResponse(APIVersion version, String identifier, ServerRequest request) {
         final ServerRequestTypeServices type = (ServerRequestTypeServices) request.getType();
         final String target = request.getTarget();
         switch (type) {
@@ -67,7 +68,7 @@ public final class Services implements WLServer {
         return UpdateIntervals.Services.HOME;
     }
 
-    private String getStockMarketResponse(APIVersion version, String value) {
+    private JSONObjectTranslatable getStockMarketResponse(APIVersion version, String value) {
         final boolean success = stockService.makeQuotaRequest(stockService.getJSONDataValue());
         if(success) {
             final String[] values = value.split("/");
@@ -86,32 +87,20 @@ public final class Services implements WLServer {
         }
         return null;
     }
-    private String getStockMarketHomeResponse(APIVersion version) {
+    private JSONObjectTranslatable getStockMarketHomeResponse(APIVersion version) {
         final long started = System.currentTimeMillis();
         final HashSet<String> requests = new HashSet<>() {{
             add("movers");
         }};
-        final HashSet<String> values = new HashSet<>();
+        final JSONObjectTranslatable json = new JSONObjectTranslatable();
         new CompletableFutures<String>().stream(requests, request -> {
-            final String string = getStockMarketResponse(version, request);
+            final JSONObjectTranslatable string = getStockMarketResponse(version, request);
             if(string != null) {
-                final String target = "\"" + request + "\":" + string;
-                values.add(target);
+                json.put(request, string);
+                json.addTranslatedKey(request);
             }
         });
-
-        String value = null;
-        if(!values.isEmpty()) {
-            final StringBuilder builder = new StringBuilder("{");
-            boolean isFirst = true;
-            for(String s : values) {
-                builder.append(isFirst ? "" : ",").append(s);
-                isFirst = false;
-            }
-            builder.append("}");
-            value = builder.toString();
-        }
         WLLogger.logInfo("Services - loaded stock market home response (took " + WLUtilities.getElapsedTime(started) + ")");
-        return value;
+        return json;
     }
 }

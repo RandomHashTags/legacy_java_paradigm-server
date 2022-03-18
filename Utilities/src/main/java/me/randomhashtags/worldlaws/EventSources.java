@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import org.json.JSONObject;
 
 import java.util.ArrayList;
@@ -13,11 +14,18 @@ public final class EventSources extends ArrayList<EventSource> {
     public EventSources(EventSources eventSources) {
         addAll(eventSources);
     }
+    public EventSources(JSONObject json) {
+        for(String siteName : json.keySet()) {
+            final JSONObject sourceJSON = json.getJSONObject(siteName);
+            final EventSource source = new EventSource(siteName, sourceJSON);
+            add(source);
+        }
+    }
 
-    public JSONObject toJSONObject() {
-        final JSONObject json = new JSONObject();
+    public JSONObjectTranslatable toJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable();
         for(EventSource source : this) {
-            json.put(source.getSiteName(), source.getJSON());
+            json.put(source.getSiteName(), source.toJSONObject());
         }
         return json;
     }

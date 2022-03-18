@@ -1,8 +1,10 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
+
 public final class NewsArticle {
 
-    private String author, title, description, url, urlToImage;
+    private final String author, title, description, url, urlToImage;
 
     public NewsArticle(String author, String title, String description, String url, String urlToImage) {
         this.author = author;
@@ -39,5 +41,15 @@ public final class NewsArticle {
                 "\"url\":\"" + url + "\"," +
                 "\"urlToImage\":\"" + urlToImage + "\"" +
                 "}";
+    }
+
+    public JSONObjectTranslatable toJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("author", "title", "description");
+        json.put("author", author);
+        json.put("title", title);
+        json.put("description", description);
+        json.put("url", url);
+        json.put("urlToImage", urlToImage);
+        return json;
     }
 }

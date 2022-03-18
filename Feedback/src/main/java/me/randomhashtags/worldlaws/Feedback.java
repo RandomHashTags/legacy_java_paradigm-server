@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.server.ServerRequestTypeFeedback;
 
@@ -23,7 +24,7 @@ public final class Feedback implements WLServer, Jsonable {
     }
 
     @Override
-    public String getServerResponse(APIVersion version, String identifier, ServerRequest request) {
+    public JSONObjectTranslatable getServerResponse(APIVersion version, String identifier, ServerRequest request) {
         final ServerRequestTypeFeedback type = (ServerRequestTypeFeedback) request.getType();
         switch (type) {
             case SUBMIT:
@@ -46,7 +47,7 @@ public final class Feedback implements WLServer, Jsonable {
         }
     }
 
-    private String submit(Folder folder, String fileName, String value) {
+    private JSONObjectTranslatable submit(Folder folder, String fileName, String value) {
         setFileJSON(folder, fileName, value);
         return null;
     }
@@ -61,10 +62,10 @@ public final class Feedback implements WLServer, Jsonable {
         return null;
     }
 
-    private String getAllBugReports() {
+    private JSONObjectTranslatable getAllBugReports() {
         return null;
     }
-    private String getAllFeatureRequests() {
+    private JSONObjectTranslatable getAllFeatureRequests() {
         return null;
     }
 }

@@ -1,13 +1,16 @@
 package me.randomhashtags.worldlaws.country;
 
 import me.randomhashtags.worldlaws.LocalServer;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
+import org.json.JSONArray;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public final class SubdivisionStatute {
     private final StateReference reference;
-    private String topic, description, json;
+    private String topic, description;
+    private JSONArray json;
 
     private List<Subdivision> subdivisions;
 
@@ -17,7 +20,7 @@ public final class SubdivisionStatute {
     public SubdivisionStatute(StateReference reference, String topic, String description, List<Subdivision> subdivisions) {
         this.reference = reference;
         this.topic = topic;
-        this.description = description;
+        this.description = LocalServer.fixEscapeValues(description);
         this.subdivisions = subdivisions;
     }
 
@@ -34,7 +37,7 @@ public final class SubdivisionStatute {
         return description;
     }
     public void setDescription(String description) {
-        this.description = description;
+        this.description = LocalServer.fixEscapeValues(description);
     }
 
     public List<Subdivision> getSubdivisions() {
@@ -44,29 +47,27 @@ public final class SubdivisionStatute {
         this.subdivisions = subdivisions;
     }
 
-    private String getSubdivisionsJSON() {
+    private JSONArray getSubdivisionsJSON() {
         if(json == null) {
-            final StringBuilder builder = new StringBuilder("[");
+            json = new JSONArray();
             if(subdivisions != null) {
-                int index = 0, max = subdivisions.size()-1;
                 for(Subdivision subdivision : subdivisions) {
-                    builder.append(subdivision.toString()).append(index == max ? "" : ",");
-                    index++;
+                    json.put(subdivision.toJSONObject());
                 }
             }
-            builder.append("]");
-            json = builder.toString();
         }
         return json;
     }
 
-    @Override
-    public String toString() {
-        return "{" +
-                "\"reference\":" + reference.toString() + "," +
-                "\"topic\":\"" + topic + "\"," +
-                (description != null ? "\"description\":\"" + LocalServer.fixEscapeValues(description) + "\"," : "") +
-                "\"subdivisions\":" + getSubdivisionsJSON() +
-                "}";
+    public JSONObjectTranslatable toJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("topic", "reference", "subdivisions");
+        json.put("topic", topic);
+        json.put("reference", reference.toJSONObject());
+        json.put("subdivisions", getSubdivisionsJSON());
+        if(description != null) {
+            json.put("description", description);
+            json.addTranslatedKey("description");
+        }
+        return json;
     }
 }

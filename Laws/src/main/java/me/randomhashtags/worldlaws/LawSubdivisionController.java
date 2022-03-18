@@ -1,8 +1,10 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.country.SubdivisionLegal;
+import me.randomhashtags.worldlaws.country.SubdivisionStatute;
 import me.randomhashtags.worldlaws.country.SubdivisionStatuteChapter;
 import me.randomhashtags.worldlaws.country.SubdivisionStatuteIndex;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.recode.SubdivisionLegislationType;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -12,12 +14,12 @@ import java.util.HashMap;
 import java.util.List;
 
 public abstract class LawSubdivisionController implements Jsoupable {
-    protected static final HashMap<LawSubdivisionController, StringBuilder> INDEX_BUILDERS = new HashMap<>();
-    protected static final HashMap<LawSubdivisionController, HashMap<String, String>> TABLE_OF_CHAPTERS_JSON = new HashMap<>();
-    protected static final HashMap<LawSubdivisionController, HashMap<String, String>> STATUTES_JSON = new HashMap<>();
+    protected static final HashMap<LawSubdivisionController, JSONObjectTranslatable> INDEX_BUILDERS = new HashMap<>();
+    protected static final HashMap<LawSubdivisionController, HashMap<String, JSONObjectTranslatable>> TABLE_OF_CHAPTERS_JSON = new HashMap<>();
+    protected static final HashMap<LawSubdivisionController, HashMap<String, JSONObjectTranslatable>> STATUTES_JSON = new HashMap<>();
 
     protected final String indexesURL, tableOfChaptersURL, statutesListURL, statuteURL;
-    protected final HashMap<String, String> statutes;
+    protected final HashMap<String, JSONObjectTranslatable> statutes;
 
     public LawSubdivisionController(String indexesURL, String tableOfChaptersURL, String statutesListURL, String statuteURL) {
         this.indexesURL = indexesURL;
@@ -48,10 +50,8 @@ public abstract class LawSubdivisionController implements Jsoupable {
         iterateThroughTable(path, table, SubdivisionLegislationType.STATUTE, 0, null);
     }
     private void iterateThroughTable(String targetTitle, Elements table, SubdivisionLegislationType type, int skipInterval, List<String> values) {
-        final StringBuilder builder = new StringBuilder("{");
         SubdivisionLegal previousChapter = null;
         int index = 1;
-        boolean isFirst = true;
         final boolean usesValues = values != null;
 
         if(skipInterval > 0) {
@@ -66,6 +66,7 @@ public abstract class LawSubdivisionController implements Jsoupable {
         }
         index = 0;
 
+        final JSONObjectTranslatable json = new JSONObjectTranslatable();
         final boolean isIndex = type == SubdivisionLegislationType.INDEX;
         for(Element chapter : table) {
             String text = LocalServer.fixEscapeValues(chapter.text());
@@ -78,23 +79,21 @@ public abstract class LawSubdivisionController implements Jsoupable {
             } else {
                 final String title = text.startsWith("- ") ? text.split("- ")[1] : text;
                 previousChapter.setTitle(title);
-                builder.append(isFirst ? "" : ",").append(previousChapter.toString());
-                isFirst = false;
+                json.put(previousChapter.getID(), previousChapter.toJSONObject());
             }
             index++;
         }
-        builder.append("}");
         switch (type) {
             case INDEX:
-                INDEX_BUILDERS.put(this, builder);
+                INDEX_BUILDERS.put(this, json);
                 break;
             case CHAPTER:
                 TABLE_OF_CHAPTERS_JSON.putIfAbsent(this, new HashMap<>());
-                TABLE_OF_CHAPTERS_JSON.get(this).put(targetTitle, builder.toString());
+                TABLE_OF_CHAPTERS_JSON.get(this).put(targetTitle, json);
                 break;
             case STATUTE:
                 STATUTES_JSON.putIfAbsent(this, new HashMap<>());
-                STATUTES_JSON.get(this).put(targetTitle, builder.toString());
+                STATUTES_JSON.get(this).put(targetTitle, json);
                 break;
             default:
                 break;
@@ -107,18 +106,18 @@ public abstract class LawSubdivisionController implements Jsoupable {
         iterateIndexTable(table, isIndex, skipFirst, null);
     }
     public void iterateIndexTable(Elements table, boolean isIndex, boolean skipFirst, Elements titles) {
-        final StringBuilder builder = getStringBuilder(table, isIndex, skipFirst, titles);
+        final JSONObjectTranslatable builder = getStringBuilder(table, isIndex, skipFirst, titles);
         INDEX_BUILDERS.put(this, builder);
     }
     public void iterateChapterTable(String chapterTitle, Elements table, boolean skipFirst, Elements titles) {
-        final StringBuilder builder = getStringBuilder(table, false, skipFirst, titles);
+        final JSONObjectTranslatable builder = getStringBuilder(table, false, skipFirst, titles);
         TABLE_OF_CHAPTERS_JSON.putIfAbsent(this, new HashMap<>());
-        TABLE_OF_CHAPTERS_JSON.get(this).put(chapterTitle, builder.toString());
+        TABLE_OF_CHAPTERS_JSON.get(this).put(chapterTitle, builder);
     }
-    private StringBuilder getStringBuilder(Elements table, boolean isIndex, boolean skipFirst, Elements titles) {
-        final StringBuilder builder = new StringBuilder("{");
+    private JSONObjectTranslatable getStringBuilder(Elements table, boolean isIndex, boolean skipFirst, Elements titles) {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable();
         final boolean isCustomTitle = titles != null;
-        boolean isFirst = true, isFirstElement = true;
+        boolean isFirst = true;
         int index = 0, maxRows = 0;
         String previousCustomTitle = null;
         for(Element chapter : table) {
@@ -163,12 +162,12 @@ public abstract class LawSubdivisionController implements Jsoupable {
                 }
                 final SubdivisionLegal legal = isIndex ? new SubdivisionStatuteIndex(backendID) : new SubdivisionStatuteChapter(backendID);
                 legal.setTitle(LocalServer.fixEscapeValues(title));
-                builder.append(isFirstElement ? "" : ",").append(legal.toString());
-                isFirstElement = false;
+                final String id = legal.getID();
+                json.put(id, legal.toJSONObject());
+                json.addTranslatedKey(id);
             }
         }
-        builder.append("}");
-        return builder;
+        return json;
     }
 
     public final String getIndexesURL() {
@@ -184,28 +183,38 @@ public abstract class LawSubdivisionController implements Jsoupable {
         return statuteURL;
     }
 
-    public final String getIndexesJSON() {
+    public final JSONObjectTranslatable getIndexesJSON() {
         if(!INDEX_BUILDERS.containsKey(this)) {
             final List<SubdivisionStatuteIndex> indexes = getIndexes();
         }
-        return INDEX_BUILDERS.containsKey(this) ? INDEX_BUILDERS.get(this).toString() : null;
+        return INDEX_BUILDERS.getOrDefault(this, null);
     }
     public abstract List<SubdivisionStatuteIndex> getIndexes();
-    public final String getTableOfChapters(String title) {
+    public final JSONObjectTranslatable getTableOfChapters(String title) {
         if(!TABLE_OF_CHAPTERS_JSON.containsKey(this) || !TABLE_OF_CHAPTERS_JSON.get(this).containsKey(title)) {
             loadTableOfChapters(title);
         }
         return TABLE_OF_CHAPTERS_JSON.get(this).get(title);
     }
     public abstract void loadTableOfChapters(String title);
-    public final String getStatuteList(String title, String chapter) {
+    public final JSONObjectTranslatable getStatuteList(String title, String chapter) {
         final String path = title + "." + chapter;
         if(!STATUTES_JSON.containsKey(this) || !STATUTES_JSON.get(this).containsKey(path)) {
             loadStatuteList(title, chapter);
         }
-        final HashMap<String, String> map = STATUTES_JSON.get(this);
+        final HashMap<String, JSONObjectTranslatable> map = STATUTES_JSON.get(this);
         return map.getOrDefault(path, map.getOrDefault(chapter, map.getOrDefault(title, null)));
     }
     public abstract void loadStatuteList(String title, String chapter);
-    public abstract String getStatute(String title, String chapter, String section);
+    public abstract SubdivisionStatute loadStatute(String title, String chapter, String section);
+    public final JSONObjectTranslatable getStatute(String title, String chapter, String section) {
+        final String path = title + "." + chapter + "." + section;
+        if(!statutes.containsKey(path)) {
+            final SubdivisionStatute statute = loadStatute(title, chapter, section);
+            if(statute != null) {
+                statutes.put(path, statute.toJSONObject());
+            }
+        }
+        return statutes.get(path);
+    }
 }

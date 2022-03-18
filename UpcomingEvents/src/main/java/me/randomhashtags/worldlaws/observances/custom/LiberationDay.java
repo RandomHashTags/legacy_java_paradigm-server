@@ -6,11 +6,11 @@ import me.randomhashtags.worldlaws.country.WLCountry;
 import java.time.DayOfWeek;
 import java.time.Month;
 
-public enum LiberationDay implements CustomIHoliday {
+public enum LiberationDay implements CustomHoliday {
     INSTANCE;
 
     @Override
-    public String getOfficialName() {
+    public String getWikipediaName() {
         return "Liberation Day";
     }
 
@@ -35,7 +35,7 @@ public enum LiberationDay implements CustomIHoliday {
             case JERSEY:
                 return new EventDate(Month.MAY, 9, year);
             case HUNGARY: return new EventDate(Month.APRIL, 4, year);
-            case HONG_KONG: return getLast(DayOfWeek.MONDAY, Month.AUGUST, year);
+            case HONG_KONG: return EventDate.getLast(DayOfWeek.MONDAY, Month.AUGUST, year);
             case INDIA: return new EventDate(Month.DECEMBER, 19, year);
             case ITALY: return new EventDate(Month.APRIL, 25, year);
             case KUWAIT: return new EventDate(Month.FEBRUARY, 26, year);

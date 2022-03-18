@@ -1,23 +1,18 @@
 package me.randomhashtags.worldlaws.info.rankings;
 
-import me.randomhashtags.worldlaws.EventSource;
-import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
-import me.randomhashtags.worldlaws.service.CountryService;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
+import me.randomhashtags.worldlaws.service.NewCountryService;
 import org.json.JSONObject;
 import org.jsoup.select.Elements;
 
-import java.util.Collection;
 import java.util.HashMap;
 
-public interface CountryRankingService extends CountryService {
-    HashMap<SovereignStateInformationType, String> RANKED_JSONS = new HashMap<>();
+public interface CountryRankingService extends NewCountryService {
+    HashMap<SovereignStateInformationType, JSONObjectTranslatable> RANKED_JSONS = new HashMap<>();
     String getURL();
     String getSiteName();
-    String getSuffix();
-    NumberType getValueType();
-    int getYearOfData();
 
     @Override
     default Folder getFolder() {
@@ -37,38 +32,30 @@ public interface CountryRankingService extends CountryService {
     }
 
     @Override
-    default void insertValuesIntoCountryValueJSONObject(JSONObject json) {
-        final int yearOfData = getYearOfData();
-        final String url = getURL().replace("%year%", Integer.toString(yearOfData)), suffix = getSuffix();
-        json.put("suffix", suffix);
-        if(!json.has("yearOfData")) {
-            json.put("yearOfData", yearOfData);
+    default JSONObjectTranslatable parseData(JSONObject json) {
+        final JSONObjectTranslatable translatable = new JSONObjectTranslatable();
+        for(String country : json.keySet()) {
+            final JSONObject countryJSON = json.getJSONObject(country);
+            final CountryRankingInfoValue value = CountryRankingInfoValue.parse(countryJSON);
+            translatable.put(country, value.toJSONObject());
+            translatable.addTranslatedKey(country);
         }
-        json.put("valueType", getValueType().name());
-
-        final String siteName = url.startsWith("https://en.wikipedia.org/wiki/") ? url.split("/wiki/")[1].replace("_", " ") : getSiteName();
-        final EventSource source = new EventSource("Wikipedia: " + siteName, url);
-        final EventSources sources = new EventSources(source);
-        json.put("sources", sources.toJSONObject());
+        return translatable;
     }
 
-    default String getRankedJSON() {
+    default JSONObjectTranslatable getRankedJSON() {
         final SovereignStateInformationType type = getInformationType();
         if(!RANKED_JSONS.containsKey(type)) {
-            final String string = loadData();
-            RANKED_JSONS.put(type, string);
+            final JSONObjectTranslatable string = loadData();
+            final JSONObjectTranslatable json = new JSONObjectTranslatable();
+            for(String key : string.keySet()) {
+                final int worldRank = string.has("worldRank") && string.get("worldRank") instanceof Integer ? string.getInt("worldRank") : -1;
+                if(worldRank > 0) {
+                    json.put(key, worldRank);
+                }
+            }
+            RANKED_JSONS.put(type, json);
         }
         return RANKED_JSONS.get(type);
-    }
-
-    private String toRankedJSON(Collection<CountryRankingInfoValue> values) {
-        final StringBuilder builder = new StringBuilder("{");
-        boolean isFirst = true;
-        for(CountryRankingInfoValue value : values) {
-            builder.append(isFirst ? "" : ",").append("\"").append(value.country.replace(" ", "")).append("\":").append(value.getWorldRank());
-            isFirst = false;
-        }
-        builder.append("}");
-        return builder.toString();
     }
 }

@@ -7,8 +7,7 @@ import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.info.CountryNationalService;
 import me.randomhashtags.worldlaws.info.CountrySingleValue;
-import me.randomhashtags.worldlaws.stream.CompletableFutures;
-import org.json.JSONObject;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -20,24 +19,26 @@ public enum NationalAnthems implements CountryNationalService { // https://en.wi
     INSTANCE;
 
     @Override
+    public EventSources getSources() {
+        return new EventSources(
+                new EventSource("United States Navy Band: Ceremonial Music", "https://www.navyband.navy.mil/media/ceremonial")
+        );
+    }
+
+    @Override
     public SovereignStateInfo getInfo() {
         return SovereignStateInfo.NATIONAL_ANTHEM;
     }
 
     @Override
-    public String loadData() {
+    public JSONObjectTranslatable loadData() {
         final String url = "https://www.navyband.navy.mil/media/ceremonial";
         final Document doc = getDocument(Folder.COUNTRIES_NATIONAL, url, false);
-        String string = null;
+        JSONObjectTranslatable json = null;
         if(doc != null) {
-            final String title = getInfo().getTitle();
             final HashMap<String, String> countries = new HashMap<>();
-            final EventSources sources = new EventSources();
-            final EventSource source = new EventSource("United States Navy Band: Ceremonial Music", "https://www.navyband.navy.mil/media/ceremonial");
-            sources.add(source);
-
-            final Elements elements = doc.select("body div div div.custom-page div div main div div div div.list-group a[href]");
-            new CompletableFutures<Element>().stream(elements, element -> {
+            final Elements elements = doc.select("div.container div.margin-bottom-50 div.row div.list-group a.list-group-item");
+            for(Element element : elements) {
                 final Element targetElement = element.selectFirst("div.col-9");
                 if(targetElement != null) {
                     final String targetCountry = targetElement.textNodes().get(0).text();
@@ -48,15 +49,18 @@ public enum NationalAnthems implements CountryNationalService { // https://en.wi
                         countries.put(countryBackendID, href);
                     }
                 }
-            });
-            final JSONObject json = new JSONObject();
-            for(Map.Entry<String, String> map : countries.entrySet()) {
-                final String country = map.getKey(), audioURL = map.getValue();
-                final CountrySingleValue value = new CountrySingleValue(title, null, audioURL, null, -1, sources);
-                json.put(country, value.toJSONObject());
             }
-            string = json.toString();
+
+            if(!countries.isEmpty()) {
+                json = new JSONObjectTranslatable();
+                for(Map.Entry<String, String> map : countries.entrySet()) {
+                    final String country = map.getKey(), audioURL = map.getValue();
+                    final CountrySingleValue value = new CountrySingleValue(null, audioURL, null, -1);
+                    json.put(country, value.toJSONObject());
+                    json.addTranslatedKey(country);
+                }
+            }
         }
-        return string;
+        return json;
     }
 }

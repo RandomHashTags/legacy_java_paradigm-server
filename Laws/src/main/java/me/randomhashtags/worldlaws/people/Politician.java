@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.people;
 
-import me.randomhashtags.worldlaws.ServerObject;
 import me.randomhashtags.worldlaws.LegislationType;
+import me.randomhashtags.worldlaws.ServerObject;
 
 public interface Politician extends Person, ServerObject {
     String getGovernedTerritory();

@@ -2,33 +2,34 @@ package me.randomhashtags.worldlaws.info;
 
 import me.randomhashtags.worldlaws.Jsoupable;
 import me.randomhashtags.worldlaws.LocalServer;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import org.json.JSONObject;
 
 public final class CountryInfoValue implements Jsoupable {
+
+    public static CountryInfoValue parse(JSONObject json) {
+        return new CountryInfoValue(json);
+    }
+
     private final String title, value, description;
 
     public CountryInfoValue(String title, String value, String description) {
         this.title = LocalServer.fixEscapeValues(title);
-        this.value = LocalServer.fixEscapeValues(removeReferences(value));
-        this.description = LocalServer.fixEscapeValues(description);
+        this.value = LocalServer.fixEscapeValues(LocalServer.removeWikipediaReferences(value));
+        this.description = LocalServer.fixEscapeValues(LocalServer.removeWikipediaReferences(description));
+    }
+    private CountryInfoValue(JSONObject json) {
+        title = json.getString("title");
+        value = json.getString("value");
+        description = json.optString("description", null);
     }
 
-    public String getTitle() {
-        return title;
-    }
-
-    @Override
-    public String toString() {
-        return "\"" + title + "\":{" +
-                (description != null ? "\"description\":\"" + description + "\"," : "") +
-                "\"value\":\"" + value + "\"" +
-                "}";
-    }
-
-    public JSONObject toJSONObject() {
-        final JSONObject json = new JSONObject();
+    public JSONObjectTranslatable toJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("title", "value");
+        json.put("title", title);
         if(description != null) {
             json.put("description", description);
+            json.addTranslatedKey("description");
         }
         json.put("value", value);
         return json;

@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.country.WLSubdivisions;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.settings.Settings;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -21,17 +22,17 @@ public enum Elections implements RestAPI, DataValues {
         return Settings.PrivateValues.Google.getCivicAPIKey();
     }
 
-    public String refresh() {
+    public JSONObjectTranslatable refresh() {
         // https://developers.google.com/civic-information/docs/v2
         final long started = System.currentTimeMillis();
         final LinkedHashMap<String, String> query = new LinkedHashMap<>();
         query.put("key", getAPIKey());
 
-        final JSONObject json = requestJSONObject("https://www.googleapis.com/civicinfo/v2/elections", GET_CONTENT_HEADERS, query);
-        String string = null;
-        if(json != null) {
-            final JSONArray elections = json.getJSONArray("elections");
-            final HashMap<String, HashMap<String, HashMap<String, HashSet<String>>>> territoryElections = new HashMap<>();
+        final JSONObject requestJSON = requestJSONObject("https://www.googleapis.com/civicinfo/v2/elections", GET_CONTENT_HEADERS, query);
+        JSONObjectTranslatable json = null;
+        if(requestJSON != null) {
+            final JSONArray elections = requestJSON.getJSONArray("elections");
+            final HashMap<String, HashMap<String, HashMap<String, HashSet<Election>>>> territoryElections = new HashMap<>();
             for(Object obj : elections) {
                 final JSONObject electionJSON = (JSONObject) obj;
                 final String name = electionJSON.getString("name");
@@ -57,48 +58,43 @@ public enum Elections implements RestAPI, DataValues {
                             }
                         }
                     }
-                    final String electionString = new Election(id, name).toString();
+                    final Election electionString = new Election(id, name);
                     territoryElections.putIfAbsent(dateString, new HashMap<>());
-                    final HashMap<String, HashMap<String, HashSet<String>>> countryMap = territoryElections.get(dateString);
+                    final HashMap<String, HashMap<String, HashSet<Election>>> countryMap = territoryElections.get(dateString);
                     countryMap.putIfAbsent(country, new HashMap<>());
-                    final HashMap<String, HashSet<String>> territoryMap = countryMap.get(country);
+                    final HashMap<String, HashSet<Election>> territoryMap = countryMap.get(country);
                     territoryMap.putIfAbsent(territory, new HashSet<>());
                     territoryMap.get(territory).add(electionString);
                 }
             }
 
-            final StringBuilder builder = new StringBuilder("{");
-            boolean isFirstDate = true;
-            for(Map.Entry<String, HashMap<String, HashMap<String, HashSet<String>>>> datesMap : territoryElections.entrySet()) {
+            json = new JSONObjectTranslatable();
+            for(Map.Entry<String, HashMap<String, HashMap<String, HashSet<Election>>>> datesMap : territoryElections.entrySet()) {
                 final String dateString = datesMap.getKey();
-                builder.append(isFirstDate ? "" : ",").append("\"").append(dateString).append("\":{");
-                isFirstDate = false;
-                boolean isFirstCountry = true;
-                for(Map.Entry<String, HashMap<String, HashSet<String>>> countriesMap : datesMap.getValue().entrySet()) {
+                final JSONObjectTranslatable dateStringJSON = new JSONObjectTranslatable();
+                for(Map.Entry<String, HashMap<String, HashSet<Election>>> countriesMap : datesMap.getValue().entrySet()) {
                     final String country = countriesMap.getKey();
-                    builder.append(isFirstCountry ? "" : ",").append("\"").append(country).append("\":{");
-                    boolean isFirstTerritory = true;
-                    for(Map.Entry<String, HashSet<String>> territoriesMap : countriesMap.getValue().entrySet()) {
+                    final JSONObjectTranslatable countryJSON = new JSONObjectTranslatable();
+                    for(Map.Entry<String, HashSet<Election>> territoriesMap : countriesMap.getValue().entrySet()) {
                         final String territory = territoriesMap.getKey();
-                        builder.append(isFirstTerritory ? "" : ",").append("\"").append(territory).append("\":{");
-                        boolean isFirstElection = true;
-                        for(String election : territoriesMap.getValue()) {
-                            builder.append(isFirstElection ? "" : ",").append(election);
-                            isFirstElection = false;
+                        final JSONObjectTranslatable territoryJSON = new JSONObjectTranslatable();
+                        for(Election election : territoriesMap.getValue()) {
+                            final String id = election.getID();
+                            territoryJSON.put(id, election.toJSONObject());
+                            territoryJSON.addTranslatedKey(id);
                         }
-                        isFirstTerritory = false;
-                        builder.append("}");
+                        countryJSON.put(territory, territoryJSON);
+                        countryJSON.addTranslatedKey(territory);
                     }
-                    builder.append("}");
-                    isFirstCountry = false;
+                    dateStringJSON.put(country, countryJSON);
+                    dateStringJSON.addTranslatedKey(country);
                 }
-                builder.append("}");
+                json.put(dateString, dateStringJSON);
+                json.addTranslatedKey(dateString);
             }
-            builder.append("}");
-            string = builder.toString();
         }
         WLLogger.logInfo("Elections - refreshed upcoming elections (took " + WLUtilities.getElapsedTime(started) + ")");
-        return string;
+        return json;
     }
     private void getRepresentatives(String ocdDivisionId, CompletionHandler handler) {
         final LinkedHashMap<String, String> query = new LinkedHashMap<>();

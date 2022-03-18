@@ -73,7 +73,10 @@ public interface RestAPI {
         return requestJSONObject(url, true, headers, query);
     }
     default JSONObject requestJSONObject(String url, boolean isLimited, LinkedHashMap<String, String> headers, LinkedHashMap<String, String> query) {
-        final String string = request(url, isLimited, headers, query);
+        return requestStaticJSONObject(url, isLimited, headers, query);
+    }
+    static JSONObject requestStaticJSONObject(String url, boolean isLimited, LinkedHashMap<String, String> headers, LinkedHashMap<String, String> query) {
+        final String string = requestStatic(url, isLimited, headers, query);
         if(string != null) {
             try {
                 return new JSONObject(string);
@@ -89,9 +92,19 @@ public interface RestAPI {
         }
         return null;
     }
+
     default JSONObject postJSONObject(String url, LinkedHashMap<String, String> postData, boolean isLimited, LinkedHashMap<String, String> headers) {
+        return postStaticJSONObject(url, postData, isLimited, headers);
+    }
+    static JSONObject postStaticJSONObject(String url, LinkedHashMap<String, String> postData, boolean isLimited, LinkedHashMap<String, String> headers) {
+        return postStaticJSONObject(url, postData, false, isLimited, headers);
+    }
+    static JSONObject postStaticJSONObject(String url, LinkedHashMap<String, String> postData, boolean postDataIsJSONObject, boolean isLimited, LinkedHashMap<String, String> headers) {
         if(postData == null) {
             postData = new LinkedHashMap<>();
+        }
+        if(headers == null) {
+            headers = new LinkedHashMap<>();
         }
         if(!headers.containsKey("User-Agent")) {
             headers.put("User-Agent", USER_AGENT);
@@ -99,8 +112,7 @@ public interface RestAPI {
         if(!headers.containsKey("Content-Type")) {
             headers.put("Content-Type", "application/json");
         }
-
-        final String string = requestStatic(url, postData, isLimited, headers, null);
+        final String string = requestStatic(url, postData, postDataIsJSONObject, isLimited, headers, null);
         return string != null ? new JSONObject(string) : null;
     }
 
@@ -118,6 +130,9 @@ public interface RestAPI {
     }
 
     static String requestStatic(String targetURL, LinkedHashMap<String, String> postData, boolean isLimited, LinkedHashMap<String, String> headers, LinkedHashMap<String, String> query) {
+        return requestStatic(targetURL, postData, false, isLimited, headers, query);
+    }
+    static String requestStatic(String targetURL, LinkedHashMap<String, String> postData, boolean postDataIsJSONObject, boolean isLimited, LinkedHashMap<String, String> headers, LinkedHashMap<String, String> query) {
         final boolean isLocal = targetURL.startsWith("http://localhost") || targetURL.startsWith("http://192.168");
 
         final StringBuilder target = new StringBuilder(targetURL);
@@ -137,10 +152,10 @@ public interface RestAPI {
 
         final HttpRequest.Builder requestBuilder = HttpRequest.newBuilder().uri(URI.create(targetURL));
         if(!isLocal) {
-            requestBuilder.timeout(Duration.ofSeconds(10));
+            requestBuilder.timeout(Duration.ofSeconds(15));
         }
         if(postData != null) {
-            final HttpRequest.BodyPublisher publisher = parsePostData(postData);
+            final HttpRequest.BodyPublisher publisher = parsePostData(postData, postDataIsJSONObject);
             requestBuilder.POST(publisher);
         } else {
             requestBuilder.GET();
@@ -174,16 +189,23 @@ public interface RestAPI {
         }).join();
         return string;
     }
-    private static HttpRequest.BodyPublisher parsePostData(LinkedHashMap<String, String> data) {
-        final StringBuilder builder = new StringBuilder();
+    private static HttpRequest.BodyPublisher parsePostData(LinkedHashMap<String, String> data, boolean isJSON) {
+        final StringBuilder builder = new StringBuilder(isJSON ? "{" : "");
+        boolean isFirst = true;
         for(Map.Entry<String, String> map : data.entrySet()) {
-            if(builder.length() > 0) {
-                builder.append("&");
+            if(!isFirst) {
+                builder.append(isJSON ? "," : "&");
             }
-            builder.append(URLEncoder.encode(map.getKey(), StandardCharsets.UTF_8));
-            builder.append("=");
-            builder.append(URLEncoder.encode(map.getValue(), StandardCharsets.UTF_8));
+            if(isJSON) {
+                builder.append("\"").append(map.getKey()).append("\":\"").append(map.getValue()).append("\"");
+            } else {
+                builder.append(URLEncoder.encode(map.getKey(), StandardCharsets.UTF_8));
+                builder.append("=");
+                builder.append(URLEncoder.encode(map.getValue(), StandardCharsets.UTF_8));
+            }
+            isFirst = false;
         }
+        builder.append(isJSON ? "}" : "");
         return HttpRequest.BodyPublishers.ofString(builder.toString());
     }
 }

@@ -1,5 +1,7 @@
 package me.randomhashtags.worldlaws.country;
 
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
+
 public final class SubdivisionStatuteChapter implements SubdivisionLegal {
     private final String chapter;
     private String title;
@@ -8,9 +10,11 @@ public final class SubdivisionStatuteChapter implements SubdivisionLegal {
         this.chapter = chapter;
     }
 
-    public String getChapter() {
+    @Override
+    public String getID() {
         return chapter;
     }
+
     @Override
     public String getTitle() {
         return title;
@@ -21,9 +25,9 @@ public final class SubdivisionStatuteChapter implements SubdivisionLegal {
     }
 
     @Override
-    public String toString() {
-        return "\"" + chapter + "\":{" +
-                "\"title\":\"" + title + "\"" +
-                "}";
+    public JSONObjectTranslatable toJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("title");
+        json.put("title", title);
+        return json;
     }
 }

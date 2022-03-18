@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.earthquakes.Earthquakes;
 import me.randomhashtags.worldlaws.earthquakes.WeatherAlerts;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.server.ServerRequestTypeWeather;
 import me.randomhashtags.worldlaws.tracker.NASA_EONET;
@@ -28,7 +29,7 @@ public final class Weather implements WLServer {
     }
 
     @Override
-    public String getServerResponse(APIVersion version, String identifier, ServerRequest request) {
+    public JSONObjectTranslatable getServerResponse(APIVersion version, String identifier, ServerRequest request) {
         final ServerRequestTypeWeather type = (ServerRequestTypeWeather) request.getType();
         final String target = request.getTarget();
         switch (type) {

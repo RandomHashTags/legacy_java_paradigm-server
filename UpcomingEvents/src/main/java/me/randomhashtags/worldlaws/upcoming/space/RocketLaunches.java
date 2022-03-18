@@ -8,6 +8,7 @@ import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.RocketLaunchEvent;
 import me.randomhashtags.worldlaws.upcoming.events.RocketLaunchMission;
+import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -25,7 +26,7 @@ public final class RocketLaunches extends LoadedUpcomingEventController {
         if(json != null) {
             final JSONArray launches = json.getJSONArray("results");
             final EventSources sources = new EventSources(new EventSource("The Space Devs", "https://thespacedevs.com"));
-            new CompletableFutures<JSONObject>().stream(launches.spliterator(), launchJSON -> {
+            new CompletableFutures<JSONObject>().stream(launches, launchJSON -> {
                 final JSONObject rocketConfigurationJSON = launchJSON.getJSONObject("rocket").getJSONObject("configuration"), padJSON = launchJSON.getJSONObject("pad");
                 final JSONObject serviceProvider = launchJSON.getJSONObject("launch_service_provider");
                 final String windowStart = launchJSON.getString("window_start"), windowEnd = launchJSON.getString("window_end");
@@ -45,11 +46,15 @@ public final class RocketLaunches extends LoadedUpcomingEventController {
 
                 final EventDate date = new EventDate(windowStart);
                 final String dateString = getEventDateString(date), id = getEventDateIdentifier(dateString, name);
-                final RocketLaunchEvent launch = new RocketLaunchEvent(name, status, location, exactDay, exactTime, probability, rocketImageURL, mission, windowStart, windowEnd, sources);
-                final String string = launch.toString();
+                final RocketLaunchEvent launch = new RocketLaunchEvent(date, name, status, location, exactDay, exactTime, probability, rocketImageURL, mission, windowStart, windowEnd, sources);
                 putLoadedPreUpcomingEvent(id, launch.toPreUpcomingEventJSON(eventType, id, location));
-                putUpcomingEvent(id, string);
+                putUpcomingEvent(id, launch);
             });
         }
+    }
+
+    @Override
+    public UpcomingEvent parseUpcomingEvent(JSONObject json) {
+        return new RocketLaunchEvent(json);
     }
 }

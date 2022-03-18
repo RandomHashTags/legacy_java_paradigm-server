@@ -1,12 +1,14 @@
 package me.randomhashtags.worldlaws.upcoming.space.nasa;
 
+import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.service.NASAService;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
-import me.randomhashtags.worldlaws.upcoming.USAUpcomingEventController;
+import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.NearEarthObjectEvent;
+import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -14,7 +16,7 @@ import java.time.LocalDate;
 import java.util.HashMap;
 import java.util.List;
 
-public final class NASANeo extends USAUpcomingEventController {
+public final class NASANeo extends LoadedUpcomingEventController {
 
     @Override
     public UpcomingEventType getType() {
@@ -37,6 +39,8 @@ public final class NASANeo extends USAUpcomingEventController {
             final String formattedDateString = getFormattedDateString(startDate);
             final JSONArray nearEarthObjects = json.getJSONObject("near_earth_objects").getJSONArray(formattedDateString);
             final List<Object> list = nearEarthObjects.toList();
+            final EventDate eventDate = new EventDate(startDate);
+            final String dateString = eventDate.getDateString();
             final EventSources sources = new EventSources(new EventSource("NASA: Center for Near Earth Object Studies", "https://cneos.jpl.nasa.gov"));
             new CompletableFutures<HashMap<String, Object>>().stream(list, hashmap -> {
                 final JSONObject mapJSON = new JSONObject(hashmap);
@@ -50,10 +54,10 @@ public final class NASANeo extends USAUpcomingEventController {
                 final long closeApproachEpoch = closeApproach.getLong("epoch_date_close_approach");
                 final String relativeVelocity = closeApproach.getJSONObject("relative_velocity").getString("kilometers_per_hour");
 
-                final String id = getEventIdentifier(startDate) + "." + name.replace(" ", "");
-                final NearEarthObjectEvent neo = new NearEarthObjectEvent(name, closeApproachEpoch, isPotentiallyHazardousAsteroid, estimatedDiameterMin, estimatedDiameterMax, relativeVelocity, sources);
+                final String id = getEventDateIdentifier(dateString, name);
+                final NearEarthObjectEvent neo = new NearEarthObjectEvent(eventDate, name, closeApproachEpoch, isPotentiallyHazardousAsteroid, estimatedDiameterMin, estimatedDiameterMax, relativeVelocity, sources);
                 putLoadedPreUpcomingEvent(id, neo.toPreUpcomingEventJSON(type, id, null));
-                putUpcomingEvent(id, neo.toString());
+                putUpcomingEvent(id, neo);
             });
         }
     }
@@ -70,7 +74,7 @@ public final class NASANeo extends USAUpcomingEventController {
     }
 
     @Override
-    public String loadUpcomingEvent(String id) {
-        return null;
+    public UpcomingEvent parseUpcomingEvent(JSONObject json) {
+        return new NearEarthObjectEvent(json);
     }
 }

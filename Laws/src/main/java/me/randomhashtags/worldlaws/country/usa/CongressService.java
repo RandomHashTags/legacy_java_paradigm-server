@@ -1,5 +1,7 @@
 package me.randomhashtags.worldlaws.country.usa;
 
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
+
 public interface CongressService {
-    String getPolitician(String id);
+    JSONObjectTranslatable getPolitician(String id);
 }

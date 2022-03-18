@@ -5,6 +5,8 @@ import me.randomhashtags.worldlaws.service.WikipediaDocument;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.ChampionshipEvent;
+import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
+import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -139,10 +141,9 @@ public final class Championships extends UpcomingEventController { // https://en
     }
 
     @Override
-    public String loadUpcomingEvent(String id) {
+    public UpcomingEvent loadUpcomingEvent(String id) {
         final PreUpcomingEvent preUpcomingEvent = getPreUpcomingEvent(id);
         final String url = preUpcomingEvent.getURL();
-        String string = null;
         if(url != null) {
             final String title = preUpcomingEvent.getTitle(), tag = preUpcomingEvent.getTag();
             final WikipediaDocument wikiDoc = new WikipediaDocument(url);
@@ -167,10 +168,13 @@ public final class Championships extends UpcomingEventController { // https://en
             final String description = builder.length() == 0 ? null : builder.toString();
             final List<String> countries = preUpcomingEvent.getCountries();
             final String location = countries != null && !countries.isEmpty() ? countries.get(0) : null;
-
-            final ChampionshipEvent event = new ChampionshipEvent(title, description, imageURL, location, sources);
-            string = event.toString();
+            return new ChampionshipEvent(preUpcomingEvent.getEventDate(), title, description, imageURL, location, sources);
         }
-        return string;
+        return null;
+    }
+
+    @Override
+    public UpcomingEvent parseUpcomingEvent(JSONObject json) {
+        return new ChampionshipEvent(json);
     }
 }

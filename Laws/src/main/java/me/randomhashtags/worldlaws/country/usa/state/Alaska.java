@@ -118,40 +118,33 @@ public final class Alaska extends LawSubdivisionController {
         }
     }
     @Override
-    public String getStatute(String title, String chapter, String section) {
-        final String path = title + "." + chapter + "." + section;
+    public SubdivisionStatute loadStatute(String title, String chapter, String section) {
         chapter = section.split("\\.")[0];
-        if(!statutes.containsKey(path)) {
-            final String url = statuteURL.replace("%token%", pageToken).replace("%index%", title).replace("%chapter%", chapter).replace("%section%", section.split("\\.")[1]);
-            final Document doc = getDocument(url);
-            String topic = "";
-            final StringBuilder description = new StringBuilder();
-            if(doc != null) {
-                final Elements layout = doc.select("div.two-col-layout-right");
-                topic = layout.select("h2").text();
-                final String[] values = topic.split(" ");
-                topic = topic.split(values[0] + " ")[1];
+        final String url = statuteURL.replace("%token%", pageToken).replace("%index%", title).replace("%chapter%", chapter).replace("%section%", section.split("\\.")[1]);
+        final Document doc = getDocument(url);
+        String topic = "";
+        final StringBuilder description = new StringBuilder();
+        if(doc != null) {
+            final Elements layout = doc.select("div.two-col-layout-right");
+            topic = layout.select("h2").text();
+            final String[] values = topic.split(" ");
+            topic = topic.split(values[0] + " ")[1];
 
-                final Elements table = layout.select("p ~ p");
+            final Elements table = layout.select("p ~ p");
+            table.remove(table.size()-1);
+
+            final String last = table.get(table.size()-1).text();
+            final boolean lastIsHistory = last.startsWith("[") && last.endsWith("]");
+            if(lastIsHistory) {
                 table.remove(table.size()-1);
-
-                final String last = table.get(table.size()-1).text();
-                final boolean lastIsHistory = last.startsWith("[") && last.endsWith("]");
-                if(lastIsHistory) {
-                    table.remove(table.size()-1);
-                }
-
-                boolean isFirst = true;
-                for(Element element : table) {
-                    description.append(isFirst ? "" : "\n").append(element.text());
-                    isFirst = false;
-                }
             }
 
-            final SubdivisionStatute statute = new SubdivisionStatute(StateReference.build(title, chapter, section, url), topic, description.toString());
-            final String string = statute.toString();
-            statutes.put(path, string);
+            boolean isFirst = true;
+            for(Element element : table) {
+                description.append(isFirst ? "" : "\n").append(element.text());
+                isFirst = false;
+            }
         }
-        return statutes.get(path);
+        return new SubdivisionStatute(StateReference.build(title, chapter, section, url), topic, description.toString());
     }
 }

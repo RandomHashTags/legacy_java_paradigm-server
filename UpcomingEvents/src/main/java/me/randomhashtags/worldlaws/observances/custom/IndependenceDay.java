@@ -8,11 +8,11 @@ import me.randomhashtags.worldlaws.country.WLCountry;
 import java.time.DayOfWeek;
 import java.time.Month;
 
-public enum IndependenceDay implements CustomIHoliday {
+public enum IndependenceDay implements CustomHoliday {
     INSTANCE;
 
     @Override
-    public String getOfficialName() {
+    public String getWikipediaName() {
         return null;
     }
 
@@ -85,7 +85,7 @@ public enum IndependenceDay implements CustomIHoliday {
             case GUYANA: return new EventDate(Month.MAY, 26, year);
             case HAITI: return new EventDate(Month.JANUARY, 1, year);
             case HONDURAS: return new EventDate(Month.SEPTEMBER, 15, year);
-            case HUNGARY: return getLast(DayOfWeek.SATURDAY, Month.JUNE, year);
+            case HUNGARY: return EventDate.getLast(DayOfWeek.SATURDAY, Month.JUNE, year);
             case ICELAND: return new EventDate(Month.JUNE, 17, year);
             case INDIA: return new EventDate(Month.AUGUST, 15, year);
             case INDONESIA: return new EventDate(Month.AUGUST, 17, year);

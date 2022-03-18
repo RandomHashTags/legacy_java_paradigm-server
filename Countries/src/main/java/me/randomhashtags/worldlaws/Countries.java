@@ -10,26 +10,27 @@ import me.randomhashtags.worldlaws.info.availability.CountryAvailabilities;
 import me.randomhashtags.worldlaws.info.legal.CountryLegalities;
 import me.randomhashtags.worldlaws.info.legal.LegalityDrugs;
 import me.randomhashtags.worldlaws.info.list.Flyover;
+import me.randomhashtags.worldlaws.info.national.NationalAnimals;
 import me.randomhashtags.worldlaws.info.national.NationalAnthems;
 import me.randomhashtags.worldlaws.info.national.NationalCapitals;
+import me.randomhashtags.worldlaws.info.national.NationalTrees;
 import me.randomhashtags.worldlaws.info.rankings.CountryRankingServices;
 import me.randomhashtags.worldlaws.info.rankings.CountryRankings;
+import me.randomhashtags.worldlaws.info.service.WikipediaFeaturedPictures;
 import me.randomhashtags.worldlaws.info.service.nonstatic.CIAServices;
 import me.randomhashtags.worldlaws.info.service.nonstatic.TravelAdvisories;
+import me.randomhashtags.worldlaws.locale.*;
 import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.server.ServerRequestTypeCountries;
 import me.randomhashtags.worldlaws.service.*;
 import me.randomhashtags.worldlaws.settings.ResponseVersions;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
-import org.json.JSONArray;
 import org.json.JSONObject;
-import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
-import org.jsoup.nodes.Node;
-import org.jsoup.nodes.TextNode;
-import org.jsoup.select.Elements;
 
-import java.util.*;
+import java.util.Arrays;
+import java.util.Collection;
+import java.util.HashMap;
+import java.util.HashSet;
 import java.util.stream.Collectors;
 
 // https://en.wikipedia.org/wiki/List_of_sovereign_states
@@ -37,7 +38,7 @@ import java.util.stream.Collectors;
 public final class Countries implements WLServer {
 
     private final HashMap<String, CustomCountry> countriesMap;
-    private String countriesCacheJSON;
+    private HashMap<APIVersion, JSONObjectTranslatable> countriesCacheJSON;
 
     public static void main(String[] args) {
          new Countries();
@@ -45,8 +46,8 @@ public final class Countries implements WLServer {
 
     private Countries() {
         countriesMap = new HashMap<>();
-        //test();
-        load();
+        test();
+        //load();
     }
 
     @Override
@@ -55,9 +56,14 @@ public final class Countries implements WLServer {
     }
 
     private void test() {
-        final JSONObject json = CountryYearReview.INSTANCE.getCountryEventsJSON(2021, WLCountry.UNITED_STATES);
-        final String string = json != null ? json.toString() : "null";
-        WLLogger.logInfo("Countries;test;string=" + string);
+        final NewCountryService service = WikipediaFeaturedPictures.INSTANCE;
+        //for(CountryValueService service : CountryValues.values()) {
+            final JSONObjectTranslatable json = service.getJSONObject(WLCountry.UNITED_STATES);
+            WLLogger.logInfo("Countries;test1;string=" + (json != null ? json.toString() : "null"));
+            final JSONObject translatedJSON = WLUtilities.translateJSON(json, LanguageTranslator.ARGOS, Language.SPANISH);
+            final String string = translatedJSON != null ? translatedJSON.toString() : null;
+            WLLogger.logInfo("Countries;test2;string=" + string);
+        //}
     }
 
     @Override
@@ -75,20 +81,10 @@ public final class Countries implements WLServer {
     private void loadServices() {
         final HashSet<CountryService> services = new HashSet<>() {{
             addAll(Arrays.asList(CountryAvailabilities.INSTANCE));
-            addAll(Arrays.asList(ProductionFoods.values()));
-            addAll(Arrays.asList(
-                    NationalAnthems.INSTANCE,
-                    NationalCapitals.INSTANCE
-            ));
-            addAll(Arrays.asList(CountryInfoKeys.values()));
-            addAll(Arrays.asList(CountryValues.values()));
-            addAll(Arrays.asList(CountryLegalities.values()));
-            addAll(Arrays.asList(LegalityDrugs.values()));
             addAll(Arrays.asList(
                     Flyover.INSTANCE,
                     new WikipediaCountryService(true)
             ));
-            addAll(Arrays.asList(CountryRankings.values()));
         }};
         CountryServices.STATIC_SERVICES.addAll(services);
 
@@ -97,148 +93,67 @@ public final class Countries implements WLServer {
                 TravelAdvisories.INSTANCE
         ));
 
+        final HashSet<NewCountryService> newServices = new HashSet<>() {{
+            addAll(Arrays.asList(ProductionFoods.values()));
+            addAll(Arrays.asList(CountryInfoKeys.values()));
+            addAll(Arrays.asList(CountryLegalities.values()));
+            addAll(Arrays.asList(LegalityDrugs.values()));
+            addAll(Arrays.asList(CountryRankings.values()));
+            addAll(Arrays.asList(CountryValues.values()));
+            addAll(Arrays.asList(
+                    NationalAnimals.INSTANCE,
+                    NationalAnthems.INSTANCE,
+                    NationalCapitals.INSTANCE,
+                    NationalTrees.INSTANCE
+            ));
+            addAll(Arrays.asList(
+                    WikipediaFeaturedPictures.INSTANCE
+            ));
+        }};
+        CountryServices.NEW_STATIC_SERVICES.addAll(newServices);
+
         registerFixedTimer(UpdateIntervals.Countries.NON_STATIC_VALUES, this::updateNonStaticInformation);
     }
 
     private void updateNonStaticInformation() {
         final long started = System.currentTimeMillis();
         new CompletableFutures<CountryService>().stream(CountryServices.NONSTATIC_SERVICES, SovereignStateService::loadData);
-        CustomCountry.LOADED_NON_STATIC_INFORMATION = true;
+        //CustomCountry.LOADED_NON_STATIC_INFORMATION = true;
         new CompletableFutures<CustomCountry>().stream(countriesMap.values(), CustomCountry::updateNonStaticInformation);
         WLLogger.logInfo("Countries - refreshed " + countriesMap.size() + " non-static country information (took " + WLUtilities.getElapsedTime(started) + ")");
     }
 
-    private String getCountries(APIVersion version) {
+    private JSONObjectTranslatable getCountries(APIVersion version) {
         if(countriesCacheJSON == null) {
-            loadCountries();
+            countriesCacheJSON = new HashMap<>();
         }
-        return countriesCacheJSON;
+        if(!countriesCacheJSON.containsKey(version)) {
+            final JSONObjectTranslatable json = loadCountries(version);
+            countriesCacheJSON.put(version, json);
+        }
+        return countriesCacheJSON.get(version);
     }
-    private String loadCountries() {
-        final long started = System.currentTimeMillis();
-        final JSONArray array = getJSONArray(Folder.COUNTRIES, "_List of sovereign states", new CompletionHandler() {
-            @Override
-            public String loadJSONArrayString() {
-                final Elements table = getDocumentElements(Folder.COUNTRIES, "https://en.wikipedia.org/wiki/List_of_sovereign_states", true, "table.sortable tbody tr");
-                for(int i = 1; i <= 2; i++) {
-                    table.remove(0);
+    private JSONObjectTranslatable loadCountries(APIVersion version) {
+        switch (version) {
+            case v1:
+                final JSONObjectTranslatable json = new JSONObjectTranslatable();
+                json.put("response_version", ResponseVersions.COUNTRIES.getValue());
+                final WLCountry[] countries = WLCountry.values();
+                for(WLCountry country : countries) {
+                    final CustomCountry customCountry = new CustomCountry(country);
+                    countriesMap.put(customCountry.getBackendID(), customCountry);
+                    final String id = customCountry.getBackendID();
+                    json.put(id, customCountry.getJSONObject());
+                    json.addTranslatedKey(id);
                 }
-                table.removeIf(row -> row.select("td").get(0).select("b a[href]").size() == 0);
-                final StringBuilder builder = new StringBuilder("[");
-                boolean isFirst = true;
-                for(Element row : table) {
-                    final Elements tds = row.select("td");
-                    final Element nameElement = tds.get(0).select("b a[href]").get(0);
-                    final String tag = nameElement.text();
-                    final List<Node> sovereigntyElement = new ArrayList<>(tds.get(2).childNodes());
-                    sovereigntyElement.removeIf(element -> element.hasAttr("style") || element.hasParent() && element.parent().nodeName().equals("span"));
-                    final StringBuilder sovereigntyBuilder = new StringBuilder();
-                    for(Node node : sovereigntyElement) {
-                        String string = node instanceof TextNode ? ((TextNode) node).text() : ((Element) node).text();
-                        sovereigntyBuilder.append(string);
-                    }
-                    final String unStatus = getUNStatus(tds.get(1).text()), sovereigntyDispute = getSovereigntyDispute(sovereigntyBuilder.toString());
-                    final String targetURL;
-                    switch (tag) {
-                        case "Micronesia":
-                            targetURL = "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia";
-                            break;
-                        case "Netherlands":
-                            targetURL = "https://en.wikipedia.org/wiki/Netherlands";
-                            break;
-                        case "Saint Martin":
-                            targetURL = "https://en.wikipedia.org/wiki/Saint_Martin_(island)";
-                            break;
-                        default:
-                            targetURL = "https://en.wikipedia.org" + nameElement.attr("href");
-                            break;
-                    }
-                    final Country country = new Country(tag, targetURL, unStatus, sovereigntyDispute);
-                    builder.append(isFirst ? "" : ",").append(country.toString());
-                    isFirst = false;
-                }
-                builder.append("]");
-                return builder.toString();
-            }
-        });
-        return loadCountries(started, array);
-    }
-    private String loadCountries(long started, JSONArray array) {
-        final Folder folder = Folder.COUNTRIES;
-        final String fileName = "_Countries";
-        JSONObject countriesJSON = getLocalFileJSONObject(folder, fileName);
-        final int responseVersion = countriesJSON != null ? countriesJSON.has("response_version") ? countriesJSON.getInt("response_version") : 1 : 0;
-        if(countriesJSON == null || responseVersion != ResponseVersions.COUNTRIES.getValue()) {
-            countriesJSON = loadCountriesJSON(folder, fileName, array);
-        }
-        return loadCountriesFromJSON(started, countriesJSON);
-    }
-    private JSONObject loadCountriesJSON(Folder folder, String fileName, JSONArray array) {
-        final JSONObject json = new JSONObject();
-        json.put("response_version", ResponseVersions.COUNTRIES.getValue());
-        for(Object obj : array) {
-            final JSONObject countryJSON = (JSONObject) obj;
-            final String tag = countryJSON.getString("tag"), url = countryJSON.getString("url");
-            final String unStatus = countryJSON.has("unStatus") ? countryJSON.getString("unStatus") : null, sovereigntyDispute = countryJSON.has("sovereigntyDispute") ? countryJSON.getString("sovereigntyDispute") : null;
-            final Document doc = getDocument(Folder.COUNTRIES_WIKIPEDIA_PAGES, url, true);
-            final CustomCountry country = new CustomCountry(tag, unStatus, sovereigntyDispute, doc);
-            countriesMap.put(country.getBackendID(), country);
-            json.put(country.getName(), country.toJSONObject());
-        }
-        setFileJSON(folder, fileName, json.toString());
-        return json;
-    }
-    private String loadCountriesFromJSON(long started, JSONObject countriesJSON) {
-        countriesJSON.remove("response_version");
-        countriesCacheJSON = countriesJSON.toString();
-        if(countriesMap.isEmpty()) {
-            for(String name : countriesJSON.keySet()) {
-                final JSONObject json = countriesJSON.getJSONObject(name);
-                final CustomCountry country = new CustomCountry(name, json);
-                countriesMap.put(country.getBackendID(), country);
-            }
-        }
-        checkForMissingValues();
-        WLLogger.logInfo("Countries - loaded " + countriesMap.size() + " countries (took " + WLUtilities.getElapsedTime(started) + ")");
-        return countriesCacheJSON;
-    }
-
-    private String getUNStatus(String input) {
-        final String uppercaseInput = input.toUpperCase();
-        if(uppercaseInput.contains("UN MEMBER STATE")) {
-            return null;
-        } else if(uppercaseInput.contains("FORMER UN MEMBER")) {
-            return "FORMER UN MEMBER STATE";
-        } else if(uppercaseInput.contains("UN OBSERVER STATE")) {
-            return "UN OBSERVER STATE";
-        } else if(uppercaseInput.contains("NO MEMBERSHIP")) {
-            return "NO MEMBERSHIP";
-        } else {
-            return input.substring(1);
-        }
-    }
-    private String getSovereigntyDispute(String input) {
-        return input.toLowerCase().contains("none") ? null : removeReferences(input);
-    }
-
-    private void checkForMissingValues() {
-        final StringBuilder builder = new StringBuilder();
-        boolean isFirst = true;
-        for(Map.Entry<String, CustomCountry> entry : countriesMap.entrySet()) {
-            final CustomCountry country = entry.getValue();
-            if(country.getFlagEmoji() == null) {
-                builder.append(isFirst ? "" : ", ").append("(").append(country.getShortName()).append(", ").append(country.getName()).append(")");
-                isFirst = false;
-            }
-        }
-        final String string = builder.toString();
-        if(!string.isEmpty()) {
-            WLLogger.logWarning("Countries - missing emoji flag for countries: " + string);
+                return json;
+            default:
+                return null;
         }
     }
 
     @Override
-    public String getServerResponse(APIVersion version, String identifier, ServerRequest request) {
+    public JSONTranslatable getServerResponse(APIVersion version, String identifier, ServerRequest request) {
         final ServerRequestTypeCountries type = (ServerRequestTypeCountries) request.getType();
         final String target = request.getTarget();
         final String[] values = target != null ? target.split("/") : null;
@@ -248,7 +163,7 @@ public final class Countries implements WLServer {
             case CURRENCY_EXCHANGE:
                 return CurrencyExchange.getResponse(request);
             case FILTERS:
-                return getFilters(version);
+                return getFilters();
             case RANKED:
                 return CountryRankingServices.getRanked(values[0]);
             case INFORMATION:
@@ -286,37 +201,13 @@ public final class Countries implements WLServer {
         };
     }
 
-    private String getFilters(APIVersion version) {
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
-        final Collection<CountryService> services = CountryRankingServices.getRankingsServices().collect(Collectors.toList());
-        for(CountryService service : services) {
+    private JSONArrayTranslatable getFilters() {
+        final JSONArrayTranslatable array = new JSONArrayTranslatable();
+        final Collection<NewCountryService> services = CountryRankingServices.getNewRankingsServices().collect(Collectors.toList());
+        for(NewCountryService service : services) {
             final SovereignStateInfo info = service.getInfo();
-            builder.append(isFirst ? "" : ",").append("\"").append(info.getTitle()).append("\"");
-            isFirst = false;
+            array.put(info.getTitle());
         }
-        builder.append("]");
-        return builder.toString();
-    }
-
-    private static final class Country {
-        private final String tag, url, unStatus, sovereigntyDispute;
-
-        private Country(String tag, String url, String unStatus, String sovereigntyDispute) {
-            this.tag = tag;
-            this.url = url;
-            this.unStatus = unStatus;
-            this.sovereigntyDispute = sovereigntyDispute;
-        }
-
-        @Override
-        public String toString() {
-            return "{" +
-                    (unStatus != null ? "\"unStatus\":\"" + unStatus + "\"," : "") +
-                    (sovereigntyDispute != null ? "\"sovereigntyDispute\":\"" + sovereigntyDispute + "\"," : "") +
-                    "\"tag\":\"" + tag + "\"," +
-                    "\"url\":\"" + url + "\"" +
-                    "}";
-        }
+        return array;
     }
 }

@@ -29,7 +29,8 @@ public final class WikipediaDocument {
     }
 
     public String getPageName() {
-        return url.split("/wiki/")[1].replace("_", " ").replace("%27", "'");
+        final String[] values = url.split("/wiki/");
+        return values.length > 1 ? values[1].replace("_", " ").replace("%27", "'") : null;
     }
     public EventSource getEventSource() {
         return new EventSource("Wikipedia: " + getPageName(), url);
@@ -147,8 +148,15 @@ public final class WikipediaDocument {
     }
     private String getImageURLFrom(Element element) {
         if(element != null) {
-            final Elements images = element.select("a[href] img");
-            return !images.isEmpty() ? "https:" + WikipediaService.getPictureThumbnailImageURL(images.get(0)) : null;
+            Element ahref = element.selectFirst("a[href]");
+            if(ahref != null) {
+                final Element parent = ahref.parent();
+                ahref = parent != null && parent.tagName().equals("div") && parent.hasClass("frb") ? null : ahref;
+            }
+            if(ahref != null) {
+                final Elements images = ahref.select("img");
+                return !images.isEmpty() ? "https:" + WikipediaService.getPictureThumbnailImageURL(images.get(0)) : null;
+            }
         }
         return null;
     }

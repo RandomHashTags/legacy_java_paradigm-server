@@ -5,6 +5,7 @@ import me.randomhashtags.worldlaws.country.Location;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.country.WLSubdivisions;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -21,9 +22,9 @@ import java.util.concurrent.ConcurrentHashMap;
 public enum Earthquakes implements RestAPI {
     INSTANCE;
 
-    private String recentEarthquakes, topRecentEarthquakes;
-    private HashMap<String, String> recentTerritoryEarthquakes, topRecentTerritoryEarthquakes;
-    private final HashMap<String, String> cachedEarthquakes;
+    private JSONObjectTranslatable recentEarthquakes, topRecentEarthquakes;
+    private HashMap<String, JSONObjectTranslatable> recentTerritoryEarthquakes, topRecentTerritoryEarthquakes;
+    private final HashMap<String, JSONObjectTranslatable> cachedEarthquakes;
 
     Earthquakes() {
         cachedEarthquakes = new HashMap<>();
@@ -33,7 +34,7 @@ public enum Earthquakes implements RestAPI {
         cachedEarthquakes.clear();
     }
 
-    public String getResponse(String[] values) {
+    public JSONObjectTranslatable getResponse(String[] values) {
         final String key = values[0];
         switch (key) {
             case "recent":
@@ -48,15 +49,15 @@ public enum Earthquakes implements RestAPI {
         }
     }
 
-    private String getFromTerritory(boolean isRecent, String territory) {
-        final String string = isRecent ? recentEarthquakes : topRecentEarthquakes;
+    private JSONObjectTranslatable getFromTerritory(boolean isRecent, String territory) {
+        final JSONObjectTranslatable string = isRecent ? recentEarthquakes : topRecentEarthquakes;
         if(string == null) {
             refresh(false, isRecent);
         }
         return getValue(isRecent, territory);
     }
-    private String getValue(boolean isRecent, String territory) {
-        final String target = territory == null ? (isRecent ? recentEarthquakes : topRecentEarthquakes) : (isRecent ? recentTerritoryEarthquakes : topRecentTerritoryEarthquakes).getOrDefault(territory, "{}");
+    private JSONObjectTranslatable getValue(boolean isRecent, String territory) {
+        final JSONObjectTranslatable target = territory == null ? (isRecent ? recentEarthquakes : topRecentEarthquakes) : (isRecent ? recentTerritoryEarthquakes : topRecentTerritoryEarthquakes).getOrDefault(territory, null);
         return target == null || target.isEmpty() ? null : target;
     }
 
@@ -84,8 +85,8 @@ public enum Earthquakes implements RestAPI {
         if(json != null) {
             final JSONArray array = json.getJSONArray("features");
             final ConcurrentHashMap<String, HashSet<PreEarthquake>> territoryEarthquakesMap = new ConcurrentHashMap<>();
-            final ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<String>>> preEarthquakeDates = new ConcurrentHashMap<>();
-            new CompletableFutures<JSONObject>().stream(array.spliterator(), earthquakeJSON -> {
+            final ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<PreEarthquake>>> preEarthquakeDates = new ConcurrentHashMap<>();
+            new CompletableFutures<JSONObject>().stream(array, earthquakeJSON -> {
                 loadEarthquake(startDate, earthquakeJSON, preEarthquakeDates, territoryEarthquakesMap);
             });
             topRecentEarthquakes = getEarthquakesJSON(null, preEarthquakeDates);
@@ -96,44 +97,40 @@ public enum Earthquakes implements RestAPI {
             completeRefresh(isAutoUpdate, started, null);
         }
     }
-    private String getEarthquakesJSON(LocalDate date, ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<String>>> preEarthquakeDates) {
-        String string = null;
+    private JSONObjectTranslatable getEarthquakesJSON(LocalDate date, ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<PreEarthquake>>> preEarthquakeDates) {
+        JSONObjectTranslatable json = null;
         if(!preEarthquakeDates.isEmpty()) {
+            json = new JSONObjectTranslatable();
             final boolean doesntHaveDate = date == null;
-            final StringBuilder builder = new StringBuilder("{");
-            boolean isFirst = true;
-            for(Map.Entry<String, ConcurrentHashMap<String, HashSet<String>>> map : preEarthquakeDates.entrySet()) {
+            for(Map.Entry<String, ConcurrentHashMap<String, HashSet<PreEarthquake>>> map : preEarthquakeDates.entrySet()) {
                 final String dateString = map.getKey();
                 if(doesntHaveDate || EventDate.valueOfDateString(dateString).getLocalDate().isAfter(date)) {
-                    builder.append(isFirst ? "" : ",").append("\"").append(dateString).append("\":{");
-                    final ConcurrentHashMap<String, HashSet<String>> value = map.getValue();
-                    boolean isFirstMagnitude = true;
-                    for(Map.Entry<String, HashSet<String>> map2 : value.entrySet()) {
+                    final JSONObjectTranslatable quakesJSON = new JSONObjectTranslatable();
+                    final ConcurrentHashMap<String, HashSet<PreEarthquake>> value = map.getValue();
+                    for(Map.Entry<String, HashSet<PreEarthquake>> map2 : value.entrySet()) {
+                        final JSONObjectTranslatable magnitudeJSON = new JSONObjectTranslatable();
                         final String magnitude = map2.getKey();
-                        builder.append(isFirstMagnitude ? "" : ",").append("\"").append(magnitude).append("\"").append(":{");
-                        final HashSet<String> preEarthquakes = map2.getValue();
-                        boolean isFirstPreEarthquake = true;
-                        for(String preEarthquake : preEarthquakes) {
-                            builder.append(isFirstPreEarthquake ? "" : ",").append(preEarthquake);
-                            isFirstPreEarthquake = false;
+                        final HashSet<PreEarthquake> preEarthquakes = map2.getValue();
+                        for(PreEarthquake preEarthquake : preEarthquakes) {
+                            final String id = preEarthquake.getID();
+                            magnitudeJSON.put(id, preEarthquake.toJSONObject());
+                            magnitudeJSON.addTranslatedKey(id);
                         }
-                        builder.append("}");
-                        isFirstMagnitude = false;
+                        quakesJSON.put(magnitude, magnitudeJSON);
+                        quakesJSON.addTranslatedKey(magnitude);
                     }
-                    builder.append("}");
-                    isFirst = false;
+                    json.put(dateString, quakesJSON);
+                    json.addTranslatedKey(dateString);
                 }
             }
-            builder.append("}");
-            string = builder.toString();
         }
-        return string;
+        return json;
     }
-    private void completeRefresh(boolean isAutoUpdate, long started, String string) {
+    private void completeRefresh(boolean isAutoUpdate, long started, JSONObjectTranslatable string) {
         WLLogger.logInfo("Earthquakes - " + (isAutoUpdate ? "auto-" : "") + "refreshed (took " + WLUtilities.getElapsedTime(started) + ")");
     }
 
-    private void loadEarthquake(LocalDate startingDate, JSONObject json, ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<String>>> preEarthquakeDates, ConcurrentHashMap<String, HashSet<PreEarthquake>> territoryEarthquakesMap) {
+    private void loadEarthquake(LocalDate startingDate, JSONObject json, ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<PreEarthquake>>> preEarthquakeDates, ConcurrentHashMap<String, HashSet<PreEarthquake>> territoryEarthquakesMap) {
         final JSONObject properties = json.getJSONObject("properties");
         final long time = properties.getLong("time");
         final EventDate date = new EventDate(time);
@@ -154,10 +151,10 @@ public enum Earthquakes implements RestAPI {
             final String country = regionValues[1], subdivision = regionValues[2];
 
             final String dateString = date.getDateString();
-            final PreEarthquake preEarthquake = new PreEarthquake(id, place, country, subdivision, magnitude, location);
+            final PreEarthquake preEarthquake = new PreEarthquake(id, place, country, subdivision, location);
             preEarthquakeDates.putIfAbsent(dateString, new ConcurrentHashMap<>());
             preEarthquakeDates.get(dateString).putIfAbsent(magnitude, new HashSet<>());
-            preEarthquakeDates.get(dateString).get(magnitude).add(preEarthquake.toString());
+            preEarthquakeDates.get(dateString).get(magnitude).add(preEarthquake);
 
             if(country != null) {
                 territoryEarthquakesMap.putIfAbsent(country, new HashSet<>());
@@ -173,20 +170,18 @@ public enum Earthquakes implements RestAPI {
         for(Map.Entry<String, HashSet<PreEarthquake>> territoryEarthquakeMap : territoryEarthquakesMap.entrySet()) {
             final String territory = territoryEarthquakeMap.getKey();
             final HashSet<PreEarthquake> territoryEarthquakes = territoryEarthquakeMap.getValue();
-            final StringBuilder builder = new StringBuilder("{");
-            boolean isFirst = true;
+            final JSONObjectTranslatable json = new JSONObjectTranslatable();
             for(PreEarthquake earthquake : territoryEarthquakes) {
-                builder.append(isFirst ? "" : ",").append(earthquake.toString());
-                isFirst = false;
+                final String id = earthquake.getID();
+                json.put(id, earthquake.toJSONObject());
+                json.addTranslatedKey(id);
             }
-            builder.append("}");
-            final String string = builder.toString();
-            recentTerritoryEarthquakes.put(territory, string);
-            topRecentTerritoryEarthquakes.put(territory, string);
+            recentTerritoryEarthquakes.put(territory, json);
+            topRecentTerritoryEarthquakes.put(territory, json);
         }
     }
 
-    private String getEarthquake(String id) {
+    private JSONObjectTranslatable getEarthquake(String id) {
         if(!cachedEarthquakes.containsKey(id)) {
             final JSONObject json = requestJSONObject("https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=" + id + "&format=geojson");
             if(json != null) {
@@ -224,8 +219,7 @@ public enum Earthquakes implements RestAPI {
                 final EventSources sources = new EventSources();
                 sources.add(new EventSource("United States Geological Survey: Earthquakes", url));
                 final Earthquake earthquake = new Earthquake(country, subdivision, cause, magnitude, place, time, lastUpdated, depthKM, location, sources);
-                final String string = earthquake.toString();
-                cachedEarthquakes.put(id, string);
+                cachedEarthquakes.put(id, earthquake.toJSONObject());
             }
         }
         return cachedEarthquakes.get(id);

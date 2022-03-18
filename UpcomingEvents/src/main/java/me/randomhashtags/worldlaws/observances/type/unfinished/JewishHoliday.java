@@ -2,9 +2,10 @@ package me.randomhashtags.worldlaws.observances.type.unfinished;
 
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.country.WLCountry;
-import me.randomhashtags.worldlaws.observances.IHoliday;
+import me.randomhashtags.worldlaws.observances.Holiday;
+import me.randomhashtags.worldlaws.observances.HolidayType;
 
-public enum JewishHoliday implements IHoliday {
+public enum JewishHoliday implements Holiday {
 
     HANUKKAH,
     SUKKOT,
@@ -22,12 +23,12 @@ public enum JewishHoliday implements IHoliday {
     }
 
     @Override
-    public Enum<? extends IHoliday> getEnum() {
-        return this;
+    public HolidayType getType() {
+        return null;
     }
 
     @Override
-    public String getOfficialName() {
+    public String getWikipediaName() {
         return wikipediaName;
     }
 

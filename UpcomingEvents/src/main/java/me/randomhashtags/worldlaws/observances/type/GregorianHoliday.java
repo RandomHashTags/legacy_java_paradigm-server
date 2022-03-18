@@ -2,11 +2,12 @@ package me.randomhashtags.worldlaws.observances.type;
 
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.country.WLCountry;
-import me.randomhashtags.worldlaws.observances.IHoliday;
+import me.randomhashtags.worldlaws.observances.Holiday;
+import me.randomhashtags.worldlaws.observances.HolidayType;
 
 import java.time.Month;
 
-public enum GregorianHoliday implements IHoliday {
+public enum GregorianHoliday implements Holiday {
 
     NEW_YEARS_DAY(
             "New Year's Day"
@@ -27,12 +28,12 @@ public enum GregorianHoliday implements IHoliday {
     }
 
     @Override
-    public Enum<? extends IHoliday> getEnum() {
-        return this;
+    public HolidayType getType() {
+        return HolidayType.GREGORIAN;
     }
 
     @Override
-    public String getOfficialName() {
+    public String getWikipediaName() {
         return wikipediaName;
     }
 

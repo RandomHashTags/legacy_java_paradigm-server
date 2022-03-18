@@ -103,7 +103,7 @@ public enum AppleNotifications implements DeviceTokenController {
 
             final String key = Settings.PrivateValues.Apple.isProductionMode() ? "" : "sandbox.";
             final String url = "https://api." + key + "push.apple.com:443";
-            new CompletableFutures<String>().stream(deviceTokens.spliterator(), deviceToken -> {
+            new CompletableFutures<String>().stream(deviceTokens, deviceToken -> {
                 final LinkedHashMap<String, String> headers = new LinkedHashMap<>(primaryHeaders);
                 headers.put("path", "/3/device/" + deviceToken);
                 final JSONObject postJSON = postJSONObject(url, null, true, headers);

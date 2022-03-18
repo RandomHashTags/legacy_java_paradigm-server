@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.server.ServerRequestTypeScience;
 import me.randomhashtags.worldlaws.space.constellation.Constellations;
@@ -26,7 +27,7 @@ public final class Science implements WLServer {
     }
 
     @Override
-    public String getServerResponse(APIVersion version, String identifier, ServerRequest request) {
+    public JSONObjectTranslatable getServerResponse(APIVersion version, String identifier, ServerRequest request) {
         final ServerRequestTypeScience type = (ServerRequestTypeScience) request.getType();
         final String target = request.getTarget();
         switch (type) {
@@ -37,7 +38,7 @@ public final class Science implements WLServer {
         }
     }
 
-    private String getSpaceResponse(APIVersion version, String target) {
+    private JSONObjectTranslatable getSpaceResponse(APIVersion version, String target) {
         final String[] values = target.split("/");
         final String key = values[0];
         switch (key) {
@@ -56,7 +57,7 @@ public final class Science implements WLServer {
         };
     }
 
-    private String getConstellationResponse(APIVersion version, String target) {
+    private JSONObjectTranslatable getConstellationResponse(APIVersion version, String target) {
         final String[] values = target.split("/");
         final String key = values[0];
         switch (key) {
@@ -65,7 +66,7 @@ public final class Science implements WLServer {
         }
     }
 
-    private String getPlanetResponse(APIVersion version, String target) {
+    private JSONObjectTranslatable getPlanetResponse(APIVersion version, String target) {
         final String[] values = target.split("/");
         final String key = values[0];
         switch (key) {

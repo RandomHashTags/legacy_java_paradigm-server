@@ -1,5 +1,7 @@
 package me.randomhashtags.worldlaws.service.finance.stockmarket;
 
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
+
 public final class Stock {
     private final String symbol, shortName, longName;
     private final StockQuote regular, post;
@@ -12,13 +14,18 @@ public final class Stock {
         this.post = post;
     }
 
-    @Override
-    public String toString() {
-        return "\"" + symbol + "\":{" +
-                (regular != null ? "\"regularMarket\":" + regular.toString() + "," : "") +
-                (post != null ? "\"postMarket\":" + post.toString() + "," : "") +
-                (longName != null && !longName.equals(shortName) ? "\"longName\":\"" + longName + "\"," : "") +
-                "\"shortName\":\"" + shortName + "\"" +
-                "}";
+    public JSONObjectTranslatable toJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable();
+        json.put("shortName", shortName);
+        if(regular != null) {
+            json.put("regularMarket", regular.toJSONObject());
+        }
+        if(post != null) {
+            json.put("postMarket", post.toJSONObject());
+        }
+        if(longName != null && !longName.equals(shortName)) {
+            json.put("longName", longName);
+        }
+        return json;
     }
 }

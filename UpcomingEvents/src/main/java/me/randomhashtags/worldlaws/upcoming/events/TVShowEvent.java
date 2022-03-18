@@ -1,7 +1,9 @@
 package me.randomhashtags.worldlaws.upcoming.events;
 
+import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.LocalServer;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import org.json.JSONArray;
 
@@ -11,8 +13,8 @@ public final class TVShowEvent extends UpcomingEvent {
     private final int popularity, runtimeMinutes, season, episode;
     private final JSONArray genres;
 
-    public TVShowEvent(String title, String description, String imageURL, JSONArray youtubeVideoIDs, int popularity, String language, String countryCode, String officialSite, String network, int runtimeMinutes, int season, int episode, String episodeName, String episodeSummary, JSONArray genres, EventSources sources) {
-        super(title, description, imageURL, null, youtubeVideoIDs, sources);
+    public TVShowEvent(EventDate date, String title, String description, String imageURL, JSONArray youtubeVideoIDs, int popularity, String language, String countryCode, String officialSite, String network, int runtimeMinutes, int season, int episode, String episodeName, String episodeSummary, JSONArray genres, EventSources sources) {
+        super(date, title, description, imageURL, null, youtubeVideoIDs, sources);
         this.popularity = popularity;
         this.language = language;
         this.countryCode = countryCode;
@@ -32,19 +34,33 @@ public final class TVShowEvent extends UpcomingEvent {
     }
 
     @Override
-    public String getPropertiesJSONObject() {
-        return "{" +
-                (popularity > 0 ? "\"popularity\":" + popularity + "," : "") +
-                (language != null ? "\"language\":\"" + language + "\"," : "") +
-                (countryCode != null ? "\"countryCode\":\"" + countryCode + "\"," : "") +
-                (officialSite != null ? "\"officialSite\":\"" + officialSite + "\"," : "") +
-                (network != null ? "\"network\":\"" + network + "\"," : "") +
-                (runtimeMinutes > 0 ? "\"runtimeMinutes\":" + runtimeMinutes + "," : "") +
-                "\"season\":" + season + "," +
-                "\"episode\":" + episode + "," +
-                "\"episodeName\":\"" + episodeName + "\"," +
-                (episodeSummary != null ? "\"episodeSummary\":\"" + episodeSummary + "\"," : "") +
-                "\"genres\":" + genres.toString() +
-                "}";
+    public JSONObjectTranslatable getPropertiesJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable();
+        if(popularity > 0) {
+            json.put("popularity", popularity);
+        }
+        if(language != null) {
+            json.put("language", language);
+        }
+        if(countryCode != null) {
+            json.put("countryCode", countryCode);
+        }
+        if(officialSite != null) {
+            json.put("officialSite", officialSite);
+        }
+        if(network != null) {
+            json.put("network", network);
+        }
+        if(runtimeMinutes > 0) {
+            json.put("runtimeMinutes", runtimeMinutes);
+        }
+        json.put("season", season);
+        json.put("episode", episode);
+        json.put("episodeName", episodeName);
+        if(episodeSummary != null) {
+            json.put("episodeSummary", episodeSummary);
+        }
+        json.put("genres", genres);
+        return json;
     }
 }

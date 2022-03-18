@@ -1,5 +1,10 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
+import me.randomhashtags.worldlaws.locale.JSONTranslatable;
+import me.randomhashtags.worldlaws.locale.Language;
+import me.randomhashtags.worldlaws.locale.LanguageTranslator;
+import org.json.JSONObject;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 
@@ -13,9 +18,8 @@ import java.security.SecureRandom;
 import java.security.cert.CertificateException;
 import java.security.cert.X509Certificate;
 import java.time.*;
-import java.util.Date;
-import java.util.Timer;
-import java.util.TimerTask;
+import java.util.*;
+import java.util.concurrent.ConcurrentHashMap;
 
 public abstract class WLUtilities {
     public static final String SERVER_EMPTY_JSON_RESPONSE = "{}";
@@ -51,6 +55,30 @@ public abstract class WLUtilities {
         } catch (Exception e) {
             WLUtilities.saveException(e);
         }
+    }
+
+
+    public static JSONObject getLocale(ConcurrentHashMap<LanguageTranslator, HashMap<Language, HashMap<String, String>>> map) {
+        final JSONObject json = new JSONObject();
+        for(Map.Entry<LanguageTranslator, HashMap<Language, HashMap<String, String>>> entry : map.entrySet()) {
+            final LanguageTranslator type = entry.getKey();
+            final HashMap<Language, HashMap<String, String>> languages = entry.getValue();
+            final JSONObject languagesJSON = new JSONObject();
+            for(Map.Entry<Language, HashMap<String, String>> languageEntry : languages.entrySet()) {
+                final String languageID = languageEntry.getKey().getID();
+                final HashMap<String, String> words = languageEntry.getValue();
+                final JSONObject translatedTextsJSON = new JSONObject();
+                for(Map.Entry<String, String> textMap : words.entrySet()) {
+                    final String key = textMap.getKey(), text = textMap.getValue();
+                    translatedTextsJSON.put(key, text);
+                }
+                languagesJSON.put(languageID, translatedTextsJSON);
+            }
+            if(!languagesJSON.isEmpty()) {
+                json.put(type.name().toLowerCase(), languagesJSON);
+            }
+        }
+        return json;
     }
 
     public static Document getJsoupDocumentFrom(String url) throws Exception {
@@ -119,23 +147,29 @@ public abstract class WLUtilities {
         }
     }
 
-    public static void executeCommand(String command) {
+    public static String executeCommand(String command, boolean printToTerminal) {
         try {
             final Runtime runtime = Runtime.getRuntime();
             final Process p = runtime.exec(command);
             p.waitFor();
 
             final BufferedReader reader = new BufferedReader(new InputStreamReader(p.getInputStream()));
-            String line = "";
 
+            String line = "";
+            final StringBuilder builder = new StringBuilder();
             while ((line = reader.readLine()) != null) {
-                System.out.println(line);
+                builder.append(builder.length() == 0 ? "" : "\n").append(line);
+                if(printToTerminal) {
+                    System.out.println(line);
+                }
             }
             reader.close();
             WLLogger.logInfo("WLUtilities - executed command \"" + command + "\"");
+            return builder.toString();
         } catch (Exception e) {
             WLUtilities.saveException(e);
         }
+        return null;
     }
 
     public static Month valueOfMonthFromInput(String input) {
@@ -208,5 +242,34 @@ public abstract class WLUtilities {
         final long elapsedMinutes = elapsedSeconds / 60;
         elapsedSeconds -= elapsedMinutes * 60;
         return (elapsedMinutes > 0 ? elapsedMinutes + "m" : "") + (elapsedSeconds > 0 ? elapsedSeconds + "s" : "") + elapsedMilliseconds + "ms";
+    }
+
+    public static JSONObject translateJSON(JSONTranslatable json, LanguageTranslator translator, Language clientLanguage) {
+        final boolean isNotEnglish = clientLanguage != Language.ENGLISH;
+        final String localeKey = "locale", translatorID = translator.getID(), languageID = clientLanguage.getID();
+        if(isNotEnglish && json != null && !json.isEmpty()) {
+            if(json instanceof JSONObjectTranslatable) {
+                final JSONObjectTranslatable translatable = (JSONObjectTranslatable) json;
+                final boolean inserted = JSONTranslatable.insertTranslations(translatable, translatorID, languageID);
+                if(!inserted) {
+                    translatable.update(translator, clientLanguage);
+                }
+            }
+        }
+        final JSONObject jsonClone = json != null ? new JSONObject(json.toString()) : null;
+        if(jsonClone != null) {
+            if(isNotEnglish) {
+                JSONTranslatable.insertTranslations(jsonClone, translatorID, languageID);
+            }
+            jsonClone.remove(localeKey);
+
+            final HashSet<String> removedKeys = json.getRemovedClientKeys();
+            if(removedKeys != null) {
+                for(String key : removedKeys) {
+                    jsonClone.remove(key);
+                }
+            }
+        }
+        return jsonClone;
     }
 }

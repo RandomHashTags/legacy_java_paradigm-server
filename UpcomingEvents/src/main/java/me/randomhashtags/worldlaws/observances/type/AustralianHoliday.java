@@ -2,12 +2,13 @@ package me.randomhashtags.worldlaws.observances.type;
 
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.country.WLCountry;
-import me.randomhashtags.worldlaws.observances.IHoliday;
+import me.randomhashtags.worldlaws.observances.Holiday;
+import me.randomhashtags.worldlaws.observances.HolidayType;
 
 import java.time.DayOfWeek;
 import java.time.Month;
 
-public enum AustralianHoliday implements IHoliday {
+public enum AustralianHoliday implements Holiday {
 
     AUSTRALIA_DAY,
     WESTERN_AUSTRALIA_DAY,
@@ -24,12 +25,12 @@ public enum AustralianHoliday implements IHoliday {
     }
 
     @Override
-    public Enum<? extends IHoliday> getEnum() {
-        return this;
+    public HolidayType getType() {
+        return HolidayType.AUSTRALIAN;
     }
 
     @Override
-    public String getOfficialName() {
+    public String getWikipediaName() {
         return wikipediaName;
     }
 
@@ -46,7 +47,7 @@ public enum AustralianHoliday implements IHoliday {
     public EventDate getDate(WLCountry country, int year) {
         switch (this) {
             case AUSTRALIA_DAY: return new EventDate(Month.JANUARY, 26, year);
-            case WESTERN_AUSTRALIA_DAY: return getFirst(DayOfWeek.MONDAY, Month.JUNE, year);
+            case WESTERN_AUSTRALIA_DAY: return EventDate.getFirst(DayOfWeek.MONDAY, Month.JUNE, year);
             default: return null;
         }
     }

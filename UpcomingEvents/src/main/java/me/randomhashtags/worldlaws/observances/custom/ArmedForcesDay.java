@@ -6,11 +6,11 @@ import me.randomhashtags.worldlaws.country.WLCountry;
 import java.time.DayOfWeek;
 import java.time.Month;
 
-public enum ArmedForcesDay implements CustomIHoliday {
+public enum ArmedForcesDay implements CustomHoliday {
     INSTANCE;
 
     @Override
-    public String getOfficialName() {
+    public String getWikipediaName() {
         return "Armed Forces Day";
     }
 
@@ -29,7 +29,7 @@ public enum ArmedForcesDay implements CustomIHoliday {
                 return new EventDate(Month.NOVEMBER, 21, year);
             case BOLIVIA: return new EventDate(Month.AUGUST, 7, year);
             case BULGARIA: return new EventDate(Month.MAY, 6, year);
-            case CANADA: return getFirst(DayOfWeek.SUNDAY, Month.JUNE, year);
+            case CANADA: return EventDate.getFirst(DayOfWeek.SUNDAY, Month.JUNE, year);
             case CHILE: return new EventDate(Month.SEPTEMBER, 19, year);
             case CHINA:
             case LEBANON:
@@ -78,8 +78,8 @@ public enum ArmedForcesDay implements CustomIHoliday {
             case THAILAND: return new EventDate(Month.JANUARY, 18, year);
             case TRANSNISTRIA: return new EventDate(Month.SEPTEMBER, 6, year);
             case UKRAINE: return new EventDate(Month.DECEMBER, 6, year);
-            case UNITED_KINGDOM: return getLast(DayOfWeek.SATURDAY, Month.JUNE, year);
-            case UNITED_STATES: return getThird(DayOfWeek.SUNDAY, Month.MAY, year);
+            case UNITED_KINGDOM: return EventDate.getLast(DayOfWeek.SATURDAY, Month.JUNE, year);
+            case UNITED_STATES: return EventDate.getThird(DayOfWeek.SUNDAY, Month.MAY, year);
             case VENEZUELA: return new EventDate(Month.JUNE, 24, year);
             case VIETNAM: return new EventDate(Month.DECEMBER, 22, year);
         }

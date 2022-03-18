@@ -6,6 +6,7 @@ import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.country.WLSubdivisions;
 import me.randomhashtags.worldlaws.country.subdivisions.u.SubdivisionsUnitedStates;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONArray;
@@ -24,7 +25,7 @@ public enum NASA_EONET implements WLService {
     // https://eonet.sci.gsfc.nasa.gov/docs/changelog
     INSTANCE;
 
-    private final HashMap<APIVersion, String> cache;
+    private final HashMap<APIVersion, JSONObjectTranslatable> cache;
     private final HashMap<String, String> territoryEvents, cachedVolcanoes;
 
     NASA_EONET() {
@@ -33,7 +34,7 @@ public enum NASA_EONET implements WLService {
         cachedVolcanoes = new HashMap<>();
     }
 
-    public String getCurrent(APIVersion version) {
+    public JSONObjectTranslatable getCurrent(APIVersion version) {
         if(!cache.containsKey(version)) {
             refresh(version);
         }
@@ -46,7 +47,7 @@ public enum NASA_EONET implements WLService {
         final long started = System.currentTimeMillis();
         final String wikipediaPrefix = "https://en.wikipedia.org/wiki/";
         final HashMap<String, String> volcanoWikipediaPages = Settings.ServerValues.Weather.getVolcanoWikipediaPages();
-        final ConcurrentHashMap<String, HashSet<String>> homeValues = new ConcurrentHashMap<>();
+        final ConcurrentHashMap<String, HashSet<NaturalEvent>> homeValues = new ConcurrentHashMap<>();
         final String url = "https://eonet.gsfc.nasa.gov/api/v3/events?status=open&days=30";
         final JSONObject json = requestJSONObject(url);
         int amount = 0;
@@ -150,29 +151,26 @@ public enum NASA_EONET implements WLService {
                     }
 
                     final NaturalEvent naturalEvent = new NaturalEvent(id, place, country, subdivision, location, description, sources);
-                    homeValues.get(category).add(naturalEvent.toString());
+                    homeValues.get(category).add(naturalEvent);
                 }
             });
 
-            String string = null;
+            JSONObjectTranslatable translatable = null;
             if(!homeValues.isEmpty()) {
-                final StringBuilder builder = new StringBuilder("{");
-                boolean isFirstCategory = true;
-                for(Map.Entry<String, HashSet<String>> map : homeValues.entrySet()) {
-                    builder.append(isFirstCategory ? "" : ",").append("\"").append(map.getKey()).append("\":{");
-                    boolean isFirstValue = true;
-                    final HashSet<String> values = map.getValue();
-                    for(String value : values) {
-                        builder.append(isFirstValue ? "" : ",").append(value);
-                        isFirstValue = false;
+                translatable = new JSONObjectTranslatable();
+                for(Map.Entry<String, HashSet<NaturalEvent>> map : homeValues.entrySet()) {
+                    final String key = map.getKey();
+                    final JSONObjectTranslatable eventsJSON = new JSONObjectTranslatable();
+                    for(NaturalEvent value : map.getValue()) {
+                        final String id = value.id;
+                        eventsJSON.put(id, value.toJSONObject());
+                        eventsJSON.addTranslatedKey(id);
                     }
-                    isFirstCategory = false;
-                    builder.append("}");
+                    translatable.put(key, eventsJSON);
+                    translatable.addTranslatedKey(key);
                 }
-                builder.append("}");
-                string = builder.toString();
             }
-            cache.put(version, string);
+            cache.put(version, translatable);
         }
         WLLogger.logInfo("NASA_EONET - loaded " + amount + " events (took " + WLUtilities.getElapsedTime(started) + ")");
     }
@@ -220,16 +218,27 @@ public enum NASA_EONET implements WLService {
             this.sources = sources;
         }
 
-        @Override
-        public String toString() {
-            return "\"" + id + "\":{" +
-                    "\"place\":\"" + place + "\"," +
-                    (country != null ? "\"country\":\"" + country + "\"," : "") +
-                    (subdivision != null ? "\"subdivision\":\"" + subdivision + "\"," : "") +
-                    (location != null ? "\"location\":" + location.toString() + "," : "") +
-                    (description != null ? "\"description\":\"" + description + "\"," : "") +
-                    "\"sources\":" + sources.toString() +
-                    "}";
+        public String getID() {
+            return id;
+        }
+
+        public JSONObjectTranslatable toJSONObject() {
+            final JSONObjectTranslatable json = new JSONObjectTranslatable("place");
+            json.put("place", place);
+            if(country != null) {
+                json.put("country", country);
+            }
+            if(subdivision != null) {
+                json.put("subdivision", subdivision);
+            }
+            if(location != null) {
+                json.put("location", location.toJSONArray());
+            }
+            if(description != null) {
+                json.put("description", description);
+            }
+            json.put("sources", sources.toJSONObject());
+            return json;
         }
     }
 }

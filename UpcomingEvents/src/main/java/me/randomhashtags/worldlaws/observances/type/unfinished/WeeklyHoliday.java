@@ -2,12 +2,13 @@ package me.randomhashtags.worldlaws.observances.type.unfinished;
 
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.country.WLCountry;
-import me.randomhashtags.worldlaws.observances.IHoliday;
+import me.randomhashtags.worldlaws.observances.Holiday;
+import me.randomhashtags.worldlaws.observances.HolidayType;
 
 import java.time.DayOfWeek;
 import java.time.Month;
 
-public enum WeeklyHoliday implements IHoliday {
+public enum WeeklyHoliday implements Holiday {
 
     CONSTITUTION_WEEK,
     EARTH_SCIENCE_WEEK,
@@ -30,12 +31,12 @@ public enum WeeklyHoliday implements IHoliday {
     }
 
     @Override
-    public Enum<? extends IHoliday> getEnum() {
-        return this;
+    public HolidayType getType() {
+        return null;
     }
 
     @Override
-    public String getOfficialName() {
+    public String getWikipediaName() {
         return wikipediaName;
     }
 
@@ -65,7 +66,7 @@ public enum WeeklyHoliday implements IHoliday {
             case INTERNATIONAL_CLOWN_WEEK: return new EventDate(Month.AUGUST, 1, year);
             case NATIONAL_CHEMISTRY_WEEK:
                 switch (country) {
-                    case UNITED_STATES: return getThird(DayOfWeek.SUNDAY, Month.OCTOBER, year);
+                    case UNITED_STATES: return EventDate.getThird(DayOfWeek.SUNDAY, Month.OCTOBER, year);
                     default: return null;
                 }
             case NATIONAL_SUICIDE_PREVENTION_WEEK:

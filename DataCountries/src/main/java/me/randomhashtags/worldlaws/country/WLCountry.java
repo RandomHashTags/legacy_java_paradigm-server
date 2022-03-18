@@ -410,4 +410,68 @@ public enum WLCountry {
     public boolean isUNObserverState() {
         return UNMemberStates.isUNObserverState(this);
     }
+
+    public String getWikipediaURL() {
+        final String prefix = "https://en.wikipedia.org/wiki/";
+        final String name;
+        switch (this) {
+            case GEORGIA:
+                name = "Georgia_(country)";
+                break;
+            case MICRONESIA:
+                name = "Federated_States_of_Micronesia";
+                break;
+            case SAINT_MARTIN:
+                name = "Saint_Martin_(island)";
+                break;
+            default:
+                name = "https://en.wikipedia.org" + getShortName().replace(" ", "_");
+                break;
+        }
+        return prefix + name;
+    }
+    public String getUNStatus() {
+        switch (this) {
+            case ABKHAZIA:
+            case ARTSAKH:
+            case NORTHERN_CYPRUS:
+            case SOMALILAND:
+            case TRANSNISTRIA:
+                return "NO MEMBERSHIP";
+            case COOK_ISLANDS:
+            case KOSOVO:
+            case NIUE:
+                return "UN SPECIAL AGENCY MEMBER";
+            case PALESTINE:
+            case VATICAN_CITY:
+                return "UN OBSERVER STATE";
+            case TAIWAN:
+                return "FORMER UN MEMBER STATE";
+            default:
+                return null;
+        }
+    }
+    public String getSovereigntyDispute() {
+        switch (this) {
+            case ABKHAZIA: return "Claimed by Georgia";
+            case ARMENIA: return "Not recognised by Pakistan";
+            case ARTSAKH: return "Claimed by Azerbaijan";
+            case CHINA: return "Partially unrecognised. Claimed by the Republic of China";
+            case CYPRUS: return "Not recognised by Turkey";
+            case ISRAEL: return "Unrecognised as a state by 28 UN members";
+            case KOSOVO: return "Claimed by Serbia";
+            case NORTH_KOREA: return "Claimed by South Korea; unrecognised by 3 UN members (France, Japan, and South Korea)";
+            case NORTHERN_CYPRUS: return "Claimed by Cyprus; recognised only by Turkey";
+            case PALESTINE: return "Unrecognised as a state by Israel; recognised by 138 UN members";
+            case SOMALILAND: return "Claimed by Somalia";
+            case SOUTH_KOREA: return "Claimed by North Korea";
+            case TAIWAN: return "Claimed by China";
+            case TRANSNISTRIA: return "Claimed by Moldova; recognised only by Abkhazia, Artsakh, and South Ossetia";
+            default: return null;
+        }
+    }
+
+    public String[] getOfficialNames() {
+        return WLCountryOfficialName.get(this);
+    }
 }

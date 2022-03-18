@@ -1,10 +1,13 @@
 package me.randomhashtags.worldlaws.upcoming.entertainment.music;
 
 import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.service.SpotifyService;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.SpotifyNewMusicFridayEvent;
+import me.randomhashtags.worldlaws.upcoming.events.SpotifyTrack;
+import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -26,16 +29,22 @@ public final class MusicSpotify extends LoadedUpcomingEventController implements
         }
     }
 
+    @Override
+    public UpcomingEvent parseUpcomingEvent(JSONObject json) {
+        return new SpotifyNewMusicFridayEvent(json);
+    }
+
     private void refreshNewMusicFriday(LocalDate date) {
         final JSONObject responseJSON = getSpotifyPlaylistJSON("37i9dQZF1DX4JAvHpjipBk");
         if(responseJSON != null) {
             final UpcomingEventType type = getType();
-            final String dateString = EventDate.getDateString(date);
+            final EventDate eventDate = new EventDate(date);
+            final String dateString = eventDate.getDateString();
             final String imageURL = responseJSON.getJSONArray("images").getJSONObject(0).getString("url");
             final String title = "Spotify: New Music Friday", description = LocalServer.fixEscapeValues(responseJSON.getString("description"));
 
             final JSONArray tracksArray = responseJSON.getJSONObject("tracks").getJSONArray("items");
-            final JSONObject tracks = new JSONObject();
+            final JSONObjectTranslatable tracks = new JSONObjectTranslatable();
             for(Object obj : tracksArray) {
                 final JSONObject trackJSON = ((JSONObject) obj).getJSONObject("track");
 
@@ -51,11 +60,12 @@ public final class MusicSpotify extends LoadedUpcomingEventController implements
                 }
 
                 final JSONArray artistsArray = trackJSON.getJSONArray("artists");
-                final JSONObject artists = new JSONObject();
+                final JSONObjectTranslatable artists = new JSONObjectTranslatable();
                 for(Object artistObj : artistsArray) {
                     final JSONObject artistJSON = (JSONObject) artistObj;
                     final String id = artistJSON.getString("id"), name = LocalServer.fixEscapeValues(artistJSON.getString("name"));
                     artists.put(id, name);
+                    artists.addTranslatedKey(id);
                 }
 
                 final String name = trackJSON.getString("name");
@@ -73,28 +83,12 @@ public final class MusicSpotify extends LoadedUpcomingEventController implements
 
             final String identifier = getEventDateIdentifier(dateString, description);
             final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(identifier, description, null, null);
-            putLoadedPreUpcomingEvent(identifier, preUpcomingEvent.toStringWithImageURL(type, imageURL));
+            putLoadedPreUpcomingEvent(identifier, preUpcomingEvent.toLoadedPreUpcomingEventWithImageURL(type, imageURL));
 
             final EventSources sources = new EventSources();
             sources.add(new EventSource(title + " Playlist", "https://open.spotify.com/playlist/37i9dQZF1DX4JAvHpjipBk"));
-            final SpotifyNewMusicFridayEvent event = new SpotifyNewMusicFridayEvent(title, description, imageURL, tracks, sources);
-            putUpcomingEvent(identifier, event.toString());
-        }
-    }
-
-    private final class SpotifyTrack extends JSONObject {
-
-        public SpotifyTrack(JSONObject artists, String imageURL, boolean isExplicit, long duration, String previewURL, EventSources sources) {
-            put("artists", artists);
-            put("imageURL", imageURL);
-            if(isExplicit) {
-                put("explicit", true);
-            }
-            put("duration", duration);
-            if(previewURL != null) {
-                put("previewURL", previewURL);
-            }
-            put("sources", sources.toJSONObject());
+            final SpotifyNewMusicFridayEvent event = new SpotifyNewMusicFridayEvent(eventDate, title, description, imageURL, tracks, sources);
+            putUpcomingEvent(identifier, event);
         }
     }
 }

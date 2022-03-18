@@ -82,34 +82,25 @@ public final class Virginia extends LawSubdivisionController {
         }
     }
     @Override
-    public String getStatute(String title, String chapter, String section) {
-        final String path = chapter + "." + section;
-        if(statutes.containsKey(path)) {
-            return statutes.get(path);
-        } else {
-            final String url = statuteURL.replace("%index%", title).replace("%chapter%", chapter).replace("%section%", section);
-            final Document doc = getDocument(url);
-            if(doc != null) {
-                final Elements span = doc.select("article.content span"), elements = span.select("section p");
-                final String topic = span.select("h2").get(0).text();
-                final StringBuilder description = new StringBuilder();
-                final Element last = elements.last();
-                if(last.text().startsWith("Code")) {
-                    elements.remove(last);
-                }
-
-                boolean isFirst = true;
-                for(Element element : elements) {
-                    description.append(isFirst ? "" : "\n").append(element.text());
-                    isFirst = false;
-                }
-
-                final SubdivisionStatute statute = new SubdivisionStatute(StateReference.build(title, chapter, section, url), topic, description.toString());
-                final String string = statute.toString();
-                statutes.put(path, string);
-                return string;
+    public SubdivisionStatute loadStatute(String title, String chapter, String section) {
+        final String url = statuteURL.replace("%index%", title).replace("%chapter%", chapter).replace("%section%", section);
+        final Document doc = getDocument(url);
+        if(doc != null) {
+            final Elements span = doc.select("article.content span"), elements = span.select("section p");
+            final String topic = span.select("h2").get(0).text();
+            final StringBuilder description = new StringBuilder();
+            final Element last = elements.last();
+            if(last.text().startsWith("Code")) {
+                elements.remove(last);
             }
-            return null;
+
+            boolean isFirst = true;
+            for(Element element : elements) {
+                description.append(isFirst ? "" : "\n").append(element.text());
+                isFirst = false;
+            }
+            return new SubdivisionStatute(StateReference.build(title, chapter, section, url), topic, description.toString());
         }
+        return null;
     }
 }

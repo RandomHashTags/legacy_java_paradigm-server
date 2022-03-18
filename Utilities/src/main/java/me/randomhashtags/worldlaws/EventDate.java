@@ -1,11 +1,46 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import org.json.JSONObject;
 
 import java.time.*;
 
 public final class EventDate {
     private static final ZoneId UTC_OFFSET = ZoneId.ofOffset("", ZoneOffset.UTC);
+
+    public static EventDate getFirst(DayOfWeek dayOfWeek, Month month, int year) {
+        return get(1, dayOfWeek, year, month, 1);
+    }
+    public static EventDate getSecond(DayOfWeek dayOfWeek, Month month, int year) {
+        return get(2, dayOfWeek, year, month, 1);
+    }
+    public static EventDate getThird(DayOfWeek dayOfWeek, Month month, int year) {
+        return get(3, dayOfWeek, year, month, 1);
+    }
+    public static EventDate getFourth(DayOfWeek dayOfWeek, Month month, int year) {
+        return get(4, dayOfWeek, year, month, 1);
+    }
+    public static EventDate getLast(DayOfWeek dayOfWeek, Month month, int year) {
+        final EventDate fifth = get(5, dayOfWeek, year, month, 1);
+        return fifth != null ? fifth : getFourth(dayOfWeek, month, year);
+    }
+    public static EventDate getFirstAfter(DayOfWeek dayOfWeek, int year, Month month, int day) {
+        return get(1, dayOfWeek, year, month, day);
+    }
+    private static EventDate get(int amount, DayOfWeek dayOfWeek, int year, Month month, int day) {
+        final LocalDate date = LocalDate.of(year, month, day);
+        final int startingDay = amount == 1 ? 1 : (amount-1)*7;
+        for(int i = startingDay; i <= startingDay+7; i++) {
+            final LocalDate targetDate = date.plusDays(i);
+            final Month targetMonth = targetDate.getMonth();
+            final DayOfWeek weekday = targetDate.getDayOfWeek();
+            if(dayOfWeek == weekday && targetMonth == month) {
+                return new EventDate(month, targetDate.getDayOfMonth(), year);
+            }
+        }
+        return null;
+    }
+
     private final Month month;
     private final int day, year, hour, minute;
     // if year == -1 : no year specified
@@ -120,5 +155,19 @@ public final class EventDate {
                 (minute > -1 ? "\"minute\":" + minute + "," : "") +
                 "\"year\":" + year +
                 "}";
+    }
+
+    public JSONObjectTranslatable toJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable();
+        json.put("month", month.name());
+        json.put("day", day);
+        json.put("year", year);
+        if(hour > -1) {
+            json.put("hour", hour);
+        }
+        if(minute > -1) {
+            json.put("minute", minute);
+        }
+        return json;
     }
 }

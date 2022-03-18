@@ -7,6 +7,7 @@ import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.SpaceEvent;
+import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -31,7 +32,7 @@ public final class SpaceEvents extends LoadedUpcomingEventController {
             if(max > 0) {
                 final LocalDate endingDate = LocalDate.now().plusWeeks(1);
                 final EventSources sources = new EventSources(new EventSource("The Space Devs", "https://thespacedevs.com"));
-                new CompletableFutures<JSONObject>().stream(resultsArray.spliterator(), resultJSON -> {
+                new CompletableFutures<JSONObject>().stream(resultsArray, resultJSON -> {
                     final String[] dateValues = resultJSON.getString("date").split("T")[0].split("-");
                     final int year = Integer.parseInt(dateValues[0]), day = Integer.parseInt(dateValues[2]);
                     final Month month = Month.of(Integer.parseInt(dateValues[1]));
@@ -49,12 +50,17 @@ public final class SpaceEvents extends LoadedUpcomingEventController {
                         final String videoURL = resultJSON.get("video_url") instanceof String ? resultJSON.getString("video_url") : null;
 
                         final String id = getEventDateIdentifier(dateString, title);
-                        final SpaceEvent event = new SpaceEvent(title, description, imageURL, location, newsURL, videoURL, sources);
+                        final SpaceEvent event = new SpaceEvent(eventDate, title, description, imageURL, location, newsURL, videoURL, sources);
                         putLoadedPreUpcomingEvent(id, event.toPreUpcomingEventJSON(eventType, id, location));
-                        putUpcomingEvent(id, event.toString());
+                        putUpcomingEvent(id, event);
                     }
                 });
             }
         }
+    }
+
+    @Override
+    public UpcomingEvent parseUpcomingEvent(JSONObject json) {
+        return new SpaceEvent(json);
     }
 }

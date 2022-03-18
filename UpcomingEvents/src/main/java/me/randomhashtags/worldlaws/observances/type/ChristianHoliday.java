@@ -2,12 +2,13 @@ package me.randomhashtags.worldlaws.observances.type;
 
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.country.WLCountry;
-import me.randomhashtags.worldlaws.observances.IHoliday;
+import me.randomhashtags.worldlaws.observances.Holiday;
+import me.randomhashtags.worldlaws.observances.HolidayType;
 
 import java.time.DayOfWeek;
 import java.time.Month;
 
-public enum ChristianHoliday implements IHoliday {
+public enum ChristianHoliday implements Holiday {
 
     ALL_SAINTS_DAY(
             "All Saints' Day"
@@ -54,36 +55,36 @@ public enum ChristianHoliday implements IHoliday {
     }
 
     @Override
-    public Enum<? extends IHoliday> getEnum() {
-        return this;
+    public HolidayType getType() {
+        return null; // TODO: fix this
     }
 
     @Override
-    public String getOfficialName() {
+    public String getWikipediaName() {
         return wikipediaName;
     }
 
     @Override
     public String[] getAliases() {
         switch (this) {
-            case ALL_SAINTS_DAY: return new String[] { "All Hallows' Day", "Hallowmas", "Feast of All Saints", "Solemnity of All Saints" };
-            case ALL_SOULS_DAY: return new String[] { "Commemoration of All the Faithful Departed", "Day of Remembrance", "Day of the Dead", "Feast of All Souls" };
-            case ASSUMPTION_OF_MARY: return new String[] { "Assumption of the Blessed Virgin Mary", "Falling Asleep of the Blessed Virgin Mary", "The Assumption" };
-            case CHRISTMAS: return new String[] { "Feast of the Nativity", "Noël", "Xmas" };
-            case CHRISTMAS_EVE: return new String[] { "Day before Christmas", "Vigil of Christmas", "Night before Christmas" };
-            case EASTER: return new String[] { "Pascha", "Resurrection Sunday" };
-            case EPIPHANY: return new String[] { "Baptism of Jesus", "Little Christmas", "Three Kings Day", "Theophany" };
-            case FEAST_OF_THE_ASCENSION: return new String[] { "Feast of the Ascension of Jesus Christ", "Ascension Day", "Ascension Thursday", "Holy Thursday" };
-            case GOOD_FRIDAY: return new String[] { "Crucified Friday", "Holy Friday", "Great Friday", "Great and Holy Friday", "Black Friday" };
-            case HALLOWEEN: return new String[] { "Allhalloween", "All Hallows' Eve", "All Saints' Eve", "Hallowe'en" };
-            case HOLY_SATURDAY: return new String[] { "Black Saturday", "Easter Eve", "Great and Holy Saturday", "Great Sabbath", "Hallelujah Saturday", "Holy and Great Saturday", "Joyous Saturday", "Saturday of the Gloria", "the Saturday of Light" };
-            case HOLY_TUESDAY: return new String[] { "Fig Tuesday", "Great and Holy Tuesday", "Great Tuesday" };
-            case MARDI_GRAS: return new String[] { "Fat Tuesday", "Pancake Tuesday", "Shrove Tuesday" };
-            case PENTECOST: return new String[] { "Trinity Sunday", "White Sunday", "Whitsunday", "Whitsun" };
-            case SAINT_JOSEPHS_DAY: return new String[] { "Feast of Saint Joseph", "Solemnity of Saint Joseph" };
-            case SAINT_PATRICKS_DAY: return new String[] { "Feast of Saint Patrick", "Patrick's Day", "St. Paddy's Day", "St. Patty's Day" };
-            case VALENTINES_DAY: return new String[] { "Feast of Saint Valentine", "Saint Valentine's Day" };
-            case WHIT_MONDAY: return new String[] { "Memorial of the Blessed Virgin Mary, Mother of the Church", "Monday of the Holy Spirit", "Pentecost Monday" };
+            case ALL_SAINTS_DAY: return collectAliases("All Hallows' Day", "Hallowmas", "Feast of All Saints", "Solemnity of All Saints");
+            case ALL_SOULS_DAY: return collectAliases("Commemoration of All the Faithful Departed", "Day of Remembrance", "Day of the Dead", "Feast of All Souls");
+            case ASSUMPTION_OF_MARY: return collectAliases("Assumption of the Blessed Virgin Mary", "Falling Asleep of the Blessed Virgin Mary", "The Assumption");
+            case CHRISTMAS: return collectAliases("Feast of the Nativity", "Noël", "Xmas");
+            case CHRISTMAS_EVE: return collectAliases("Day before Christmas", "Vigil of Christmas", "Night before Christmas");
+            case EASTER: return collectAliases("Pascha", "Resurrection Sunday");
+            case EPIPHANY: return collectAliases("Baptism of Jesus", "Little Christmas", "Three Kings Day", "Theophany");
+            case FEAST_OF_THE_ASCENSION: return collectAliases("Feast of the Ascension of Jesus Christ", "Ascension Day", "Ascension Thursday", "Holy Thursday");
+            case GOOD_FRIDAY: return collectAliases("Crucified Friday", "Holy Friday", "Great Friday", "Great and Holy Friday", "Black Friday");
+            case HALLOWEEN: return collectAliases("Allhalloween", "All Hallows' Eve", "All Saints' Eve", "Hallowe'en");
+            case HOLY_SATURDAY: return collectAliases("Black Saturday", "Easter Eve", "Great and Holy Saturday", "Great Sabbath", "Hallelujah Saturday", "Holy and Great Saturday", "Joyous Saturday", "Saturday of the Gloria", "the Saturday of Light");
+            case HOLY_TUESDAY: return collectAliases("Fig Tuesday", "Great and Holy Tuesday", "Great Tuesday");
+            case MARDI_GRAS: return collectAliases("Fat Tuesday", "Pancake Tuesday", "Shrove Tuesday");
+            case PENTECOST: return collectAliases("Trinity Sunday", "White Sunday", "Whitsunday", "Whitsun");
+            case SAINT_JOSEPHS_DAY: return collectAliases("Feast of Saint Joseph", "Solemnity of Saint Joseph");
+            case SAINT_PATRICKS_DAY: return collectAliases("Feast of Saint Patrick", "Patrick's Day", "St. Paddy's Day", "St. Patty's Day");
+            case VALENTINES_DAY: return collectAliases("Feast of Saint Valentine", "Saint Valentine's Day");
+            case WHIT_MONDAY: return collectAliases("Memorial of the Blessed Virgin Mary, Mother of the Church", "Monday of the Holy Spirit", "Pentecost Monday");
             default: return null;
         }
     }
@@ -100,14 +101,14 @@ public enum ChristianHoliday implements IHoliday {
                     return new EventDate(Month.NOVEMBER, 1, year);
                 } else {
                     final EventDate pentecost = PENTECOST.getDate(false, country, year);
-                    return pentecost != null ? getFirstAfter(DayOfWeek.SUNDAY, year, pentecost.getMonth(), pentecost.getDay()) : null;
+                    return pentecost != null ? EventDate.getFirstAfter(DayOfWeek.SUNDAY, year, pentecost.getMonth(), pentecost.getDay()) : null;
                 }
             case ALL_SOULS_DAY:
                 return new EventDate(Month.NOVEMBER, 2, year);
             case ASH_WEDNESDAY:
                 if(isWestern) {
                     final EventDate sevenWeeksBefore = getEasterDatePlusDays(true, country, year, -7*7);
-                    return sevenWeeksBefore != null ? getFirstAfter(DayOfWeek.WEDNESDAY, year, sevenWeeksBefore.getMonth(), sevenWeeksBefore.getDay()) : null;
+                    return sevenWeeksBefore != null ? EventDate.getFirstAfter(DayOfWeek.WEDNESDAY, year, sevenWeeksBefore.getMonth(), sevenWeeksBefore.getDay()) : null;
                 }
                 return null;
             case ASSUMPTION_OF_MARY:

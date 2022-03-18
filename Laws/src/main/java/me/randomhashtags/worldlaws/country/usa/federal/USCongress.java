@@ -6,6 +6,7 @@ import me.randomhashtags.worldlaws.country.usa.USBillStatus;
 import me.randomhashtags.worldlaws.country.usa.USChamber;
 import me.randomhashtags.worldlaws.country.usa.USLaws;
 import me.randomhashtags.worldlaws.country.usa.USPoliticians;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
@@ -19,14 +20,13 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
-import java.util.concurrent.atomic.AtomicReference;
 
 public enum USCongress implements Jsoupable, Jsonable {
     INSTANCE;
 
-    private ConcurrentHashMap<Integer, HashMap<USBillStatus, String>> statuses;
-    private HashMap<String, String> bills;
-    private HashMap<Integer, String> enactedBills;
+    private ConcurrentHashMap<Integer, HashMap<USBillStatus, JSONObjectTranslatable>> statuses;
+    private HashMap<String, JSONObjectTranslatable> bills;
+    private HashMap<Integer, JSONObjectTranslatable> enactedBills;
     private int version;
 
     public static USCongress getCongress(int version) {
@@ -47,7 +47,7 @@ public enum USCongress implements Jsoupable, Jsonable {
         return version.endsWith("3") && !version.endsWith("13") ? version + "rd" : version + "th";
     }
 
-    public String getBillsByStatus(USBillStatus status) {
+    public JSONObjectTranslatable getBillsByStatus(USBillStatus status) {
         if(statuses == null) {
             statuses = new ConcurrentHashMap<>();
         }
@@ -55,7 +55,7 @@ public enum USCongress implements Jsoupable, Jsonable {
         if(statuses.containsKey(version) && statuses.get(version).containsKey(status)) {
             return statuses.get(version).get(status);
         } else if(version == USLaws.INSTANCE.getCurrentAdministrationVersion()) {
-            final String string = getBillsBySearch(status);
+            final JSONObjectTranslatable string = getBillsBySearch(status);
             statuses.putIfAbsent(version, new HashMap<>());
             statuses.get(version).put(status, string);
             return string;
@@ -65,55 +65,66 @@ public enum USCongress implements Jsoupable, Jsonable {
             final Folder folder = Folder.LAWS_USA_CONGRESS;
             final String fileName = "bill status: " + statusName.toLowerCase();
             folder.setCustomFolderName(fileName, folder.getFolderName().replace("%version%", "" + version));
-            final JSONObject json = getJSONObject(folder, fileName, new CompletionHandler() {
-                @Override
-                public String loadJSONObjectString() {
-                    return getBillsBySearch(status);
+            final JSONObject localJSON = getJSONObject(folder, fileName, null);
+            final JSONObjectTranslatable json;
+            if(localJSON == null) {
+                json = getBillsBySearch(status);
+                setFileJSON(folder, fileName, json.toString());
+            } else {
+                json = new JSONObjectTranslatable();
+                json.setFolder(folder);
+                json.setFileName(fileName);
+                for(String key : localJSON.keySet()) {
+                    json.put(key, localJSON.get(key));
+                    json.addTranslatedKey(key);
                 }
-            });
+            }
 
             statuses.putIfAbsent(version, new HashMap<>());
-            final String string = json.toString();
-            statuses.get(version).put(status, string);
+            statuses.get(version).put(status, json);
             WLLogger.logInfo("USCongress - loaded" + suffix.replace("%time%", WLUtilities.getElapsedTime(started)));
-            return string;
+            return json;
         }
     }
-    private String getBillsBySearch(USBillStatus status) {
+    private JSONObjectTranslatable getBillsBySearch(USBillStatus status) {
         final HashSet<PreCongressBill> bills = getPreCongressBillsBySearch(status);
-        String string = null;
+        JSONObjectTranslatable json = null;
         if(bills != null) {
-            string = getPreCongressBillsJSON(bills);
+            json = getPreCongressBillsJSON(bills);
         }
-        return string;
+        return json;
     }
-    public static String getPreCongressBillsJSON(HashSet<PreCongressBill> bills) {
-        final HashMap<String, HashMap<String, StringBuilder>> map = new HashMap<>();
+    public static JSONObjectTranslatable getPreCongressBillsJSON(HashSet<PreCongressBill> bills) {
+        final HashMap<String, HashMap<String, HashSet<PreCongressBill>>> map = new HashMap<>();
         for(PreCongressBill bill : bills) {
             final String chamber = bill.getChamber().getName();
             map.putIfAbsent(chamber, new HashMap<>());
 
             final String dateString = bill.getDate().getDateString();
-            final boolean isFirst = !map.get(chamber).containsKey(dateString);
-            map.get(chamber).putIfAbsent(dateString, new StringBuilder());
-            map.get(chamber).get(dateString).append(isFirst ? "" : ",").append(bill.toString());
+            map.get(chamber).putIfAbsent(dateString, new HashSet<>());
+            map.get(chamber).get(dateString).add(bill);
         }
-        final StringBuilder builder = new StringBuilder("{");
-        boolean isFirstDateString = true;
-        for(Map.Entry<String, HashMap<String, StringBuilder>> hashmap : map.entrySet()) {
-            final String dateString = hashmap.getKey();
-            builder.append(isFirstDateString ? "" : ",").append("\"").append(dateString).append("\":{");
-            boolean isFirstChamber = true;
-            for(Map.Entry<String, StringBuilder> builderMap : hashmap.getValue().entrySet()) {
-                final String chamber = builderMap.getKey();
-                builder.append(isFirstChamber ? "" : ",").append("\"").append(chamber).append("\":{").append(builderMap.getValue()).append("}");
-                isFirstChamber = false;
+
+        final JSONObjectTranslatable json = new JSONObjectTranslatable();
+        for(Map.Entry<String, HashMap<String, HashSet<PreCongressBill>>> hashmap : map.entrySet()) {
+            final JSONObjectTranslatable dateStringJSON = new JSONObjectTranslatable();
+            final String chamber = hashmap.getKey();
+            for(Map.Entry<String, HashSet<PreCongressBill>> entry : hashmap.getValue().entrySet()) {
+                final String dateString = entry.getKey();
+                final HashSet<PreCongressBill> values = entry.getValue();
+                final JSONObjectTranslatable billsJSON = new JSONObjectTranslatable();
+                for(PreCongressBill bill : values) {
+                    final String id = bill.getID();
+                    billsJSON.put(id, bill.toJSONObject());
+                    billsJSON.addTranslatedKey(id);
+                }
+                dateStringJSON.put(dateString, billsJSON);
+                dateStringJSON.addTranslatedKey(dateString);
             }
-            builder.append("}");
-            isFirstDateString = false;
+            json.put(chamber, dateStringJSON);
+            json.addTranslatedKey(chamber);
         }
-        builder.append("}");
-        return builder.toString();
+        return json;
     }
     public HashSet<PreCongressBill> getPreCongressBillsBySearch(USBillStatus status) {
         final String version = getVersion();
@@ -166,7 +177,7 @@ public enum USCongress implements Jsoupable, Jsonable {
         return new PreCongressBill(chamber, id, title, committees, notes, date);
     }
 
-    public String getEnactedBills() {
+    public JSONObjectTranslatable getEnactedBills() {
         if(enactedBills == null) {
             enactedBills = new HashMap<>();
         }
@@ -182,79 +193,84 @@ public enum USCongress implements Jsoupable, Jsonable {
             final Folder folder = Folder.LAWS_USA_CONGRESS;
             final String fileName = "enacted bills";
             folder.setCustomFolderName(fileName, folder.getFolderName().replace("%version%", version));
-            final JSONObject json = getJSONObject(folder, fileName, new CompletionHandler() {
-                @Override
-                public String loadJSONObjectString() {
-                    final String version = getVersioned();
-                    final String url = "https://www.congress.gov/public-laws/" + version + "-congress";
-                    final Document doc = getDocument(url);
-                    if(doc != null) {
-                        final Elements table = doc.select("table.item_table tbody tr td");
-                        table.removeIf(element -> element.text().startsWith("PL"));
-                        String previousTitle = null;
-                        int index = 1;
-                        final HashMap<String, HashMap<USChamber, HashSet<String>>> preEnactedBills = new HashMap<>();
-                        for(Element element : table) {
-                            final String text = element.text();
-                            if(index % 2 == 0) {
-                                final String[] dateValues = text.split("/");
-                                final int year = Integer.parseInt(dateValues[2]), month = Integer.parseInt(dateValues[0]), day = Integer.parseInt(dateValues[1]);
-                                final EventDate date = new EventDate(Month.of(month), day, year);
-                                final String dateString = date.getDateString();
-                                preEnactedBills.putIfAbsent(dateString, new HashMap<>());
-
-                                final String[] values = previousTitle.split(" - ");
-                                final String prefix = values[0], title = previousTitle.split(prefix + " - ")[1];
-                                final boolean isHouse = prefix.startsWith("H.R."), isJoint = prefix.contains(".J.Res.");
-                                final USChamber chamber = isHouse ? USChamber.HOUSE : USChamber.SENATE;
-                                final String id = prefix.split("\\.")[isJoint ? 3 : isHouse ? 2 : 1];
-                                final PreEnactedBill bill = new PreEnactedBill(id, title);
-                                preEnactedBills.get(dateString).putIfAbsent(chamber, new HashSet<>());
-                                preEnactedBills.get(dateString).get(chamber).add(bill.toString());
-                            } else {
-                                previousTitle = text;
-                            }
-                            index++;
-                        }
-
-                        final StringBuilder builder = new StringBuilder("{");
-                        boolean isFirstDate = true;
-                        for(Map.Entry<String, HashMap<USChamber, HashSet<String>>> datesMap : preEnactedBills.entrySet()) {
-                            final String dateString = datesMap.getKey();
-                            builder.append(isFirstDate ? "" : ",").append("\"").append(dateString).append("\":{");
-                            isFirstDate = false;
-
-                            boolean isFirstChamber = true;
-                            for(Map.Entry<USChamber, HashSet<String>> map : datesMap.getValue().entrySet()) {
-                                final String chamber = map.getKey().name();
-                                builder.append(isFirstChamber ? "" : ",").append("\"").append(chamber).append("\":{");
-                                final HashSet<String> values = map.getValue();
-                                boolean isFirst = true;
-                                for(String value : values) {
-                                    builder.append(isFirst ? "" : ",").append(value);
-                                    isFirst = false;
-                                }
-                                builder.append("}");
-                                isFirstChamber = false;
-                            }
-                            builder.append("}");
-                        }
-                        builder.append("}");
-                        return builder.toString();
-                    } else {
-                        WLLogger.logError(this, "getEnactedBills - failed to get enacted bills document for congress " + version + "!");
-                        return null;
-                    }
+            final JSONObject localJSON = getJSONObject(folder, fileName, null);
+            final JSONObjectTranslatable json;
+            if(localJSON == null) {
+                json = loadEnactedBills();
+            } else {
+                json = new JSONObjectTranslatable();
+                json.setFolder(folder);
+                json.setFileName(fileName);
+                for(String key : localJSON.keySet()) {
+                    json.put(key, localJSON.get(key));
+                    json.addTranslatedKey(key);
                 }
-            });
-            final String string = json.toString();
-            enactedBills.put(versionInt, string);
+            }
+            enactedBills.put(versionInt, json);
             WLLogger.logInfo("USCongress - loaded enacted bills for congress " + version + " (took " + WLUtilities.getElapsedTime(started) + ")");
-            return string;
+            return json;
         }
-
     }
-    public String getBill(USChamber chamber, String id) {
+    private JSONObjectTranslatable loadEnactedBills() {
+        final String version = getVersioned();
+        final String url = "https://www.congress.gov/public-laws/" + version + "-congress";
+        final Document doc = getDocument(url);
+        if(doc != null) {
+            final Elements table = doc.select("table.item_table tbody tr td");
+            table.removeIf(element -> element.text().startsWith("PL"));
+            String previousTitle = null;
+            int index = 1;
+            final HashMap<String, HashMap<USChamber, HashSet<PreEnactedBill>>> preEnactedBills = new HashMap<>();
+            for(Element element : table) {
+                final String text = element.text();
+                if(index % 2 == 0) {
+                    final String[] dateValues = text.split("/");
+                    final int year = Integer.parseInt(dateValues[2]), month = Integer.parseInt(dateValues[0]), day = Integer.parseInt(dateValues[1]);
+                    final EventDate date = new EventDate(Month.of(month), day, year);
+                    final String dateString = date.getDateString();
+                    preEnactedBills.putIfAbsent(dateString, new HashMap<>());
+
+                    final String[] values = previousTitle.split(" - ");
+                    final String prefix = values[0], title = previousTitle.split(prefix + " - ")[1];
+                    final boolean isHouse = prefix.startsWith("H.R."), isJoint = prefix.contains(".J.Res.");
+                    final USChamber chamber = isHouse ? USChamber.HOUSE : USChamber.SENATE;
+                    final String id = prefix.split("\\.")[isJoint ? 3 : isHouse ? 2 : 1];
+                    final PreEnactedBill bill = new PreEnactedBill(id, title);
+                    preEnactedBills.get(dateString).putIfAbsent(chamber, new HashSet<>());
+                    preEnactedBills.get(dateString).get(chamber).add(bill);
+                } else {
+                    previousTitle = text;
+                }
+                index++;
+            }
+
+            final JSONObjectTranslatable json = new JSONObjectTranslatable();
+            for(Map.Entry<String, HashMap<USChamber, HashSet<PreEnactedBill>>> datesMap : preEnactedBills.entrySet()) {
+                final String dateString = datesMap.getKey();
+                final JSONObjectTranslatable chamberJSON = new JSONObjectTranslatable();
+                for(Map.Entry<USChamber, HashSet<PreEnactedBill>> map : datesMap.getValue().entrySet()) {
+                    final String chamber = map.getKey().name();
+                    final JSONObjectTranslatable enactedBillsJSON = new JSONObjectTranslatable();
+                    final HashSet<PreEnactedBill> values = map.getValue();
+                    for(PreEnactedBill value : values) {
+                        final String id = value.getID();
+                        enactedBillsJSON.put(id, value.toJSONObject());
+                        enactedBillsJSON.addTranslatedKey(id);
+                    }
+                    chamberJSON.put(chamber, enactedBillsJSON);
+                    chamberJSON.addTranslatedKey(chamber);
+                }
+                json.put(dateString, chamberJSON);
+                json.addTranslatedKey(dateString);
+            }
+            return json;
+        } else {
+            WLLogger.logError(this, "getEnactedBills - failed to get enacted bills document for congress " + version + "!");
+            return null;
+        }
+    }
+
+    public JSONObjectTranslatable getBill(USChamber chamber, String id) {
         if(bills == null) {
             bills = new HashMap<>();
         }
@@ -265,9 +281,15 @@ public enum USCongress implements Jsoupable, Jsonable {
             final String chamberName = chamber.name(), chamberNameLowercase = chamberName.toLowerCase();
             folder.setCustomFolderName(id, folder.getFolderName().replace("%version%", "" + version) + File.separator + chamberNameLowercase);
             final JSONObject localJSON = getLocalFileJSONObject(folder, id);
-            AtomicReference<String> stringAtomic = new AtomicReference<>();
+            JSONObjectTranslatable json = null;
             if(localJSON != null) {
-                 stringAtomic.set(localJSON.toString());
+                json = new JSONObjectTranslatable();
+                json.setFolder(folder);
+                json.setFileName(id);
+                for(String key : localJSON.keySet()) {
+                    json.put(key, localJSON.get(key));
+                    json.addTranslatedKey(key);
+                }
             } else {
                 final String targetURL = "https://www.congress.gov/bill/" + getVersioned() + "-congress/" + chamberNameLowercase + "-bill/" + id + "/all-info";
                 final Document doc = getDocument(targetURL);
@@ -295,15 +317,14 @@ public enum USCongress implements Jsoupable, Jsonable {
                     final String cosponsors = getBillCosponsors(allInfoContent);
                     final String actions = getBillActions(allInfoContent);
                     final CongressBill bill = new CongressBill(sponsor, summary, policyArea, subjects, cosponsors, actions, null, sources);
-                    final String billString = bill.toString();
-                    stringAtomic.set(billString);
-                    if(!summary.equalsIgnoreCase("a summary is in progress.")) {
+                    json = bill.toJSONObject();
+                    if(!summary.toLowerCase().contains("a summary is in progress")) {
+                        final String billString = bill.toString();
                         setFileJSON(folder, id, billString);
                     }
                 }
             }
-            final String string = stringAtomic.get();
-            bills.put(id, string);
+            bills.put(id, json);
             WLLogger.logInfo("USCongress - loaded bill from chamber \"" + chamberName + "\" with title \"" + title[0] + "\" for congress " + version + " (took " + WLUtilities.getElapsedTime(started) + ")");
         }
         return bills.get(id);

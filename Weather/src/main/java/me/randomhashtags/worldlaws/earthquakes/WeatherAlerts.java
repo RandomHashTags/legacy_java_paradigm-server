@@ -2,21 +2,21 @@ package me.randomhashtags.worldlaws.earthquakes;
 
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.WLUtilities;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.weather.WeatherController;
 import me.randomhashtags.worldlaws.weather.country.WeatherUSA;
 
 import java.util.Arrays;
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
 public enum WeatherAlerts {
     INSTANCE;
 
-    private String allAlertsJSON;
-    private final ConcurrentHashMap<String, String> countries;
+    private JSONObjectTranslatable allAlertsJSON;
+    private final ConcurrentHashMap<String, JSONObjectTranslatable> countries;
 
     WeatherAlerts() {
         countries = new ConcurrentHashMap<>();
@@ -29,7 +29,7 @@ public enum WeatherAlerts {
         };
     }
 
-    public String getResponse(String value) {
+    public JSONObjectTranslatable getResponse(String value) {
         final String[] values = value.split("/");
         final String key = values[0];
         String country, prefix, target;
@@ -53,7 +53,7 @@ public enum WeatherAlerts {
                 return null;
         }
     }
-    private String getAlertsForCountry(String country, String[] values) {
+    private JSONObjectTranslatable getAlertsForCountry(String country, String[] values) {
         final WeatherController weather = getCountryWeather(country);
         if(weather != null) {
             if(values == null) {
@@ -61,7 +61,7 @@ public enum WeatherAlerts {
                 if(countries.containsKey(countryBackendID)) {
                     return countries.get(countryBackendID);
                 } else {
-                    final String value = refreshCountry(weather);
+                    final JSONObjectTranslatable value = refreshCountry(weather);
                     countries.put(countryBackendID, value);
                 }
             } else {
@@ -77,7 +77,7 @@ public enum WeatherAlerts {
         }
         return null;
     }
-    private String getAlertsForSubdivision(String country, String subdivision, String[] values) {
+    private JSONObjectTranslatable getAlertsForSubdivision(String country, String subdivision, String[] values) {
         final WeatherController weather = getCountryWeather(country);
         if(weather != null) {
             switch (values[0]) {
@@ -93,43 +93,42 @@ public enum WeatherAlerts {
         }
     }
 
-    private String getAllPreAlerts(String event) {
+    private JSONObjectTranslatable getAllPreAlerts(String event) {
         final WeatherController[] controllers = getCountries();
-        final HashSet<String> values = new HashSet<>();
+        final HashMap<String, JSONObjectTranslatable> values = new HashMap<>();
         new CompletableFutures<WeatherController>().stream(Arrays.asList(controllers), controller -> {
-            final String string = controller.getPreAlerts(event);
-            if(string != null) {
+            final JSONObjectTranslatable preAlerts = controller.getPreAlerts(event);
+            if(preAlerts != null) {
                 final String country = controller.getCountry().getBackendID();
-                final String source = "\"source\":{" + controller.getSource().toString() + "}";
-                final String alerts = "\"alerts\":" + string;
-                final String value = "\"" + country + "\":{" + source + "," + alerts + "}";
-                values.add(value);
+                final JSONObjectTranslatable json = new JSONObjectTranslatable();
+                json.put("source", controller.getSource().toJSONObject());
+                json.put("alerts", preAlerts);
+                json.addTranslatedKey("alerts");
+                values.put(country, json);
             }
         });
 
-        String value = null;
+        JSONObjectTranslatable json = null;
         if(!values.isEmpty()) {
-            final StringBuilder builder = new StringBuilder("{");
-            boolean isFirst = true;
-            for(String valueString : values) {
-                builder.append(isFirst ? "" : ",").append(valueString);
-                isFirst = false;
+            json = new JSONObjectTranslatable();
+            for(Map.Entry<String, JSONObjectTranslatable> map : values.entrySet()) {
+                final String country = map.getKey();
+                json.put(country, map.getValue());
+                json.addTranslatedKey(country);
             }
-            builder.append("}");
-            value = builder.toString();
         }
-        return value;
+        return json;
     }
 
-    private String getAll() {
+    private JSONObjectTranslatable getAll() {
         if(allAlertsJSON == null) {
             refresh(false);
         }
         return allAlertsJSON;
     }
-    private String refreshCountry(WeatherController controller) {
+    private JSONObjectTranslatable refreshCountry(WeatherController controller) {
         final String countryBackendID = controller.getCountry().getBackendID();
-        final String string = controller.refresh();
+        final JSONObjectTranslatable string = controller.refresh();
         if(string != null) {
             countries.put(countryBackendID, string);
         } else {
@@ -157,15 +156,13 @@ public enum WeatherAlerts {
         WLLogger.logInfo("WeatherAlerts - " + (isAutoUpdate ? "auto-" : "") + "refreshed (took " + WLUtilities.getElapsedTime(started) + " total, " + loadTimes.toString() + ")");
     }
     private void updateJSON() {
-        final StringBuilder builder = new StringBuilder("{");
-        boolean isFirst = true;
-        for(Map.Entry<String, String> map : countries.entrySet()) {
-            final String country = map.getKey(), value = map.getValue();
-            builder.append(isFirst ? "" : ",").append("\"").append(country).append("\":").append(value);
-            isFirst = false;
+        final JSONObjectTranslatable json = new JSONObjectTranslatable();
+        for(Map.Entry<String, JSONObjectTranslatable> map : countries.entrySet()) {
+            final String country = map.getKey();
+            json.put(country, map.getValue());
+            json.addTranslatedKey(country);
         }
-        builder.append("}");
-        allAlertsJSON = builder.toString();
+        allAlertsJSON = json;
     }
 
     private WeatherController getCountryWeather(String countryBackendID) {

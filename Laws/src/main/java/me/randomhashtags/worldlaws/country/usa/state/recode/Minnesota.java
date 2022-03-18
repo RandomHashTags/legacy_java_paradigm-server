@@ -5,6 +5,7 @@ import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.subdivisions.u.SubdivisionsUnitedStates;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.recode.*;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -41,7 +42,7 @@ public final class Minnesota extends TestLawSubdivisionController {
     }
 
     @Override
-    public String getTableOfChapters(String index) {
+    public JSONObjectTranslatable getTableOfChapters(String index) {
         index = index.replace("$", "+");
         return super.getTableOfChapters(index);
     }

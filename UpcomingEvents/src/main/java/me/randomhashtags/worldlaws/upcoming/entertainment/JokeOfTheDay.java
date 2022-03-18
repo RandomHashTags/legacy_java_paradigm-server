@@ -6,6 +6,7 @@ import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.JokeOfTheDayEvent;
+import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
 import org.json.JSONObject;
 
 import java.time.Month;
@@ -48,9 +49,14 @@ public final class JokeOfTheDay extends LoadedUpcomingEventController {
 
             final String identifier = getEventDateIdentifier(dateString, title);
 
-            final JokeOfTheDayEvent event = new JokeOfTheDayEvent(title, null, imageURL, copyright, question, answer, sources);
+            final JokeOfTheDayEvent event = new JokeOfTheDayEvent(date, title, null, imageURL, copyright, question, answer, sources);
             putLoadedPreUpcomingEvent(identifier, event.toPreUpcomingEventJSON(type, identifier, "Copyright: " + copyright));
-            putUpcomingEvent(identifier, event.toString());
+            putUpcomingEvent(identifier, event);
         }
+    }
+
+    @Override
+    public UpcomingEvent parseUpcomingEvent(JSONObject json) {
+        return new JokeOfTheDayEvent(json);
     }
 }

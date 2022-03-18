@@ -2,23 +2,12 @@ package me.randomhashtags.worldlaws.observances.custom;
 
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.country.WLCountry;
-import me.randomhashtags.worldlaws.observances.IHoliday;
 
 import java.time.DayOfWeek;
 import java.time.Month;
 
-public enum NationalDonutDay implements IHoliday {
+public enum NationalDonutDay implements CustomHoliday {
     INSTANCE;
-
-    @Override
-    public Enum<? extends IHoliday> getEnum() {
-        return null;
-    }
-
-    @Override
-    public String getOfficialName() {
-        return null;
-    }
 
     @Override
     public String[] getAliases() {
@@ -31,7 +20,7 @@ public enum NationalDonutDay implements IHoliday {
         }
         switch (country) {
             case AUSTRALIA: return new EventDate(Month.OCTOBER, 25, year);
-            case UNITED_STATES: return getFirst(DayOfWeek.FRIDAY, Month.JUNE, year);
+            case UNITED_STATES: return EventDate.getFirst(DayOfWeek.FRIDAY, Month.JUNE, year);
             default: return null;
         }
     }

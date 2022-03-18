@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.Location;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.weather.*;
 import org.json.JSONArray;
@@ -19,8 +20,9 @@ public enum WeatherUSA implements WeatherController {
     private final String zonePrefix;
     private final HashMap<String, WeatherZone> zones;
     private final HashMap<String, JSONObject> forecastOffices;
-    private HashMap<String, String> alertIDs, eventPreAlerts, territoryEvents;
-    private HashMap<String, HashMap<String, String>> territoryPreAlerts;
+    private JSONObjectTranslatable previousWeatherAlerts;
+    private HashMap<String, JSONObjectTranslatable> alertIDs, eventPreAlerts, territoryEvents;
+    private HashMap<String, HashMap<String, JSONObjectTranslatable>> territoryPreAlerts;
     private HashMap<String, WeatherPreAlert> preAlertIDs;
 
     WeatherUSA() {
@@ -40,25 +42,24 @@ public enum WeatherUSA implements WeatherController {
     }
 
     @Override
-    public HashMap<String, String> getEventPreAlerts() {
+    public HashMap<String, JSONObjectTranslatable> getEventPreAlerts() {
         return eventPreAlerts;
     }
 
     @Override
-    public HashMap<String, String> getSubdivisionEvents() {
+    public HashMap<String, JSONObjectTranslatable> getSubdivisionEvents() {
         return territoryEvents;
     }
 
     @Override
-    public HashMap<String, HashMap<String, String>> getSubdivisionPreAlerts() {
+    public HashMap<String, HashMap<String, JSONObjectTranslatable>> getSubdivisionPreAlerts() {
         return territoryPreAlerts;
     }
 
     @Override
-    public String refresh() {
+    public JSONObjectTranslatable refresh() {
         final String url = "https://api.weather.gov/alerts/active?status=actual";
         final JSONObject json = requestJSONObject(url);
-        String string = null;
         if(json != null) {
             final JSONArray array = json.getJSONArray("features");
             if(array.length() > 0) {
@@ -76,10 +77,10 @@ public enum WeatherUSA implements WeatherController {
                     zoneIDs.addAll(targetZoneIDs);
                 });
                 processZones(zoneIDs);
-                string = processAlerts(array);
+                previousWeatherAlerts = processAlerts(array);
             }
         }
-        return string;
+        return previousWeatherAlerts;
     }
 
     private void processZones(Collection<String> zoneIDs) {
@@ -136,7 +137,7 @@ public enum WeatherUSA implements WeatherController {
             WLLogger.logInfo("WeatherUSA - loaded" + suffix + " (took " + WLUtilities.getElapsedTime(started) + ")");
         }
     }
-    private String processAlerts(JSONArray array) {
+    private JSONObjectTranslatable processAlerts(JSONArray array) {
         final ConcurrentHashMap<String, Integer> eventsMap = new ConcurrentHashMap<>();
         final ConcurrentHashMap<String, HashSet<WeatherPreAlert>> eventPreAlertsMap = new ConcurrentHashMap<>();
         final ConcurrentHashMap<String, ConcurrentHashMap<String, WeatherEvent>> subdivisionEventsMap = new ConcurrentHashMap<>();
@@ -223,36 +224,26 @@ public enum WeatherUSA implements WeatherController {
         return zoneIDs;
     }
     @Override
-    public String getAlert(String id) {
+    public JSONObjectTranslatable getAlert(String id) {
         if(alertIDs == null) {
-            final String string = refresh();
+            final JSONObjectTranslatable string = refresh();
         }
         return tryGettingAlert(id);
     }
-    private String tryGettingAlert(String id) {
-        String string = null;
+    private JSONObjectTranslatable tryGettingAlert(String id) {
+        JSONObjectTranslatable json = null;
         if(alertIDs.containsKey(id)) {
-            string = alertIDs.get(id);
+            json = alertIDs.get(id);
         } else if(preAlertIDs.containsKey(id)) {
             final EventSource source = getSource();
             final WeatherPreAlert preAlert = preAlertIDs.get(id);
             final HashSet<WeatherZone> zones = preAlert.getZones();
-
-            final StringBuilder builder = new StringBuilder("[");
-            boolean isFirst = true;
-            for(WeatherZone zone : zones) {
-                builder.append(isFirst ? "" : ",").append(zone.toString());
-                isFirst = false;
-            }
-            builder.append("]");
-            final String zonesJSON = builder.toString();
-
-            final WeatherAlert alert = new WeatherAlert(preAlert, zonesJSON, source);
-            string = alert.toString();
-            alertIDs.put(id, string);
+            final WeatherAlert alert = new WeatherAlert(preAlert, zones, source);
+            json = alert.toJSONObject();
+            alertIDs.put(id, json);
             preAlertIDs.remove(id);
         }
-        return string;
+        return json;
     }
 
     private JSONObject getLocalZone(String zoneID, CompletionHandler handler) {

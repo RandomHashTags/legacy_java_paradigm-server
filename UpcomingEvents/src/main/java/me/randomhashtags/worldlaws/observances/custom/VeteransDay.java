@@ -8,11 +8,11 @@ import me.randomhashtags.worldlaws.country.WLCountry;
 import java.time.DayOfWeek;
 import java.time.Month;
 
-public enum VeteransDay implements CustomIHoliday {
+public enum VeteransDay implements CustomHoliday {
     INSTANCE;
 
     @Override
-    public String getOfficialName() {
+    public String getWikipediaName() {
         return "Veterans' Day";
     }
 
@@ -27,7 +27,7 @@ public enum VeteransDay implements CustomIHoliday {
             case FINLAND: return new EventDate(Month.APRIL, 27, year);
             case NETHERLANDS:
             case UNITED_KINGDOM:
-                return getLast(DayOfWeek.SATURDAY, Month.JUNE, year);
+                return EventDate.getLast(DayOfWeek.SATURDAY, Month.JUNE, year);
             case NORWAY: return new EventDate(Month.MAY, 8, year);
             case SOUTH_KOREA: return new EventDate(Month.OCTOBER, 8, year);
             case SWEDEN: return new EventDate(Month.MAY, 29, year);

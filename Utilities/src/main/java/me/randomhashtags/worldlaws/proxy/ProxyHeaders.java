@@ -4,6 +4,8 @@ import me.randomhashtags.worldlaws.APIVersion;
 import me.randomhashtags.worldlaws.DataValues;
 import me.randomhashtags.worldlaws.TargetServer;
 import me.randomhashtags.worldlaws.WLUtilities;
+import me.randomhashtags.worldlaws.locale.Language;
+import me.randomhashtags.worldlaws.locale.LanguageTranslator;
 
 import java.io.InputStreamReader;
 import java.io.Reader;
@@ -15,6 +17,8 @@ import java.util.HashSet;
 public final class ProxyHeaders {
 
     private String ipAddress, identifier, platform, totalRequest, request;
+    private Language language;
+    private LanguageTranslator languageType;
     private APIVersion apiVersion;
     private TargetServer server;
     private HashSet<String> query;
@@ -50,6 +54,20 @@ public final class ProxyHeaders {
         final String ipAddress = client.getInetAddress().toString();
         final String identifier = getHeaderThatStartsWith(headers, "***REMOVED***");
         final String platform = getHeaderThatStartsWith(headers, "***REMOVED***");
+        final String targetLanguage = getHeaderThatStartsWith(headers, "***REMOVED***");
+        if(targetLanguage != null) {
+            language = Language.valueOfString(targetLanguage);
+        }
+        if(language == null) {
+            language = Language.ENGLISH;
+        }
+        final String targetLanguageType = getHeaderThatStartsWith(headers, "***REMOVED***");
+        if(targetLanguageType != null) {
+            languageType = LanguageTranslator.valueOfString(targetLanguageType);
+        }
+        if(languageType == null) {
+            languageType = LanguageTranslator.ARGOS;
+        }
         test(ipAddress, identifier, platform, target);
     }
 
@@ -96,6 +114,9 @@ public final class ProxyHeaders {
     }
     public String getPlatform() {
         return platform;
+    }
+    public Language getLanguage() {
+        return language;
     }
     public String getTotalRequest() {
         return totalRequest;

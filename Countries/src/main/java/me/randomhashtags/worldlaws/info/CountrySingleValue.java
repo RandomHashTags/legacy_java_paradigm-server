@@ -1,39 +1,48 @@
 package me.randomhashtags.worldlaws.info;
 
-import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.LocalServer;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import org.json.JSONObject;
 
 public final class CountrySingleValue {
-    private final String title;
+
+    public static CountrySingleValue parse(JSONObject json) {
+        return new CountrySingleValue(json);
+    }
+
     private final String notes, value, valueDescription;
     private final int yearOfData;
-    private final EventSources sources;
 
-    public CountrySingleValue(String title, String notes, String value, String valueDescription, int yearOfData, EventSources sources) {
-        this.title = LocalServer.fixEscapeValues(title);
+    public CountrySingleValue(String notes, String value, String valueDescription, int yearOfData) {
         this.notes = LocalServer.fixEscapeValues(notes);
         this.value = LocalServer.fixEscapeValues(value);
         this.valueDescription = LocalServer.fixEscapeValues(valueDescription);
         this.yearOfData = yearOfData;
-        this.sources = sources;
+    }
+    private CountrySingleValue(JSONObject json) {
+        notes = json.optString("notes", null);
+        value = json.optString("value", null);
+        valueDescription = json.optString("valueDescription", null);
+        yearOfData = json.optInt("yearOfData", -1);
     }
 
-    public JSONObject toJSONObject() {
-        final JSONObject json = new JSONObject();
-        final JSONObject detailsJSON = new JSONObject();
+    public JSONObjectTranslatable toJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable();
         if(notes != null) {
-            detailsJSON.put("notes", notes);
+            json.put("notes", notes);
+            json.addTranslatedKey("notes");
         }
-        detailsJSON.put("value", value);
+        json.put("value", value);
+        if(!value.startsWith("https")) {
+            json.addTranslatedKey("value");
+        }
         if(valueDescription != null && !valueDescription.isEmpty()) {
-            detailsJSON.put("valueDescription", valueDescription);
+            json.put("valueDescription", valueDescription);
+            json.addTranslatedKey("valueDescription");
         }
         if(yearOfData != -1) {
-            detailsJSON.put("yearOfData", yearOfData);
+            json.put("yearOfData", yearOfData);
         }
-        detailsJSON.put("sources", sources.toJSONObject());
-        json.put(title, detailsJSON);
         return json;
     }
 }

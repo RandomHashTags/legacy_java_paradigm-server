@@ -3,16 +3,16 @@ package me.randomhashtags.worldlaws.upcoming.entertainment;
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
-import me.randomhashtags.worldlaws.stream.CompletableFutures;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.TVShowEvent;
+import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.time.LocalDate;
 import java.time.Month;
-import java.util.HashMap;
 
 public final class TVShows extends LoadedUpcomingEventController {
 
@@ -34,7 +34,8 @@ public final class TVShows extends LoadedUpcomingEventController {
             final int max = array.length();
             if(max > 0) {
                 final LocalDate nextWeek = LocalDate.now().plusWeeks(1);
-                new CompletableFutures<JSONObject>().stream(array.spliterator(), json -> {
+                for(Object obj : array) {
+                    final JSONObject json = (JSONObject) obj;
                     final int season = json.getInt("season");
                     final JSONObject showJSON = json.getJSONObject("_embedded").getJSONObject("show");
                     if(season < 1000 && !showJSON.getString("status").equalsIgnoreCase("ended")) {
@@ -81,21 +82,25 @@ public final class TVShows extends LoadedUpcomingEventController {
                                 sources.add(new EventSource(network + ": " + showTitle, officialSite));
                             }
 
-                            final TVShowEvent tvShowEvent = new TVShowEvent(showTitle, null, imageURL, null, popularity, language, countryCode, officialSite, network, runtimeMinutes, season, episode, episodeName, episodeSummary, genres, sources);
-                            HashMap<String, Object> customValues = null;
+                            final TVShowEvent tvShowEvent = new TVShowEvent(eventDate, showTitle, null, imageURL, null, popularity, language, countryCode, officialSite, network, runtimeMinutes, season, episode, episodeName, episodeSummary, genres, sources);
+                            JSONObjectTranslatable customValues = null;
                             if(popularity > 0) {
-                                customValues = new HashMap<>();
+                                customValues = new JSONObjectTranslatable();
                                 customValues.put("popularity", popularity);
                             }
 
                             tvShowEvent.setTitle(showTitle);
-                            final String preUpcomingEvent = tvShowEvent.toPreUpcomingEventJSON(eventType, identifier, tag, null, customValues);
-                            putLoadedPreUpcomingEvent(identifier, preUpcomingEvent);
-                            putUpcomingEvent(identifier, tvShowEvent.toString());
+                            putLoadedPreUpcomingEvent(identifier, tvShowEvent.toPreUpcomingEventJSON(eventType, identifier, tag, null, customValues));
+                            putUpcomingEvent(identifier, tvShowEvent);
                         }
                     }
-                });
+                }
             }
         }
+    }
+
+    @Override
+    public UpcomingEvent parseUpcomingEvent(JSONObject json) {
+        return null;
     }
 }

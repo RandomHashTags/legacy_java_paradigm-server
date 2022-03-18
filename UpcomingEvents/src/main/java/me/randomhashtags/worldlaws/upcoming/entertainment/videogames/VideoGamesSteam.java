@@ -4,6 +4,9 @@ import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
+import org.json.JSONArray;
+import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -28,7 +31,7 @@ public final class VideoGamesSteam extends UpcomingEventController {
     }
 
     @Override
-    public String loadUpcomingEvent(String id) {
+    public UpcomingEvent loadUpcomingEvent(String id) {
         return null;
     }
 
@@ -98,10 +101,10 @@ public final class VideoGamesSteam extends UpcomingEventController {
                         final EventDate date = new EventDate(month, day, targetYear);
                         final Element descriptionElement = glance.selectFirst("div.game_description_snippet");
                         final String description = descriptionElement != null ? descriptionElement.text() : null;
-                        final HashSet<String> genres = new HashSet<>();
+                        final JSONArray genres = new JSONArray();
                         final Elements genresElement = glance.select("div.glance_ctn_responsive_right div.glance_tags_ctn div.glance_tags a[href]");
                         for(Element genre : genresElement) {
-                            genres.add(genre.text());
+                            genres.put(genre.text());
                         }
 
                         final Elements linkElements = pageContent.select("div.page_content div.rightcol div.block div.block_content div.block_content_inner div.details_block a.linkbar");
@@ -130,9 +133,9 @@ public final class VideoGamesSteam extends UpcomingEventController {
                             imageURL = imageElement.attr("src");
                         }
                         final String identifier = getEventDateIdentifier(date.getDateString(), name);
-                        final VideoGameRelease release = new VideoGameRelease(name, description, imageURL, genres, sources);
+                        final VideoGameRelease release = new VideoGameRelease(date, name, description, imageURL, genres, sources);
                         putLoadedPreUpcomingEvent(identifier, release.toPreUpcomingEventJSON(eventType, identifier, null));
-                        putUpcomingEvent(identifier, release.toString());
+                        putUpcomingEvent(identifier, release);
                         return release;
                     } else {
                         WLLogger.logInfo("VideoGamesSteam;getPage;name=" + name + ";unconfirmed date =" + releaseDate);
@@ -144,6 +147,12 @@ public final class VideoGamesSteam extends UpcomingEventController {
         }
         return null;
     }
+
+    @Override
+    public UpcomingEvent parseUpcomingEvent(JSONObject json) {
+        return new VideoGameRelease(json);
+    }
+
     private String getEpicGamesURL(String gameName) {
         return null;
     }

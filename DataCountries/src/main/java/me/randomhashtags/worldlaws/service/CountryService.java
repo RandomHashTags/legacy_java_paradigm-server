@@ -1,11 +1,9 @@
 package me.randomhashtags.worldlaws.service;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
-import me.randomhashtags.worldlaws.EventSources;
-import me.randomhashtags.worldlaws.Folder;
-import me.randomhashtags.worldlaws.WLUtilities;
+import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import org.json.JSONObject;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -15,7 +13,7 @@ import java.util.HashSet;
 import java.util.concurrent.ConcurrentHashMap;
 
 public interface CountryService extends SovereignStateService {
-    ConcurrentHashMap<SovereignStateInfo, JSONObject> COUNTRY_SERVICE_JSON_VALUES = new ConcurrentHashMap<>();
+    ConcurrentHashMap<SovereignStateInfo, JSONObjectTranslatable> COUNTRY_SERVICE_JSON_VALUES = new ConcurrentHashMap<>();
     default Folder getFolder() {
         return Folder.COUNTRIES_SERVICES;
     }
@@ -32,8 +30,8 @@ public interface CountryService extends SovereignStateService {
         final SovereignStateInfo info = getInfo();
         String string = null;
         if(COUNTRY_SERVICE_JSON_VALUES.containsKey(info)) {
-            final JSONObject cachedJSON = COUNTRY_SERVICE_JSON_VALUES.get(info);
-            final JSONObject json = cachedJSON.has(countryBackendID) ? cachedJSON.getJSONObject(countryBackendID) : null;
+            final JSONObjectTranslatable cachedJSON = COUNTRY_SERVICE_JSON_VALUES.get(info);
+            final JSONObjectTranslatable json = cachedJSON.has(countryBackendID) ? cachedJSON.getJSONObjectTranslatable(countryBackendID) : null;
             if(json != null) {
                 insertValuesIntoCountryValueJSONObject(json);
                 string = json.toString();
@@ -43,15 +41,15 @@ public interface CountryService extends SovereignStateService {
             final Object object = getJSONData(getFolder(), fileName, countryBackendID);
             final boolean exists = object != null;
             if(exists) {
-                final JSONObject json = (JSONObject) object;
+                final JSONObjectTranslatable json = (JSONObjectTranslatable) object;
                 COUNTRY_SERVICE_JSON_VALUES.put(info, json);
-                final JSONObject targetJSON = json.has(countryBackendID) ? json.getJSONObject(countryBackendID) : null;
+                final JSONObjectTranslatable targetJSON = json.has(countryBackendID) ? json.getJSONObjectTranslatable(countryBackendID) : null;
                 if(targetJSON != null) {
                     insertValuesIntoCountryValueJSONObject(targetJSON);
                     string = targetJSON.toString();
                 }
             } else {
-                WLUtilities.saveLoggedError("CountryService", "failed to load JSONObject for CountryService " + info.name());
+                WLUtilities.saveLoggedError("CountryService", "failed to load JSONObjectTranslatable for CountryService " + info.name());
             }
         }
         return string;
@@ -125,7 +123,7 @@ public interface CountryService extends SovereignStateService {
         } else {
             notes = text;
         }
-        notes = removeReferences(notes);
+        notes = LocalServer.removeWikipediaReferences(notes);
         return notes;
     }
 }

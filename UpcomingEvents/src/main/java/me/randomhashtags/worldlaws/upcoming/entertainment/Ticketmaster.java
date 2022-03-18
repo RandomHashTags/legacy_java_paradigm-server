@@ -11,12 +11,14 @@ import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.TicketmasterMusicEvent;
 import me.randomhashtags.worldlaws.upcoming.events.TicketmasterVenue;
+import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.time.LocalDate;
-import java.util.HashSet;
+import java.util.ArrayList;
 import java.util.LinkedHashMap;
+import java.util.List;
 
 public enum Ticketmaster implements RestAPI {
     INSTANCE;
@@ -67,9 +69,9 @@ public enum Ticketmaster implements RestAPI {
         public void load() {
             final UpcomingEventType eventType = getType();
             final JSONObject json = getEvents();
-            if(json != null) {
+            if(json != null && json.has("_embedded")) {
                 final JSONArray embeddedEvents = json.getJSONObject("_embedded").getJSONArray("events");
-                new CompletableFutures<JSONObject>().stream(embeddedEvents.spliterator(), eventJSON -> {
+                new CompletableFutures<JSONObject>().stream(embeddedEvents, eventJSON -> {
                     if(!eventJSON.getBoolean("test") && eventJSON.has("priceRanges") && eventJSON.has("ticketLimit") && eventJSON.has("seatmap")) {
                         final JSONObject dateStartJSON = eventJSON.getJSONObject("dates").getJSONObject("start");
                         if(dateStartJSON.has("dateTime")) {
@@ -89,14 +91,19 @@ public enum Ticketmaster implements RestAPI {
 
                             final String eventURL = eventJSON.getString("url"), imageURL = getImageURLFrom(eventJSON.getJSONArray("images"));
                             final EventSources sources = new EventSources(new EventSource("Ticketmaster: " + name, eventURL));
-                            final HashSet<TicketmasterVenue> venues = getVenuesFrom(venuesArray);
-                            final TicketmasterMusicEvent event = new TicketmasterMusicEvent(name, null, imageURL, ticketLimit, priceRange, seatMapURL, venues, sources);
+                            final List<TicketmasterVenue> venues = getVenuesFrom(venuesArray);
+                            final TicketmasterMusicEvent event = new TicketmasterMusicEvent(eventDate, name, null, imageURL, ticketLimit, priceRange, seatMapURL, venues, sources);
                             putLoadedPreUpcomingEvent(identifier, event.toPreUpcomingEventJSON(eventType, identifier, null));
-                            putUpcomingEvent(identifier, event.toString());
+                            putUpcomingEvent(identifier, event);
                         }
                     }
                 });
             }
+        }
+
+        @Override
+        public UpcomingEvent parseUpcomingEvent(JSONObject json) {
+            return new TicketmasterMusicEvent(json);
         }
 
         private String getImageURLFrom(JSONArray imagesArray) {
@@ -121,9 +128,10 @@ public enum Ticketmaster implements RestAPI {
             json.remove("type");
             return json;
         }
-        private HashSet<TicketmasterVenue> getVenuesFrom(JSONArray array) {
-            final HashSet<TicketmasterVenue> venues = new HashSet<>();
-            new CompletableFutures<JSONObject>().stream(array.spliterator(), json -> {
+        private List<TicketmasterVenue> getVenuesFrom(JSONArray array) {
+            final List<TicketmasterVenue> venues = new ArrayList<>();
+            for(Object obj : array) {
+                final JSONObject json = (JSONObject) obj;
                 if(!json.getBoolean("test")) {
                     final String name = json.getString("name");
                     final String url = json.getString("url");
@@ -164,7 +172,7 @@ public enum Ticketmaster implements RestAPI {
                     final TicketmasterVenue venue = new TicketmasterVenue(name, imageURL, location, countryCode, subdivisionName, cityName, generalRule, childRule, parkingDetail, accessibleSeatingDetail);
                     venues.add(venue);
                 }
-            });
+            }
             return venues;
         }
     }

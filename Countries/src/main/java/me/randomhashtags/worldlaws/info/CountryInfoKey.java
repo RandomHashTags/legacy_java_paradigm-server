@@ -1,7 +1,9 @@
 package me.randomhashtags.worldlaws.info;
 
-import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.LocalServer;
+import me.randomhashtags.worldlaws.locale.JSONArrayTranslatable;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
+import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.util.ArrayList;
@@ -9,44 +11,54 @@ import java.util.Arrays;
 import java.util.List;
 
 public final class CountryInfoKey {
-    private final String title, notes;
+
+    public static CountryInfoKey parse(JSONObject json) {
+        return new CountryInfoKey(json);
+    }
+
+    private final String notes;
     private final int yearOfData;
-    private final EventSources sources;
     private final List<CountryInfoValue> values;
 
-    public CountryInfoKey(String title, String notes, int yearOfData, EventSources sources, CountryInfoValue...values) {
-        this.title = LocalServer.fixEscapeValues(title);
-        this.notes = LocalServer.fixEscapeValues(notes);
+    public CountryInfoKey(String notes, int yearOfData, CountryInfoValue...values) {
+        this.notes = LocalServer.fixEscapeValues(LocalServer.removeWikipediaReferences(notes));
         this.yearOfData = yearOfData;
-        this.sources = sources;
         this.values = new ArrayList<>(Arrays.asList(values));
     }
-
-    public void addValue(CountryInfoValue value) {
-        values.add(value);
-    }
-    private JSONObject getValuesJSONObject() {
-        final JSONObject json = new JSONObject();
-        for(CountryInfoValue value : values) {
-            if(value != null) {
-                json.put(value.getTitle(), value.toJSONObject());
+    private CountryInfoKey(JSONObject json) {
+        notes = json.optString("notes", null);
+        yearOfData = json.optInt("yearOfData", -1);
+        values = new ArrayList<>();
+        if(json.has("values")) {
+            final JSONArray array = json.getJSONArray("values");
+            for(Object obj : array) {
+                final JSONObject valueJSON = (JSONObject) obj;
+                final CountryInfoValue infoValue = CountryInfoValue.parse(valueJSON);
+                values.add(infoValue);
             }
         }
-        return json;
     }
 
-    public JSONObject toJSONObject() {
-        final JSONObject json = new JSONObject();
-        final JSONObject detailsJSON = new JSONObject();
+    private JSONArrayTranslatable getValuesJSONObject() {
+        final JSONArrayTranslatable array = new JSONArrayTranslatable();
+        for(CountryInfoValue value : values) {
+            if(value != null) {
+                array.put(value.toJSONObject());
+            }
+        }
+        return array;
+    }
+
+    public JSONObjectTranslatable toJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("values");
         if(notes != null && !notes.isEmpty()) {
-            detailsJSON.put("notes", notes);
+            json.put("notes", notes);
+            json.addTranslatedKey("notes");
         }
         if(yearOfData != -1) {
-            detailsJSON.put("yearOfData", yearOfData);
+            json.put("yearOfData", yearOfData);
         }
-        detailsJSON.put("sources", sources.toJSONObject());
-        detailsJSON.put("values", getValuesJSONObject());
-        json.put(title, detailsJSON);
+        json.put("values", getValuesJSONObject());
         return json;
     }
 }

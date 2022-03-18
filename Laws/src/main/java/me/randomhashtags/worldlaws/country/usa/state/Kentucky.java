@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.country.usa.state;
 
 import me.randomhashtags.worldlaws.LawSubdivisionController;
+import me.randomhashtags.worldlaws.country.SubdivisionStatute;
 import me.randomhashtags.worldlaws.country.SubdivisionStatuteIndex;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -66,31 +67,27 @@ public final class Kentucky extends LawSubdivisionController {
         }
     }
     @Override
-    public String getStatute(String title, String chapter, String section) {
+    public SubdivisionStatute loadStatute(String title, String chapter, String section) {
         final String path = chapter + "." + section;
-        if(statutes.containsKey(path)) {
-            return statutes.get(path);
-        } else {
-            final Document doc = getDocument(statuteURL.replace("%chapter%", chapter).replace("%section%", section));
-            if(doc != null) {
-                final String docTitle = doc.title();
-                final Elements breadcrumb = doc.select("div.mb-3 a[href]");
-                final Elements sections = doc.select("div.section");
-                if(sections.isEmpty()) {
-                    System.out.println(docTitle + ": sections are empty!");
-                } else {
-                    final int size = sections.size();
-                    System.out.println(docTitle + ": section size=" + size);
-                    if(size == 1) {
-                        final Element element = sections.get(0);
-                        //final StateStatute statute = new StateStatute(breadcrumb, element, chapter, section);
-                        //final String string = statute.toString();
-                        //statutes.put(path, string);
-                        //return string;
-                    }
+        final Document doc = getDocument(statuteURL.replace("%chapter%", chapter).replace("%section%", section));
+        if(doc != null) {
+            final String docTitle = doc.title();
+            final Elements breadcrumb = doc.select("div.mb-3 a[href]");
+            final Elements sections = doc.select("div.section");
+            if(sections.isEmpty()) {
+                System.out.println(docTitle + ": sections are empty!");
+            } else {
+                final int size = sections.size();
+                System.out.println(docTitle + ": section size=" + size);
+                if(size == 1) {
+                    final Element element = sections.get(0);
+                    //final StateStatute statute = new StateStatute(breadcrumb, element, chapter, section);
+                    //final String string = statute.toString();
+                    //statutes.put(path, string);
+                    //return string;
                 }
             }
-            return null;
         }
+        return null;
     }
 }

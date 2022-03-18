@@ -3,6 +3,8 @@ package me.randomhashtags.worldlaws.upcoming.sports;
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.upcoming.USAUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
+import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
 
@@ -24,7 +26,12 @@ public final class NFL extends USAUpcomingEventController {
     }
 
     @Override
-    public String loadUpcomingEvent(String id) {
+    public UpcomingEvent loadUpcomingEvent(String id) {
+        return null;
+    }
+
+    @Override
+    public UpcomingEvent parseUpcomingEvent(JSONObject json) {
         return null;
     }
 }

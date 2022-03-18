@@ -41,7 +41,7 @@ public interface UserServer {
                 stop();
                 return;
             case "execute":
-                WLUtilities.executeCommand(input.substring(key.length()+1));
+                WLUtilities.executeCommand(input.substring(key.length()+1), true);
                 break;
             default:
                 final HashMap<String, Runnable> customCommands = getCustomUserCommands();
