@@ -6,11 +6,11 @@ import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
 import me.randomhashtags.worldlaws.info.CountryInfoKey;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
-import me.randomhashtags.worldlaws.service.NewCountryService;
+import me.randomhashtags.worldlaws.service.NewCountryServiceCentralData;
 import org.json.JSONObject;
 import org.jsoup.select.Elements;
 
-public interface CountryLegalityService extends NewCountryService {
+public interface CountryLegalityService extends NewCountryServiceCentralData {
     String getURL();
     int getYearOfData();
 

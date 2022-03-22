@@ -7,7 +7,6 @@ import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
 import me.randomhashtags.worldlaws.service.CountryService;
-import me.randomhashtags.worldlaws.service.CountryServiceValue;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -89,7 +88,7 @@ public enum TravelBriefing implements CountryService {
                     return json;
                 }
             });
-            string = new CountryServiceValue(TravelBriefing.INSTANCE, json.toString()).toString();
+            //string = new CountryServiceValue(TravelBriefing.INSTANCE, json.toString()).toString();
             WLLogger.logInfo(getInfo().name() + " - loaded \"" + country + "\" (took " + WLUtilities.getElapsedTime(started) + ")");
             countries.put(targetCountry, string);
         }

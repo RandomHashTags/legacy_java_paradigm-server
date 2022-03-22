@@ -2,7 +2,7 @@ package me.randomhashtags.worldlaws.observances.custom;
 
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.country.WLCountry;
-import me.randomhashtags.worldlaws.observances.type.ChristianHoliday;
+import me.randomhashtags.worldlaws.observances.type.ChristianEastHoliday;
 
 import java.time.DayOfWeek;
 import java.time.Month;
@@ -143,7 +143,7 @@ public enum FathersDay implements CustomHoliday {
             case NORWAY:
             case SWEDEN:
                 return EventDate.getSecond(DayOfWeek.SUNDAY, Month.NOVEMBER, year);
-            case GERMANY: return ChristianHoliday.FEAST_OF_THE_ASCENSION.getDate(country, year);
+            case GERMANY: return ChristianEastHoliday.FEAST_OF_THE_ASCENSION.getDate(country, year);
             case HAITI:
                 return EventDate.getLast(DayOfWeek.SUNDAY, Month.JUNE, year);
             case INDONESIA:

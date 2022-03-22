@@ -16,6 +16,7 @@ public interface AppleFeatureAvailability extends CountryAvailabilityService {
         return type.getSections().getOrDefault(sectionID, null);
     }
     default Elements getSectionElements(AppleFeatureType type, String sectionID) {
-        return getSectionElement(type, sectionID).select("div.section-content ul li");
+        final Element element = getSectionElement(type, sectionID);
+        return element != null ? element.select("div.section-content ul li") : null;
     }
 }

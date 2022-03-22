@@ -421,11 +421,14 @@ public enum WLCountry {
             case MICRONESIA:
                 name = "Federated_States_of_Micronesia";
                 break;
+            case SAINT_HELENA_ASCENSION_AND_TRISTAN_DA_CUNHA:
+                name = "Saint_Helena%2C_Ascension_and_Tristan_da_Cunha";
+                break;
             case SAINT_MARTIN:
                 name = "Saint_Martin_(island)";
                 break;
             default:
-                name = "https://en.wikipedia.org" + getShortName().replace(" ", "_");
+                name = getShortName().replace(" ", "_");
                 break;
         }
         return prefix + name;

@@ -3,27 +3,30 @@ package me.randomhashtags.worldlaws.service;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
+import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
+import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
-import org.jsoup.select.Elements;
 
 import java.util.List;
 
-public final class WikipediaCountryService implements CountryService {
+public final class WikipediaCountryService implements NewCountryService {
 
-    private final Folder folder, wikiFolder, featuredPicturesFolder;
-    private Elements featuredPicturesElements;
+    private final Folder folder;
 
     public WikipediaCountryService(boolean isCountries) {
-        this.folder = isCountries ? Folder.COUNTRIES_SERVICES_WIKIPEDIA : null;
-        this.wikiFolder = isCountries ? Folder.COUNTRIES_WIKIPEDIA_PAGES : Folder.COUNTRIES_SUBDIVISIONS_WIKIPEDIA_PAGES;
-        this.featuredPicturesFolder = isCountries ? Folder.COUNTRIES_SERVICES_WIKIPEDIA_FEATURED_PICTURES : null;
+        this.folder = isCountries ? Folder.COUNTRIES_WIKIPEDIA : Folder.COUNTRIES_SUBDIVISIONS_WIKIPEDIA;
     }
 
     @Override
     public Folder getFolder() {
         return folder;
+    }
+
+    @Override
+    public String getServiceFileName(WLCountry country) {
+        return country.getBackendID();
     }
 
     @Override
@@ -37,35 +40,34 @@ public final class WikipediaCountryService implements CountryService {
     }
 
     @Override
-    public String loadData() {
+    public JSONObjectTranslatable loadData() {
         return null;
     }
 
     @Override
-    public EventSources getResources(String countryBackendID) {
-        return new EventSources(
-            new EventSource("Wikipedia: " + countryBackendID, "https://en.wikipedia.org/wiki/" + countryBackendID.replace(" ", "_"))
-        );
+    public JSONObjectTranslatable loadData(WLCountry country) {
+        return getWikipediaJSON(country);
     }
 
     @Override
-    public String getCountryValue(String tag) {
-        final String json = loadWikipedia(tag);
-        return json != null ? new CountryServiceValue(this, json).toString() : null;
+    public JSONObjectTranslatable parseData(JSONObject json) {
+        final JSONObjectTranslatable translatable = new JSONObjectTranslatable("paragraph");
+        translatable.put("paragraph", json.getString("paragraph"));
+        translatable.put("url", json.getString("url"));
+        return translatable;
     }
 
-    private String loadWikipedia(String tag) {
-        final String url = "https://en.wikipedia.org/wiki/" + tag.replace(" ", "_");
-        Document document = Jsoupable.getLocalDocument(wikiFolder, url);
+    private JSONObjectTranslatable getWikipediaJSON(WLCountry country) {
+        final String url = country.getWikipediaURL();
+        Document document = Jsoupable.getLocalDocument(folder, url);
         if(document == null) {
-            document = getDocument(wikiFolder, url, true);
+            document = getDocument(folder, url, false);
             if(document == null) {
                 return null;
             }
         }
         final WikipediaDocument wikiDoc = new WikipediaDocument(url, document);
         final List<Element> paragraphs = wikiDoc.getConsecutiveParagraphs();
-        JSONObjectTranslatable string = null;
         if(paragraphs != null && !paragraphs.isEmpty()) {
             final Element paragraphElement = paragraphs.get(0);
             final Element listenElement = paragraphElement.selectFirst("span.rt-commentedText");
@@ -77,12 +79,26 @@ public final class WikipediaCountryService implements CountryService {
             firstParagraph = firstParagraph.replace(" (listen)", "").replace("(listen)", "").replace(" (listen to all)", "").replace("(listen to all)", "");
             firstParagraph = LocalServer.removeWikipediaTranslations(firstParagraph);
             final String paragraph = LocalServer.fixEscapeValues(firstParagraph);
-            string = new JSONObjectTranslatable("paragraph");
-            string.put("paragraph", paragraph);
-            string.put("url", url);
+            final JSONObjectTranslatable json = new JSONObjectTranslatable("paragraph");
+            json.put("paragraph", paragraph);
+            json.put("url", url);
+            return json;
         } else {
-            WLLogger.logError(this, "missing paragraph for country \"" + tag + "\"!");
+            WLLogger.logError(this, "missing paragraph for country \"" + country.getShortName() + "\"!");
+            return null;
         }
-        return string != null ? string.toString() : null;
+    }
+
+    @Override
+    public JSONObjectTranslatable getJSONObject(WLCountry country) {
+        return getJSONObject(country, true);
+    }
+
+    @Override
+    public EventSources getResources(WLCountry country) {
+        final String wikipediaURL = country.getWikipediaURL();
+        return new EventSources(
+            new EventSource("Wikipedia: " + country.getShortName(), wikipediaURL)
+        );
     }
 }

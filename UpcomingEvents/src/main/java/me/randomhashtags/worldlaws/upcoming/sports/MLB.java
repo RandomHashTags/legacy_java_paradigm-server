@@ -4,10 +4,10 @@ import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.PreUpcomingEvent;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
-import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.upcoming.USAUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.MLBEvent;
+import me.randomhashtags.worldlaws.upcoming.events.MLBTeam;
 import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
@@ -36,20 +36,20 @@ public final class MLB extends USAUpcomingEventController {
             final Elements dates = doc.select("div.ScheduleCollectionGridstyle__SectionWrapper-sc-c0iua4-0");
             final int max = dates.size();
             if(max > 0) {
-                new CompletableFutures<Element>().stream(dates, dateElement -> {
+                for(Element dateElement : dates) {
                     final String previousElementString = dateElement.previousElementSibling().text();
                     final String[] values = previousElementString.split(" ");
                     final Month targetMonth = Month.valueOf(values[1].toUpperCase());
                     final int targetDay = Integer.parseInt(values[2]);
                     final String dateString = getEventDateString(year, targetMonth, targetDay);
                     final Elements matches = dateElement.select("div.ScheduleGamestyle__DesktopScheduleGameWrapper-sc-b76vp3-0");
-                    matches.parallelStream().forEach(matchElement -> {
+                    for(Element matchElement : matches) {
                         final Element teamElement = matchElement.selectFirst("div.TeamMatchupLayerstyle__TeamMatchupLayerWrapper-sc-ouprud-0");
                         if(teamElement != null) {
                             final Element awayTeamElement = teamElement.selectFirst("div.TeamMatchupLayerstyle__AwayWrapper-sc-ouprud-1"), homeTeamElement = teamElement.selectFirst("div.TeamMatchupLayerstyle__HomeWrapper-sc-ouprud-2");
                             if(awayTeamElement != null && homeTeamElement != null) {
-                                final JSONObjectTranslatable awayTeamJSON = getTeamJSON(awayTeamElement), homeTeamJSON = getTeamJSON(homeTeamElement);
-                                final String title = awayTeamJSON.getString("name") + " @ " + homeTeamJSON.getString("name");
+                                final MLBTeam awayTeam = getTeamJSON(awayTeamElement), homeTeam = getTeamJSON(homeTeamElement);
+                                final String title = awayTeam.getName() + " @ " + homeTeam.getName();
 
                                 final Element timeElement = matchElement.selectFirst("div.GameInfoLayerstyle__GameInfoLayerWrapper-sc-1xxsnoa-0").selectFirst("div.GameInfoLayerstyle__GameInfoTextWrapper-sc-1xxsnoa-1").selectFirst("a[href]");
                                 final String url = timeElement.attr("href"), targetTimeET = timeElement.text();
@@ -57,41 +57,37 @@ public final class MLB extends USAUpcomingEventController {
                                 final String id = getEventDateIdentifier(dateString, title);
                                 final JSONObjectTranslatable customValues = new JSONObjectTranslatable();
                                 customValues.put("sources", sources.toJSONObject());
-                                customValues.put("awayTeam", awayTeamJSON);
-                                customValues.put("homeTeam", homeTeamJSON);
+                                customValues.put("awayTeam", awayTeam.toJSONObject());
+                                customValues.put("homeTeam", homeTeam.toJSONObject());
                                 final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, title, url, targetTimeET, null, customValues);
                                 putPreUpcomingEvent(id, preUpcomingEvent);
                             }
                         }
-                    });
-                });
+                    }
+                }
             }
         }
     }
 
-    private JSONObjectTranslatable getTeamJSON(Element teamElement) {
-        final JSONObjectTranslatable json = new JSONObjectTranslatable("name");
+    private MLBTeam getTeamJSON(Element teamElement) {
         final Element ahrefElement = teamElement.selectFirst("div div a[href]");
         final String scheduleURL = ahrefElement.attr("href");
-        json.put("scheduleURL", scheduleURL);
 
         final Element teamLogoElement = ahrefElement.selectFirst("div img");
         final String teamLogoURL = teamLogoElement.attr("src");
-        json.put("logoURL", teamLogoURL);
 
         final Elements nameElement = ahrefElement.select("div div div.TeamWrappersstyle__DesktopTeamWrapper-sc-uqs6qh-0");
         final String teamName = nameElement.text();
-        json.put("name", teamName);
-
-        return json;
+        return new MLBTeam(teamName, scheduleURL, teamLogoURL);
     }
 
     @Override
     public UpcomingEvent loadUpcomingEvent(String id) {
         final PreUpcomingEvent preUpcomingEvent = getPreUpcomingEvent(id);
         final String title = preUpcomingEvent.getTitle();
-        final EventSources sources = (EventSources) preUpcomingEvent.getCustomValue("sources");
-        final String awayTeam = (String) preUpcomingEvent.getCustomValue("awayTeam"), homeTeam = (String) preUpcomingEvent.getCustomValue("homeTeam");
+        final JSONObject sourcesJSON = (JSONObject) preUpcomingEvent.getCustomValue("sources"), awayTeamJSON = (JSONObject) preUpcomingEvent.getCustomValue("awayTeam"), homeTeamJSON = (JSONObject) preUpcomingEvent.getCustomValue("homeTeam");
+        final EventSources sources = new EventSources(sourcesJSON);
+        final MLBTeam awayTeam = MLBTeam.parse(awayTeamJSON), homeTeam = MLBTeam.parse(homeTeamJSON);
         return new MLBEvent(preUpcomingEvent.getEventDate(), title, awayTeam, homeTeam, null, sources);
     }
 

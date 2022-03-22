@@ -5,13 +5,13 @@ import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
 import me.randomhashtags.worldlaws.locale.JSONArrayTranslatable;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
-import me.randomhashtags.worldlaws.service.NewCountryService;
+import me.randomhashtags.worldlaws.service.NewCountryServiceCentralData;
 import me.randomhashtags.worldlaws.service.WikipediaPicture;
 import org.json.JSONObject;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-public interface CountryNationalService extends NewCountryService {
+public interface CountryNationalService extends NewCountryServiceCentralData {
 
     EventSources getSources();
 
@@ -38,7 +38,12 @@ public interface CountryNationalService extends NewCountryService {
         for(String country : json.keySet()) {
             final JSONObject countryJSON = json.getJSONObject(country);
             final CountrySingleValue value = CountrySingleValue.parse(countryJSON);
-            translatable.put(country, value.toJSONObject());
+            final JSONObjectTranslatable valueJSON = value.toJSONObject();
+            if(countryJSON.has("pictures")) {
+                valueJSON.put("pictures", countryJSON.getJSONArray("pictures"));
+                valueJSON.addTranslatedKey("pictures");
+            }
+            translatable.put(country, valueJSON);
             translatable.addTranslatedKey(country);
         }
         return translatable;
@@ -49,7 +54,6 @@ public interface CountryNationalService extends NewCountryService {
         final EventSources sources = getSources();
         countryJSON.put("sources", sources.toJSONObject());
     }
-
 
 
     default JSONObjectTranslatable getNationalArrayJSON(Elements elements, String defaultTitle) {

@@ -4,10 +4,11 @@ import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
-import me.randomhashtags.worldlaws.service.NewCountryService;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
+import me.randomhashtags.worldlaws.service.NewCountryServiceCentralData;
 import org.jsoup.select.Elements;
 
-public interface CountryInfoService extends NewCountryService {
+public interface CountryInfoService extends NewCountryServiceCentralData {
     String getURL();
     int getYearOfData();
     default EventSources getSources() {
@@ -27,9 +28,17 @@ public interface CountryInfoService extends NewCountryService {
     default Folder getFolder() {
         return Folder.COUNTRIES_INFO;
     }
+
     @Override
     default SovereignStateInformationType getInformationType() {
         return SovereignStateInformationType.INFORMATION;
+    }
+
+    @Override
+    default void insertCountryData(JSONObjectTranslatable dataJSON, JSONObjectTranslatable countryJSON) {
+        countryJSON.addTranslatedKey("title");
+        countryJSON.put("title", getInfo().getTitle());
+        countryJSON.put("sources", getSources().toJSONObject());
     }
 
     default Elements getInfoDocumentElements(String url, String targetElements) {

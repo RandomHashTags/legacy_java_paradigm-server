@@ -21,7 +21,7 @@ import java.util.concurrent.ConcurrentHashMap;
 
 public abstract class UpcomingEventController implements YouTubeService, Jsoupable, DataValues {
     private final ConcurrentHashMap<String, LoadedPreUpcomingEvent> loadedPreUpcomingEvents;
-    private final ConcurrentHashMap<String, JSONObjectTranslatable> upcomingEvents;
+    private final ConcurrentHashMap<String, UpcomingEvent> upcomingEvents;
     private final ConcurrentHashMap<String, PreUpcomingEvent> preUpcomingEvents;
 
     public UpcomingEventController() {
@@ -54,9 +54,11 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
     public abstract void load();
 
     public static String getEventDateIdentifier(String dateString, String title) {
-        final String id = LocalServer.fixEscapeValues(title)
+        final String escaped = LocalServer.fixEscapeValues(title);
+        final String id = escaped != null ? escaped
                 .replaceAll("\\\\u[A-Fa-f\\d]{4}", "")
-                .replaceAll("[^\\w-]", "_");
+                .replaceAll("[^\\w-]", "_")
+                : null;
         return dateString + "." + id;
     }
     public String getEventDateString(EventDate date) {
@@ -121,7 +123,7 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
             final Folder folder = Folder.UPCOMING_EVENTS_IDS;
             final String fileName = getUpcomingEventFileName(getType(), folder, identifier);
             String string = getLocalFileString(folder, fileName, "json");
-            JSONObjectTranslatable translatable = null;
+            UpcomingEvent translatable = null;
             if(string == null) {
                 translatable = tryLoadingUpcomingEvent(identifier);
                 LoadedPreUpcomingEvent value = null;
@@ -163,7 +165,7 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
         folder.setCustomFolderName(fileName, folderName);
         return fileName;
     }
-    private JSONObjectTranslatable tryLoadingUpcomingEvent(String id) {
+    private UpcomingEvent tryLoadingUpcomingEvent(String id) {
         if(preUpcomingEvents.containsKey(id)) {
             final UpcomingEvent event = loadUpcomingEvent(id);
             if(event != null) {
@@ -211,7 +213,7 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
     public ConcurrentHashMap<String, LoadedPreUpcomingEvent> getLoadedPreUpcomingEvents() {
         return loadedPreUpcomingEvents;
     }
-    public ConcurrentHashMap<String, JSONObjectTranslatable> getUpcomingEvents() {
+    public ConcurrentHashMap<String, UpcomingEvent> getUpcomingEvents() {
         return upcomingEvents;
     }
 }

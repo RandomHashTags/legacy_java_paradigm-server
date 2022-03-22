@@ -11,7 +11,6 @@ import org.jsoup.select.Elements;
 public enum NationalTrees implements CountryNationalService {
     INSTANCE;
 
-
     @Override
     public EventSources getSources() {
         final EventSource source = new EventSource("Wikipedia: List of national trees", "https://en.wikipedia.org/wiki/List_of_national_trees");

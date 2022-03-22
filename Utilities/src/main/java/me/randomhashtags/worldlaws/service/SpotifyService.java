@@ -1,9 +1,6 @@
 package me.randomhashtags.worldlaws.service;
 
-import me.randomhashtags.worldlaws.DataValues;
-import me.randomhashtags.worldlaws.RestAPI;
-import me.randomhashtags.worldlaws.WLLogger;
-import me.randomhashtags.worldlaws.WLUtilities;
+import me.randomhashtags.worldlaws.*;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -60,6 +57,7 @@ public interface SpotifyService extends QuotaHandler, RestAPI, DataValues {
     }
     default JSONObject getSpotifyAlbum(HashSet<String> artists, String album) {
         final long started = System.currentTimeMillis();
+        album = LocalServer.fixUnescapeValues(album);
         final JSONObject json = tryRequesting(album);
         if(json != null) {
             final JSONObject albumsJSON = json.getJSONObject("albums");
@@ -131,7 +129,7 @@ public interface SpotifyService extends QuotaHandler, RestAPI, DataValues {
     private boolean hasArtist(HashSet<String> artists, String artist) {
         final HashSet<String> lowercaseArtists = new HashSet<>();
         for(String targetArtist : artists) {
-            lowercaseArtists.add(targetArtist.toLowerCase());
+            lowercaseArtists.add(LocalServer.fixUnescapeValues(targetArtist.toLowerCase()));
         }
         final String targetArtist = artist.toLowerCase();
         return lowercaseArtists.contains(targetArtist) || lowercaseArtists.contains(targetArtist.replace("...", "")) || lowercaseArtists.contains(targetArtist.replace(" & ", " and ")) || lowercaseArtists.contains(targetArtist.replace(" and ", " & "));

@@ -6,6 +6,7 @@ public enum UpdateIntervals {
     ;
 
     public static final long SAVE_STATISTICS = TimeUnit.HOURS.toMillis(1);
+    public static final long REFRESH_SETTINGS = TimeUnit.HOURS.toMillis(1);
 
     public enum ServerHandler {
         ;

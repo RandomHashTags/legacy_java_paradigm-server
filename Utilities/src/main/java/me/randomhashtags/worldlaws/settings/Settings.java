@@ -60,6 +60,9 @@ public enum Settings {
     private static JSONObject getOrDefaultJSONObject(JSONObject json, String key, JSONObject defaultValue) {
         return (JSONObject) getOrDefault(json, key, defaultValue);
     }
+    private static JSONArray getOrDefaultJSONArray(JSONObject json, String key, JSONArray defaultValue) {
+        return (JSONArray) getOrDefault(json, key, defaultValue);
+    }
     private static int getOrDefaultInt(JSONObject json, String key, int defaultValue) {
         return (int) getOrDefault(json, key, defaultValue);
     }
@@ -321,6 +324,11 @@ public enum Settings {
             return map;
         }
 
+        public static List<String> getWikipediaSupportedExternalLinkSources() {
+            final JSONArray array = getOrDefaultJSONArray(getServerValuesJSON(), "wikipedia_supported_external_link_sources", new JSONArray());
+            return getListString(array);
+        }
+
         public enum UpcomingEvents {
             ;
 
@@ -338,19 +346,19 @@ public enum Settings {
             }
 
             public static List<Integer> getMusicAlbumMultiPageYears() {
-                final JSONArray array = getMusicAlbumsJSON().getJSONArray("multi-page_years");
+                final JSONArray array = getOrDefaultJSONArray(getMusicAlbumsJSON(), "multi-page_years", new JSONArray());
                 return getListInteger(array);
             }
             public static List<Integer> getScienceYearReviewYears() {
-                final JSONArray array = getScienceJSON().getJSONArray("year_review_years");
+                final JSONArray array = getOrDefaultJSONArray(getScienceJSON(), "year_review_years", new JSONArray());
                 return getListInteger(array);
             }
             public static List<String> getVideoGameWikipediaHeadlineIDs() {
-                final JSONArray array = getVideoGamesJSON().getJSONArray("wikipedia_headline_ids");
+                final JSONArray array = getOrDefaultJSONArray(getVideoGamesJSON(), "wikipedia_headline_ids", new JSONArray());
                 return getListString(array);
             }
             public static HashMap<String, String> getVideoGamePlatforms() {
-                final JSONObject json = getVideoGamesJSON().getJSONObject("platforms");
+                final JSONObject json = getOrDefaultJSONObject(getVideoGamesJSON(), "platforms", new JSONObject());
                 return getMap(json);
             }
         }

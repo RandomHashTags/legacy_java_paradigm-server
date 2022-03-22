@@ -15,7 +15,8 @@ public final class PresentationEvent extends UpcomingEvent {
         super(json);
         final JSONObject properties = json.getJSONObject("properties");
         tag = properties.getString("tag");
-        externalLinks = null;//new EventSources(properties.getJSONObject("externalLinks")); // TODO: fix this
+        final JSONObject externalLinksJSON = properties.optJSONObject("externalLinks", null);
+        externalLinks = externalLinksJSON != null ? new EventSources(externalLinksJSON) : null;
         insertProperties();
     }
     public PresentationEvent(EventDate date, String title, String description, String imageURL, String location, String tag, EventSources externalLinks) {
@@ -42,7 +43,9 @@ public final class PresentationEvent extends UpcomingEvent {
     public JSONObjectTranslatable getPropertiesJSONObject() {
         final JSONObjectTranslatable json = new JSONObjectTranslatable();
         json.put("tag", tag);
-        json.put("externalLinks", externalLinks.toJSONObject());
+        if(externalLinks != null && !externalLinks.isEmpty()) {
+            json.put("externalLinks", externalLinks.toJSONObject());
+        }
         return json;
     }
 }

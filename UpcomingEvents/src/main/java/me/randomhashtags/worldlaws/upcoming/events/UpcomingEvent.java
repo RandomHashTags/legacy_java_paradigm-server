@@ -15,7 +15,7 @@ public abstract class UpcomingEvent extends JSONObjectTranslatable implements Js
     private final EventDate date;
     private String customTypeSingularName;
 
-    public UpcomingEvent(JSONObject json) {
+    protected UpcomingEvent(JSONObject json) {
         final String dateString = json.getString("eventDate");
         this.date = EventDate.valueOfDateString(dateString);
         put("eventDate", dateString);
@@ -47,7 +47,9 @@ public abstract class UpcomingEvent extends JSONObjectTranslatable implements Js
         if(youtubeVideoIDs != null) {
             put("youtubeVideoIDs", youtubeVideoIDs);
         }
-        put("sources", sources.toJSONObject());
+        if(sources != null) {
+            put("sources", sources.toJSONObject());
+        }
         setClientKeysToBeRemoved();
     }
     private void setClientKeysToBeRemoved() {

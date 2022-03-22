@@ -3,29 +3,22 @@ package me.randomhashtags.worldlaws.info.service.nonstatic;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
-import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
 import me.randomhashtags.worldlaws.country.WLCountry;
-import me.randomhashtags.worldlaws.service.CountryService;
-import org.json.JSONObject;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
+import me.randomhashtags.worldlaws.service.NewCountryServiceNonStatic;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import java.util.HashMap;
+import java.util.concurrent.ConcurrentHashMap;
 
-public enum TravelAdvisories implements CountryService {
+public enum TravelAdvisories implements NewCountryServiceNonStatic {
     INSTANCE;
     // US Embassies = https://www.usembassy.gov
 
-    private HashMap<String, String> usTravelAdvisories;
+    private ConcurrentHashMap<String, String> usTravelAdvisories;
 
     TravelAdvisories() {
-        usTravelAdvisories = new HashMap<>();
-    }
-
-    @Override
-    public SovereignStateInformationType getInformationType() {
-        return SovereignStateInformationType.SERVICES_NONSTATIC;
     }
 
     @Override
@@ -34,9 +27,11 @@ public enum TravelAdvisories implements CountryService {
     }
 
     @Override
-    public EventSources getResources(String countryBackendID) {
+    public EventSources getResources(WLCountry country) {
+        final String countryBackendID = country.getBackendID();
         final EventSources sources = new EventSources();
-        if(usTravelAdvisories.containsKey(countryBackendID)) {
+        final ConcurrentHashMap<String, String> advisories = getAdvisories();
+        if(advisories.containsKey(countryBackendID)) {
             final String url = "https://travel.state.gov" + usTravelAdvisories.get(countryBackendID);
             sources.add(new EventSource("U.S. Department of State: Travel", url));
         }
@@ -44,7 +39,31 @@ public enum TravelAdvisories implements CountryService {
     }
 
     @Override
-    public String loadData() {
+    public JSONObjectTranslatable getJSONObject(WLCountry country) {
+        final String countryBackendID = country.getBackendID();
+        TravelAdvisory advisory = null;
+        final ConcurrentHashMap<String, String> advisories = getAdvisories();
+        if(advisories.containsKey(countryBackendID)) {
+            final String url = "https://travel.state.gov" + advisories.get(countryBackendID);
+            advisory = new TravelAdvisory();
+            advisory.setUSTravelAdvisory(new UnitedStatesTravelStateGovAdvisory(url));
+        }
+        JSONObjectTranslatable json = null;
+        if(advisory != null) {
+            json = advisory.toJSONObject();
+        }
+        return json;
+    }
+
+    private ConcurrentHashMap<String, String> getAdvisories() {
+        if(usTravelAdvisories == null) {
+            usTravelAdvisories = new ConcurrentHashMap<>();
+            loadAdvisories();
+        }
+        return usTravelAdvisories;
+    }
+
+    private void loadAdvisories() {
         final String url = "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/";
         final Document doc = getDocument(url);
         if(doc != null) {
@@ -52,7 +71,7 @@ public enum TravelAdvisories implements CountryService {
             if(element != null) {
                 final Elements trs = element.select("tr");
                 trs.remove(0);
-                final HashMap<String, String> urls = new HashMap<>();
+                final ConcurrentHashMap<String, String> urls = new ConcurrentHashMap<>();
                 for(Element tr : trs) {
                     final Elements tds = tr.select("td");
                     final Element advisoryElement = tds.get(0);
@@ -79,21 +98,6 @@ public enum TravelAdvisories implements CountryService {
                 this.usTravelAdvisories = urls;
             }
         }
-        return null;
-    }
-
-    @Override
-    public String getCountryValue(String countryBackendID) {
-        final TravelAdvisory advisory = new TravelAdvisory();
-        if(usTravelAdvisories.containsKey(countryBackendID)) {
-            final String url = "https://travel.state.gov" + usTravelAdvisories.get(countryBackendID);
-            advisory.setUSTravelAdvisory(new UnitedStatesTravelStateGovAdvisory(url));
-        }
-        String string = null;
-        if(!advisory.isEmpty()) {
-            string = "\"Travel Advisories\":" + advisory.toString();
-        }
-        return string;
     }
 
     private final class TravelAdvisory {
@@ -111,8 +115,8 @@ public enum TravelAdvisories implements CountryService {
             return toJSONObject().toString();
         }
 
-        public JSONObject toJSONObject() {
-            final JSONObject json = new JSONObject();
+        public JSONObjectTranslatable toJSONObject() {
+            final JSONObjectTranslatable json = new JSONObjectTranslatable();
             json.put("U.S. Department of State", usTravelAdvisory.toJSONObject());
             return json;
         }
@@ -124,8 +128,8 @@ public enum TravelAdvisories implements CountryService {
             this.url = url;
         }
 
-        public JSONObject toJSONObject() {
-            final JSONObject json = new JSONObject();
+        public JSONObjectTranslatable toJSONObject() {
+            final JSONObjectTranslatable json = new JSONObjectTranslatable();
             json.put("url", url);
             return json;
         }

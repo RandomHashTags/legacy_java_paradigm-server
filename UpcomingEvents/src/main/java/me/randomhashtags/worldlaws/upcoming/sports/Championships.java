@@ -26,7 +26,7 @@ public final class Championships extends UpcomingEventController { // https://en
     @Override
     public void load() {
         final int year = WLUtilities.getTodayYear();
-        final String url = "https://en.wikipedia.org/wiki/" + year + "_in_sports";
+        final String url = "https://en.wikipedia.org/wiki/" + year + "_in_sports_by_month";
         final Document doc = getDocument(url);
         if(doc != null) {
             final LocalDate date = LocalDate.now();

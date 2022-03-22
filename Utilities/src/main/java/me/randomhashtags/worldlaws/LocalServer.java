@@ -152,6 +152,9 @@ public final class LocalServer implements UserServer, DataValues {
     public static String fixEscapeValues(String input) {
         return StringEscapeUtils.escapeJava(input);
     }
+    public static String fixUnescapeValues(String input) {
+        return StringEscapeUtils.unescapeJava(input);
+    }
     public static String removeWikipediaTranslations(String input) {
         return input.replaceAll(" \\(.*?:.*?\\)", "");
     }

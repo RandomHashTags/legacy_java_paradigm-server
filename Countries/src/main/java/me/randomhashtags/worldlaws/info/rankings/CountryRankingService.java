@@ -3,13 +3,13 @@ package me.randomhashtags.worldlaws.info.rankings;
 import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
-import me.randomhashtags.worldlaws.service.NewCountryService;
+import me.randomhashtags.worldlaws.service.NewCountryServiceCentralData;
 import org.json.JSONObject;
 import org.jsoup.select.Elements;
 
 import java.util.HashMap;
 
-public interface CountryRankingService extends NewCountryService {
+public interface CountryRankingService extends NewCountryServiceCentralData {
     HashMap<SovereignStateInformationType, JSONObjectTranslatable> RANKED_JSONS = new HashMap<>();
     String getURL();
     String getSiteName();

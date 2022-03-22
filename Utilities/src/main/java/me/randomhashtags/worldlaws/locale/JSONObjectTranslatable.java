@@ -1,11 +1,11 @@
 package me.randomhashtags.worldlaws.locale;
 
 import me.randomhashtags.worldlaws.Folder;
-import me.randomhashtags.worldlaws.stream.CompletableFutures;
-import org.json.JSONArray;
+import me.randomhashtags.worldlaws.stream.CustomConsumer;
 import org.json.JSONObject;
 
 import java.util.Arrays;
+import java.util.Collection;
 import java.util.HashSet;
 
 public class JSONObjectTranslatable extends JSONObject implements JSONTranslatable {
@@ -19,6 +19,18 @@ public class JSONObjectTranslatable extends JSONObject implements JSONTranslatab
         final JSONObjectTranslatable translatable = new JSONObjectTranslatable();
         for(String key : json.keySet()) {
             translatable.put(key, json.get(key));
+        }
+        return translatable;
+    }
+
+    public static JSONObjectTranslatable parse(JSONObject json, Folder folder, String fileName, Collection<String> capturedKeys, CustomConsumer yoink) {
+        final String[] array = capturedKeys != null ? capturedKeys.toArray(new String[capturedKeys.size()]) : new String[0];
+        final JSONObjectTranslatable translatable = new JSONObjectTranslatable(array);
+        translatable.folder = folder;
+        translatable.fileName = fileName;
+        for(String key : json.keySet()) {
+            final Object obj = capturedKeys != null && capturedKeys.contains(key) ? yoink.accept(key) : json.get(key);
+            translatable.put(key, obj);
         }
         return translatable;
     }
@@ -38,6 +50,9 @@ public class JSONObjectTranslatable extends JSONObject implements JSONTranslatab
         removedClientKeys = json.getRemovedClientKeys();
         folder = json.getFolder();
         fileName = json.getFileName();
+        for(String key : json.keySet()) {
+            put(key, json.get(key));
+        }
     }
 
     @Override
@@ -106,13 +121,13 @@ public class JSONObjectTranslatable extends JSONObject implements JSONTranslatab
         return removedClientKeys;
     }
 
-    public void update(LanguageTranslator translator, Language clientLanguage) {
+    public void updateIfNeeded(LanguageTranslator translator, Language clientLanguage) {
         final String localeKey = "locale", translatorID = translator.getID(), languageID = clientLanguage.getID();
-        final boolean inserted = JSONTranslatable.insertTranslations(this, translatorID, languageID);
-        if(!inserted) {
-            final JSONObject localeJSON = has(localeKey) ? getJSONObject(localeKey) : new JSONObject();
-            final JSONObject languageJSON = localeJSON.has(translatorID) ? localeJSON.getJSONObject(translatorID) : new JSONObject();
-            final JSONObject translationsJSON = languageJSON.has(languageID) ? languageJSON.getJSONObject(languageID) : new JSONObject();
+        final boolean hasTranslations = JSONTranslatable.hasTranslations(this, translatorID, languageID);
+        if(!hasTranslations) {
+            final JSONObject localeJSON = optJSONObject(localeKey, new JSONObject());
+            final JSONObject languageJSON = localeJSON.optJSONObject(translatorID, new JSONObject());
+            final JSONObject translationsJSON = languageJSON.optJSONObject(languageID, new JSONObject());
             final JSONObject translations = getTranslations(this, translator, clientLanguage);
             if(!translations.isEmpty()) {
                 for(String key : translations.keySet()) {
@@ -124,35 +139,5 @@ public class JSONObjectTranslatable extends JSONObject implements JSONTranslatab
                 save();
             }
         }
-    }
-    public JSONObject getTranslations(JSONObjectTranslatable json, LanguageTranslator translator, Language toLanguage) {
-        final HashSet<String> keys = json.getTranslatedKeys();
-        final JSONObject translations = new JSONObject();
-        if(keys != null && keys.size() > 0) {
-            new CompletableFutures<String>().stream(keys, key -> {
-                if(json.has(key)) {
-                    final Object obj = json.get(key);
-                    if(obj instanceof String) {
-                        final String text = (String) obj;
-                        final String translatedText = translator.translateFromEnglish(text, toLanguage);
-                        translations.put(key, translatedText);
-                    } else if(obj instanceof JSONArray) {
-                        final JSONArray array = (JSONArray) obj;
-                        final JSONArray translatedArray = JSONArrayTranslatable.getTranslations(array, translator, toLanguage);
-                        translations.put(key, translatedArray);
-                    } else if(obj instanceof JSONObjectTranslatable) {
-                        final JSONObjectTranslatable translatable = (JSONObjectTranslatable) obj;
-                        final JSONObject translatableTranslations = getTranslations(translatable, translator, toLanguage);
-                        if(!translatable.isEmpty()) {
-                            for(String translatableKey : translatableTranslations.keySet()) {
-                                translatable.put(translatableKey, translatableTranslations.get(translatableKey));
-                            }
-                            translations.put(key, translatable);
-                        }
-                    }
-                }
-            });
-        }
-        return translations;
     }
 }

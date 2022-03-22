@@ -5,6 +5,7 @@ import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.service.CountryServices;
 import me.randomhashtags.worldlaws.service.NewCountryService;
+import me.randomhashtags.worldlaws.service.NewCountryServiceNonStatic;
 import me.randomhashtags.worldlaws.settings.ResponseVersions;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONArray;
@@ -184,9 +185,11 @@ public interface Country extends SovereignState {
         json.setFolder(folder);
         json.setFileName(country.getBackendID());
 
-        final HashSet<NewCountryService> services = CountryServices.NEW_STATIC_SERVICES;
+        final HashSet<NewCountryService> services = CountryServices.STATIC_SERVICES;
         final HashSet<EventSources> resources = new HashSet<>();
         final ConcurrentHashMap<SovereignStateInformationType, HashMap<SovereignStateInfo, JSONObjectTranslatable>> values = new ConcurrentHashMap<>();
+        final WLCountry[] neighbors = country.getNeighbors();
+
         new CompletableFutures<NewCountryService>().stream(services, service -> {
             final JSONObjectTranslatable result = service.getJSONObject(country);
             if(result != null && !result.isEmpty()) {
@@ -243,8 +246,19 @@ public interface Country extends SovereignState {
         return NONSTATIC_INFORMATION_CACHE.get(backendID);
     }
     default JSONObjectTranslatable updateNonStaticInformation() {
+        final WLCountry wlcountry = getWLCountry();
         final String backendID = getBackendID();
         final JSONObjectTranslatable json = new JSONObjectTranslatable();
+        final HashSet<NewCountryServiceNonStatic> nonStaticServices = CountryServices.NONSTATIC_SERVICES;
+        new CompletableFutures<NewCountryServiceNonStatic>().stream(nonStaticServices, service -> {
+            final JSONObjectTranslatable serviceJSON = service.getJSONObject(wlcountry);
+            if(serviceJSON != null) {
+                final SovereignStateInfo info = service.getInfo();
+                final String title = info.getTitle();
+                json.put(title, serviceJSON);
+                json.addTranslatedKey(title);
+            }
+        });
         NONSTATIC_INFORMATION_CACHE.put(backendID, json);
         INFORMATION_CACHE.remove(backendID);
         return json;

@@ -3,12 +3,14 @@ package me.randomhashtags.worldlaws.recent;
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.WLUtilities;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.service.WikipediaDocument;
 import me.randomhashtags.worldlaws.service.WikipediaEvent;
 import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import me.randomhashtags.worldlaws.upcoming.events.LoadedPreUpcomingEvent;
 import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -49,14 +51,14 @@ public final class ScienceYearReview extends LoadedUpcomingEventController {
             final String dateString = EventDate.getDateString(date);
             final String identifier = getEventDateIdentifier(dateString, "Today in Science");
             final String[] dateValues = dateString.split("-");
-            final JSONObject json = new JSONObject();
+            final JSONObjectTranslatable json = new JSONObjectTranslatable();
             for(String key : pastJSON.keySet()) {
                 if(key.startsWith(dateValues[0] + "-") && key.endsWith("-" + dateValues[2])) {
                     json.put(key, pastJSON.getJSONArray(key));
+                    json.addTranslatedKey(key);
                 }
             }
-            final String string = json.toString(), realString = string.substring(1, string.length()-1);
-            //putLoadedPreUpcomingEvent(identifier, realString); // TODO: fix this
+            putLoadedPreUpcomingEvent(identifier, new LoadedPreUpcomingEvent(identifier, json));
             //putUpcomingEvent(identifier, realString);
         }
     }

@@ -47,38 +47,39 @@ public final class MusicSpotify extends LoadedUpcomingEventController implements
             final JSONObjectTranslatable tracks = new JSONObjectTranslatable();
             for(Object obj : tracksArray) {
                 final JSONObject trackJSON = ((JSONObject) obj).getJSONObject("track");
-
-                final JSONObject albumJSON = trackJSON.getJSONObject("album");
-                final JSONArray albumImages = albumJSON.getJSONArray("images");
-                String trackImageURL = null;
-                int maxWidth = 0;
-                for(Object imageObj : albumImages) {
-                    final JSONObject imageJSON = (JSONObject) imageObj;
-                    if(imageJSON.getInt("width") > maxWidth) {
-                        trackImageURL = imageJSON.getString("url");
+                if(trackJSON.has("album")) {
+                    final JSONObject albumJSON = trackJSON.getJSONObject("album");
+                    final JSONArray albumImages = albumJSON.getJSONArray("images");
+                    String trackImageURL = null;
+                    int maxWidth = 0;
+                    for(Object imageObj : albumImages) {
+                        final JSONObject imageJSON = (JSONObject) imageObj;
+                        if(imageJSON.getInt("width") > maxWidth) {
+                            trackImageURL = imageJSON.getString("url");
+                        }
                     }
-                }
 
-                final JSONArray artistsArray = trackJSON.getJSONArray("artists");
-                final JSONObjectTranslatable artists = new JSONObjectTranslatable();
-                for(Object artistObj : artistsArray) {
-                    final JSONObject artistJSON = (JSONObject) artistObj;
-                    final String id = artistJSON.getString("id"), name = LocalServer.fixEscapeValues(artistJSON.getString("name"));
-                    artists.put(id, name);
-                    artists.addTranslatedKey(id);
-                }
+                    final JSONArray artistsArray = trackJSON.getJSONArray("artists");
+                    final JSONObjectTranslatable artists = new JSONObjectTranslatable();
+                    for(Object artistObj : artistsArray) {
+                        final JSONObject artistJSON = (JSONObject) artistObj;
+                        final String id = artistJSON.getString("id"), name = LocalServer.fixEscapeValues(artistJSON.getString("name"));
+                        artists.put(id, name);
+                        artists.addTranslatedKey(id);
+                    }
 
-                final String name = trackJSON.getString("name");
-                final String previewURL = trackJSON.get("preview_url") instanceof String ? trackJSON.getString("preview_url") : null;
-                final boolean isExplicit = trackJSON.getBoolean("explicit");
-                final long duration = trackJSON.getLong("duration_ms");
-                final EventSources sources = new EventSources();
-                final JSONObject externalURLs = trackJSON.getJSONObject("external_urls");
-                if(externalURLs.has("spotify")) {
-                    sources.add(new EventSource("Spotify: " + name, externalURLs.getString("spotify")));
+                    final String name = trackJSON.getString("name");
+                    final String previewURL = trackJSON.get("preview_url") instanceof String ? trackJSON.getString("preview_url") : null;
+                    final boolean isExplicit = trackJSON.getBoolean("explicit");
+                    final long duration = trackJSON.getLong("duration_ms");
+                    final EventSources sources = new EventSources();
+                    final JSONObject externalURLs = trackJSON.getJSONObject("external_urls");
+                    if(externalURLs.has("spotify")) {
+                        sources.add(new EventSource("Spotify: " + name, externalURLs.getString("spotify")));
+                    }
+                    final SpotifyTrack track = new SpotifyTrack(artists, trackImageURL, isExplicit, duration, previewURL, sources);
+                    tracks.put(name, track);
                 }
-                final SpotifyTrack track = new SpotifyTrack(artists, trackImageURL, isExplicit, duration, previewURL, sources);
-                tracks.put(name, track);
             }
 
             final String identifier = getEventDateIdentifier(dateString, description);

@@ -7,6 +7,8 @@ import java.util.concurrent.ConcurrentHashMap;
 
 public enum Folder {
     COUNTRIES,
+    COUNTRIES_AVAILABILITIES,
+    COUNTRIES_CITIES_INFORMATION("countries" + File.separator + "cities" + File.separator + "information" + File.separator + "%country%" + File.separator + "%subdivision%"),
     COUNTRIES_LEGALITIES,
     COUNTRIES_NATIONAL,
     COUNTRIES_RANKINGS,
@@ -14,17 +16,14 @@ public enum Folder {
     COUNTRIES_INFO,
     COUNTRIES_INFORMATION,
     COUNTRIES_SERVICES,
-    COUNTRIES_SERVICES_AVAILABILITIES,
     COUNTRIES_SERVICES_TRAVEL_BRIEFING("countries" + File.separator + "services" + File.separator + "travel briefing"),
-    COUNTRIES_SERVICES_WIKIPEDIA,
-    COUNTRIES_SERVICES_WIKIPEDIA_FEATURED_PICTURES("countries" + File.separator + "services" + File.separator + "wikipedia" + File.separator + "featured pictures"),
-    COUNTRIES_SERVICES_WIKIPEDIA_FEATURED_PICTURES_MEDIA("countries" + File.separator + "services" + File.separator + "wikipedia" + File.separator + "featured pictures" + File.separator + "media"),
     COUNTRIES_SUBDIVISIONS,
-    COUNTRIES_SUBDIVISIONS_WIKIPEDIA_PAGES("countries" + File.separator + "subdivisions" + File.separator + "wikipediaPages"), // TODO: split into respective country
+    COUNTRIES_SUBDIVISIONS_WIKIPEDIA,
     COUNTRIES_SUBDIVISIONS_CITIES,
     COUNTRIES_SUBDIVISIONS_INFORMATION("countries" + File.separator + "subdivisions" + File.separator + "information" + File.separator + "%country%"),
     COUNTRIES_VALUES,
-    COUNTRIES_WIKIPEDIA_PAGES("countries" + File.separator + "wikipediaPages"),
+    COUNTRIES_WIKIPEDIA,
+    COUNTRIES_WIKIPEDIA_FEATURED_PICTURES("countries" + File.separator + "wikipedia" + File.separator + "featured pictures"),
 
     LAWS_USA_MEMBERS,
     LAWS_USA_CONGRESS("laws" + File.separator + "unitedstates" + File.separator + "congress" + File.separator + "%version%"),
@@ -74,7 +73,7 @@ public enum Folder {
         return id != null ? ids.get(id) : null;
     }
     public void setCustomFolderName(String id, String folderName) {
-        if(folderName != null) {
+        if(id != null && folderName != null) {
             ids.put(id, folderName);
         }
     }

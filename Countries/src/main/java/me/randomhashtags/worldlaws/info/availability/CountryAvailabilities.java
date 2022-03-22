@@ -1,11 +1,12 @@
 package me.randomhashtags.worldlaws.info.availability;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
+import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.info.availability.tech.AppleAvailabilityObj;
 import me.randomhashtags.worldlaws.info.availability.tech.AppleFeatureType;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -13,9 +14,9 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.util.Arrays;
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
-import java.util.concurrent.ConcurrentHashMap;
 
 public enum CountryAvailabilities implements CountryAvailabilityService {
     INSTANCE,
@@ -86,65 +87,19 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
 
                 new AppleAvailabilityObj(AppleFeatureType.WATCH_OS, SovereignStateInfo.AVAILABILITY_APPLE_WATCH_OS_APPLE_MUSIC),
                 new AppleAvailabilityObj(AppleFeatureType.WATCH_OS, SovereignStateInfo.AVAILABILITY_APPLE_WATCH_OS_APPLE_PAY),
-                new AppleAvailabilityObj(AppleFeatureType.WATCH_OS, SovereignStateInfo.AVAILABILITY_APPLE_WATCH_OS_APPLE_PAY_IN_APP_PAYMENTS),
                 new AppleAvailabilityObj(AppleFeatureType.WATCH_OS, SovereignStateInfo.AVAILABILITY_APPLE_WATCH_OS_BLOOD_OXYGEN_APP),
                 new AppleAvailabilityObj(AppleFeatureType.WATCH_OS, SovereignStateInfo.AVAILABILITY_APPLE_WATCH_OS_ECG),
                 new AppleAvailabilityObj(AppleFeatureType.WATCH_OS, SovereignStateInfo.AVAILABILITY_APPLE_WATCH_OS_IRREGULAR_RHYTHM_NOTIFICATION),
+                new AppleAvailabilityObj(AppleFeatureType.WATCH_OS, SovereignStateInfo.AVAILABILITY_APPLE_WATCH_OS_RADIO),
                 new AppleAvailabilityObj(AppleFeatureType.WATCH_OS, SovereignStateInfo.AVAILABILITY_APPLE_WATCH_OS_SIRI),
                 new AppleAvailabilityObj(AppleFeatureType.WATCH_OS, SovereignStateInfo.AVAILABILITY_APPLE_WATCH_OS_STUDENT_ID_CARDS),
                 new AppleAvailabilityObj(AppleFeatureType.WATCH_OS, SovereignStateInfo.AVAILABILITY_APPLE_WATCH_OS_WALKIE_TALKIE)
         ));
     }
 
-    public String getCountryAvailabilities(String countryBackendID) {
-        final ConcurrentHashMap<Boolean, ConcurrentHashMap<String, HashSet<String>>> values = new ConcurrentHashMap<>();
-        final JSONObject json = getJSONObject(Folder.COUNTRIES_SERVICES_AVAILABILITIES, "availabilities", new CompletionHandler() {
-            @Override
-            public JSONObject loadJSONObject() {
-                final JSONObject json = new JSONObject();
-                new CompletableFutures<CountryAvailabilityService>().stream(SERVICES, service -> {
-                    final JSONArray array = new JSONArray(service.loadData());
-                    json.put(service.getInfo().getTitle(), array);
-                });
-                return json;
-            }
-        });
-        if(json != null) {
-            new CompletableFutures<CountryAvailabilityService>().stream(SERVICES, service -> {
-                final CountryAvailability availability = service.getAvailability(json, countryBackendID);
-                if(availability != null) {
-                    final String primaryCategory = availability.getPrimaryCategory().name();
-                    final boolean availabilityIsAvailable = availability.isAvailable();
-                    values.putIfAbsent(availabilityIsAvailable, new ConcurrentHashMap<>());
-                    values.get(availabilityIsAvailable).putIfAbsent(primaryCategory, new HashSet<>());
-                    values.get(availabilityIsAvailable).get(primaryCategory).add(availability.toString());
-                } else {
-                    WLLogger.logError("CountryAvailabilities", "missing availability values for service \"" + service.getInfo().name() + "\"!");
-                }
-            });
-        }
-
-        final StringBuilder builder = new StringBuilder("{");
-        boolean isFirstBoolean = true;
-        for(Map.Entry<Boolean, ConcurrentHashMap<String, HashSet<String>>> map : values.entrySet()) {
-            final boolean isAvailable = map.getKey();
-            builder.append(isFirstBoolean ? "" : ",").append("\"").append(isAvailable).append("\":{");
-            boolean isFirstCategory = true;
-            for(Map.Entry<String, HashSet<String>> category : map.getValue().entrySet()) {
-                builder.append(isFirstCategory ? "" : ",").append("\"").append(category.getKey()).append("\":{");
-                boolean isFirst = true;
-                for(String value : category.getValue()) {
-                    builder.append(isFirst ? "" : ",").append(value);
-                    isFirst = false;
-                }
-                builder.append("}");
-                isFirstCategory = false;
-            }
-            builder.append("}");
-            isFirstBoolean = false;
-        }
-        builder.append("}");
-        return builder.toString();
+    @Override
+    public String getServiceFileName(WLCountry country) {
+        return "availabilities";
     }
 
     @Override
@@ -224,7 +179,53 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
     }
 
     @Override
-    public String loadData() {
+    public JSONObjectTranslatable loadData() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable();
+        new CompletableFutures<CountryAvailabilityService>().stream(SERVICES, availability -> {
+            final JSONArray data = availability.loadDataArray();
+            json.put(availability.getInfo().getTitle(), data);
+        });
+        return json;
+    }
+
+    @Override
+    public JSONObjectTranslatable parseData(JSONObject json) {
+        return JSONObjectTranslatable.parse(json, Folder.COUNTRIES_AVAILABILITIES, "availabilities", null, null);
+    }
+
+    @Override
+    public JSONObjectTranslatable getJSONObject(WLCountry country) {
+        final String countryBackendID = country.getBackendID();
+        final JSONObjectTranslatable translatable = new JSONObjectTranslatable();
+
+        final HashMap<Boolean, HashMap<String, JSONArray>> values = new HashMap<>();
+        final JSONObject json = getData(SovereignStateInfo.AVAILABILITIES, country);
+        for(CountryAvailabilityService service : SERVICES) {
+            final CountryAvailability availability = service.getAvailability(json, countryBackendID);
+            if(availability != null) {
+                final String primaryCategory = availability.getPrimaryCategory().name();
+                final boolean availabilityIsAvailable = availability.isAvailable();
+                values.putIfAbsent(availabilityIsAvailable, new HashMap<>());
+                values.get(availabilityIsAvailable).putIfAbsent(primaryCategory, new JSONArray());
+                values.get(availabilityIsAvailable).get(primaryCategory).put(availability.toJSONObject());
+            }
+        }
+        for(Map.Entry<Boolean, HashMap<String, JSONArray>> map : values.entrySet()) {
+            final boolean isAvailable = map.getKey();
+            final JSONObjectTranslatable statusJSON = new JSONObjectTranslatable();
+            for(Map.Entry<String, JSONArray> entry : map.getValue().entrySet()) {
+                final String primaryCategory = entry.getKey();
+                statusJSON.put(primaryCategory, entry.getValue());
+                statusJSON.addTranslatedKey(primaryCategory);
+            }
+            translatable.put("" + isAvailable, statusJSON);
+            translatable.addTranslatedKey("" + isAvailable);
+        }
+        return translatable;
+    }
+
+    @Override
+    public JSONArray loadDataArray() {
         switch (this) {
             case ALEXA: return loadAlexa();
             case AMC_PLUS: return loadAMCPlus();
@@ -261,7 +262,7 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
         }
     }
 
-    private String loadAlexa() {
+    private JSONArray loadAlexa() {
         // https://en.wikipedia.org/wiki/Amazon_Alexa
         final String[] array = {
                 "unitedstates",
@@ -308,15 +309,15 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
         };
         return loadOnlyTrue(array);
     }
-    private String loadAMCPlus() {
+    private JSONArray loadAMCPlus() {
         // https://www.amcplus.com/faqs
         return loadOnlyTrue("unitedstates");
     }
-    private String loadAT_AND_T() {
+    private JSONArray loadAT_AND_T() {
         // https://en.wikipedia.org/wiki/AT%26T_TV
         return loadOnlyTrue("unitedstates");
     }
-    private String loadDAZN() {
+    private JSONArray loadDAZN() {
         // https://www.dazn.com/en-DE/help/articles/where-is-dazn-available
         final String[] array = {
                 "austria",
@@ -331,7 +332,7 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
         };
         return loadOnlyTrue(array);
     }
-    private String loadDiscoveryPlus() {
+    private JSONArray loadDiscoveryPlus() {
         // https://www.discoveryplus.com
         final String[] array = {
                 "denmark",
@@ -350,30 +351,25 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
         };
         return loadOnlyTrue(array);
     }
-    private String loadDisneyPlus() {
+    private JSONArray loadDisneyPlus() {
         final String url = "https://en.wikipedia.org/wiki/Disney%2B";
         final Elements trs = getAvailabilityDocumentElements(url, "div.mw-parser-output table.wikitable").get(0).select("tbody tr");
         trs.remove(0);
 
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
+        final JSONArray array = new JSONArray();
         for(Element element : trs) {
             final Elements tds = element.select("td");
             final String targetCountry = tds.get(0).select("a").get(0).text().toLowerCase().replace(" ", "");
             final HashSet<String> countries = getCountriesFromText(targetCountry);
-            for(String country : countries) {
-                builder.append(isFirst ? "" : ",").append("\"").append(country).append("\"");
-                isFirst = false;
-            }
+            array.putAll(countries);
         }
-        builder.append("]");
-        return builder.toString();
+        return array;
     }
-    private String loadESPNPlus() {
+    private JSONArray loadESPNPlus() {
         // https://en.wikipedia.org/wiki/ESPN%2B
         return loadOnlyTrue("unitedstates");
     }
-    private String loadGoogleAssistant() {
+    private JSONArray loadGoogleAssistant() {
         // https://www.androidauthority.com/google-assistant-countries-864554/ | https://events.google.com/io2018/recap/
         final String[] array = {
                 // africa
@@ -461,46 +457,40 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
         };
         return loadOnlyTrue(array);
     }
-    private String loadGooglePay() {
+    private JSONArray loadGooglePay() {
         final String url = "https://en.wikipedia.org/wiki/Google_Pay";
         final Elements trs = getAvailabilityDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         trs.remove(0);
 
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
+        final JSONArray array = new JSONArray();
         for(Element element : trs) {
             final Elements tds = element.select("td");
             final int size = tds.size();
             final String country = tds.get(1-(size == 3 || size == 4 ? 1 : 0)).select("a").get(0).text().toLowerCase().replace(" ", "");
-            builder.append(isFirst ? "" : ",").append("\"").append(country).append("\"");
-            isFirst = false;
+            array.put(country);
         }
-        builder.append("]");
-        return builder.toString();
+        return array;
     }
-    private String loadGooglePlayPass() {
+    private JSONArray loadGooglePlayPass() {
         final String url = "https://play.google.com/about/pass-availability/";
         final Elements elements = getAvailabilityDocumentElements(url, "body main.h-c-page ul li");
 
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
+        final JSONArray array = new JSONArray();
         for(Element element : elements) {
             final String country = element.text().toLowerCase().replace(" ", "");
-            builder.append(isFirst ? "" : ",").append("\"").append(country).append("\"");
-            isFirst = false;
+            array.put(country);
         }
-        builder.append("]");
-        return builder.toString();
+        return array;
     }
-    private String loadHBOMax() {
+    private JSONArray loadHBOMax() {
         // https://en.wikipedia.org/wiki/HBO_Max
         return loadOnlyTrue("unitedstates");
     }
-    private String loadHulu() {
+    private JSONArray loadHulu() {
         // https://en.wikipedia.org/wiki/Hulu#International_availability
         return loadOnlyTrue("unitedstates");
     }
-    private String loadNvidiaGeforceNOW() {
+    private JSONArray loadNvidiaGeforceNOW() {
         // https://nvidia.custhelp.com/app/answers/detail/a_id/5023
         final String[] array = {
                 "albania",
@@ -563,7 +553,7 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
         };
         return loadOnlyTrue(array);
     }
-    private String loadParamountPlus() {
+    private JSONArray loadParamountPlus() {
         // https://en.wikipedia.org/wiki/Paramount%2B
         // https://help.cbs.com/s/article/I-m-traveling-out-of-the-country-Can-I-watch-CBSN
         final String[] array = {
@@ -573,11 +563,11 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
         };
         return loadOnlyTrue(array);
     }
-    private String loadPeacock() {
+    private JSONArray loadPeacock() {
         // https://en.wikipedia.org/wiki/Peacock_(streaming_service)
         return loadOnlyTrue("unitedstates");
     }
-    private String loadPlayStationNow() {
+    private JSONArray loadPlayStationNow() {
         // https://en.wikipedia.org/wiki/PlayStation_Now
         // https://www.playstation.com/en-us/support/subscriptions/playstation-now-support/
         final String[] array = {
@@ -603,40 +593,34 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
         };
         return loadOnlyTrue(array);
     }
-    private String loadSamsungPay() {
+    private JSONArray loadSamsungPay() {
         final String url = "https://en.wikipedia.org/wiki/Samsung_Pay";
         final Elements trs = getAvailabilityDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         trs.remove(0);
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
+        final JSONArray array = new JSONArray();
         for(Element element : trs) {
             final Elements tds = element.select("td");
             final int size = tds.size();
             final String country = tds.get(1-(size == 1 ? 1 : 0)).select("a").get(1).text().toLowerCase().replace(" ", "");
-            builder.append(isFirst ? "" : ",").append("\"").append(country).append("\"");
-            isFirst = false;
+            array.put(country);
         }
-        builder.append("]");
-        return builder.toString();
+        return array;
     }
-    private String loadShowtime() {
+    private JSONArray loadShowtime() {
         // https://en.wikipedia.org/wiki/Showtime_(TV_network)
         return loadOnlyTrue("unitedstates");
     }
-    private String loadSpotify() {
+    private JSONArray loadSpotify() {
         final String url = "https://support.spotify.com/us/article/full-list-of-territories-where-spotify-is-available/";
         final Elements trs = getAvailabilityDocumentElements(url, "div.raw-content ul li");
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
+        final JSONArray array = new JSONArray();
         for(Element element : trs) {
             final String country = element.text().toLowerCase().replace(" ", "");
-            builder.append(isFirst ? "" : ",").append("\"").append(country).append("\"");
-            isFirst = false;
+            array.put(country);
         }
-        builder.append("]");
-        return builder.toString();
+        return array;
     }
-    private String loadStadia() {
+    private JSONArray loadStadia() {
         // https://support.google.com/stadia/answer/9566513?hl=en
         // https://en.wikipedia.org/wiki/Google_Stadia
         final String[] array = {
@@ -665,11 +649,11 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
         };
         return loadOnlyTrue(array);
     }
-    private String loadStarz() {
+    private JSONArray loadStarz() {
         // https://en.wikipedia.org/wiki/Starz
         return loadOnlyTrue("unitedstates");
     }
-    private String loadStarzplay() {
+    private JSONArray loadStarzplay() {
         // https://en.wikipedia.org/wiki/Starz#Starzplay
         final String[] array = {
                 "argentina",
@@ -701,7 +685,7 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
         };
         return loadOnlyTrue(array);
     }
-    private String loadTidal() {
+    private JSONArray loadTidal() {
         final String url = "https://support.tidal.com/hc/en-us/articles/202453191-Which-countries-is-TIDAL-available-";
         final Elements trs = getAvailabilityDocumentElements(url, "section.categories-wrapper div ul li.txt-content", 0).select("p");
         for(int i = 0; i < 2; i++) {
@@ -710,21 +694,18 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
         trs.remove(trs.size()-1);
         trs.remove(trs.size()-1);
 
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
+        final JSONArray array = new JSONArray();
         for(Element element : trs) {
             final String country = element.text().toLowerCase().replace(" ", "").replace("ofamerica", "");
-            builder.append(isFirst ? "" : ",").append("\"").append(country).append("\"");
-            isFirst = false;
+            array.put(country);
         }
-        builder.append("]");
-        return builder.toString();
+        return array;
     }
-    private String loadVenmo() {
+    private JSONArray loadVenmo() {
         // https://help.venmo.com/hc/en-us/articles/209690188-Requirements
         return loadOnlyTrue("unitedstates");
     }
-    private String loadXboxCloudGaming() {
+    private JSONArray loadXboxCloudGaming() {
         // https://en.wikipedia.org/wiki/Xbox_Cloud_Gaming
         final String[] array = {
                 "austria",
@@ -753,7 +734,7 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
         };
         return loadOnlyTrue(array);
     }
-    private String loadXboxGamePass() {
+    private JSONArray loadXboxGamePass() {
         // https://en.wikipedia.org/wiki/Xbox_Game_Pass
         final String[] array = {
                 "argentina",
@@ -800,7 +781,7 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
         };
         return loadOnlyTrue(array);
     }
-    private String loadXboxLive() {
+    private JSONArray loadXboxLive() {
         // https://www.xbox.com/en-us/Shell/ChangeLocale?rtc=1
         // https://en.wikipedia.org/wiki/Xbox_Live
         final String[] array = {
@@ -849,21 +830,18 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
         };
         return loadOnlyTrue(array);
     }
-    private String loadYouTubePremium() {
+    private JSONArray loadYouTubePremium() {
         final String url = "https://support.google.com/youtube/answer/6307365?hl=en#zippy=%2Cpremium-memberships-available-locations";
         final Elements list = getAvailabilityDocumentElements(url, "div table.no-stripes", 0).select("tbody tr td");
 
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
+        final JSONArray array = new JSONArray();
         for(Element li : list) {
             final String country = li.text().toLowerCase().replace(" ", "").replace("&", "and").replace(".", "");
-            builder.append(isFirst ? "" : ",").append("\"").append(country).append("\"");
-            isFirst = false;
+            array.put(country);
         }
-        builder.append("]");
-        return builder.toString();
+        return array;
     }
-    private String loadYouTubeTV() {
+    private JSONArray loadYouTubeTV() {
         // https://support.google.com/youtubetv/answer/7370552?hl=en
         return loadOnlyTrue("unitedstates");
     }

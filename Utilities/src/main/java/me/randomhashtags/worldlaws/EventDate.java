@@ -94,7 +94,7 @@ public final class EventDate {
         minute = -1;
     }
 
-    public boolean areEqual(EventDate right) {
+    public boolean equals(EventDate right) {
         return month == right.month && year == right.year && day == right.day && hour == right.hour && minute == right.minute;
     }
     public String getDateString() {

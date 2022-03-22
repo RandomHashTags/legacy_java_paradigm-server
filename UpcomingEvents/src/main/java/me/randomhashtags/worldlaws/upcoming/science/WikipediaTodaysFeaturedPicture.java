@@ -24,7 +24,7 @@ public final class WikipediaTodaysFeaturedPicture extends LoadedUpcomingEventCon
         final String url = "https://en.wikipedia.org/wiki/Main_Page";
         final Document doc = getDocument(url);
         if(doc != null) {
-            final String title = "Today's featured picture";
+            final String title = "Wikipedia: Today's featured picture";
             final Elements bg = doc.select("div.MainPageBG");
             for(Element element : bg) {
                 final Element headlineElement = element.selectFirst("span.mw-headline");
@@ -60,7 +60,7 @@ public final class WikipediaTodaysFeaturedPicture extends LoadedUpcomingEventCon
                     final EventDate date = new EventDate(LocalDate.now());
                     final String dateString = date.getDateString();
                     final String identifier = getEventDateIdentifier(dateString, title);
-                    final WikipediaTodaysFeaturedPictureEvent event = new WikipediaTodaysFeaturedPictureEvent(date, description.toString(), imageURL, externalSources);
+                    final WikipediaTodaysFeaturedPictureEvent event = new WikipediaTodaysFeaturedPictureEvent(date, title, description.toString(), imageURL, externalSources);
                     putLoadedPreUpcomingEvent(identifier, event.toPreUpcomingEventJSON(getType(), identifier, photographCredit));
                     putUpcomingEvent(identifier, event);
                     break;

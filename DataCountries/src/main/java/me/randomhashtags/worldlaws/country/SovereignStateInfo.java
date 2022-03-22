@@ -21,7 +21,7 @@ public enum SovereignStateInfo {
     AGRICULTURE_FOOD_TOMATO_PRODUCTION("Tomato Production"),
     AGRICULTURE_RENEWABLE_ELECTRICITY_PRODUCTION("Renewable Electricity Production"),
 
-    AVAILABILITIES,
+    AVAILABILITIES("Availabilities"),
     AVAILABILITY_ALEXA("Alexa"),
     AVAILABILITY_AMC_PLUS("AMC+"),
 
@@ -56,10 +56,10 @@ public enum SovereignStateInfo {
 
     AVAILABILITY_APPLE_WATCH_OS_APPLE_MUSIC("Apple Watch: Apple Music"),
     AVAILABILITY_APPLE_WATCH_OS_APPLE_PAY("Apple Watch: Apple Pay"),
-    AVAILABILITY_APPLE_WATCH_OS_APPLE_PAY_IN_APP_PAYMENTS("Apple Watch: Apple Pay: In-App Payments"),
     AVAILABILITY_APPLE_WATCH_OS_BLOOD_OXYGEN_APP("Apple Watch: Blood Oxygen App"),
     AVAILABILITY_APPLE_WATCH_OS_ECG("Apple Watch: ECG"),
     AVAILABILITY_APPLE_WATCH_OS_IRREGULAR_RHYTHM_NOTIFICATION("Apple Watch: Irregular Rhythm Notification"),
+    AVAILABILITY_APPLE_WATCH_OS_RADIO("Apple Watch: Radio"),
     AVAILABILITY_APPLE_WATCH_OS_SIRI("Apple Watch: Siri"),
     AVAILABILITY_APPLE_WATCH_OS_STUDENT_ID_CARDS("Apple Watch: Student ID Cards"),
     AVAILABILITY_APPLE_WATCH_OS_WALKIE_TALKIE("Apple Watch: Walkie Talkie"),
@@ -170,8 +170,7 @@ public enum SovereignStateInfo {
     SERVICE_TWELVE_DATA("Twelve Data"),
 
     CITIES,
-    RESOURCES,
-    TERRITORIES,
+    RESOURCES("Resources"),
 
     VALUE_HEALTH_CARE_SYSTEM("Health Care System"),
     VALUE_MILITARY_ENLISTMENT_AGE("Military Enlistment Age"),

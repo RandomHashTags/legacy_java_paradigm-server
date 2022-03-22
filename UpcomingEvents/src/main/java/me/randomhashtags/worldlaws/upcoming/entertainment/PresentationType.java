@@ -53,16 +53,11 @@ public enum PresentationType implements Jsoupable {
             "https://en.wikipedia.org/wiki/List_of_G20_summits",
             PresentationEventType.SUMMIT
     ),*/
-    /*GAME_DEVELOPERS_CONFERENCE(
+    GAME_DEVELOPERS_CONFERENCE(
             "Game Developers Conference",
             "https://en.wikipedia.org/wiki/Game_Developers_Conference",
             PresentationEventType.CONFERENCE
-    ),*/
-    /*GAMESCON(
-            "Gamescon",
-            "https://en.wikipedia.org/wiki/Gamescom",
-            PresentationEventType.EXPO_GAMING
-    ),*/
+    ),
     GOLDEN_GLOBE_AWARDS(
             "Golden Globe Awards",
             "https://en.wikipedia.org/wiki/List_of_Golden_Globe_Awards_ceremonies",
@@ -73,6 +68,12 @@ public enum PresentationType implements Jsoupable {
             "https://en.wikipedia.org/wiki/Google_I/O",
             PresentationEventType.CONFERENCE_DEVELOPER
     ),
+    /*
+    LOLLAPALOOZA(
+            "Lollapalooza",
+            "https://en.wikipedia.org/wiki/Lollapalooza",
+            PresentationEventType.FESTIVAL_MUSIC
+    ),*/
     MET_GALA(
             "Met Gala",
             "https://en.wikipedia.org/wiki/Met_Gala",
@@ -156,7 +157,7 @@ public enum PresentationType implements Jsoupable {
             events.removeIf(event -> event.getDate().getLocalDate().isBefore(startingDay));
             for(PresentationEvent event : events) {
                 final EventSources sources = new EventSources(keySources), externalLinks = event.getExternalLinks();
-                if(externalLinks != null) {
+                if(externalLinks != null && !externalLinks.isEmpty()) {
                     sources.addAll(externalLinks);
                 }
                 event.setSources(sources);
@@ -172,6 +173,7 @@ public enum PresentationType implements Jsoupable {
             case BLIZZCON: return refreshBlizzCon();
             case COACHELLA: return refreshCoachella();
             case E3: return refreshE3();
+            case GAME_DEVELOPERS_CONFERENCE: return refreshGameDevelopersConference();
             case GOLDEN_GLOBE_AWARDS: return refreshGoldenGlobeAwards();
             case GOOGLE_IO: return refreshGoogleIO();
             case MET_GALA: return refreshMetGala();
@@ -204,7 +206,9 @@ public enum PresentationType implements Jsoupable {
         final String[] values = input.split(" ");
         final Month month = WLUtilities.valueOfMonthFromInput(values[0]);
         if(month != null) {
-            final String[] targetDays = values[1].split("–");
+            final String targetValue = values[1];
+            final boolean isHyphen = targetValue.contains("-");
+            final String[] targetDays = targetValue.split(isHyphen ? "-" : "–");
             if(targetDays.length > 1) {
                 final int startingDay = Integer.parseInt(targetDays[0]), endingDay = Integer.parseInt(targetDays[1]);
                 for(int day = startingDay; day <= endingDay; day++) {
@@ -215,6 +219,18 @@ public enum PresentationType implements Jsoupable {
                 final int day = Integer.parseInt(targetDays[0]);
                 final EventDate date = new EventDate(month, day, year);
                 list.add(date);
+            }
+        }
+    }
+    private void iterateDays(List<EventDate> dates, List<PresentationEvent> events, String title, String description, String imageURL, String location, EventSources externalLinks) {
+        if(!dates.isEmpty()) {
+            final EventDate lastDate = dates.get(dates.size()-1);
+            boolean isFirst = true;
+            for(EventDate date : dates) {
+                final String tag = title + ", " + (isFirst ? "BEGINS TODAY" : date.equals(lastDate) ? "ENDS TODAY" : "CONTINUED");
+                final PresentationEvent event = new PresentationEvent(date, title, description, imageURL, location, tag, externalLinks);
+                events.add(event);
+                isFirst = false;
             }
         }
     }
@@ -289,20 +305,12 @@ public enum PresentationType implements Jsoupable {
             final Elements tds = element.select("td");
             final int year = Integer.parseInt(tds.get(0).text());
             final List<EventDate> dates = parseDatesFrom(year, tds.get(1).text());
-            if(!dates.isEmpty()) {
-                final EventDate lastDate = dates.get(dates.size()-1);
-                boolean isFirst = true;
-                for(EventDate date : dates) {
-                    final String tag = title + ", " + (isFirst ? "BEGINS TODAY" : date.equals(lastDate) ? "ENDS TODAY" : "CONTINUED");
-                    final PresentationEvent event = new PresentationEvent(date, title, description, imageURL, location, tag, externalLinks);
-                    events.add(event);
-                    isFirst = false;
-                }
-            }
+            iterateDays(dates, events, title, description, imageURL, location, externalLinks);
         }
         return events;
     }
     private List<PresentationEvent> refreshCoachella() {
+        final String title = "Coachella";
         final WikipediaDocument doc = new WikipediaDocument(url);
         final List<PresentationEvent> events = new ArrayList<>();
         final Element table = doc.selectFirst("h2 + table.wikitable");
@@ -325,18 +333,7 @@ public enum PresentationType implements Jsoupable {
                 } else {
                     dates.addAll(parseDatesFrom(year, datesElement.text()));
                 }
-
-                if(!dates.isEmpty()) {
-                    final String title = "Coachella";
-                    final EventDate lastDate = dates.get(dates.size()-1);
-                    boolean isFirst = true;
-                    for(EventDate date : dates) {
-                        final String tag = title + ", " + (isFirst ? "BEGINS TODAY" : lastDate.equals(date) ? "ENDS TODAY" : "CONTINUED");
-                        final PresentationEvent event = new PresentationEvent(date, title, description, imageURL, location, tag, externalLinks);
-                        events.add(event);
-                        isFirst = false;
-                    }
-                }
+                iterateDays(dates, events, title, description, imageURL, location, externalLinks);
             }
         }
         return events;
@@ -384,6 +381,25 @@ public enum PresentationType implements Jsoupable {
         }
         return events;
     }
+    private List<PresentationEvent> refreshGameDevelopersConference() {
+        final String title = "Game Developers Conference", imageURL = "https://upload.wikimedia.org/wikipedia/commons/2/27/Game_Developers_Conference_logo.svg";
+        final WikipediaDocument doc = new WikipediaDocument(url);
+        final String description = doc.getDescription();
+        final EventSources externalLinks = doc.getExternalLinks();
+        final List<PresentationEvent> events = new ArrayList<>();
+        final Elements elements = doc.select("table.wikitable tbody tr");
+        elements.removeIf(element -> element.select("td").size() != 4);
+        for(Element element : elements) {
+            final Elements tds = element.select("td");
+            final String[] conferenceValues = tds.get(0).text().split(" ");
+            final int year = Integer.parseInt(conferenceValues[conferenceValues.length-1]);
+            final String location = tds.get(1).text();
+            final String dateValue = LocalServer.removeWikipediaReferences(tds.get(2).text());
+            final List<EventDate> dates = parseDatesFrom(year, dateValue);
+            iterateDays(dates, events, title, description, imageURL, location, externalLinks);
+        }
+        return events;
+    }
     private List<PresentationEvent> refreshGoldenGlobeAwards() {
         final String title = "Golden Globe Awards";
         final WikipediaDocument doc = new WikipediaDocument(url);
@@ -423,16 +439,7 @@ public enum PresentationType implements Jsoupable {
             final String targetDate = LocalServer.removeWikipediaReferences(tds.get(1).text());
             if(!targetDate.toLowerCase().contains("cancelled")) {
                 final List<EventDate> dates = parseDatesFrom(year, targetDate);
-                if(!dates.isEmpty()) {
-                    final EventDate lastDate = dates.get(dates.size()-1);
-                    boolean isFirst = true;
-                    for(EventDate date : dates) {
-                        final String tag = title + ", " + (isFirst ? "BEGINS TODAY" : date.equals(lastDate) ? "ENDS TODAY" : "CONTINUED");
-                        final PresentationEvent event = new PresentationEvent(date, title, description, imageURL, location, tag, externalLinks);
-                        events.add(event);
-                        isFirst = false;
-                    }
-                }
+                iterateDays(dates, events, title, description, imageURL, location, externalLinks);
             }
         }
         return events;
@@ -503,7 +510,7 @@ public enum PresentationType implements Jsoupable {
         }
         return events;
     }
-    private void addEventsFromTwitchCon(List<PresentationEvent> list, Element table, String description, String imageURL, EventSources externalLinks, String locationSuffix) {
+    private void addEventsFromTwitchCon(List<PresentationEvent> events, Element table, String description, String imageURL, EventSources externalLinks, String locationSuffix) {
         final String title = "TwitchCon";
         final Elements elements = table.select("tbody tr");
         elements.remove(0);
@@ -515,17 +522,7 @@ public enum PresentationType implements Jsoupable {
                 final String[] values = dateString.split(", ");
                 final int year = Integer.parseInt(values[1]);
                 final List<EventDate> dates = parseDatesFrom(year, values[0]);
-
-                boolean isFirst = true;
-                if(!dates.isEmpty()) {
-                    final EventDate lastDate = dates.get(dates.size()-1);
-                    for(EventDate date : dates) {
-                        final String tag = title + ", " + (isFirst ? "BEGINS TODAY" : date.equals(lastDate) ? "ENDS TODAY" : "CONTINUED");
-                        final PresentationEvent event = new PresentationEvent(date, title, description, imageURL, location, tag, externalLinks);
-                        list.add(event);
-                        isFirst = false;
-                    }
-                }
+                iterateDays(dates, events, title, description, imageURL, location, externalLinks);
             }
         }
     }

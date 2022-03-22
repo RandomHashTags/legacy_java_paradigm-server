@@ -2,9 +2,9 @@ package me.randomhashtags.worldlaws.info.service.nonstatic;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
-import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
-import me.randomhashtags.worldlaws.service.CountryService;
-import org.json.JSONObject;
+import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
+import me.randomhashtags.worldlaws.service.NewCountryServiceNonStatic;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -12,21 +12,18 @@ import org.jsoup.select.Elements;
 import java.util.HashMap;
 import java.util.Map;
 
-public enum CIAServices implements CountryService {
+public enum CIAServices implements NewCountryServiceNonStatic {
     INSTANCE;
     // Telecommunication Systems = https://www.cia.gov/the-world-factbook/field/telecommunication-systems/
 
     private final HashMap<String, String> nationalAnthems;
+    private final HashMap<String, TravelValues> travelValues;
     private final HashMap<String, HashMap<String, String>> values;
 
     CIAServices() {
         nationalAnthems = new HashMap<>();
+        travelValues = new HashMap<>();
         values = new HashMap<>();
-    }
-
-    @Override
-    public SovereignStateInformationType getInformationType() {
-        return SovereignStateInformationType.SERVICES_NONSTATIC;
     }
 
     @Override
@@ -35,28 +32,22 @@ public enum CIAServices implements CountryService {
     }
 
     @Override
-    public String loadData() {
-        return null;
-    }
-
-    @Override
-    public String getCountryValue(String countryBackendID) {
+    public JSONObjectTranslatable getJSONObject(WLCountry country) {
+        final String countryBackendID = country.getBackendID();
         final String identifier = countryBackendID.replace(" ", "").toLowerCase();
-        final JSONObject json = new JSONObject();
+        final JSONObjectTranslatable json = new JSONObjectTranslatable();
         if(values.containsKey(identifier)) {
             for(Map.Entry<String, String> map : values.get(identifier).entrySet()) {
                 json.put(map.getKey(), map.getValue());
             }
         }
-        /*if(nationalAnthems.containsKey(identifier)) {
-            json.put("nationalAnthemURL", nationalAnthems.get(identifier));
-        }*/
-        return json.isEmpty() ? null : "\"CIA\":" + json.toString();
+        return json;
     }
 
     @Override
-    public EventSources getResources(String shortName) {
-        final TravelValues values = loadTravelValues(shortName);
+    public EventSources getResources(WLCountry country) {
+        final String shortName = country.getShortName();
+        final TravelValues values = getTravelValues(shortName);
         return getResourcesFrom(shortName, values);
     }
 
@@ -72,6 +63,12 @@ public enum CIAServices implements CountryService {
         );
     }
 
+    private TravelValues getTravelValues(String shortName) {
+        if(!travelValues.containsKey(shortName)) {
+            loadTravelValues(shortName);
+        }
+        return travelValues.get(shortName);
+    }
     private TravelValues loadTravelValues(String shortName) {
         final String domain = "https://www.cia.gov/";
         final String identifier = shortName.toLowerCase().replace(" ", "-").replace(",", "");
@@ -92,6 +89,7 @@ public enum CIAServices implements CountryService {
                     }
                 }
                 travelValues = new TravelValues(url, summaryURL, travelFactsURL);
+                this.travelValues.put(shortName, travelValues);
             }
             final Element nationalAnthemElement = doc.selectFirst("span.card-exposed__text div audio");
             /*if(nationalAnthemElement != null) {

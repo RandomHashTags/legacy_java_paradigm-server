@@ -13,6 +13,39 @@
     }
   },
   "values": {
+    "wikipedia_supported_external_link_sources": [
+      "imdb",
+      "allmovie",
+      "history vs. hollywood",
+      "rotten tomatoes",
+      "metacritic",
+      "box office mojo",
+      "the big cartoon database",
+
+      "amazon prime video",
+      "apple tv+",
+      "disney+",
+      "hbo max",
+      "hulu",
+      "netflix",
+
+      "adult swim",
+      "fox showcase",
+      "fx",
+      "syfy",
+
+      "apple podcasts",
+
+      "facebook",
+      "instagram",
+      "twitter",
+      "youtube",
+
+      "bcc online",
+
+      "mobygames",
+      "the visual novel database"
+    ],
     "upcoming_events": {
       "music_albums": {
         "multi-page_years": [

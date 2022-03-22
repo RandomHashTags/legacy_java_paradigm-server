@@ -40,6 +40,12 @@
           "_Countries"
         ]
       },
+      "_downloaded_pages/countries/availabilities": {
+        "json": [
+          "availabilities",
+          "Flyover"
+        ]
+      },
       "_downloaded_pages/countries/info": {
         "json": [
           "Age Structure",
@@ -49,16 +55,89 @@
           "Minimum Wage"
         ]
       },
-      "_downloaded_pages/countries/services/availabilities": {
+      "_downloaded_pages/countries/legalities": {
         "json": [
-          "availabilities",
-          "Flyover"
+          "Abortion",
+          "Alcohol",
+          "Bitcoin",
+          "Cannabis",
+          "Drug: Ayahuasca",
+          "Drug: Cocaine",
+          "Drug: Ibogaine",
+          "Drug: Meth",
+          "Drug: Psychedelic Cacti",
+          "Drug: Psychedelic Mushrooms",
+          "Drug: Salvia Divinorum",
+          "Incest",
+          "Marital Rape",
+          "Prostitution",
+          "Smoking"
         ]
       },
-      "_downloaded_pages/countries/services/wikipedia": {
+      "_downloaded_pages/countries/national": {
         "json": [
-          "_National Animals",
-          "_National Trees"
+          "National Animals",
+          "National Anthem",
+          "National Capital",
+          "National Trees"
+        ]
+      },
+      "_downloaded_pages/countries/rankings": {
+        "json": [
+          "Adult HIV Prevalence",
+          "Cannabis Use",
+          "Civilian Firearms",
+          "Climate Change Performance",
+          "CO2 Emissions",
+          "Corruption Perception",
+          "Democracy",
+          "Divorce Rate",
+          "Economic Freedom",
+          "Education",
+          "Electricity Consumption",
+          "Fragile State",
+          "Freedom",
+          "Generosity",
+          "Global Peace",
+          "Global Terrorism",
+          "Homicide Rate",
+          "Human Development",
+          "Incarceration Rate",
+          "Infant Mortality Rate",
+          "Inflation Rate",
+          "Life Expectancy",
+          "Maternal Mortality Rate",
+          "Natural Disaster Risk",
+          "Obesity Rate",
+          "Population",
+          "Press Freedom",
+          "Prosperity",
+          "Quality of Life",
+          "Quality of Nationality",
+          "Social Progress",
+          "Suicide Rate",
+          "Unemployment Rate",
+          "World Happiness"
+        ]
+      },
+      "_downloaded_pages/countries/rankings/agriculture": {
+        "json": [
+          "Apple Production",
+          "Apricot Production",
+          "Avocado Production",
+          "Cherry Production",
+          "Coconut Production",
+          "Cucumber Production",
+          "Eggplant Production",
+          "Garlic Production",
+          "Grape Production",
+          "Papaya Production",
+          "Pear Production",
+          "Pineapple Production",
+          "Plum Production",
+          "Potato Production",
+          "Soybean Production",
+          "Tomato Production"
         ]
       },
       "_downloaded_pages/countries/values": {

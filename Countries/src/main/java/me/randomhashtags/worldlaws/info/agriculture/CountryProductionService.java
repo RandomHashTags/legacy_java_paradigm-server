@@ -30,6 +30,11 @@ public interface CountryProductionService extends NewCountryService {
     String getSuffix();
 
     @Override
+    default boolean dataContainsAllCountryData() {
+        return true;
+    }
+
+    @Override
     default JSONObjectTranslatable loadData() {
         final JSONObjectTranslatable json = new JSONObjectTranslatable("title");
 

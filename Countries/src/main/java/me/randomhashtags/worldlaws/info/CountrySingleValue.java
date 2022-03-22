@@ -33,7 +33,7 @@ public final class CountrySingleValue {
             json.addTranslatedKey("notes");
         }
         json.put("value", value);
-        if(!value.startsWith("https")) {
+        if(value != null && !value.startsWith("https")) {
             json.addTranslatedKey("value");
         }
         if(valueDescription != null && !valueDescription.isEmpty()) {

@@ -18,7 +18,9 @@ import me.randomhashtags.worldlaws.upcoming.entertainment.movies.Movies;
 import me.randomhashtags.worldlaws.upcoming.entertainment.music.MusicAlbums;
 import me.randomhashtags.worldlaws.upcoming.entertainment.music.MusicSpotify;
 import me.randomhashtags.worldlaws.upcoming.events.LoadedPreUpcomingEvent;
+import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
 import me.randomhashtags.worldlaws.upcoming.science.AstronomyPictureOfTheDay;
+import me.randomhashtags.worldlaws.upcoming.science.WikipediaTodaysFeaturedPicture;
 import me.randomhashtags.worldlaws.upcoming.space.RocketLaunches;
 import me.randomhashtags.worldlaws.upcoming.space.SpaceEvents;
 import me.randomhashtags.worldlaws.upcoming.sports.Championships;
@@ -55,7 +57,8 @@ public final class UpcomingEvents implements WLServer {
                 new Ticketmaster.Music(),
 
                 new AstronomyPictureOfTheDay(),
-                new WordOfTheDay()
+                new WordOfTheDay(),
+                new WikipediaTodaysFeaturedPicture()
         ));
     }};
 
@@ -82,10 +85,11 @@ public final class UpcomingEvents implements WLServer {
 
     private void test() {
         final long started = System.currentTimeMillis();
-        final AstronomyPictureOfTheDay apod = new AstronomyPictureOfTheDay();
-        apod.refresh();
-        //WLLogger.logInfo("UpcomingEvents;test;string=" + holidays.toString());
-        WLLogger.logInfo("UpcomingEvents;test;took " + WLUtilities.getElapsedTime(started));
+        final Presentations presentations = new Presentations();
+        presentations.refresh();
+        for(Map.Entry<String, UpcomingEvent> entry : presentations.getUpcomingEvents().entrySet()) {
+            WLLogger.logInfo("UpcomingEvents;test;key=" + entry.getKey() + ";value=" + entry.getValue().toString() + ";took " + WLUtilities.getElapsedTime(started));
+        }
     }
 
     private UpcomingEventController valueOfEventType(String eventType) {

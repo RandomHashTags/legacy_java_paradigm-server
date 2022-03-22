@@ -11,11 +11,11 @@ import java.util.*;
 public enum HolidayType {
     AMERICAN(
             "Americans around the world",
-            "\uD83C\uDDFA\uD83C\uDDF8"
+            WLCountry.UNITED_STATES.getFlagEmoji()
     ),
     AUSTRALIAN(
             "Australian citizens",
-            "\uD83C\uDDE6\uD83C\uDDFA"
+            WLCountry.AUSTRALIA.getFlagEmoji()
     ),
     /*CHINESE(
             "Chinese around the world",
@@ -41,7 +41,7 @@ public enum HolidayType {
     ),
     MEXICAN(
             "Mexicans around the world",
-            "\uD83C\uDDF2\uD83C\uDDFD"
+            WLCountry.MEXICO.getFlagEmoji()
     ),
     UNITED_NATIONS(
             "Sovereign states recognized by the United Nations",
@@ -67,9 +67,8 @@ public enum HolidayType {
             case AMERICAN: return AmericanHoliday.values();
             case AUSTRALIAN: return AustralianHoliday.values();
             //case CHINESE: return ChineseHoliday.values();
-            case CHRISTIAN_EAST:
-            case CHRISTIAN_WEST:
-                return ChristianHoliday.values();
+            case CHRISTIAN_EAST: return ChristianEastHoliday.values();
+            case CHRISTIAN_WEST: return ChristianWestHoliday.values();
             case FUN: return FunHoliday.values();
             case GREGORIAN: return GregorianHoliday.values();
             case MEXICAN: return MexicanHoliday.values();
@@ -100,10 +99,6 @@ public enum HolidayType {
             default: return null;
         }
     }
-    public String getCelebratingCountryBackendID() {
-        final WLCountry country = getCelebratingCountry();
-        return country != null ? country.getBackendID() : null;
-    }
 
     public HashMap<String, HashMap<String, PreHoliday>> getNearHolidays(LocalDate startingDate, LocalDate endingDate) {
         final HashMap<String, HashMap<String, PreHoliday>> list = new HashMap<>();
@@ -119,7 +114,6 @@ public enum HolidayType {
 
             final Collection<WLCountry> countries = this == COUNTRIES ? Arrays.asList(WLCountry.values()) : null;
 
-            final boolean isChristianEast = this == CHRISTIAN_EAST, isChristian = isChristianEast || this == CHRISTIAN_WEST;
             for(Holiday holiday : holidays) {
                 for(int year : years) {
                     if(countries != null) {
@@ -145,9 +139,7 @@ public enum HolidayType {
         return list;
     }
     private void insertNearHolidays(WLCountry country, Holiday holiday, LocalDate startingDate, LocalDate endingDate, int year, HashMap<String, HashMap<String, PreHoliday>> list) {
-        final boolean isChristian = this == CHRISTIAN_EAST || this == CHRISTIAN_WEST;
-        final boolean isWestern = isChristian && this == CHRISTIAN_WEST;
-        final EventDate eventDate = isChristian ? ((ChristianHoliday) holiday).getDate(isWestern, country, year) : holiday.getDate(country, year);
+        final EventDate eventDate = holiday.getDate(country, year);
         if(eventDate != null) {
             final LocalDate date = eventDate.getLocalDate();
             if(startingDate == null || endingDate == null

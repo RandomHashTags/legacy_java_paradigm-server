@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.service;
 
 import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.settings.Settings;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.Node;
@@ -37,9 +38,6 @@ public final class WikipediaDocument {
     }
     public Document getDocument() {
         return document;
-    }
-    public Elements getAllElements() {
-        return document != null ? document.getAllElements() : null;
     }
     public boolean exists() {
         return document != null;
@@ -225,11 +223,9 @@ public final class WikipediaDocument {
         if(targetElement == null) {
             return null;
         }
+        final Elements children = targetElement.children();
         final EventSources sources = new EventSources();
-        final Elements childElements = targetElement.children();
-        childElements.removeIf(element -> element.tagName().equals("table") && element.hasClass("mbox-small"));
-        final Element lastList = childElements.select("h2 + ul").last();
-        if(lastList != null) {
+        for(Element lastList : children.select("ul")) {
             final Elements elements = lastList.select("li");
             for(Element list : elements) {
                 final Elements hrefs = list.select("a[href]");
@@ -246,30 +242,17 @@ public final class WikipediaDocument {
                             break;
                         default:
                             if(totalLinks >= 2) {
-                                hrefText = hrefs.get(1).text();
-                                hrefTextLowercase = hrefText.toLowerCase();
-                                switch (hrefTextLowercase) {
-                                    case "adult swim":
-                                    case "imdb":
-                                    case "disney+":
-                                    case "facebook":
-                                    case "allmovie":
-                                    case "history vs. hollywood":
-                                    case "netflix":
-                                    case "rotten tomatoes":
-                                    case "metacritic":
-                                    case "box office mojo":
-                                    case "the big cartoon database":
-                                    case "twitter":
-                                    case "youtube":
-                                    case "instagram":
-                                        siteName = hrefText + ": " + href.text();
-                                        break;
-                                    default:
-                                        break;
+                                final String targetText = hrefs.get(1).text();
+                                final String targetTextLowercase = targetText.toLowerCase();
+                                final List<String> supportedSources = Settings.ServerValues.getWikipediaSupportedExternalLinkSources();
+                                if(supportedSources.contains(targetTextLowercase)) {
+                                    siteName = targetText + ": " + href.text();
                                 }
-                            } else if(hrefTextLowercase.contains("official ") && (hrefTextLowercase.contains(" website") || hrefTextLowercase.contains(" app"))
-                                    || hrefTextLowercase.contains("website")) {
+                            }
+                            if(siteName == null && (hrefTextLowercase.contains("official ")
+                                    && (hrefTextLowercase.contains(" website") || hrefTextLowercase.contains(" app") || hrefTextLowercase.contains(" wiki ") || hrefTextLowercase.contains(" site") || hrefTextLowercase.contains(" webpage"))
+                                    || hrefTextLowercase.contains("website"))
+                            ) {
                                 siteName = hrefText;
                             }
                             break;
@@ -281,80 +264,6 @@ public final class WikipediaDocument {
                 }
             }
         }
-        /*
-        final Elements elements = document.select("div.mw-parser-output > *");
-        final Elements headlines = elements.select("h2");
-        headlines.removeIf(headline -> !headline.select("span.mw-headline").text().equalsIgnoreCase("External links"));
-        if(!headlines.isEmpty()) {
-            final Element headline = headlines.get(0);
-            final int indexOfExternalLinks = headline.elementSiblingIndex();
-            if(indexOfExternalLinks != -1) {
-                for(int i = 1; i <= indexOfExternalLinks; i++) {
-                    elements.remove(0);
-                }
-                final Elements uls = elements.select("ul");
-                int index = 0;
-                for(Element ul : uls) {
-                    if(!ul.hasAttr("style")) {
-                        break;
-                    }
-                    index += 1;
-                }
-                final Element ul = uls.get(index);
-                final Elements lists = ul.select("li");
-                for(Element list : lists) {
-                    final Elements hrefs = list.select("a[href]");
-                    hrefs.removeIf(href -> href.attr("href").startsWith("https://www.wikidata.org/wiki/"));
-
-                    if(!hrefs.isEmpty()) {
-                        final String listText = list.text();
-                        final int totalLinks = hrefs.size();
-                        final boolean hasAt = listText.contains(" at ");
-                        EventSource externalSource = null;
-                        final Element href = hrefs.get(0);
-                        String hrefText = href.text(), hrefTextLowercase = hrefText.toLowerCase();
-                        switch (hrefTextLowercase) {
-                            case "official website":
-                            case "official uk website":
-                            case "linkedin page":
-                                externalSource = new EventSource(hasAt ? listText : hrefText, href.attr("href"));
-                                break;
-                            default:
-                                if(totalLinks >= 2) {
-                                    hrefText = hrefs.get(1).text();
-                                    hrefTextLowercase = hrefText.toLowerCase();
-                                    switch (hrefTextLowercase) {
-                                        case "adult swim":
-                                        case "imdb":
-                                        case "disney+":
-                                        case "facebook":
-                                        case "allmovie":
-                                        case "history vs. hollywood":
-                                        case "netflix":
-                                        case "rotten tomatoes":
-                                        case "metacritic":
-                                        case "box office mojo":
-                                        case "the big cartoon database":
-                                        case "twitter":
-                                        case "youtube":
-                                        case "instagram":
-                                            externalSource = new EventSource(hrefText + ": " + href.text(), href.attr("href"));
-                                            break;
-                                        default:
-                                            break;
-                                    }
-                                } else if(hrefTextLowercase.contains("official ") && hrefTextLowercase.contains(" website")) {
-                                    externalSource = new EventSource(hrefText, href.attr("href"));
-                                }
-                                break;
-                        }
-                        if(externalSource != null) {
-                            sources.add(externalSource);
-                        }
-                    }
-                }
-            }
-        }*/
         return sources;
     }
 }

@@ -71,8 +71,8 @@ public class JSONArrayTranslatable extends JSONArray implements JSONTranslatable
         } else if(first instanceof JSONObjectTranslatable) {
             final String translatorID = translator.getID(), toLanguageID = toLanguage.getID();
             new CompletableFutures<JSONObjectTranslatable>().stream(array, translatable -> {
-                final boolean inserted = JSONTranslatable.insertTranslations(translatable, translatorID, toLanguageID);
-                if(!inserted) {
+                final boolean hasTranslations = JSONTranslatable.hasTranslations(translatable, translatorID, toLanguageID);
+                if(!hasTranslations) {
                     final JSONObject translated = translatable.getTranslations(translatable, translator, toLanguage);
                     translatedArray.put(translated);
                 } else {

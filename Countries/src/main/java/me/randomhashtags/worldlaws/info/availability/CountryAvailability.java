@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.info.availability;
 
 import me.randomhashtags.worldlaws.LocalServer;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 
 public final class CountryAvailability {
     private final AvailabilityCategory primaryCategory;
@@ -21,10 +22,12 @@ public final class CountryAvailability {
         return value;
     }
 
-    @Override
-    public String toString() {
-        return "\"" + title + "\":{" +
-                (imageURL != null ? "\"imageURL\":\"" + imageURL + "\"" : "") +
-                "}";
+    public JSONObjectTranslatable toJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("title");
+        json.put("title", title);
+        if(imageURL != null) {
+            json.put("imageURL", imageURL);
+        }
+        return json;
     }
 }

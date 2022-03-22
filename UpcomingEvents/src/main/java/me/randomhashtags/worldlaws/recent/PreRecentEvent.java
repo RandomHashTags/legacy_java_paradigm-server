@@ -29,7 +29,7 @@ public class PreRecentEvent {
     }
 
     public boolean areEqual(PreRecentEvent right) {
-        return date.areEqual(right.date) && Objects.equals(title, right.title) && Objects.equals(description, right.description);
+        return date.equals(right.date) && Objects.equals(title, right.title) && Objects.equals(description, right.description);
     }
     public RemoteNotificationCategory getRemoteNotificationCategory() {
         return category;

@@ -1,8 +1,13 @@
 package me.randomhashtags.worldlaws.info.availability.tech;
 
+import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.info.availability.AvailabilityCategory;
 import me.randomhashtags.worldlaws.info.availability.CountryAvailability;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
+import org.json.JSONArray;
+import org.json.JSONObject;
+import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.util.HashMap;
@@ -25,41 +30,55 @@ public final class AppleAvailabilityObj implements AppleFeatureAvailability {
     }
 
     @Override
-    public String loadData() {
+    public JSONObjectTranslatable loadData() {
+        return null;
+    }
+
+    @Override
+    public JSONArray loadDataArray() {
         countries = new HashMap<>();
         final String infoName = info.name(), title = info.getTitle();
         final CountryAvailability availability = new CountryAvailability(title, getPrimaryCategory(), getImageURL(), true);
         final String sectionID = getSectionID(infoName);
         final Elements elements = getSectionElements(type, sectionID);
-        elements.parallelStream().forEach(element -> {
-            String country = element.textNodes().get(0).text().toLowerCase().
-                    replace(" ", "").replace("&", "and").replace("-", "")
-                    .replace(",", "").replace("’", "").split("\\(")[0].split("1")[0].split("2")[0]
-                    .replace("congodemocraticrepublicofthe", "democraticrepublicofthecongo")
-                    .replace("congorepublicofthe", "republicofthecongo")
-                    .replace("laopeoplesdemocraticrepublic", "laos")
-                    .replace("thegambia", "gambia")
-                    .replace("czechia", "czechrepublic")
-                    .replace("republicofkorea", "southkorea")
-                    .replace("mainland", "")
-                    .replace("st.", "saint")
-                    .replace("é", "e")
-                    .replace("ô", "o")
-                    ;
-            switch (country) {
-                case "usa":
-                    country = "unitedstates";
-                    break;
-                case "uk":
-                    country = "unitedkingdom";
-                    break;
-                default:
-                    break;
+        if(elements != null) {
+            for(Element element : elements) {
+                String country = element.textNodes().get(0).text().toLowerCase().
+                        replace(" ", "").replace("&", "and").replace("-", "")
+                        .replace(",", "").replace("’", "").split("\\(")[0].split("1")[0].split("2")[0]
+                        .replace("congodemocraticrepublicofthe", "democraticrepublicofthecongo")
+                        .replace("congorepublicofthe", "republicofthecongo")
+                        .replace("laopeoplesdemocraticrepublic", "laos")
+                        .replace("thegambia", "gambia")
+                        .replace("czechia", "czechrepublic")
+                        .replace("republicofkorea", "southkorea")
+                        .replace("mainland", "")
+                        .replace("st.", "saint")
+                        .replace("é", "e")
+                        .replace("ô", "o")
+                        ;
+                switch (country) {
+                    case "usa":
+                        country = "unitedstates";
+                        break;
+                    case "uk":
+                        country = "unitedkingdom";
+                        break;
+                    default:
+                        break;
+                }
+                countries.put(country, availability);
             }
-            countries.put(country, availability);
-        });
+        } else {
+            WLLogger.logInfo("AppleAvailabilityObj;elements==null;type=" + type.name() + ";sectionID=" + sectionID);
+        }
         final Set<String> bruh = countries.keySet();
         return loadOnlyTrue(bruh.toArray(new String[bruh.size()]));
+    }
+
+    @Override
+    public JSONObjectTranslatable parseData(JSONObject json) {
+        return null;
     }
 
     private String getSectionID(String targetInfoName) {
@@ -68,6 +87,12 @@ public final class AppleAvailabilityObj implements AppleFeatureAvailability {
         switch (info) {
             case AVAILABILITY_APPLE_ICLOUD_PLUS:
                 return "icloud-icloud-plus";
+
+            case AVAILABILITY_APPLE_IOS_PAY:
+            case AVAILABILITY_APPLE_WATCH_OS_APPLE_PAY:
+                return "apple-wallet-apple-pay";
+            case AVAILABILITY_APPLE_IOS_CARD:
+                return "apple-wallet-apple-card";
 
             case AVAILABILITY_APPLE_IOS_APP_STORE_APPS:
             case AVAILABILITY_APPLE_IOS_APP_STORE_GAMES:
@@ -91,10 +116,6 @@ public final class AppleAvailabilityObj implements AppleFeatureAvailability {
 
             case AVAILABILITY_APPLE_WATCH_OS_APPLE_MUSIC:
                 return infoName.substring("apple-watch-os-".length());
-            case AVAILABILITY_APPLE_WATCH_OS_APPLE_PAY:
-                return "apple-pay-pay";
-            case AVAILABILITY_APPLE_WATCH_OS_APPLE_PAY_IN_APP_PAYMENTS:
-                return "apple-pay-payments";
             case AVAILABILITY_APPLE_WATCH_OS_BLOOD_OXYGEN_APP:
                 return "branded-blood-oxygen";
             case AVAILABILITY_APPLE_WATCH_OS_SIRI:
@@ -102,6 +123,7 @@ public final class AppleAvailabilityObj implements AppleFeatureAvailability {
             case AVAILABILITY_APPLE_WATCH_OS_STUDENT_ID_CARDS:
                 return "branded-student-id";
             case AVAILABILITY_APPLE_WATCH_OS_ECG:
+            case AVAILABILITY_APPLE_WATCH_OS_RADIO:
             case AVAILABILITY_APPLE_WATCH_OS_WALKIE_TALKIE:
                 return "branded-" + infoName.substring("apple-watch-os-".length());
             case AVAILABILITY_APPLE_WATCH_OS_IRREGULAR_RHYTHM_NOTIFICATION:
@@ -127,7 +149,6 @@ public final class AppleAvailabilityObj implements AppleFeatureAvailability {
                 return AvailabilityCategory.VEHICLE_SERVICE;
             case AVAILABILITY_APPLE_IOS_PAY:
             case AVAILABILITY_APPLE_WATCH_OS_APPLE_PAY:
-            case AVAILABILITY_APPLE_WATCH_OS_APPLE_PAY_IN_APP_PAYMENTS:
                 return AvailabilityCategory.DIGITAL_PAYMENT_METHOD;
             case AVAILABILITY_APPLE_IOS_APP_STORE_APPS:
             case AVAILABILITY_APPLE_IOS_APP_STORE_GAMES:
@@ -145,6 +166,7 @@ public final class AppleAvailabilityObj implements AppleFeatureAvailability {
                 return AvailabilityCategory.VIRTUAL_ASSISTANT;
             case AVAILABILITY_APPLE_IOS_TV_APP:
             case AVAILABILITY_APPLE_IOS_TV_PLUS:
+            case AVAILABILITY_APPLE_WATCH_OS_RADIO:
                 return AvailabilityCategory.ENTERTAINMENT_SERVICE;
             case AVAILABILITY_APPLE_IOS_NEWS:
             case AVAILABILITY_APPLE_IOS_NEWS_AUDIO:

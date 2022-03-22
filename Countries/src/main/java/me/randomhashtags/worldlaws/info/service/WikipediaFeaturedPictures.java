@@ -11,6 +11,7 @@ import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.service.NewCountryService;
 import me.randomhashtags.worldlaws.service.WikipediaPicture;
 import me.randomhashtags.worldlaws.service.WikipediaService;
+import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -20,7 +21,7 @@ public enum WikipediaFeaturedPictures implements NewCountryService {
 
     @Override
     public Folder getFolder() {
-        return Folder.COUNTRIES_SERVICES_WIKIPEDIA_FEATURED_PICTURES;
+        return Folder.COUNTRIES_WIKIPEDIA_FEATURED_PICTURES;
     }
 
     @Override
@@ -55,7 +56,23 @@ public enum WikipediaFeaturedPictures implements NewCountryService {
 
     @Override
     public JSONObjectTranslatable parseData(JSONObject json) {
-        return null;
+        final JSONObjectTranslatable translatable = new JSONObjectTranslatable();
+        if(json.has("pictures")) {
+            final JSONArray array = new JSONArray();
+            final JSONArray picturesArray = json.getJSONArray("pictures");
+            for(Object obj : picturesArray) {
+                final JSONObject pictureJSON = (JSONObject) obj;
+                final WikipediaPicture picture = WikipediaPicture.parse(pictureJSON);
+                array.put(picture.toJSONObject());
+            }
+            translatable.put("pictures", array);
+            translatable.put("imageURLPrefix", getImageURLPrefix());
+        }
+        return translatable;
+    }
+
+    private String getImageURLPrefix() {
+        return "https://upload.wikimedia.org/wikipedia/commons/thumb/";
     }
 
     @Override
@@ -82,7 +99,7 @@ public enum WikipediaFeaturedPictures implements NewCountryService {
             }
         }
         if(target != null) {
-            final String prefix = "https://commons.wikimedia.org", url = prefix + target.attr("href");
+            final String prefix = "https://commons.wikimedia.org", url = prefix + target.attr("href"), imageURLPrefix = getImageURLPrefix();
             final Elements pictureElements = getDocumentElements(folder, url, "ul.gallery li.gallerybox div div.thumb div a.image");
             if(!pictureElements.isEmpty()) {
                 final JSONArrayTranslatable pictures = new JSONArrayTranslatable();
@@ -95,8 +112,11 @@ public enum WikipediaFeaturedPictures implements NewCountryService {
                         if(!href.isEmpty()) {
                             final Element img = picture.selectFirst("img");
                             if(img != null) {
-                                final String pictureURL = WikipediaService.getPictureThumbnailImageURL(img);
+                                String pictureURL = WikipediaService.getPictureThumbnailImageURL(img);
                                 if(!prefix.equals(pictureURL)) {
+                                    if(pictureURL.startsWith(imageURLPrefix)) {
+                                        pictureURL = pictureURL.substring(imageURLPrefix.length());
+                                    }
                                     final String imageTitle = img.attr("alt");
                                     /*final String mediaURL = prefix + "/wiki/File:" + imageTitle;
                                     final Elements descriptions = getDocumentElements(FileType.COUNTRIES_SERVICES_WIKIPEDIA_FEATURED_PICTURES_MEDIA, mediaURL, "td.description");
@@ -113,6 +133,7 @@ public enum WikipediaFeaturedPictures implements NewCountryService {
                     }
                 }
                 json.put("pictures", pictures);
+                json.put("imageURLPrefix", imageURLPrefix);
             }
         }
         return json.isEmpty() ? null : json;

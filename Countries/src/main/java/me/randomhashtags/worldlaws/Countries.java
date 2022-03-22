@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws;
 
-import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.info.CountryInfoKeys;
@@ -19,18 +18,24 @@ import me.randomhashtags.worldlaws.info.rankings.CountryRankings;
 import me.randomhashtags.worldlaws.info.service.WikipediaFeaturedPictures;
 import me.randomhashtags.worldlaws.info.service.nonstatic.CIAServices;
 import me.randomhashtags.worldlaws.info.service.nonstatic.TravelAdvisories;
-import me.randomhashtags.worldlaws.locale.*;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
+import me.randomhashtags.worldlaws.locale.JSONTranslatable;
+import me.randomhashtags.worldlaws.locale.Language;
+import me.randomhashtags.worldlaws.locale.LanguageTranslator;
 import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.server.ServerRequestTypeCountries;
-import me.randomhashtags.worldlaws.service.*;
+import me.randomhashtags.worldlaws.service.CountryServices;
+import me.randomhashtags.worldlaws.service.CurrencyExchange;
+import me.randomhashtags.worldlaws.service.NewCountryService;
+import me.randomhashtags.worldlaws.service.WikipediaCountryService;
 import me.randomhashtags.worldlaws.settings.ResponseVersions;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONObject;
 
 import java.util.Arrays;
-import java.util.Collection;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.Set;
 import java.util.stream.Collectors;
 
 // https://en.wikipedia.org/wiki/List_of_sovereign_states
@@ -46,8 +51,8 @@ public final class Countries implements WLServer {
 
     private Countries() {
         countriesMap = new HashMap<>();
-        test();
-        //load();
+        //test();
+        load();
     }
 
     @Override
@@ -56,6 +61,15 @@ public final class Countries implements WLServer {
     }
 
     private void test() {
+        loadServices();
+        loadCountries(APIVersion.v1);
+        final ServerRequest request = new ServerRequest(ServerRequestTypeCountries.INFORMATION, "unitedstates");
+        final JSONTranslatable json = getServerResponse(APIVersion.v1, "***REMOVED***", request);
+        WLLogger.logInfo("Countries;test1;string=" + (json != null ? json.toString() : "null"));
+        final JSONObject translatedJSON = WLUtilities.translateJSON(json, LanguageTranslator.ARGOS, Language.SPANISH);
+        final String string = translatedJSON != null ? translatedJSON.toString() : null;
+        WLLogger.logInfo("Countries;test2;string=" + string);
+        /*
         final NewCountryService service = WikipediaFeaturedPictures.INSTANCE;
         //for(CountryValueService service : CountryValues.values()) {
             final JSONObjectTranslatable json = service.getJSONObject(WLCountry.UNITED_STATES);
@@ -63,7 +77,7 @@ public final class Countries implements WLServer {
             final JSONObject translatedJSON = WLUtilities.translateJSON(json, LanguageTranslator.ARGOS, Language.SPANISH);
             final String string = translatedJSON != null ? translatedJSON.toString() : null;
             WLLogger.logInfo("Countries;test2;string=" + string);
-        //}
+        //}*/
     }
 
     @Override
@@ -79,21 +93,13 @@ public final class Countries implements WLServer {
     }
 
     private void loadServices() {
-        final HashSet<CountryService> services = new HashSet<>() {{
-            addAll(Arrays.asList(CountryAvailabilities.INSTANCE));
-            addAll(Arrays.asList(
-                    Flyover.INSTANCE,
-                    new WikipediaCountryService(true)
-            ));
-        }};
-        CountryServices.STATIC_SERVICES.addAll(services);
-
-        CountryServices.NONSTATIC_SERVICES.addAll(Arrays.asList(
-                CIAServices.INSTANCE,
-                TravelAdvisories.INSTANCE
-        ));
-
         final HashSet<NewCountryService> newServices = new HashSet<>() {{
+            addAll(Arrays.asList(
+                    CountryAvailabilities.INSTANCE,
+                    Flyover.INSTANCE,
+                    new WikipediaCountryService(true),
+                    WikipediaFeaturedPictures.INSTANCE
+            ));
             addAll(Arrays.asList(ProductionFoods.values()));
             addAll(Arrays.asList(CountryInfoKeys.values()));
             addAll(Arrays.asList(CountryLegalities.values()));
@@ -106,19 +112,19 @@ public final class Countries implements WLServer {
                     NationalCapitals.INSTANCE,
                     NationalTrees.INSTANCE
             ));
-            addAll(Arrays.asList(
-                    WikipediaFeaturedPictures.INSTANCE
-            ));
         }};
-        CountryServices.NEW_STATIC_SERVICES.addAll(newServices);
+        CountryServices.STATIC_SERVICES.addAll(newServices);
+
+        CountryServices.NONSTATIC_SERVICES.addAll(Arrays.asList(
+                CIAServices.INSTANCE,
+                TravelAdvisories.INSTANCE
+        ));
 
         registerFixedTimer(UpdateIntervals.Countries.NON_STATIC_VALUES, this::updateNonStaticInformation);
     }
 
     private void updateNonStaticInformation() {
         final long started = System.currentTimeMillis();
-        new CompletableFutures<CountryService>().stream(CountryServices.NONSTATIC_SERVICES, SovereignStateService::loadData);
-        //CustomCountry.LOADED_NON_STATIC_INFORMATION = true;
         new CompletableFutures<CustomCountry>().stream(countriesMap.values(), CustomCountry::updateNonStaticInformation);
         WLLogger.logInfo("Countries - refreshed " + countriesMap.size() + " non-static country information (took " + WLUtilities.getElapsedTime(started) + ")");
     }
@@ -201,13 +207,30 @@ public final class Countries implements WLServer {
         };
     }
 
-    private JSONArrayTranslatable getFilters() {
-        final JSONArrayTranslatable array = new JSONArrayTranslatable();
-        final Collection<NewCountryService> services = CountryRankingServices.getNewRankingsServices().collect(Collectors.toList());
-        for(NewCountryService service : services) {
-            final SovereignStateInfo info = service.getInfo();
-            array.put(info.getTitle());
+    private JSONObjectTranslatable getFilters() {
+        final Set<String> services = CountryRankingServices.getNewRankingsServices().stream().map(test -> test.getInfo().getTitle()).collect(Collectors.toSet());
+        final Folder folder = Folder.COUNTRIES;
+        final String fileName = "filters";
+        folder.setCustomFolderName(fileName, folder.getFolderName());
+        JSONObjectTranslatable json = new JSONObjectTranslatable();
+        json.setFolder(folder);
+        json.setFileName(fileName);
+        final JSONObject local = Jsonable.getStaticLocalFileJSONObject(folder, fileName);
+        if(local != null) {
+            json = JSONObjectTranslatable.parse(local, folder, fileName, services, title -> {
+                final JSONObjectTranslatable filterJSON = new JSONObjectTranslatable("title");
+                filterJSON.put("title", title);
+                return filterJSON;
+            });
+        } else {
+            for(String title : services) {
+                final JSONObjectTranslatable filterJSON = new JSONObjectTranslatable("title");
+                filterJSON.put("title", title);
+                json.put(title, filterJSON);
+                json.addTranslatedKey(title);
+            }
+            Jsonable.setFileJSONObject(folder, fileName, json);
         }
-        return array;
+        return json;
     }
 }

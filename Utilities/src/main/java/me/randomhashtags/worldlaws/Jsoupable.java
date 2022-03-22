@@ -12,7 +12,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 
 public interface Jsoupable {
-    private static String fixURL(String url) {
+    static String fixURL(String url) {
         return url.replace("/", "-").replace(".", "_").replace(":", "-");
     }
     static Document getLocalDocument(Folder folder, String url) {

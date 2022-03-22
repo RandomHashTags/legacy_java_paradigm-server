@@ -27,12 +27,12 @@ public enum Holidays {
             case "all":
                 final int year = WLUtilities.getTodayYear();
                 if(valueCount == 1) {
+                    return null;
                     //return getAllHolidays(year);
                 } else {
                     final String countryBackendID = values[1];
                     return getCountryHolidays(year, countryBackendID);
                 }
-                return null;
             case "near":
                 return getNear();
             case "holiday":
@@ -42,7 +42,7 @@ public enum Holidays {
         }
     }
 
-    public JSONObjectTranslatable getNear() {
+    private JSONObjectTranslatable getNear() {
         if(near == null) {
             refreshNearHolidays();
         }

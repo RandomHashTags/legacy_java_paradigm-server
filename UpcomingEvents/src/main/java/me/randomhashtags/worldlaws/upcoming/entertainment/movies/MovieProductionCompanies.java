@@ -1,13 +1,10 @@
 package me.randomhashtags.worldlaws.upcoming.entertainment.movies;
 
-import me.randomhashtags.worldlaws.EventSource;
-import me.randomhashtags.worldlaws.EventSources;
-import me.randomhashtags.worldlaws.LocalServer;
+import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.service.WikipediaDocument;
 import me.randomhashtags.worldlaws.settings.ResponseVersions;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
-import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.nodes.Element;
 
@@ -243,54 +240,64 @@ public enum MovieProductionCompanies {
     ;
 
     public static JSONObjectTranslatable getTypesJSON() {
-        return null;
-
-        /*
-        JSONObject json = Jsonable.getStaticJSONObject(Folder.UPCOMING_EVENTS_MOVIES, "productionCompanies", new CompletionHandler() {
-            @Override
-            public JSONObject loadJSONObject() {
-                return loadJSON();
-            }
-        });
+        JSONObjectTranslatable json = new JSONObjectTranslatable();
         final int responseVersion = ResponseVersions.MOVIE_PRODUCTION_COMPANIES.getValue();
-        final int previousVersion = json.has("version") ? json.getInt("version") : 0;
-        if(previousVersion < responseVersion) {
+        final JSONObject local = Jsonable.getStaticLocalFileJSONObject(Folder.UPCOMING_EVENTS_MOVIES, "productionCompanies");
+        if(local != null) {
+            final int previousVersion = local.has("version") ? local.getInt("version") : 0;
+            if(previousVersion < responseVersion) {
+                json = loadJSON();
+            } else {
+                for(String key : local.keySet()) {
+                    json.put(key, local.get(key));
+                }
+                final JSONObject localCompaniesJSON = local.getJSONObject("companies");
+                final JSONObjectTranslatable companiesJSON = JSONObjectTranslatable.parse(localCompaniesJSON, Folder.UPCOMING_EVENTS_MOVIES, "productionCompanies", localCompaniesJSON.keySet(), originalWikipediaName -> {
+                    final MovieProductionCompanyDetails details = MovieProductionCompanyDetails.parse(localCompaniesJSON.getJSONObject(originalWikipediaName));
+                    return details.toJSONObject();
+                });
+                json.put("companies", companiesJSON);
+                json.addTranslatedKey("companies");
+            }
+        } else {
             json = loadJSON();
         }
-        return json.toString();*/ // TODO: fix this
+        return json;
     }
-    private static JSONObject loadJSON() {
+    private static JSONObjectTranslatable loadJSON() {
         final MovieProductionCompanies[] companies = values();
-        final JSONObject companiesJSON = new JSONObject();
+        final JSONObjectTranslatable companiesJSON = new JSONObjectTranslatable();
         new CompletableFutures<MovieProductionCompanies>().stream(Arrays.asList(companies), company -> {
-            final JSONObject details = company.getDetails();
-            companiesJSON.put(company.getOriginalWikipediaName(), details);
+            final JSONObjectTranslatable details = company.getDetails().toJSONObject();
+            final String originalWikipediaName = company.getOriginalWikipediaName();
+            companiesJSON.put(originalWikipediaName, details);
+            companiesJSON.addTranslatedKey(originalWikipediaName);
         });
 
-        final JSONObject json = new JSONObject();
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("companies");
         json.put("version", ResponseVersions.MOVIE_PRODUCTION_COMPANIES.getValue());
         json.put("imageURLPrefix", getImageURLPrefix());
         json.put("companies", companiesJSON);
+        Jsonable.setFileJSONObject(Folder.UPCOMING_EVENTS_MOVIES, "productionCompanies", json);
         return json;
     }
     private static String getImageURLPrefix() {
-        return "https://upload.wikimedia.org/wikipedia/en/thumb/";
+        return "https://upload.wikimedia.org/wikipedia/";
     }
     private String getOriginalWikipediaName() {
         return wikipediaName.replace("_", " ");
     }
-    public JSONObject getDetails() {
+    public MovieProductionCompanyDetails getDetails() {
         final String originalWikipediaName = getOriginalWikipediaName();
         final String url = "https://en.wikipedia.org/wiki/" + wikipediaName.replace(" ", "_");
         final WikipediaDocument doc = new WikipediaDocument(url);
-        final StringBuilder builder = new StringBuilder();
+        final StringBuilder description = new StringBuilder();
         final List<Element> paragraphs = doc.getConsecutiveParagraphs();
         if(paragraphs != null) {
             boolean isFirst = true;
             for(Element paragraph : paragraphs) {
-                String text = LocalServer.removeWikipediaReferences(paragraph.text());
-                text = LocalServer.fixEscapeValues(LocalServer.removeWikipediaTranslations(text));
-                builder.append(isFirst ? "" : "\n\n").append(text);
+                final String text = paragraph.text();
+                description.append(isFirst ? "" : "\n\n").append(text);
                 isFirst = false;
             }
         }
@@ -303,22 +310,12 @@ public enum MovieProductionCompanies {
             }
         }
 
-        final JSONObject json = new JSONObject();
-        final String[] aliases = getAliases();
-        if(aliases != null && aliases.length > 0) {
-            json.put("aliases", new JSONArray(aliases));
+        EventSources sources = doc.getExternalLinks();
+        if(sources == null) {
+            sources = new EventSources();
         }
-        json.put("description", builder.toString());
-        if(imageURL != null) {
-            json.put("imageURL", imageURL);
-        }
-
-        final EventSources sources = doc.getExternalLinks();
         sources.add(new EventSource("Wikipedia: " + originalWikipediaName, url));
-
-        final JSONObject sourcesJSON = new JSONObject(sources.toString());
-        json.put("sources", sourcesJSON);
-        return json;
+        return new MovieProductionCompanyDetails(aliases, description.toString(), imageURL, sources);
     }
 
     private final String wikipediaName;

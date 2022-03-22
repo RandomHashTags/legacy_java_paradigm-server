@@ -72,10 +72,15 @@ public interface IMDbService extends DataValues {
             final Element listElement = doc.selectFirst("ul.ipc-inline-list");
             if(listElement != null) {
                 final Elements list = listElement.select("li.ipc-inline-list__item");
-                final Element secondElement = list.get(1);
-                final Element secondElementHref = secondElement.selectFirst("a[href]");
-                final String rating = secondElementHref != null ? secondElementHref.text() : null;
-                final boolean isValidRating = isValidMovieRating(rating);
+                Element secondElement = null;
+                String rating = null;
+                boolean isValidRating = false;
+                if(list.size() > 1) {
+                    secondElement = list.get(1);
+                    final Element secondElementHref = secondElement.selectFirst("a[href]");
+                    rating = secondElementHref != null ? secondElementHref.text() : null;
+                    isValidRating = isValidMovieRating(rating);
+                }
 
                 int runtimeSeconds = 0;
                 if(list.size() > 2) {
@@ -91,43 +96,48 @@ public interface IMDbService extends DataValues {
                     }
                 }
 
-                final String[] images = doc.selectFirst("div.ipc-poster div.ipc-media img").attr("srcset").split(" ");
+                final Element targetImageElement = doc.selectFirst("div.ipc-poster div.ipc-media img");
+                final String[] images = targetImageElement != null ? targetImageElement.attr("srcset").split(" ") : null;
                 String imageURL = null;
-                for(String image : images) {
-                    final String string = image.split(",")[0];
-                    if(string.endsWith("_UX380_CR0")) {
-                        imageURL = string;
+                if(images != null) {
+                    for(String image : images) {
+                        final String string = image.split(",")[0];
+                        if(string.endsWith("_UX380_CR0")) {
+                            imageURL = string;
+                        }
                     }
                 }
 
                 final Element metadataList = doc.selectFirst("div.Storyline__StorylineWrapper-sc-1b58ttw-0 ul.ipc-metadata-list");
                 final JSONArray genres = new JSONArray();
-                Elements genreElements = metadataList.select("a.GenresAndPlot__GenreChip-cum89p-3"), taglineElements = null;
                 String ratingReason = null;
-                if(!genreElements.isEmpty()) {
-                    final Element ratingElement = metadataList.selectFirst("li.ipc-metadata-list__item ul.ipc-inline-list li.ipc-inline-list__item");
-                    ratingReason = ratingElement != null ? ratingElement.text() : null;
-                } else {
-                    final Elements elements = metadataList.select("li.ipc-metadata-list__item");
-                    for(Element element : elements) {
-                        final String testID = element.attr("data-testid");
-                        switch (testID) {
-                            case "storyline-taglines":
-                                taglineElements = element.select("span.ipc-metadata-list-item__list-content-item");
-                                break;
-                            case "storyline-genres":
-                                genreElements = element.select("a");
-                                break;
-                            case "storyline-certificate":
-                                ratingReason = element.text().replace("Motion Picture Rating (MPAA) ", "").replace("Certificate ", "");
-                                break;
-                            default:
-                                break;
+                if(metadataList != null) {
+                    Elements genreElements = metadataList.select("a.GenresAndPlot__GenreChip-cum89p-3"), taglineElements = null;
+                    if(!genreElements.isEmpty()) {
+                        final Element ratingElement = metadataList.selectFirst("li.ipc-metadata-list__item ul.ipc-inline-list li.ipc-inline-list__item");
+                        ratingReason = ratingElement != null ? ratingElement.text() : null;
+                    } else {
+                        final Elements elements = metadataList.select("li.ipc-metadata-list__item");
+                        for(Element element : elements) {
+                            final String testID = element.attr("data-testid");
+                            switch (testID) {
+                                case "storyline-taglines":
+                                    taglineElements = element.select("span.ipc-metadata-list-item__list-content-item");
+                                    break;
+                                case "storyline-genres":
+                                    genreElements = element.select("a");
+                                    break;
+                                case "storyline-certificate":
+                                    ratingReason = element.text().replace("Motion Picture Rating (MPAA) ", "").replace("Certificate ", "");
+                                    break;
+                                default:
+                                    break;
+                            }
                         }
                     }
-                }
-                for(Element element : genreElements) {
-                    genres.put(element.text());
+                    for(Element element : genreElements) {
+                        genres.put(element.text());
+                    }
                 }
 
                 json = new JSONObject();

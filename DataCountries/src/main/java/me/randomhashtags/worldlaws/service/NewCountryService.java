@@ -15,7 +15,7 @@ import org.jsoup.select.Elements;
 import java.util.HashMap;
 
 public interface NewCountryService extends WLService {
-    HashMap<SovereignStateInfo, JSONObjectTranslatable> DATA_CACHE = new HashMap<>();
+    HashMap<SovereignStateInfo, HashMap<WLCountry, JSONObjectTranslatable>> DATA_CACHE = new HashMap<>();
     HashMap<SovereignStateInfo, HashMap<String, JSONObjectTranslatable>> COUNTRY_CACHE = new HashMap<>();
 
     Folder getFolder();
@@ -57,8 +57,16 @@ public interface NewCountryService extends WLService {
     default void insertCountryData(JSONObjectTranslatable countryJSON, WLCountry country) {
     }
 
-    private JSONObjectTranslatable getData(SovereignStateInfo info, WLCountry country) {
-        if(!DATA_CACHE.containsKey(info)) {
+    default boolean dataContainsAllCountryData() {
+        return false;
+    }
+
+    default JSONObjectTranslatable getData(SovereignStateInfo info, WLCountry country) {
+        DATA_CACHE.putIfAbsent(info, new HashMap<>());
+        if(dataContainsAllCountryData()) {
+            country = null;
+        }
+        if(!DATA_CACHE.get(info).containsKey(country)) {
             final Folder folder = getFolder();
             final String fileName = getServiceFileName(country), folderName = folder.getFolderName();
             folder.setCustomFolderName(fileName, folderName);
@@ -68,9 +76,9 @@ public interface NewCountryService extends WLService {
                 json.setFolder(folder);
                 json.setFileName(fileName);
             }
-            DATA_CACHE.put(info, json);
+            DATA_CACHE.get(info).put(country, json);
         }
-        return DATA_CACHE.get(info);
+        return DATA_CACHE.get(info).get(country);
     }
 
     private JSONObjectTranslatable tryLoadingData(Folder folder, String fileName, WLCountry country) {

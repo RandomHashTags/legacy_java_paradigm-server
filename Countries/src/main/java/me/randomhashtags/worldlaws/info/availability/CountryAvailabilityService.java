@@ -1,23 +1,23 @@
 package me.randomhashtags.worldlaws.info.availability;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.Folder;
-import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
-import me.randomhashtags.worldlaws.service.CountryService;
+import me.randomhashtags.worldlaws.service.NewCountryService;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.select.Elements;
 
+import java.util.Arrays;
 import java.util.HashMap;
+import java.util.HashSet;
 
-public interface CountryAvailabilityService extends CountryService {
+public interface CountryAvailabilityService extends NewCountryService {
     HashMap<SovereignStateInfo, JSONArray> AVAILABILITY_VALUES = new HashMap<>();
 
     @Override
     default Folder getFolder() {
-        return Folder.COUNTRIES_SERVICES_AVAILABILITIES;
+        return Folder.COUNTRIES_AVAILABILITIES;
     }
 
     @Override
@@ -35,35 +35,18 @@ public interface CountryAvailabilityService extends CountryService {
     default CountryAvailability getAvailability(boolean value) {
         return new CountryAvailability(getInfo().getTitle(), getPrimaryCategory(), getImageURL(), value);
     }
-    default String loadOnlyTrue(String...countries) {
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
+    default JSONArray loadOnlyTrue(String...countries) {
+        final JSONArray array = new JSONArray();
         for(String country : countries) {
-            builder.append(isFirst ? "" : ",").append("\"").append(country).append("\"");
-            isFirst = false;
+            array.put(country);
         }
-        builder.append("]");
-        return builder.toString();
+        return array;
     }
+
+    JSONArray loadDataArray();
 
     AvailabilityCategory getPrimaryCategory();
     String getImageURL();
-
-    @Override
-    default Object getJSONData(Folder folder, String fileName, String countryBackendID) {
-        return getJSONArray(folder, fileName, new CompletionHandler() {
-            @Override
-            public JSONArray loadJSONArray() {
-                try {
-                    final String string = loadData();
-                    return string != null && string.startsWith("[") && string.endsWith("]") ? new JSONArray(string) : null;
-                } catch (Exception e) {
-                    WLUtilities.saveException(e);
-                    return null;
-                }
-            }
-        });
-    }
 
     default CountryAvailability getAvailability(JSONObject json, String countryBackendID) {
         final SovereignStateInfo info = getInfo();
@@ -88,5 +71,51 @@ public interface CountryAvailabilityService extends CountryService {
             }
         }
         return false;
+    }
+
+    default HashSet<String> getCountriesFromText(String text) {
+        final HashSet<String> countries = new HashSet<>();
+        switch (text) {
+            case "carribean":
+                // https://en.wikipedia.org/wiki/Caribbean
+                countries.addAll(Arrays.asList(
+                        "antiguaandbarbuda",
+                        "bahamas",
+                        "barbados",
+                        "cuba",
+                        "dominica",
+                        "dominicanrepublic",
+                        "grenada",
+                        "haiti",
+                        "jamaica",
+                        "saintkittsandnevis",
+                        "saintlucia",
+                        "saintvincentandthegrenadines",
+                        "trinidadandtobago"
+                ));
+                break;
+            case "easterneurope":
+                // https://en.wikipedia.org/wiki/Eastern_Europe
+                countries.addAll(Arrays.asList(
+                        "bulgaria",
+                        "croatia",
+                        "cyprus",
+                        "czechrepublic",
+                        "estonia",
+                        "hungary",
+                        "latvia",
+                        "lithuania",
+                        "malta",
+                        "poland",
+                        "romania",
+                        "slovakia",
+                        "slovenia"
+                ));
+                break;
+            default:
+                countries.add(text);
+                break;
+        }
+        return countries;
     }
 }

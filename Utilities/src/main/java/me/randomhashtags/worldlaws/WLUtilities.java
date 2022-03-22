@@ -15,11 +15,12 @@ import java.net.SocketException;
 import java.net.URL;
 import java.net.URLConnection;
 import java.security.SecureRandom;
-import java.security.cert.CertificateException;
 import java.security.cert.X509Certificate;
 import java.time.*;
-import java.util.*;
-import java.util.concurrent.ConcurrentHashMap;
+import java.util.Date;
+import java.util.HashSet;
+import java.util.Timer;
+import java.util.TimerTask;
 
 public abstract class WLUtilities {
     public static final String SERVER_EMPTY_JSON_RESPONSE = "{}";
@@ -28,11 +29,11 @@ public abstract class WLUtilities {
         final TrustManager[] trustManager = new TrustManager[] {
                 new X509TrustManager() {
                     @Override
-                    public void checkClientTrusted(X509Certificate[] x509Certificates, String s) throws CertificateException {
+                    public void checkClientTrusted(X509Certificate[] x509Certificates, String s) {
                     }
 
                     @Override
-                    public void checkServerTrusted(X509Certificate[] x509Certificates, String s) throws CertificateException {
+                    public void checkServerTrusted(X509Certificate[] x509Certificates, String s) {
                     }
 
                     @Override
@@ -55,30 +56,6 @@ public abstract class WLUtilities {
         } catch (Exception e) {
             WLUtilities.saveException(e);
         }
-    }
-
-
-    public static JSONObject getLocale(ConcurrentHashMap<LanguageTranslator, HashMap<Language, HashMap<String, String>>> map) {
-        final JSONObject json = new JSONObject();
-        for(Map.Entry<LanguageTranslator, HashMap<Language, HashMap<String, String>>> entry : map.entrySet()) {
-            final LanguageTranslator type = entry.getKey();
-            final HashMap<Language, HashMap<String, String>> languages = entry.getValue();
-            final JSONObject languagesJSON = new JSONObject();
-            for(Map.Entry<Language, HashMap<String, String>> languageEntry : languages.entrySet()) {
-                final String languageID = languageEntry.getKey().getID();
-                final HashMap<String, String> words = languageEntry.getValue();
-                final JSONObject translatedTextsJSON = new JSONObject();
-                for(Map.Entry<String, String> textMap : words.entrySet()) {
-                    final String key = textMap.getKey(), text = textMap.getValue();
-                    translatedTextsJSON.put(key, text);
-                }
-                languagesJSON.put(languageID, translatedTextsJSON);
-            }
-            if(!languagesJSON.isEmpty()) {
-                json.put(type.name().toLowerCase(), languagesJSON);
-            }
-        }
-        return json;
     }
 
     public static Document getJsoupDocumentFrom(String url) throws Exception {
@@ -250,10 +227,7 @@ public abstract class WLUtilities {
         if(isNotEnglish && json != null && !json.isEmpty()) {
             if(json instanceof JSONObjectTranslatable) {
                 final JSONObjectTranslatable translatable = (JSONObjectTranslatable) json;
-                final boolean inserted = JSONTranslatable.insertTranslations(translatable, translatorID, languageID);
-                if(!inserted) {
-                    translatable.update(translator, clientLanguage);
-                }
+                translatable.updateIfNeeded(translator, clientLanguage);
             }
         }
         final JSONObject jsonClone = json != null ? new JSONObject(json.toString()) : null;

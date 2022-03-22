@@ -8,16 +8,16 @@ import me.randomhashtags.worldlaws.upcoming.UpcomingEventValue;
 import org.json.JSONObject;
 
 public final class MLBEvent extends UpcomingEvent {
-    private final String awayTeam, homeTeam;
+    private final MLBTeam awayTeam, homeTeam;
 
     public MLBEvent(JSONObject json) {
         super(json);
         final JSONObject properties = json.getJSONObject("properties");
-        awayTeam = properties.getString(UpcomingEventValue.MLB_TEAM_AWAY.getKey());
-        homeTeam = properties.getString(UpcomingEventValue.MLB_TEAM_HOME.getKey());
+        awayTeam = MLBTeam.parse(properties.getJSONObject(UpcomingEventValue.MLB_TEAM_AWAY.getKey()));
+        homeTeam = MLBTeam.parse(properties.getJSONObject(UpcomingEventValue.MLB_TEAM_HOME.getKey()));
         insertProperties();
     }
-    public MLBEvent(EventDate date, String event, String awayTeam, String homeTeam, String location, EventSources sources) {
+    public MLBEvent(EventDate date, String event, MLBTeam awayTeam, MLBTeam homeTeam, String location, EventSources sources) {
         super(date, event, null, null, location, null, sources);
         this.awayTeam = awayTeam;
         this.homeTeam = homeTeam;
@@ -31,9 +31,12 @@ public final class MLBEvent extends UpcomingEvent {
 
     @Override
     public JSONObjectTranslatable getPropertiesJSONObject() {
-        final JSONObjectTranslatable json = new JSONObjectTranslatable();
-        json.put(UpcomingEventValue.MLB_TEAM_AWAY.getKey(), awayTeam);
-        json.put(UpcomingEventValue.MLB_TEAM_HOME.getKey(), homeTeam);
+        final JSONObjectTranslatable json = new JSONObjectTranslatable(
+                UpcomingEventValue.MLB_TEAM_AWAY.getKey(),
+                UpcomingEventValue.MLB_TEAM_HOME.getKey()
+        );
+        json.put(UpcomingEventValue.MLB_TEAM_AWAY.getKey(), awayTeam.toJSONObject());
+        json.put(UpcomingEventValue.MLB_TEAM_HOME.getKey(), homeTeam.toJSONObject());
         return json;
     }
 }

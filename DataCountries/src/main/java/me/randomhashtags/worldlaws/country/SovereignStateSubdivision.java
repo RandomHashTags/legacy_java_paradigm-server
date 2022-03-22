@@ -4,7 +4,6 @@ import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.service.CountryService;
-import me.randomhashtags.worldlaws.service.WikipediaCountryService;
 import me.randomhashtags.worldlaws.service.WikipediaService;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONObject;
@@ -112,7 +111,7 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
                 }
 
                 final HashSet<CountryService> services = new HashSet<>() {{
-                    add(new WikipediaCountryService(false));
+                    //add(new WikipediaCountryService(false));
                 }};
 
                 final String name = getName();

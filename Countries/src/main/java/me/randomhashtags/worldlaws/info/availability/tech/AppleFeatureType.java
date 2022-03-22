@@ -26,7 +26,7 @@ public enum AppleFeatureType {
 
     private static synchronized Elements getSectionElements(String type) {
         if(!SECTIONS.containsKey(type)) {
-            SECTIONS.put(type, Jsoupable.getStaticDocumentElements(Folder.COUNTRIES_SERVICES_AVAILABILITIES, "https://www.apple.com/" + type + "/feature-availability", false, "body.page-overview main.main section.section"));
+            SECTIONS.put(type, Jsoupable.getStaticDocumentElements(Folder.COUNTRIES_AVAILABILITIES, "https://www.apple.com/" + type + "/feature-availability", false, "body.page-overview main.main section.section"));
         }
         return SECTIONS.get(type);
     }
