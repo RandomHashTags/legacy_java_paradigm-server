@@ -26,7 +26,7 @@ public final class MovieProductionCompanyDetails {
         final JSONArray aliasesArray = json.optJSONArray("aliases");
         aliases = aliasesArray != null ? aliasesArray.toList().toArray(new String[aliasesArray.length()]) : null;
         description = json.getString("description");
-        imageURL = json.getString("imageURL");
+        imageURL = json.optString("imageURL", null);
         sources = new EventSources(json.getJSONObject("sources"));
     }
 

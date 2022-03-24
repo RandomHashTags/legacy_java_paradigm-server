@@ -40,16 +40,18 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
         loadedPreUpcomingEvents.clear();
         preUpcomingEvents.clear();
         upcomingEvents.clear();
+        boolean didError = false;
         try {
             load();
-            final String preUpcomingEventsLoaded = !preUpcomingEvents.isEmpty() ? preUpcomingEvents.size() + " preUpcomingEvents" : null;
-            final String upcomingEventsLoaded = !upcomingEvents.isEmpty() ? upcomingEvents.size() + " upcomingEvents" : null;
-            String amount = "(" + (preUpcomingEventsLoaded != null ? preUpcomingEventsLoaded + (upcomingEventsLoaded != null ? ", " : "") : "") + (upcomingEventsLoaded != null ? upcomingEventsLoaded : "") + ")";
-            amount = amount.equals("()") ? "0" : amount;
-            WLLogger.logInfo(getType().name() + " - loaded " + amount + " events (took " + WLUtilities.getElapsedTime(started) + ")");
         } catch (Exception e) {
             WLUtilities.saveException(e);
+            didError = true;
         }
+        final String preUpcomingEventsLoaded = !preUpcomingEvents.isEmpty() ? preUpcomingEvents.size() + " preUpcomingEvents" : null;
+        final String upcomingEventsLoaded = !upcomingEvents.isEmpty() ? upcomingEvents.size() + " upcomingEvents" : null;
+        String amount = "(" + (preUpcomingEventsLoaded != null ? preUpcomingEventsLoaded + (upcomingEventsLoaded != null ? ", " : "") : "") + (upcomingEventsLoaded != null ? upcomingEventsLoaded : "") + ")";
+        amount = amount.equals("()") ? "0" : amount;
+        WLLogger.logInfo(getType().name() + " - loaded " + amount + " events (took " + WLUtilities.getElapsedTime(started) + ")" + (didError ? " [DID ENCOUNTER ERROR LOADING]" : ""));
     }
     public abstract void load();
 

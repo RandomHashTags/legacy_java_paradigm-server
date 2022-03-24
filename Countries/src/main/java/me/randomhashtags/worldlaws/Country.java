@@ -114,7 +114,7 @@ public interface Country extends SovereignState {
     private JSONObjectTranslatable getSubdivisionsJSON(WLCountry wlcountry, SovereignStateSubdivision[] subdivisions) {
         JSONObjectTranslatable json = null;
         if(subdivisions != null) {
-            json = new JSONObjectTranslatable();
+            json = new JSONObjectTranslatable("default_type_name_plural", "default_type_name_singular");
             final SubdivisionType defaultType = subdivisions[0].getDefaultType();
             json.put("default_type_name_plural", defaultType.getPluralName());
             json.put("default_type_name_singular", defaultType.getSingularName());

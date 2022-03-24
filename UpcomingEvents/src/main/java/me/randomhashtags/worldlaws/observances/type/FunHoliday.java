@@ -60,7 +60,7 @@ public enum FunHoliday implements Holiday { // https://www.timeanddate.com/holid
         switch (this) {
             case INTERNATIONAL_BEER_DAY:
             case INTERNATIONAL_PROGRAMMERS_DAY:
-            case POLAR_BEAR_PLUNGE_DAY:
+            case NATIONAL_SCIENCE_FICTION_DAY:
             case WIKIPEDIA_DAY:
             case WORLD_LOGIC_DAY:
                 return HolidaySource.WIKIPEDIA;
@@ -131,10 +131,8 @@ public enum FunHoliday implements Holiday { // https://www.timeanddate.com/holid
                     return new EventDate(date.getMonth(), date.getDayOfMonth(), year);
                 }
             case MOLE_DAY: return new EventDate(Month.OCTOBER, 23, year);
-            case NATIONAL_BOYFRIEND_DAY:
-                return new EventDate(Month.OCTOBER, 3, year);
-            case NATIONAL_GIRLFRIEND_DAY:
-                return new EventDate(Month.AUGUST, 1, year);
+            case NATIONAL_BOYFRIEND_DAY: return new EventDate(Month.OCTOBER, 3, year);
+            case NATIONAL_GIRLFRIEND_DAY: return new EventDate(Month.AUGUST, 1, year);
             case NATIONAL_SCIENCE_FICTION_DAY: return country == WLCountry.UNITED_STATES ? new EventDate(Month.JANUARY, 2, year) : null;
             case PI_DAY: return new EventDate(Month.MARCH, 14, year);
             case POLAR_BEAR_PLUNGE_DAY:
@@ -154,7 +152,7 @@ public enum FunHoliday implements Holiday { // https://www.timeanddate.com/holid
             case WORLD_EMOJI_DAY: return new EventDate(Month.JULY, 17, year);
             case WORLD_LOGIC_DAY: return new EventDate(Month.JANUARY, 14, year);
             case WORLD_PHOTOGRAPHY_DAY: return new EventDate(Month.AUGUST, 19, year);
+            default: return null;
         }
-        return null;
     }
 }

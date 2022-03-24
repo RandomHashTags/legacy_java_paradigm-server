@@ -13,7 +13,6 @@ public enum ResponseVersions {
     // Server Side
     AVAILABILITIES,
     COUNTRY_INFORMATION,
-    HOLIDAYS,
 
     ;
 
@@ -21,8 +20,6 @@ public enum ResponseVersions {
         switch (this) {
             case AVAILABILITIES:
             case COUNTRY_INFORMATION:
-            case HOLIDAYS:
-                return false;
             default:
                 return true;
         }
@@ -39,7 +36,7 @@ public enum ResponseVersions {
             case MUSIC_ARTISTS:
                 return 1;
             case PRESENTATIONS:
-                return 1;
+                return 2;
             case UPCOMING_EVENT_TYPES:
                 return 6;
             case VIDEO_GAMES:
@@ -49,8 +46,6 @@ public enum ResponseVersions {
                 return 1;
             case COUNTRY_INFORMATION:
                 return 1;
-            case HOLIDAYS:
-                return 4;
 
             case UPDATE_NOTES:
                 return 1;

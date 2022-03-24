@@ -171,6 +171,7 @@ public enum SovereignStateInfo {
 
     CITIES,
     RESOURCES("Resources"),
+    NEIGHBORS("Neighbors"),
 
     VALUE_HEALTH_CARE_SYSTEM("Health Care System"),
     VALUE_MILITARY_ENLISTMENT_AGE("Military Enlistment Age"),

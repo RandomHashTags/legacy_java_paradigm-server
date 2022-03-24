@@ -16,6 +16,7 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.time.LocalDate;
+import java.time.Month;
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
 import java.util.List;
@@ -83,8 +84,7 @@ public enum Ticketmaster implements RestAPI {
 
                             final String[] dateTimeValues = dateStartJSON.getString("dateTime").split("T"), dateValues = dateTimeValues[0].split("-"), timeValues = dateTimeValues[1].replace("Z", "").split(":");
                             final int year = Integer.parseInt(dateValues[0]), month = Integer.parseInt(dateValues[1]), day = Integer.parseInt(dateValues[2]);
-                            final LocalDate date = LocalDate.of(year, month, day);
-                            final EventDate eventDate = new EventDate(date);
+                            final EventDate eventDate = new EventDate(Month.of(month), day, year);
 
                             final String name = eventJSON.getString("name");
                             final String identifier = getEventDateIdentifier(eventDate.getDateString(), name);

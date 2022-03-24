@@ -41,6 +41,7 @@ public final class EventDate {
         return null;
     }
 
+    private LocalDate localDate;
     private final Month month;
     private final int day, year, hour, minute;
     // if year == -1 : no year specified
@@ -114,7 +115,10 @@ public final class EventDate {
     }
 
     public LocalDate getLocalDate() {
-        return LocalDate.of(year, month, day);
+        if(localDate == null) {
+            localDate = LocalDate.of(year, month, day);
+        }
+        return localDate;
     }
     public EventDate plusDays(long days) {
         final LocalDate date = getLocalDate().plusDays(days);

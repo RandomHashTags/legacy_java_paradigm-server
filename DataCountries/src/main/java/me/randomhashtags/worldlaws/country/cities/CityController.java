@@ -17,7 +17,7 @@ public interface CityController extends Jsoupable, Jsonable {
         final SovereignStateSubdivision subdivision = getSubdivision();
         final WLCountry country = subdivision.getCountry();
         final String countryBackendID = country.getBackendID(), subdivisionBackendID = subdivision.getBackendID();
-        final Folder folder = Folder.COUNTRIES_CITIES_INFORMATION;
+        final Folder folder = Folder.COUNTRIES_INFORMATION_CITIES;
         final String fileName = "";
         folder.setCustomFolderName(fileName, folder.getFolderName().replace("%country%", countryBackendID).replace("%subdivision%", subdivisionBackendID));
         return null;

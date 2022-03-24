@@ -8,21 +8,19 @@ import java.util.concurrent.ConcurrentHashMap;
 public enum Folder {
     COUNTRIES,
     COUNTRIES_AVAILABILITIES,
-    COUNTRIES_CITIES_INFORMATION("countries" + File.separator + "cities" + File.separator + "information" + File.separator + "%country%" + File.separator + "%subdivision%"),
     COUNTRIES_LEGALITIES,
     COUNTRIES_NATIONAL,
     COUNTRIES_RANKINGS,
     COUNTRIES_RANKINGS_AGRICULTURE,
     COUNTRIES_INFO,
     COUNTRIES_INFORMATION,
+    COUNTRIES_INFORMATION_SUBDIVISIONS("countries" + File.separator + "information" + File.separator + "%country%"),
+    COUNTRIES_INFORMATION_CITIES("countries" + File.separator + "information" + File.separator + "%country%" + File.separator + "%subdivision%"),
     COUNTRIES_SERVICES,
     COUNTRIES_SERVICES_TRAVEL_BRIEFING("countries" + File.separator + "services" + File.separator + "travel briefing"),
-    COUNTRIES_SUBDIVISIONS,
-    COUNTRIES_SUBDIVISIONS_WIKIPEDIA,
-    COUNTRIES_SUBDIVISIONS_CITIES,
-    COUNTRIES_SUBDIVISIONS_INFORMATION("countries" + File.separator + "subdivisions" + File.separator + "information" + File.separator + "%country%"),
     COUNTRIES_VALUES,
     COUNTRIES_WIKIPEDIA,
+    COUNTRIES_WIKIPEDIA_SUBDIVISIONS("countries" + File.separator + "wikipedia" + File.separator + "%country%"),
     COUNTRIES_WIKIPEDIA_FEATURED_PICTURES("countries" + File.separator + "wikipedia" + File.separator + "featured pictures"),
 
     LAWS_USA_MEMBERS,
@@ -45,11 +43,8 @@ public enum Folder {
 
     UPCOMING_EVENTS("upcoming events"),
     UPCOMING_EVENTS_IDS("upcoming events" + File.separator + "%year%" + File.separator + "%month%" + File.separator + "%day%" + File.separator + "%type%"),
-    UPCOMING_EVENTS_HOLIDAYS("upcoming events" + File.separator + "holidays" + File.separator + "%year%"),
-    UPCOMING_EVENTS_HOLIDAYS_COUNTRIES("upcoming events" + File.separator + "holidays" + File.separator + "%year%" + File.separator + "countries"),
-    UPCOMING_EVENTS_HOLIDAYS_DESCRIPTIONS("upcoming events" + File.separator + "holidays" + File.separator + "descriptions" + File.separator + "%type%"),
+    UPCOMING_EVENTS_HOLIDAYS_TYPE("upcoming events" + File.separator + "holidays" + File.separator + "%type%"),
     UPCOMING_EVENTS_MOVIES("upcoming events" + File.separator + "movies"),
-    UPCOMING_EVENTS_TV_SHOWS("upcoming events" + File.separator + "tv shows"),
     WEATHER_USA_ZONES,
     WEATHER_USA_OFFICES,
     ;
@@ -98,21 +93,24 @@ public enum Folder {
 
     public String getFullFolderPath(String id) {
         final String currentFolder = Jsonable.USER_DIR;
+        return currentFolder + getFolderPath(id);
+    }
+    public String getFolderPath(String id) {
         final String folderName = getCurrentTargetFolderName(id);
         switch (this) {
             case DIRECTORY:
             case UPDATES:
             case UPDATES_FILES:
-                return currentFolder + folderName;
+                return folderName;
             case DEVICE_TOKENS:
             case FEEDBACK_BUG_REPORTS:
             case FEEDBACK_FEATURE_REQUEST:
             case LOGS:
             case REMOTE_NOTIFICATIONS:
             case ERRORS:
-                return currentFolder + "_" + folderName;
+                return "_" + folderName;
             default:
-                return currentFolder + "_downloaded_pages" + File.separator + folderName;
+                return "_downloaded_pages" + File.separator + folderName;
         }
     }
 

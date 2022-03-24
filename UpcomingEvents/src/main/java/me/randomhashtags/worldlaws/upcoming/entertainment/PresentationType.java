@@ -58,11 +58,22 @@ public enum PresentationType implements Jsoupable {
             "https://en.wikipedia.org/wiki/Game_Developers_Conference",
             PresentationEventType.CONFERENCE
     ),
+    /*GAMESCOM(
+            "Gamescom",
+            "https://en.wikipedia.org/wiki/Gamescom",
+            PresentationEventType.CONVENTION_GAMING
+    ),*/
     GOLDEN_GLOBE_AWARDS(
             "Golden Globe Awards",
             "https://en.wikipedia.org/wiki/List_of_Golden_Globe_Awards_ceremonies",
             PresentationEventType.AWARD_CEREMONY
     ),
+    /*
+    GOLDEN_JOYSTICK_AWARDS(
+            "Golden Joystick Awards",
+            "https://en.wikipedia.org/wiki/Golden_Joystick_Awards",
+            PresentationEventType.AWARD_CEREMONY
+    ),*/
     GOOGLE_IO(
             "Google I/O",
             "https://en.wikipedia.org/wiki/Google_I/O",
@@ -103,6 +114,11 @@ public enum PresentationType implements Jsoupable {
             "South by Southwest",
             "https://en.wikipedia.org/wiki/South_by_Southwest",
             PresentationEventType.FESTIVAL_MUSIC
+    ),*/
+    /*THE_GAME_AWARDS(
+            "The Game Awards",
+            "https://en.wikipedia.org/wiki/The_Game_Awards",
+            PresentationEventType.AWARD_CEREMONY
     ),*/
     TWITCHCON(
             "TwitchCon",

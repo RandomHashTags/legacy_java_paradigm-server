@@ -18,7 +18,6 @@ import me.randomhashtags.worldlaws.upcoming.entertainment.movies.Movies;
 import me.randomhashtags.worldlaws.upcoming.entertainment.music.MusicAlbums;
 import me.randomhashtags.worldlaws.upcoming.entertainment.music.MusicSpotify;
 import me.randomhashtags.worldlaws.upcoming.events.LoadedPreUpcomingEvent;
-import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
 import me.randomhashtags.worldlaws.upcoming.science.AstronomyPictureOfTheDay;
 import me.randomhashtags.worldlaws.upcoming.science.WikipediaTodaysFeaturedPicture;
 import me.randomhashtags.worldlaws.upcoming.space.RocketLaunches;
@@ -74,8 +73,8 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void initialize() {
-        //test();
-        load();
+        test();
+        //load();
     }
 
     @Override
@@ -85,11 +84,9 @@ public final class UpcomingEvents implements WLServer {
 
     private void test() {
         final long started = System.currentTimeMillis();
-        final Presentations presentations = new Presentations();
-        presentations.refresh();
-        for(Map.Entry<String, UpcomingEvent> entry : presentations.getUpcomingEvents().entrySet()) {
-            WLLogger.logInfo("UpcomingEvents;test;key=" + entry.getKey() + ";value=" + entry.getValue().toString() + ";took " + WLUtilities.getElapsedTime(started));
-        }
+        final TVShows tvshows = new TVShows();
+        tvshows.refresh();
+        WLLogger.logInfo("UpcomingEvents;test;took " + WLUtilities.getElapsedTime(started));
     }
 
     private UpcomingEventController valueOfEventType(String eventType) {

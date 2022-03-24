@@ -75,7 +75,7 @@ public final class ProfessionalWrestling extends LoadedUpcomingEventController {
                             final EventDate eventDate = new EventDate(Month.of(targetMonthValue), day, year);
                             final String dateString = eventDate.getDateString();
                             final String eventURL = "https://en.wikipedia.org" + eventElement.attr("href");
-                            final WikipediaDocument eventDoc = new WikipediaDocument(eventURL);
+                            final WikipediaDocument eventDoc = new WikipediaDocument(eventURL); // TODO: POTENTIAL OPTIMIZATION ??
                             final List<String> images = eventDoc.getImages();
                             final String imageURL = !images.isEmpty() ? images.get(0) : null;
                             final String description = eventDoc.getDescription();

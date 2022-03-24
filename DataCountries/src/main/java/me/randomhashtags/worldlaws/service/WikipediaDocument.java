@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.service;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.settings.Settings;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.Node;
@@ -164,11 +165,10 @@ public final class WikipediaDocument {
             return null;
         }
         final Element reflistElement = document.selectFirst("div.reflist");;
-        HashMap<String, EventSource> references = null;
+        final HashMap<String, EventSource> references = new HashMap<>();
         if(reflistElement != null) {
-            references = new HashMap<>();
             final Elements listElements = reflistElement.select("ol.references li");
-            for(Element listElement : listElements) {
+            new CompletableFutures<Element>().stream(listElements, listElement -> {
                 final String[] numberValues = listElement.attr("id").split("-");
                 final String number = numberValues[numberValues.length-1];
                 final Element referenceTextElement = listElement.selectFirst("span.reference-text");
@@ -198,7 +198,7 @@ public final class WikipediaDocument {
                                 if(siteName != null) {
                                     siteName = siteName.replace("\"", "");
                                 }
-                                WLLogger.logInfo("WikipediaDocument;parseReferences;italicElement == null;identifier=" + identifier + ";number=" + number + ";values[1]=" + values[1] + ";siteName=" + siteName);
+                                WLLogger.logInfo("WikipediaDocument;getReferences;italicElement == null;identifier=" + identifier + ";number=" + number + ";values[1]=" + values[1] + ";siteName=" + siteName);
                             } else {
                                 siteName = values[1];
                             }
@@ -208,9 +208,9 @@ public final class WikipediaDocument {
                     final EventSource source = new EventSource(realSiteName, url);
                     references.put(number, source);
                 } else {
-                    WLLogger.logInfo("WikipediaDocument;parseReferences;ahref == null;identifier=" + identifier + ";number=" + number);
+                    WLLogger.logInfo("WikipediaDocument;getReferences;ahref == null;identifier=" + identifier + ";number=" + number);
                 }
-            }
+            });
         }
         return references;
     }
@@ -224,8 +224,9 @@ public final class WikipediaDocument {
             return null;
         }
         final Elements children = targetElement.children();
+        final Elements uls = children.select("ul");
         final EventSources sources = new EventSources();
-        for(Element lastList : children.select("ul")) {
+        new CompletableFutures<Element>().stream(uls, lastList -> {
             final Elements elements = lastList.select("li");
             for(Element list : elements) {
                 final Elements hrefs = list.select("a[href]");
@@ -263,7 +264,7 @@ public final class WikipediaDocument {
                     }
                 }
             }
-        }
+        });
         return sources;
     }
 }

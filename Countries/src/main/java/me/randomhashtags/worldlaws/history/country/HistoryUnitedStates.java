@@ -10,7 +10,6 @@ import me.randomhashtags.worldlaws.service.WikipediaDocument;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public enum HistoryUnitedStates implements ICountryHistory {
@@ -28,7 +27,7 @@ public enum HistoryUnitedStates implements ICountryHistory {
             final String urlPrefix = "https://en.wikipedia.org";
             final Elements elements = doc.getSideBar().select("tbody tr td div.sidebar-list div.sidebar-list-content table tbody tr");
             elements.remove(0);
-            final CountryHistorySection section = new CountryHistorySection("Eras", new ArrayList<>());
+            final CountryHistorySection section = new CountryHistorySection();
             String sectionURL = null;
             for(Element element : elements) {
                 final Elements tds = element.select("td");
@@ -51,7 +50,7 @@ public enum HistoryUnitedStates implements ICountryHistory {
                     final List<String> images = urlDoc.getImages();
                     final String imageURL = !images.isEmpty() ? images.get(0) : null;
                     final CountryHistoryEra era = new CountryHistoryEra(title, startingYear, endingYear, description, imageURL, url);
-                    section.addEra(era);
+                    section.add(era);
                 }
             }
             return section;

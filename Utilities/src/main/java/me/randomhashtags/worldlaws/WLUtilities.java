@@ -207,7 +207,7 @@ public abstract class WLUtilities {
         saveErrorToFile(sender, folder, fileName, value);
     }
     private static void saveErrorToFile(String sender, Folder folder, String fileName, String value) {
-        Jsonable.saveFile(sender, folder, fileName, value, "txt");
+        Jsonable.saveFile(sender, folder, fileName, value, "txt", false, true);
     }
 
     public static String getElapsedTime(long started) {

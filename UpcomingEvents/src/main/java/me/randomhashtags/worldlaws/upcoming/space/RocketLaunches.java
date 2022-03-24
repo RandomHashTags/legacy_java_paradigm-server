@@ -30,14 +30,14 @@ public final class RocketLaunches extends LoadedUpcomingEventController {
                 final JSONObject rocketConfigurationJSON = launchJSON.getJSONObject("rocket").getJSONObject("configuration"), padJSON = launchJSON.getJSONObject("pad");
                 final JSONObject serviceProvider = launchJSON.getJSONObject("launch_service_provider");
                 final String windowStart = launchJSON.getString("window_start"), windowEnd = launchJSON.getString("window_end");
-                final int probability = launchJSON.get("probability") instanceof Integer ? launchJSON.getInt("probability") : -1;
+                final int probability = launchJSON.optInt("probability", -1);
                 final boolean exactDay = launchJSON.getBoolean("tbddate"), exactTime = launchJSON.getBoolean("tbdtime");
                 final String name = launchJSON.getString("name");
                 final String status = launchJSON.getJSONObject("status").getString("name").toUpperCase();
                 final String location = padJSON.getJSONObject("location").getString("name");
-                final String rocketImageURL = rocketConfigurationJSON.get("image_url") instanceof String ? rocketConfigurationJSON.getString("image_url") : null;
+                final String rocketImageURL = rocketConfigurationJSON.optString("image_url", null);
 
-                final JSONObject missionJSON = launchJSON.get("mission") instanceof JSONObject ? launchJSON.getJSONObject("mission") : null;
+                final JSONObject missionJSON = launchJSON.optJSONObject("mission", null);
                 RocketLaunchMission mission = null;
                 if(missionJSON != null) {
                     final String missionName = missionJSON.getString("name"), description = missionJSON.getString("description"), missionType = missionJSON.getString("type");

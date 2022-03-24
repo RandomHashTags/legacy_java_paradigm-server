@@ -1,35 +1,20 @@
 package me.randomhashtags.worldlaws.history;
 
-import me.randomhashtags.worldlaws.LocalServer;
+import me.randomhashtags.worldlaws.locale.JSONArrayTranslatable;
 
-import java.util.List;
+import java.util.ArrayList;
 
-public final class CountryHistorySection {
-    private final String name;
-    private final List<CountryHistoryEra> eras;
+public final class CountryHistorySection extends ArrayList<CountryHistoryEra> {
 
-    public CountryHistorySection(String name, List<CountryHistoryEra> eras) {
-        this.name = LocalServer.fixEscapeValues(name);
-        this.eras = eras;
+    public CountryHistorySection() {
+        super();
     }
 
-    public void addEra(CountryHistoryEra era) {
-        eras.add(era);
-    }
-
-    private String getErasString() {
-        final StringBuilder builder = new StringBuilder("{");
-        boolean isFirst = true;
-        for(CountryHistoryEra era : eras) {
-            builder.append(isFirst ? "" : ",").append(era.toString());
-            isFirst = false;
+    public JSONArrayTranslatable toJSONObject() {
+        final JSONArrayTranslatable json = new JSONArrayTranslatable();
+        for(CountryHistoryEra era : this) {
+            json.put(era.toJSONObject());
         }
-        builder.append("}");
-        return builder.toString();
-    }
-
-    @Override
-    public String toString() {
-        return "\"" + name + "\":" + getErasString();
+        return json;
     }
 }

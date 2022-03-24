@@ -119,11 +119,11 @@ public enum ChristianHolidays implements Holiday {
             case EASTER_MONDAY:
                 return ChristianHoliday.getEasterDatePlusDays(isWestern, country, year, 1);
             case EPIPHANY:
+                final EventDate targetDate = new EventDate(Month.JANUARY, 6, year);
                 if(isWestern) {
-                    return new EventDate(Month.JANUARY, 6, year);
+                    return targetDate;
                 } else {
-                    final EventDate targetDate = new EventDate(Month.JANUARY, 6, year);
-                    return targetDate.minusDays(ChristianHoliday.getDifferenceGregorianJulianDays(targetDate));
+                    return targetDate.plusDays(ChristianHoliday.getDifferenceGregorianJulianDays(targetDate));
                 }
             case FEAST_OF_THE_ASCENSION:
                 return ChristianHoliday.getEasterDatePlusDays(isWestern, country, year, 39);

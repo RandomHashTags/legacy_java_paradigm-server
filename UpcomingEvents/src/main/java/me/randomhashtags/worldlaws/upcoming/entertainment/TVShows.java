@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.TVShowEvent;
@@ -34,8 +35,7 @@ public final class TVShows extends LoadedUpcomingEventController {
             final int max = array.length();
             if(max > 0) {
                 final LocalDate nextWeek = LocalDate.now().plusWeeks(1);
-                for(Object obj : array) {
-                    final JSONObject json = (JSONObject) obj;
+                new CompletableFutures<JSONObject>().stream(array, json -> {
                     final int season = json.getInt("season");
                     final JSONObject showJSON = json.getJSONObject("_embedded").getJSONObject("show");
                     if(season < 1000 && !showJSON.getString("status").equalsIgnoreCase("ended")) {
@@ -47,7 +47,7 @@ public final class TVShows extends LoadedUpcomingEventController {
                             final int popularity = showJSON.getInt("weight");
 
                             final String episodeName = json.getString("name");
-                            final int episode = json.get("number") instanceof Integer ? json.getInt("number") : -1;
+                            final int episode = json.optInt("number", -1);
                             final String tag = "Season " + season + ", Episode " + episode;
 
                             final int showID = showJSON.getInt("id");
@@ -55,7 +55,7 @@ public final class TVShows extends LoadedUpcomingEventController {
 
                             final String showURL = showJSON.getString("url");
                             final String officialSite = showJSON.get("officialSite") instanceof String ? showJSON.getString("officialSite").replace("http://", "https://") : null;
-                            final String language = showJSON.get("language") instanceof String ? showJSON.getString("language") : null;
+                            final String language = showJSON.optString("language", null);
                             final JSONArray genres = showJSON.getJSONArray("genres");
 
                             final EventSources sources = new EventSources();
@@ -64,9 +64,9 @@ public final class TVShows extends LoadedUpcomingEventController {
                             final String identifier = getEventDateIdentifier(dateString, showID + "_" + tag);
                             String imageURL = showJSON.has("image") && showJSON.get("image") instanceof JSONObject ? showJSON.getJSONObject("image").getString("original") : null;
 
-                            final String episodeSummary = json.get("summary") instanceof String ? json.getString("summary") : null;
-                            final int runtimeMinutes = json.get("runtime") instanceof Integer ? json.getInt("runtime") : -1;
-                            final JSONObject networkJSON = showJSON.get("network") instanceof JSONObject ? showJSON.getJSONObject("network") : null;
+                            final String episodeSummary = json.optString("summary", null);
+                            final int runtimeMinutes = json.optInt("runtime", -1);
+                            final JSONObject networkJSON = showJSON.optJSONObject("network", null);
                             String network = null, countryCode = null;
                             if(networkJSON != null) {
                                 network = networkJSON.getString("name");
@@ -74,7 +74,7 @@ public final class TVShows extends LoadedUpcomingEventController {
                             }
 
                             if(network == null) {
-                                final JSONObject webChannel = showJSON.get("webChannel") instanceof JSONObject ? showJSON.getJSONObject("webChannel") : null;
+                                final JSONObject webChannel = showJSON.optJSONObject("webChannel", null);
                                 network = webChannel != null ? webChannel.getString("name") : null;
                             }
 
@@ -94,7 +94,7 @@ public final class TVShows extends LoadedUpcomingEventController {
                             putUpcomingEvent(identifier, tvShowEvent);
                         }
                     }
-                }
+                });
             }
         }
     }

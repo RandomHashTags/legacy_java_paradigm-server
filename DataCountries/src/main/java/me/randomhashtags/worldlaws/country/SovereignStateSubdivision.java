@@ -3,9 +3,11 @@ package me.randomhashtags.worldlaws.country;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
-import me.randomhashtags.worldlaws.service.CountryService;
+import me.randomhashtags.worldlaws.service.NewCountryService;
+import me.randomhashtags.worldlaws.service.WikipediaCountryService;
 import me.randomhashtags.worldlaws.service.WikipediaService;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
+import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.util.HashMap;
@@ -78,110 +80,102 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
         if(INFORMATION_CACHE.containsKey(fileName)) {
             return INFORMATION_CACHE.get(fileName);
         }
-        final Folder folder = Folder.COUNTRIES_SUBDIVISIONS_INFORMATION;
+        final Folder folder = Folder.COUNTRIES_INFORMATION_SUBDIVISIONS;
         final WLCountry country = getCountry();
         folder.setCustomFolderName(fileName, folder.getFolderName().replace("%country%", country.getBackendID()));
-        final JSONObjectTranslatable json = new JSONObjectTranslatable();
-        final JSONObject local = getJSONObject(folder, fileName, new CompletionHandler() {
-            @Override
-            public String loadJSONObjectString() {
-                final ConcurrentHashMap<SovereignStateInformationType, HashSet<String>> values = new ConcurrentHashMap<>();
-
-                final HashSet<String> neighbors = getNeighborsJSON();
-                if(neighbors != null) {
-                    values.put(SovereignStateInformationType.NEIGHBORS, neighbors);
-                }
-
-                final EventSources resources = new EventSources(), customResources = getCustomResources();
-                final String governmentWebsite = getGovernmentWebsite();
-                if(governmentWebsite != null) {
-                    resources.add(new EventSource("Government Website", governmentWebsite));
-                }
-                if(customResources != null) {
-                    resources.addAll(customResources);
-                }
-
-                final HashSet<String> set = new HashSet<>();
-                final SovereignStateInformationType resourcesInformationType = SovereignStateInformationType.RESOURCES_STATIC;
-                if(!resources.isEmpty()) {
-                    for(EventSource resource : resources) {
-                        set.add(resource.toString());
-                    }
-                    values.put(resourcesInformationType, set);
-                }
-
-                final HashSet<CountryService> services = new HashSet<>() {{
-                    //add(new WikipediaCountryService(false));
-                }};
-
-                final String name = getName();
-                final String backendID = name.toLowerCase().replace(" ", "");
-                new CompletableFutures<CountryService>().stream(services, service -> {
-                    final SovereignStateInfo info = service.getInfo();
-                    final String territory;
-                    String string = null;
-                    switch (info) {
-                        case SERVICE_WIKIPEDIA:
-                            territory = name;
-                            break;
-                        default:
-                            territory = backendID;
-                            break;
-                    }
-                    if(territory != null) {
-                        final EventSources nonStaticResources = service.getResources(territory);
-                        if(nonStaticResources != null && !nonStaticResources.isEmpty()) {
-                            values.putIfAbsent(resourcesInformationType, new HashSet<>());
-                            for(EventSource resource : nonStaticResources) {
-                                values.get(resourcesInformationType).add(resource.toString());
-                            }
-                        }
-                        string = service.getCountryValue(territory);
-                    }
-                    if(string != null && !string.equals("null")) {
-                        final SovereignStateInformationType type = service.getInformationType();
-                        values.putIfAbsent(type, new HashSet<>());
-                        values.get(type).add(string);
-                    }
-                });
-
-                final SovereignStateInformation info = new SovereignStateInformation(values);
-                return info.toString(false);
-            }
-        });
-        for(String key : local.keySet()) {
-            json.put(key, local.get(key));
-            json.addTranslatedKey(key);
+        final JSONObjectTranslatable json;
+        final JSONObject local = Jsonable.getStaticLocalFileJSONObject(folder, fileName);
+        if(local != null) {
+            json = JSONObjectTranslatable.parse(local, folder, fileName, local.keySet(), key -> {
+                final JSONObject keyJSON = local.getJSONObject(key);
+                return JSONObjectTranslatable.copy(keyJSON);
+            });
+        } else {
+            json = loadStaticInformation();
         }
-
         INFORMATION_CACHE.put(fileName, json);
         return json;
     }
+    private JSONObjectTranslatable loadStaticInformation() {
+        final ConcurrentHashMap<SovereignStateInformationType, HashMap<SovereignStateInfo, JSONObjectTranslatable>> values = new ConcurrentHashMap<>();
 
-    private HashSet<String> getNeighborsJSON() {
+        final JSONObjectTranslatable neighbors = getNeighborsJSON();
+        if(neighbors != null) {
+            values.put(SovereignStateInformationType.NEIGHBORS, new HashMap<>());
+            values.get(SovereignStateInformationType.NEIGHBORS).put(SovereignStateInfo.NEIGHBORS, neighbors);
+        }
+
+        final EventSources resources = new EventSources(), customResources = getCustomResources();
+        final String governmentWebsite = getGovernmentWebsite();
+        if(governmentWebsite != null) {
+            resources.add(new EventSource("Government Website", governmentWebsite));
+        }
+        if(customResources != null) {
+            resources.addAll(customResources);
+        }
+
+        final HashSet<NewCountryService> services = new HashSet<>() {{
+            add(new WikipediaCountryService(false));
+        }};
+
+        final SovereignStateSubdivision subdivision = this;
+        new CompletableFutures<NewCountryService>().stream(services, service -> {
+            final SovereignStateInformationType type = service.getInformationType();
+            final SovereignStateInfo info = service.getInfo();
+            final EventSources sources = service.getResources(subdivision);
+            if(sources != null) {
+                resources.addAll(sources);
+            }
+            final JSONObjectTranslatable result = service.getJSONObject(subdivision);
+            if(result != null && !result.isEmpty()) {
+                values.putIfAbsent(type, new HashMap<>());
+                values.get(type).put(info, result);
+            }
+        });
+
+        if(!resources.isEmpty()) {
+            values.put(SovereignStateInformationType.RESOURCES_STATIC, new HashMap<>());
+            values.get(SovereignStateInformationType.RESOURCES_STATIC).put(SovereignStateInfo.RESOURCES, resources.toJSONObject());
+        }
+
+        final JSONObjectTranslatable json = new JSONObjectTranslatable();
+        for(Map.Entry<SovereignStateInformationType, HashMap<SovereignStateInfo, JSONObjectTranslatable>> map : values.entrySet()) {
+            final SovereignStateInformationType informationType = map.getKey();
+            final JSONObjectTranslatable informationTypeJSON = new JSONObjectTranslatable();
+            for(Map.Entry<SovereignStateInfo, JSONObjectTranslatable> entry : map.getValue().entrySet()) {
+                final SovereignStateInfo info = entry.getKey();
+                final String id = info.getID();
+                final JSONObjectTranslatable result = entry.getValue();
+                informationTypeJSON.put(id, result);
+                informationTypeJSON.addTranslatedKey(id);
+            }
+            informationTypeJSON.put(informationType.getName(), informationType);
+            informationTypeJSON.addTranslatedKey(informationType.getName());
+        }
+        return json;
+    }
+
+    private JSONObjectTranslatable getNeighborsJSON() {
         final SovereignStateSubdivision[] neighbors = getNeighbors();
         if(neighbors != null) {
-            final HashMap<String, HashSet<String>> values = new HashMap<>();
+            final JSONObjectTranslatable json = new JSONObjectTranslatable();
+            final HashMap<WLCountry, HashSet<SovereignStateSubdivision>> values = new HashMap<>();
             for(SovereignStateSubdivision subdivision : neighbors) {
-                final String countryBackendID = subdivision.getCountry().getBackendID();
-                if(!values.containsKey(countryBackendID)) {
-                    values.put(countryBackendID, new HashSet<>());
+                final WLCountry country = subdivision.getCountry();
+                if(!values.containsKey(country)) {
+                    values.put(country, new HashSet<>());
                 }
-                values.get(countryBackendID).add("\"" + subdivision.getName() + "\"");
+                values.get(country).add(subdivision);
             }
-            final HashSet<String> set = new HashSet<>();
-            for(Map.Entry<String, HashSet<String>> map : values.entrySet()) {
-                final String countryBackendID = map.getKey();
-                final StringBuilder builder = new StringBuilder("\"" + countryBackendID + "\":[");
-                boolean isFirst = true;
-                for(String subdivision : map.getValue()) {
-                    builder.append(isFirst ? "" : ",").append(subdivision);
-                    isFirst = false;
+            for(Map.Entry<WLCountry, HashSet<SovereignStateSubdivision>> map : values.entrySet()) {
+                final String countryBackendID = map.getKey().getBackendID();
+                final JSONArray neighboringSubdivisions = new JSONArray();
+                for(SovereignStateSubdivision subdivision : map.getValue()) {
+                    neighboringSubdivisions.put(subdivision.getBackendID());
                 }
-                builder.append("]");
-                set.add(builder.toString());
+                json.put(countryBackendID, neighboringSubdivisions);
             }
-            return set;
+            return json;
         }
         return null;
     }

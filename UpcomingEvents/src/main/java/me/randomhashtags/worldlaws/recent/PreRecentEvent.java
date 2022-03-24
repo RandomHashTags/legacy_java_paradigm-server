@@ -35,7 +35,7 @@ public class PreRecentEvent {
         return category;
     }
     public String getIdentifier() {
-        return null;
+        return title;
     }
     public String getTitle() {
         return title;

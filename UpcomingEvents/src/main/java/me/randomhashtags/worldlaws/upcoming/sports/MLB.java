@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.PreUpcomingEvent;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.upcoming.USAUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.MLBEvent;
@@ -36,7 +37,7 @@ public final class MLB extends USAUpcomingEventController {
             final Elements dates = doc.select("div.ScheduleCollectionGridstyle__SectionWrapper-sc-c0iua4-0");
             final int max = dates.size();
             if(max > 0) {
-                for(Element dateElement : dates) {
+                new CompletableFutures<Element>().stream(dates, dateElement -> {
                     final String previousElementString = dateElement.previousElementSibling().text();
                     final String[] values = previousElementString.split(" ");
                     final Month targetMonth = Month.valueOf(values[1].toUpperCase());
@@ -55,7 +56,7 @@ public final class MLB extends USAUpcomingEventController {
                                 final String url = timeElement.attr("href"), targetTimeET = timeElement.text();
 
                                 final String id = getEventDateIdentifier(dateString, title);
-                                final JSONObjectTranslatable customValues = new JSONObjectTranslatable();
+                                final JSONObjectTranslatable customValues = new JSONObjectTranslatable("awayTeam", "homeTeam");
                                 customValues.put("sources", sources.toJSONObject());
                                 customValues.put("awayTeam", awayTeam.toJSONObject());
                                 customValues.put("homeTeam", homeTeam.toJSONObject());
@@ -64,7 +65,7 @@ public final class MLB extends USAUpcomingEventController {
                             }
                         }
                     }
-                }
+                });
             }
         }
     }

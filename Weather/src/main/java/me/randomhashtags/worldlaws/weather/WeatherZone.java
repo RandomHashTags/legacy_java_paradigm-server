@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.weather;
 
 import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.country.Location;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 
 import java.util.List;
 
@@ -43,5 +44,16 @@ public final class WeatherZone {
                 "\"subdivision\":\"" + subdivision + "\"," +
                 "\"geometry\":" + getGeometryJSON() +
                 "}";
+    }
+
+    public JSONObjectTranslatable toJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("name");
+        json.put("name", name);
+        if(nameSuffix != null) {
+            json.put("nameSuffix", nameSuffix);
+        }
+        json.put("subdivision", subdivision);
+        //json.put("geometry", null);
+        return json;
     }
 }

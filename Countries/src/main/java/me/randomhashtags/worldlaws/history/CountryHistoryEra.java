@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.history;
 
 import me.randomhashtags.worldlaws.Jsoupable;
 import me.randomhashtags.worldlaws.LocalServer;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 
 public final class CountryHistoryEra implements Jsoupable {
     private final int startingYear, endingYear;
@@ -16,14 +17,14 @@ public final class CountryHistoryEra implements Jsoupable {
         this.url = url;
     }
 
-    @Override
-    public String toString() {
-        return "\"" + title + "\":{" +
-                "\"startingYear\":" + startingYear + "," +
-                "\"endingYear\":" + endingYear + "," +
-                "\"description\":\"" + description + "\"," +
-                "\"imageURL\":\"" + imageURL + "\"," +
-                "\"url\":\"" + url + "\"" +
-                "}";
+    public JSONObjectTranslatable toJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("name", "description");
+        json.put("name", title);
+        json.put("startingYear", startingYear);
+        json.put("endingYear", endingYear);
+        json.put("description", description);
+        json.put("imageURL", imageURL);
+        json.put("url", url);
+        return json;
     }
 }

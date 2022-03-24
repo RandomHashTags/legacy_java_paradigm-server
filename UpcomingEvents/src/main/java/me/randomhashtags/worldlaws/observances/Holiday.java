@@ -55,19 +55,13 @@ public interface Holiday {
     }
     default JSONObjectTranslatable getJSONObjectTranslatable() {
         final String name = getName();
-        final Folder folder = Folder.UPCOMING_EVENTS_HOLIDAYS_DESCRIPTIONS;
+        final Folder folder = Folder.UPCOMING_EVENTS_HOLIDAYS_TYPE;
         final HolidayType type = getType();
         final String typeName = type.name().replace("_WEST", "").replace("_EAST", "");
         final String fileName = folder.getFolderName().replace("%type%", typeName);
         folder.setCustomFolderName(name, fileName);
-        final JSONObject json = Jsonable.getStaticJSONObject(folder, name, new CompletionHandler() {
-            @Override
-            public JSONObject loadJSONObject() {
-                return loadHolidayJSON();
-            }
-        });
-        folder.setCustomFolderName(name, fileName);
-
+        final JSONObject local = Jsonable.getStaticLocalFileJSONObject(folder, name);
+        final JSONObject json = local != null ? local : loadHolidayJSON();
         final JSONObjectTranslatable translatable = new JSONObjectTranslatable("name", "description");
         translatable.setFolder(folder);
         translatable.setFileName(name);
@@ -75,7 +69,7 @@ public interface Holiday {
             translatable.put(key, json.get(key));
         }
         translatable.addRemovedClientKeys("identifier");
-        boolean edited = false;
+        boolean edited = local == null;
         if(!translatable.has("identifier")) {
             final String identifier = "***REMOVED***";
             translatable.put("identifier", identifier);
@@ -87,6 +81,10 @@ public interface Holiday {
         }
         if(!translatable.has("type")) {
             translatable.put("type", typeName);
+            edited = true;
+        }
+        if(translatable.has("imageURL") && translatable.getString("imageURL").startsWith("https:https:")) {
+            translatable.put("imageURL", translatable.getString("imageURL").substring("https:".length()));
             edited = true;
         }
         if(edited) {
@@ -107,25 +105,32 @@ public interface Holiday {
         String description = null, imageURL = null;
         EventSources sources = new EventSources();
         if(url != null) {
-            final WikipediaDocument doc = new WikipediaDocument(Folder.UPCOMING_EVENTS_HOLIDAYS_DESCRIPTIONS, url, false);
-            final String pageName = doc.getPageName();
-            sources.addAll(doc.getExternalLinks());
-            sources.add(new EventSource("Wikipedia: " + pageName, url));
-            final List<Element> paragraphs = doc.getConsecutiveParagraphs();
-            final StringBuilder builder = new StringBuilder();
-            boolean isFirst = true;
-            for(Element paragraph : paragraphs) {
-                builder.append(isFirst ? "" : "\n\n").append(paragraph.text());
-                isFirst = false;
-            }
-            description = LocalServer.fixEscapeValues(LocalServer.removeWikipediaTranslations(LocalServer.removeWikipediaReferences(builder.toString())));
-            final List<String> images = doc.getImages();
-            if(!images.isEmpty()) {
-                final String src = images.get(0);
-                final String[] endingValues = src.split("/");
-                final String endingValue = endingValues[endingValues.length-1];
-                final String targetImageURL = src.contains("px-") ? src.split(endingValue)[0] + "%quality%px-" + endingValue.split("px-")[1] : src;
-                imageURL = "https:" + targetImageURL;
+            final WikipediaDocument doc = new WikipediaDocument(Folder.UPCOMING_EVENTS_HOLIDAYS_TYPE, url, false);
+            if(doc.exists()) {
+                final String pageName = doc.getPageName();
+                final EventSources externalLinks = doc.getExternalLinks();
+                if(externalLinks != null) {
+                    sources.addAll(externalLinks);
+                }
+                sources.add(new EventSource("Wikipedia: " + pageName, url));
+                final StringBuilder builder = new StringBuilder();
+                final List<Element> paragraphs = doc.getConsecutiveParagraphs();
+                if(paragraphs != null) {
+                    boolean isFirst = true;
+                    for(Element paragraph : paragraphs) {
+                        builder.append(isFirst ? "" : "\n\n").append(paragraph.text());
+                        isFirst = false;
+                    }
+                }
+                description = LocalServer.fixEscapeValues(LocalServer.removeWikipediaTranslations(LocalServer.removeWikipediaReferences(builder.toString())));
+                final List<String> images = doc.getImages();
+                if(!images.isEmpty()) {
+                    final String src = images.get(0);
+                    final String[] endingValues = src.split("/");
+                    final String endingValue = endingValues[endingValues.length-1];
+                    final String targetImageURL = src.contains("px-") ? src.split(endingValue)[0] + "%quality%px-" + endingValue.split("px-")[1] : src;
+                    imageURL = (targetImageURL.startsWith("https:") ? "" : "https:") + targetImageURL;
+                }
             }
         }
         final JSONObjectTranslatable json = new JSONObjectTranslatable("name", "description");

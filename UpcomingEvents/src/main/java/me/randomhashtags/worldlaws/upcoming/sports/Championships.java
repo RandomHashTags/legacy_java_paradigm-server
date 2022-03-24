@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.upcoming.sports;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.service.WikipediaDocument;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.ChampionshipEvent;
@@ -14,6 +15,7 @@ import org.jsoup.select.Elements;
 import java.time.LocalDate;
 import java.time.Month;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public final class Championships extends UpcomingEventController { // https://en.wikipedia.org/wiki/2021_in_sports
@@ -33,8 +35,11 @@ public final class Championships extends UpcomingEventController { // https://en
             final Month thisMonth = date.getMonth(), previousMonth = date.minusMonths(1).getMonth();
             final int thisMonthInt = thisMonth.getValue(), previousMonthInt = previousMonth.getValue();
             final Elements tables = doc.select("h3 + table.wikitable");
-            loadPreEventsFrom(year, thisMonth, tables.get(thisMonthInt-1));
-            loadPreEventsFrom(year, previousMonth, tables.get(previousMonthInt-1));
+            final List<Runnable> test = Arrays.asList(
+                    () -> loadPreEventsFrom(year, thisMonth, tables.get(thisMonthInt-1)),
+                    () -> loadPreEventsFrom(year, previousMonth, tables.get(previousMonthInt-1))
+            );
+            new CompletableFutures<Runnable>().stream(test.stream(), Runnable::run, 2);
         }
     }
 

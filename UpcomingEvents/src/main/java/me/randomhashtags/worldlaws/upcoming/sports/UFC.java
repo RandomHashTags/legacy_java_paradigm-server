@@ -31,24 +31,24 @@ public final class UFC extends USAUpcomingEventController {
                     final Elements elements = tableElement.select("tbody tr");
                     elements.remove(0);
                     if(elements.size() > 0) {
-                        elements.parallelStream().forEach(element -> {
+                        for(Element element : elements) {
                             final Elements rows = element.select("td");
-                            final int rowSize = rows.size();
                             final Element eventElement = rows.get(0);
-                            final String event = eventElement.text(), dateElementString = rows.get(1).text(), location = rows.get(rowSize-2).text();
+                            final String dateElementString = rows.get(1).text();
                             final String[] dateValues = dateElementString.split(", "), dates = dateValues[0].split(" ");
                             final Month month = WLUtilities.valueOfMonthFromInput(dates[0]);
                             if(month != null) {
                                 final int day = Integer.parseInt(dates[1]), year = Integer.parseInt(dateValues[1]);
                                 final Elements hrefs = eventElement.select("a");
                                 if(!hrefs.isEmpty()) {
+                                    final String event = eventElement.text(), location = rows.get(rows.size()-2).text();
                                     final String wikipageURL = wikipagePrefix + hrefs.get(0).attr("href");
                                     final String dateString = getEventDateString(year, month, day), id = getEventDateIdentifier(dateString, event);
                                     final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, event, wikipageURL, location);
                                     putPreUpcomingEvent(id, preUpcomingEvent);
                                 }
                             }
-                        });
+                        }
                     }
                     break;
                 }

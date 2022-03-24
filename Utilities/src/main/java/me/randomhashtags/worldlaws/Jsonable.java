@@ -126,6 +126,9 @@ public interface Jsonable {
     static void saveFile(Folder folder, String fileName, String value, String extension) {
         saveFile(null, folder, fileName, value, extension);
     }
+    static void saveFile(String sender, Folder folder, String fileName, String value, String extension, boolean canExist, boolean async) {
+        writeFile(sender, folder, fileName, value, extension, canExist, async);
+    }
     static void saveFile(String sender, Folder folder, String fileName, String value, String extension) {
         writeFile(sender, folder, fileName, value, extension, false);
     }
@@ -134,7 +137,7 @@ public interface Jsonable {
     }
     private static void writeFile(String sender, Folder folder, String fileName, Object value, String extension, boolean canExist, boolean async) {
         if(value != null) {
-            final String directory = getFilePath(folder, fileName, extension);
+            final String directory = getFilePath(folder, fileName, extension), paradigmPath = folder.getFolderPath(fileName) + File.separator + fileName;
             final Path path = Paths.get(directory);
             sender = sender != null ? "[" + sender + "] " : "";
             final boolean alreadyExists = Files.exists(path);
@@ -142,11 +145,11 @@ public interface Jsonable {
                 if(!canExist) {
                     WLLogger.logError("Jsonable", sender + "Jsonable - writeFile(" + fileName + ") - already exists at " + directory + " (folder=" + folder.name() + ")!");
                 } else {
-                    WLLogger.logInfo(sender + "Jsonable - overriding file with folder " + folder.name() + " at " + path.toAbsolutePath().toString());
+                    WLLogger.logInfo(sender + "Jsonable - overriding file with folder " + folder.name() + " at " + paradigmPath);
                     write(path, value, async);
                 }
             } else {
-                WLLogger.logInfo(sender + "Jsonable - creating file with folder " + folder.name() + " at " + path.toAbsolutePath().toString());
+                WLLogger.logInfo(sender + "Jsonable - creating file with folder " + folder.name() + " at " + paradigmPath);
                 tryCreatingParentFolders(path);
                 write(path, value, async);
             }

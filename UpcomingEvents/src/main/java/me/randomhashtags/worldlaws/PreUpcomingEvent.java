@@ -106,20 +106,8 @@ public final class PreUpcomingEvent {
         return imageURL;
     }
 
-    /*public String toStringWithImageURL(UpcomingEventType type, String imageURL) {
-        final String[] values = id.split("\\.");
-        return "\"" + id.substring(values[0].length() + 1) + "\":{" +
-                (customTypeSingularName != null ? "\"customTypeSingularName\":\"" + customTypeSingularName + "\"," : "") +
-                (tag != null && !tag.equals(title) ? "\"tag\":\"" + getTag() + "\"," : "") +
-                (imageURL != null ? "\"imageURL\":\"" + optimizeImageURL(type, imageURL) + "\"," : "") +
-                (countries != null ? "\"countries\":" + getCountriesArray() + "," : "") +
-                (customValues != null ? "\"customValues\":" + getCustomValuesJSON() + "," : "") +
-                "\"title\":\"" + title + "\"" +
-                "}";
-    }*/
-
     public LoadedPreUpcomingEvent toLoadedPreUpcomingEventWithImageURL(UpcomingEventType type, String imageURL) {
-        final JSONObjectTranslatable json = new JSONObjectTranslatable("title", "tag", "customTypeSingularName");
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("title", "tag", "customTypeSingularName", "customValues");
         json.put("title", title);
         if(tag != null && !tag.equals(title)) {
             json.put("tag", getTag());

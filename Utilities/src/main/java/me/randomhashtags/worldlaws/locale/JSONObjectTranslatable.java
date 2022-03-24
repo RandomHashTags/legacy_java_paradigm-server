@@ -4,21 +4,26 @@ import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.stream.CustomConsumer;
 import org.json.JSONObject;
 
-import java.util.Arrays;
-import java.util.Collection;
-import java.util.HashSet;
+import java.util.*;
 
 public class JSONObjectTranslatable extends JSONObject implements JSONTranslatable {
 
     // TODO: have a cache of frequent words translated stored in a file
 
     public static JSONObjectTranslatable copy(JSONObject json) {
+        return copy(json, false);
+    }
+    public static JSONObjectTranslatable copy(JSONObject json, boolean translatableKeys) {
         if(json == null || json.isEmpty()) {
             return null;
         }
         final JSONObjectTranslatable translatable = new JSONObjectTranslatable();
-        for(String key : json.keySet()) {
+        final Set<String> keys = json.keySet();
+        for(String key : keys) {
             translatable.put(key, json.get(key));
+        }
+        if(translatableKeys) {
+            translatable.addTranslatedKeys(keys);
         }
         return translatable;
     }
@@ -29,8 +34,9 @@ public class JSONObjectTranslatable extends JSONObject implements JSONTranslatab
         translatable.folder = folder;
         translatable.fileName = fileName;
         for(String key : json.keySet()) {
-            final Object obj = capturedKeys != null && capturedKeys.contains(key) ? yoink.accept(key) : json.get(key);
-            translatable.put(key, obj);
+            final Object jsonObj = json.get(key);
+            final Object obj = capturedKeys != null && capturedKeys.contains(key) ? yoink.accept(key) : jsonObj;
+            translatable.put(key, obj != null ? obj : jsonObj);
         }
         return translatable;
     }
@@ -61,10 +67,14 @@ public class JSONObjectTranslatable extends JSONObject implements JSONTranslatab
     }
     @Override
     public void addTranslatedKey(String key) {
+        addTranslatedKeys(List.of(key));
+    }
+
+    public void addTranslatedKeys(Collection<String> keys) {
         if(translatedKeys == null) {
             translatedKeys = new HashSet<>();
         }
-        translatedKeys.add(key);
+        translatedKeys.addAll(keys);
     }
 
     @Override

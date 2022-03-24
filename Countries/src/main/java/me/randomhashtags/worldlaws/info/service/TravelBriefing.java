@@ -6,7 +6,9 @@ import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
-import me.randomhashtags.worldlaws.service.CountryService;
+import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
+import me.randomhashtags.worldlaws.service.NewCountryService;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -14,10 +16,15 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public enum TravelBriefing implements CountryService {
+public enum TravelBriefing implements NewCountryService { // TODO: delete this file
     INSTANCE;
 
-    private HashMap<String, String> countries;
+    private HashMap<String, JSONObjectTranslatable> countries;
+
+    @Override
+    public Folder getFolder() {
+        return null;
+    }
 
     @Override
     public SovereignStateInfo getInfo() {
@@ -30,23 +37,29 @@ public enum TravelBriefing implements CountryService {
     }
 
     @Override
-    public String getCountryValue(String countryBackendID) {
+    public JSONObjectTranslatable getJSONObject(WLCountry country) {
+        final String countryBackendID = country.getBackendID();
         return getCountryTravelBriefing(countryBackendID);
     }
 
     @Override
-    public String loadData() {
+    public JSONObjectTranslatable loadData() {
         return null;
     }
 
-    private String getCountryTravelBriefing(String country) {
+    @Override
+    public JSONObjectTranslatable parseData(JSONObject json) {
+        return null;
+    }
+
+    private JSONObjectTranslatable getCountryTravelBriefing(String country) {
         final long started = System.currentTimeMillis();
         if(countries == null) {
             countries = new HashMap<>();
         }
 
         final String targetCountry = country.toLowerCase().replace(" ", "_");
-        String string = null;
+        JSONObjectTranslatable string = null;
         if(countries.containsKey(targetCountry)) {
             string = countries.get(targetCountry);
         } else {

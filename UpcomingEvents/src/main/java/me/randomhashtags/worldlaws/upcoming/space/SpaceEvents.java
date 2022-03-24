@@ -37,17 +37,16 @@ public final class SpaceEvents extends LoadedUpcomingEventController {
                     final int year = Integer.parseInt(dateValues[0]), day = Integer.parseInt(dateValues[2]);
                     final Month month = Month.of(Integer.parseInt(dateValues[1]));
                     final EventDate eventDate = new EventDate(month, day, year);
-
                     if(eventDate.getLocalDate().isBefore(endingDate)) {
                         final String dateString = eventDate.getDateString();
 
                         final String title = resultJSON.getString("name");
                         final String description = resultJSON.getString("description");
-                        final String location = resultJSON.get("location") instanceof String ? resultJSON.getString("location") : null;
+                        final String location = resultJSON.optString("location", null);
                         final String imageURL = resultJSON.getString("feature_image");
 
-                        final String newsURL = resultJSON.get("news_url") instanceof String ? resultJSON.getString("news_url") : null;
-                        final String videoURL = resultJSON.get("video_url") instanceof String ? resultJSON.getString("video_url") : null;
+                        final String newsURL = resultJSON.optString("news_url", null);
+                        final String videoURL = resultJSON.optString("video_url", null);
 
                         final String id = getEventDateIdentifier(dateString, title);
                         final SpaceEvent event = new SpaceEvent(eventDate, title, description, imageURL, location, newsURL, videoURL, sources);

@@ -16,7 +16,7 @@ public final class WikipediaCountryService implements NewCountryService {
     private final Folder folder;
 
     public WikipediaCountryService(boolean isCountries) {
-        this.folder = isCountries ? Folder.COUNTRIES_WIKIPEDIA : Folder.COUNTRIES_SUBDIVISIONS_WIKIPEDIA;
+        this.folder = isCountries ? Folder.COUNTRIES_WIKIPEDIA : Folder.COUNTRIES_WIKIPEDIA_SUBDIVISIONS;
     }
 
     @Override
