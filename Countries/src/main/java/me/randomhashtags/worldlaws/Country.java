@@ -138,21 +138,20 @@ public interface Country extends SovereignState {
     default JSONObjectTranslatable getInformation(APIVersion version) {
         final String backendID = getBackendID();
         if(!INFORMATION_CACHE.containsKey(backendID)) {
-            final JSONObjectTranslatable json = new JSONObjectTranslatable();
-            final JSONObjectTranslatable staticInfo = getStaticInformation(), nonStaticInfo = getNonStaticInformation();
-            for(String key : staticInfo.keySet()) {
-                json.put(key, staticInfo.get(key));
-                json.addTranslatedKey(key);
+            final JSONObjectTranslatable json = getStaticInformation(), nonStaticInfo = getNonStaticInformation();
+            if(json != null) {
+                if(nonStaticInfo != null && !nonStaticInfo.isEmpty()) {
+                    final String key = SovereignStateInformationType.SERVICES_NONSTATIC.getName();
+                    json.put(key, nonStaticInfo);
+                    json.addTranslatedKey(key);
+                }
+                INFORMATION_CACHE.put(backendID, json);
             }
-            for(String key : nonStaticInfo.keySet()) {
-                json.put(key, nonStaticInfo.get(key));
-                json.addTranslatedKey(key);
-            }
-            INFORMATION_CACHE.put(backendID, json);
         }
         return INFORMATION_CACHE.get(backendID);
     }
     private JSONObjectTranslatable getStaticInformation() {
+        final long started = System.currentTimeMillis();
         final String backendID = getBackendID();
         if(!STATIC_INFORMATION_CACHE.containsKey(backendID)) {
             final int version = ResponseVersions.COUNTRIES.getValue();
@@ -166,17 +165,14 @@ public interface Country extends SovereignState {
             } else {
                 json = new JSONObjectTranslatable();
                 for(String key : local.keySet()) {
-                    final JSONObjectTranslatable innerJSONTranslatable = new JSONObjectTranslatable();
                     final JSONObject innerJSON = local.getJSONObject(key);
-                    for(String innerKey : innerJSON.keySet()) {
-                        innerJSONTranslatable.put(innerKey, innerJSON.get(innerKey));
-                        innerJSONTranslatable.addTranslatedKey(innerKey);
-                    }
-                    json.put(key, innerJSON);
+                    final JSONObjectTranslatable innerJSONTranslatable = JSONObjectTranslatable.copy(innerJSON, true);
+                    json.put(key, innerJSONTranslatable);
                     json.addTranslatedKey(key);
                 }
             }
             STATIC_INFORMATION_CACHE.put(backendID, json);
+            WLLogger.logInfo("Country - loaded static information for country \"" + backendID + "\" (took " + WLUtilities.getElapsedTime(started) + ")");
         }
         return STATIC_INFORMATION_CACHE.get(backendID);
     }
@@ -186,9 +182,16 @@ public interface Country extends SovereignState {
         json.setFileName(country.getBackendID());
 
         final HashSet<NewCountryService> services = CountryServices.STATIC_SERVICES;
-        final HashSet<EventSources> resources = new HashSet<>();
+        final EventSources resources = new EventSources();
         final ConcurrentHashMap<SovereignStateInformationType, HashMap<SovereignStateInfo, JSONObjectTranslatable>> values = new ConcurrentHashMap<>();
         final WLCountry[] neighbors = country.getNeighbors();
+        if(neighbors != null) {
+            final JSONArray neighborsArray = new JSONArray();
+            for(WLCountry neighborCountry : neighbors) {
+                neighborsArray.put(neighborCountry.getBackendID());
+            }
+            json.put(SovereignStateInformationType.NEIGHBORS.getName(), neighborsArray);
+        }
 
         new CompletableFutures<NewCountryService>().stream(services, service -> {
             final JSONObjectTranslatable result = service.getJSONObject(country);
@@ -200,22 +203,12 @@ public interface Country extends SovereignState {
             }
             final EventSources serviceResources = service.getResources(country);
             if(serviceResources != null) {
-                resources.add(serviceResources);
+                resources.addAll(serviceResources);
             }
         });
 
-        final SovereignStateInformationType resourcesInformationType = SovereignStateInformationType.RESOURCES_STATIC;
-        final SovereignStateInfo resourcesInfo = SovereignStateInfo.RESOURCES;
         if(!resources.isEmpty()) {
-            values.putIfAbsent(resourcesInformationType, new HashMap<>());
-            values.get(resourcesInformationType).putIfAbsent(resourcesInfo, new JSONObjectTranslatable());
-            final JSONObjectTranslatable resourcesJSON = values.get(resourcesInformationType).get(resourcesInfo);
-            for(EventSources sources : resources) {
-                final JSONObjectTranslatable sourcesJSON = sources.toJSONObject();
-                for(String key : sourcesJSON.keySet()) {
-                    resourcesJSON.put(key, sourcesJSON.get(key));
-                }
-            }
+            json.put(SovereignStateInformationType.RESOURCES_STATIC.getName(), resources.toJSONObject());
         }
 
         for(Map.Entry<SovereignStateInformationType, HashMap<SovereignStateInfo, JSONObjectTranslatable>> map : values.entrySet()) {

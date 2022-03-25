@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws.service;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
+import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import org.json.JSONObject;
@@ -46,7 +47,12 @@ public final class WikipediaCountryService implements NewCountryService {
 
     @Override
     public JSONObjectTranslatable loadData(WLCountry country) {
-        return getWikipediaJSON(country);
+        return getWikipediaJSON(country.getBackendID(), country.getWikipediaURL());
+    }
+
+    @Override
+    public JSONObjectTranslatable loadData(SovereignStateSubdivision subdivision) {
+        return getWikipediaJSON(subdivision.getBackendID(), subdivision.getWikipediaURL());
     }
 
     @Override
@@ -57,8 +63,7 @@ public final class WikipediaCountryService implements NewCountryService {
         return translatable;
     }
 
-    private JSONObjectTranslatable getWikipediaJSON(WLCountry country) {
-        final String url = country.getWikipediaURL();
+    private JSONObjectTranslatable getWikipediaJSON(String identifier, String url) {
         Document document = Jsoupable.getLocalDocument(folder, url);
         if(document == null) {
             document = getDocument(folder, url, false);
@@ -84,7 +89,7 @@ public final class WikipediaCountryService implements NewCountryService {
             json.put("url", url);
             return json;
         } else {
-            WLLogger.logError(this, "missing paragraph for country \"" + country.getShortName() + "\"!");
+            WLLogger.logError(this, "missing paragraph for identifier \"" + identifier + "\"!");
             return null;
         }
     }

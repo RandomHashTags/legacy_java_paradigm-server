@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws.info.legal;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.Folder;
+import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
 import me.randomhashtags.worldlaws.info.CountryInfoKey;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
@@ -46,6 +47,9 @@ public interface CountryLegalityService extends NewCountryServiceCentralData {
     default void insertCountryData(JSONObjectTranslatable dataJSON, JSONObjectTranslatable countryJSON) {
         countryJSON.addTranslatedKey("title");
         countryJSON.put("title", getInfo().getTitle());
+        if(!countryJSON.has("yearOfData")) {
+            countryJSON.put("yearOfData", WLUtilities.getTodayYear());
+        }
         countryJSON.put("sources", getSources().toJSONObject());
     }
 

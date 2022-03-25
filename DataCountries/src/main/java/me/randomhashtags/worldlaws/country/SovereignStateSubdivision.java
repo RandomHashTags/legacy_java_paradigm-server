@@ -76,7 +76,7 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
 
     @Override
     default JSONObjectTranslatable getInformation(APIVersion version) {
-        final String fileName = name();
+        final String fileName = name().toLowerCase();
         if(INFORMATION_CACHE.containsKey(fileName)) {
             return INFORMATION_CACHE.get(fileName);
         }
@@ -92,6 +92,9 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
             });
         } else {
             json = loadStaticInformation();
+            json.setFolder(folder);
+            json.setFileName(fileName);
+            json.save();
         }
         INFORMATION_CACHE.put(fileName, json);
         return json;
@@ -149,8 +152,9 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
                 informationTypeJSON.put(id, result);
                 informationTypeJSON.addTranslatedKey(id);
             }
-            informationTypeJSON.put(informationType.getName(), informationType);
-            informationTypeJSON.addTranslatedKey(informationType.getName());
+            final String informationTypeName = informationType.getName();
+            json.put(informationTypeName, informationTypeJSON);
+            json.addTranslatedKey(informationTypeName);
         }
         return json;
     }

@@ -93,6 +93,8 @@ public final class Countries implements WLServer {
     }
 
     private void loadServices() {
+        loadCountries(APIVersion.getLatest());
+
         final HashSet<NewCountryService> newServices = new HashSet<>() {{
             addAll(Arrays.asList(
                     CountryAvailabilities.INSTANCE,
@@ -147,10 +149,10 @@ public final class Countries implements WLServer {
                 final WLCountry[] countries = WLCountry.values();
                 for(WLCountry country : countries) {
                     final CustomCountry customCountry = new CustomCountry(country);
-                    countriesMap.put(customCountry.getBackendID(), customCountry);
-                    final String id = customCountry.getBackendID();
-                    json.put(id, customCountry.getJSONObject());
-                    json.addTranslatedKey(id);
+                    final String backendID = customCountry.getBackendID();
+                    countriesMap.put(backendID, customCountry);
+                    json.put(backendID, customCountry.getJSONObject());
+                    json.addTranslatedKey(backendID);
                 }
                 return json;
             default:

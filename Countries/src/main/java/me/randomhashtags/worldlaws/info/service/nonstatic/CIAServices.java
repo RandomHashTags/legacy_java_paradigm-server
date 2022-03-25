@@ -36,6 +36,7 @@ public enum CIAServices implements NewCountryServiceNonStatic {
         final String countryBackendID = country.getBackendID();
         final String identifier = countryBackendID.replace(" ", "").toLowerCase();
         final JSONObjectTranslatable json = new JSONObjectTranslatable();
+        final TravelValues travelValues = getTravelValues(country.getShortName());
         if(values.containsKey(identifier)) {
             for(Map.Entry<String, String> map : values.get(identifier).entrySet()) {
                 json.put(map.getKey(), map.getValue());

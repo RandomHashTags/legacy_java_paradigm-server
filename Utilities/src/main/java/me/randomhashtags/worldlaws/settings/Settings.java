@@ -1,8 +1,6 @@
 package me.randomhashtags.worldlaws.settings;
 
-import me.randomhashtags.worldlaws.Folder;
-import me.randomhashtags.worldlaws.Jsonable;
-import me.randomhashtags.worldlaws.TargetServer;
+import me.randomhashtags.worldlaws.*;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -14,18 +12,20 @@ import java.util.UUID;
 public enum Settings {
     ;
 
-    private static JSONObject DATA_JSON = refreshData();
+    private static JSONObject DATA_JSON = refreshDataValues();
     private static JSONObject SETTINGS_JSON = refreshSettings();
     private static JSONObject PRIVATE_VALUES_JSON = refreshPrivateValues();
     private static JSONObject SERVER_VALUES_JSON = refreshServerValues();
 
     public static void refresh() {
-        refreshData();
+        final long started = System.currentTimeMillis();
+        refreshDataValues();
         refreshSettings();
         refreshPrivateValues();
         refreshServerValues();
+        WLLogger.logInfo("Settings - refreshed (took " + WLUtilities.getElapsedTime(started) + ")");
     }
-    private static JSONObject refreshData() {
+    private static JSONObject refreshDataValues() {
         DATA_JSON = Jsonable.getStaticLocalFileJSONObject(Folder.OTHER, "data values");
         if(DATA_JSON == null) {
             DATA_JSON = new JSONObject();

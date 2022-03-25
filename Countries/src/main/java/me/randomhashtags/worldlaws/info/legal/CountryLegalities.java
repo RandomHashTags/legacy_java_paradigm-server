@@ -17,7 +17,7 @@ import java.util.List;
 public enum CountryLegalities implements CountryLegalityService {
     ABORTION(
             "https://en.wikipedia.org/wiki/Abortion_law",
-            -1
+            2019
     ),
     BITCOIN(
             "https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country_or_territory",
