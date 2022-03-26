@@ -189,8 +189,8 @@ public final class Countries implements WLServer {
                                 return subdivision.getInformation(version);
                             } else {
                                 WLLogger.logError(this, "getServerResponse - failed to get information for subdivision \"" + subdivisionBackendID + "\" from country \"" + country.getBackendID() + "\"!");
+                                return null;
                             }
-                            return null;
                         default:
                             return null;
                     }

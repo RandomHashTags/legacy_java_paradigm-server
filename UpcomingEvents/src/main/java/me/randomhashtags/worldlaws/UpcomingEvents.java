@@ -73,8 +73,8 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void initialize() {
-        test();
-        //load();
+        //test();
+        load();
     }
 
     @Override

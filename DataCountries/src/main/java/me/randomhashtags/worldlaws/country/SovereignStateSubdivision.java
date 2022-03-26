@@ -6,6 +6,7 @@ import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.service.NewCountryService;
 import me.randomhashtags.worldlaws.service.WikipediaCountryService;
 import me.randomhashtags.worldlaws.service.WikipediaService;
+import me.randomhashtags.worldlaws.settings.ResponseVersions;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -80,21 +81,25 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
         if(INFORMATION_CACHE.containsKey(fileName)) {
             return INFORMATION_CACHE.get(fileName);
         }
+        final int responseVersion = ResponseVersions.SUBDIVISION_INFORMATION.getValue();
         final Folder folder = Folder.COUNTRIES_INFORMATION_SUBDIVISIONS;
         final WLCountry country = getCountry();
         folder.setCustomFolderName(fileName, folder.getFolderName().replace("%country%", country.getBackendID()));
         final JSONObjectTranslatable json;
         final JSONObject local = Jsonable.getStaticLocalFileJSONObject(folder, fileName);
-        if(local != null) {
-            json = JSONObjectTranslatable.parse(local, folder, fileName, local.keySet(), key -> {
-                final JSONObject keyJSON = local.getJSONObject(key);
-                return JSONObjectTranslatable.copy(keyJSON);
-            });
-        } else {
+        if(local == null || local.getInt("response_version") != responseVersion) {
             json = loadStaticInformation();
             json.setFolder(folder);
             json.setFileName(fileName);
             json.save();
+        } else {
+            final HashSet<String> keys = new HashSet<>(local.keySet());
+            keys.remove("response_version");
+            json = JSONObjectTranslatable.parse(local, folder, fileName, keys, key -> {
+                final JSONObject keyJSON = local.getJSONObject(key);
+                return JSONObjectTranslatable.copy(keyJSON);
+            });
+            json.put("response_version", responseVersion);
         }
         INFORMATION_CACHE.put(fileName, json);
         return json;
@@ -102,12 +107,7 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
     private JSONObjectTranslatable loadStaticInformation() {
         final ConcurrentHashMap<SovereignStateInformationType, HashMap<SovereignStateInfo, JSONObjectTranslatable>> values = new ConcurrentHashMap<>();
 
-        final JSONObjectTranslatable neighbors = getNeighborsJSON();
-        if(neighbors != null) {
-            values.put(SovereignStateInformationType.NEIGHBORS, new HashMap<>());
-            values.get(SovereignStateInformationType.NEIGHBORS).put(SovereignStateInfo.NEIGHBORS, neighbors);
-        }
-
+        final JSONObjectTranslatable neighborsJSON = getNeighborsJSON();
         final EventSources resources = new EventSources(), customResources = getCustomResources();
         final String governmentWebsite = getGovernmentWebsite();
         if(governmentWebsite != null) {
@@ -136,18 +136,13 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
             }
         });
 
-        if(!resources.isEmpty()) {
-            values.put(SovereignStateInformationType.RESOURCES_STATIC, new HashMap<>());
-            values.get(SovereignStateInformationType.RESOURCES_STATIC).put(SovereignStateInfo.RESOURCES, resources.toJSONObject());
-        }
-
         final JSONObjectTranslatable json = new JSONObjectTranslatable();
         for(Map.Entry<SovereignStateInformationType, HashMap<SovereignStateInfo, JSONObjectTranslatable>> map : values.entrySet()) {
             final SovereignStateInformationType informationType = map.getKey();
             final JSONObjectTranslatable informationTypeJSON = new JSONObjectTranslatable();
             for(Map.Entry<SovereignStateInfo, JSONObjectTranslatable> entry : map.getValue().entrySet()) {
                 final SovereignStateInfo info = entry.getKey();
-                final String id = info.getID();
+                final String id = info.getTitle();
                 final JSONObjectTranslatable result = entry.getValue();
                 informationTypeJSON.put(id, result);
                 informationTypeJSON.addTranslatedKey(id);
@@ -156,6 +151,13 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
             json.put(informationTypeName, informationTypeJSON);
             json.addTranslatedKey(informationTypeName);
         }
+        if(!resources.isEmpty()) {
+            json.put(SovereignStateInformationType.RESOURCES_STATIC.getName(), resources.toJSONObject());
+        }
+        if(neighborsJSON != null) {
+            json.put(SovereignStateInformationType.NEIGHBORS.getName(), neighborsJSON);
+        }
+        json.put("response_version", ResponseVersions.SUBDIVISION_INFORMATION.getValue());
         return json;
     }
 

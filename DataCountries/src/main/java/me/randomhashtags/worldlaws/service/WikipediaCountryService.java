@@ -31,6 +31,11 @@ public final class WikipediaCountryService implements NewCountryService {
     }
 
     @Override
+    public String getServiceFileName(SovereignStateSubdivision subdivision) {
+        return subdivision.getBackendID();
+    }
+
+    @Override
     public SovereignStateInformationType getInformationType() {
         return SovereignStateInformationType.SERVICES_STATIC;
     }
@@ -53,6 +58,11 @@ public final class WikipediaCountryService implements NewCountryService {
     @Override
     public JSONObjectTranslatable loadData(SovereignStateSubdivision subdivision) {
         return getWikipediaJSON(subdivision.getBackendID(), subdivision.getWikipediaURL());
+    }
+
+    @Override
+    public JSONObjectTranslatable getJSONObject(SovereignStateSubdivision subdivision) {
+        return getJSONObject(subdivision, true);
     }
 
     @Override

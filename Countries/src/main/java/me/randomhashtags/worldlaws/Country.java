@@ -16,6 +16,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
+import java.util.concurrent.atomic.AtomicReference;
 
 public interface Country extends SovereignState {
     ConcurrentHashMap<String, JSONObjectTranslatable> CACHE = new ConcurrentHashMap<>();
@@ -154,21 +155,25 @@ public interface Country extends SovereignState {
         final long started = System.currentTimeMillis();
         final String backendID = getBackendID();
         if(!STATIC_INFORMATION_CACHE.containsKey(backendID)) {
-            final int version = ResponseVersions.COUNTRIES.getValue();
             final Folder folder = Folder.COUNTRIES_INFORMATION;
             folder.setCustomFolderName(backendID, folder.getFolderName());
             final JSONObject local = getLocalFileJSONObject(folder, backendID);
             final JSONObjectTranslatable json;
-            if(local == null || local.getInt("response_version") != version) {
+            if(local == null || local.getInt("response_version") != ResponseVersions.COUNTRY_INFORMATION.getValue()) {
                 final WLCountry country = getWLCountry();
                 json = loadStaticInformation(folder, country);
             } else {
                 json = new JSONObjectTranslatable();
                 for(String key : local.keySet()) {
-                    final JSONObject innerJSON = local.getJSONObject(key);
-                    final JSONObjectTranslatable innerJSONTranslatable = JSONObjectTranslatable.copy(innerJSON, true);
-                    json.put(key, innerJSONTranslatable);
-                    json.addTranslatedKey(key);
+                    final Object obj = local.get(key);
+                    if(obj instanceof JSONObject) {
+                        final JSONObject innerJSON = local.getJSONObject(key);
+                        final JSONObjectTranslatable innerJSONTranslatable = JSONObjectTranslatable.copy(innerJSON, true);
+                        json.put(key, innerJSONTranslatable);
+                        json.addTranslatedKey(key);
+                    } else {
+                        json.put(key, obj);
+                    }
                 }
             }
             STATIC_INFORMATION_CACHE.put(backendID, json);
@@ -193,13 +198,18 @@ public interface Country extends SovereignState {
             json.put(SovereignStateInformationType.NEIGHBORS.getName(), neighborsArray);
         }
 
+        final AtomicReference<JSONObjectTranslatable> availabilitiesResult = new AtomicReference<>();
         new CompletableFutures<NewCountryService>().stream(services, service -> {
             final JSONObjectTranslatable result = service.getJSONObject(country);
             if(result != null && !result.isEmpty()) {
                 final SovereignStateInformationType type = service.getInformationType();
                 final SovereignStateInfo info = service.getInfo();
-                values.putIfAbsent(type, new HashMap<>());
-                values.get(type).put(info, result);
+                if(type == SovereignStateInformationType.AVAILABILITIES) {
+                    availabilitiesResult.set(result);
+                } else {
+                    values.putIfAbsent(type, new HashMap<>());
+                    values.get(type).put(info, result);
+                }
             }
             final EventSources serviceResources = service.getResources(country);
             if(serviceResources != null) {
@@ -207,6 +217,10 @@ public interface Country extends SovereignState {
             }
         });
 
+        final JSONObjectTranslatable availabilities = availabilitiesResult.get();
+        if(availabilities != null) {
+            json.put(SovereignStateInformationType.AVAILABILITIES.getName(), availabilities);
+        }
         if(!resources.isEmpty()) {
             json.put(SovereignStateInformationType.RESOURCES_STATIC.getName(), resources.toJSONObject());
         }
@@ -226,7 +240,7 @@ public interface Country extends SovereignState {
             json.put(typeName, infoValues);
             json.addTranslatedKey(typeName);
         }
-        json.put("response_version", ResponseVersions.COUNTRIES.getValue());
+        json.put("response_version", ResponseVersions.COUNTRY_INFORMATION.getValue());
         json.save();
         return json;
     }

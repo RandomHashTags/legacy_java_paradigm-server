@@ -170,8 +170,6 @@ public enum SovereignStateInfo {
     SERVICE_TWELVE_DATA("Twelve Data"),
 
     CITIES,
-    RESOURCES("Resources"),
-    NEIGHBORS("Neighbors"),
 
     VALUE_HEALTH_CARE_SYSTEM("Health Care System"),
     VALUE_MILITARY_ENLISTMENT_AGE("Military Enlistment Age"),

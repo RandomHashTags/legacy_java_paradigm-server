@@ -17,12 +17,18 @@ public enum MovieProductionCompanies {
     _21_LAPS_ENTERTAINMENT("21 Laps Entertainment"),
     _87NORTH_PRODUCTIONS("87North Productions"),
 
+    // Amazon
+    AMAZON_STUDIOS,
+    LIGHTWORKERS_MEDIA,
+    METRO_GOLDWYN_MAYER("Metro-Goldwyn-Mayer", "Metro-Goldwyn-Mayer Studios", "MGM"),
+    ORION_CLASSICS,
+    ORION_PICTURES("Orion Pictures", "Orion Releasing", "Orion Pictures Corporation"),
+
     A24("A24 (company)", "A24 Films"),
     AGBO("AGBO", "Gozie AGBO"),
     AGC_STUDIOS("AGC Studios"),
     ALCON_ENTERTAINMENT,
     ALLSPARK_PICTURES("Allspark Pictures", "Hasbro Films", "Hasbro Film Group"),
-    AMAZON_STUDIOS,
     AMERICAN_ZOETROPE,
     ANIMAL_LOGIC,
     ANNAPURNA_PICTURES,
@@ -45,18 +51,25 @@ public enum MovieProductionCompanies {
     BALBOA_PRODUCTIONS("Balboa Productions", "Sylvester Stallone"),
     BARDEL_ENTERTAINMENT,
     BLACK_BEAR_PICTURES,
+    BLACK_LABEL_MEDIA,
+    BLEECKER_STREET("Bleecker Street (company)"),
     BLISS_MEDIA,
+    BLUEPRINT_PICTURES,
     BLUMHOUSE_PRODUCTIONS,
     BRON_STUDIOS("Bron Studios", "Bron Creative", "BRON"),
 
     CBS_FILMS("CBS Films"),
     CENTROPOLIS_ENTERTAINMENT,
     CHERNIN_ENTERTAINMENT,
+    CHOCKSTONE_PICTURES,
+    CINEDIGM,
+    CINEREACH,
     CONSTANTIN_FILM,
     CROSS_CREEK_PICTURES,
 
     DARK_HORSE_ENTERTAINMENT,
     DI_BONAVENTURA_PICTURES("Di Bonaventura Pictures", "dB Pictures"),
+    DNA_FILMS("DNA Films"),
     DREAMCREW("DreamCrew"),
 
     // Disney
@@ -66,6 +79,7 @@ public enum MovieProductionCompanies {
     DISNEY_CHANNEL("Disney Channel", "The Disney Channel", "Disney"),
     DISNEY_PLUS("Disney+"),
     DISNEY_TELEVISION_ANIMATION,
+    DISNEYNATURE,
     LUCASFILM,
     MARVEL_STUDIOS,
     MARVEL_ENTERTAINMENT,
@@ -89,10 +103,14 @@ public enum MovieProductionCompanies {
     FILMNATION_ENTERTAINMENT("FilmNation Entertainment"),
     FORTIS_FILMS,
 
+    // Fox Entertainment
+    BENTO_BOX_ENTERTAINMENT,
+
     GHOST_HOUSE_PICTURES,
     GK_FILMS("GK Films"),
     GOLD_CIRCLE_FILMS("Gold Circle Films", "Gold Circle Entertainment"),
     GOOD_UNIVERSE,
+    GRACIE_FILMS,
     GRAVITAS_VENTURES,
 
     HAPPY_MADISON_PRODUCTIONS,
@@ -117,17 +135,14 @@ public enum MovieProductionCompanies {
     LIONSGATE,
     LIONSGATE_FILMS,
     LIONSGATE_PREMIERE,
+    ROADSIDE_ATTRACTIONS,
     SUMMIT_ENTERTAINMENT,
 
     MANDEVILLE_FILMS,
-
-    // Metro-Goldwyn-Mayer
-    METRO_GOLDWYN_MAYER("Metro-Goldwyn-Mayer", "Metro-Goldwyn-Mayer Studios", "MGM"),
-    ORION_CLASSICS,
-    ORION_PICTURES("Orion Pictures", "Orion Releasing", "Orion Pictures Corporation"),
-
+    MAXIMUM_EFFORT("Maximum Effort", "Ryan Reynolds"),
     MILLENNIUM_MEDIA("Millennium Media", "Millennium Films"),
     MIRAMAX("Miramax", "Miramax Films"),
+    MONKEYPAW_PRODUCTIONS,
     MRC("MRC (company)", "Media Rights Capital", "MRC Film"),
     MTV_ENTERTAINMENT_STUDIOS("MTV Entertainment Studios"),
 

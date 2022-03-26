@@ -3,6 +3,8 @@ package me.randomhashtags.worldlaws.settings;
 public enum ResponseVersions {
 
     COUNTRIES,
+    COUNTRY_INFORMATION,
+    SUBDIVISION_INFORMATION,
     MOVIE_PRODUCTION_COMPANIES,
     MUSIC_ARTISTS,
     PRESENTATIONS,
@@ -12,14 +14,12 @@ public enum ResponseVersions {
 
     // Server Side
     AVAILABILITIES,
-    COUNTRY_INFORMATION,
-
     ;
 
     public boolean isClientSide() {
         switch (this) {
             case AVAILABILITIES:
-            case COUNTRY_INFORMATION:
+                return false;
             default:
                 return true;
         }
@@ -31,8 +31,13 @@ public enum ResponseVersions {
         switch (this) {
             case COUNTRIES:
                 return 12;
+            case COUNTRY_INFORMATION:
+                return 1;
+            case SUBDIVISION_INFORMATION:
+                return 1;
+
             case MOVIE_PRODUCTION_COMPANIES:
-                return 2;
+                return 3;
             case MUSIC_ARTISTS:
                 return 1;
             case PRESENTATIONS:
@@ -43,8 +48,6 @@ public enum ResponseVersions {
                 return 1;
 
             case AVAILABILITIES:
-                return 1;
-            case COUNTRY_INFORMATION:
                 return 1;
 
             case UPDATE_NOTES:

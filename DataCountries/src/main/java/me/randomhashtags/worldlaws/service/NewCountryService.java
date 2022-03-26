@@ -36,7 +36,7 @@ public interface NewCountryService extends WLService {
         return getJSONObject(country, false);
     }
     default JSONObjectTranslatable getJSONObject(WLCountry country, boolean isDataJSON) {
-        return getJSONObject(country.getBackendID(), true, isDataJSON, country, null);
+        return getJSONObject(true, isDataJSON, country, null);
     }
     default void insertCountryData(JSONObjectTranslatable dataJSON, JSONObjectTranslatable countryJSON) {
     }
@@ -45,13 +45,17 @@ public interface NewCountryService extends WLService {
     default JSONObjectTranslatable getData(SovereignStateInfo info, WLCountry country) {
         return getData(info, true, country, null);
     }
-    private JSONObjectTranslatable tryLoadingData(Folder folder, String fileName, WLCountry country) {
+    private JSONObjectTranslatable tryLoadingData(Folder folder, String fileName, WLCountry country, SovereignStateSubdivision subdivision) {
         final JSONObject local = getLocalFileJSONObject(folder, fileName);
         JSONObjectTranslatable json;
         if(local == null) {
             json = loadData();
             if(json == null) {
-                json = loadData(country);
+                if(country != null) {
+                    json = loadData(country);
+                } else if(subdivision != null) {
+                    json = loadData(subdivision);
+                }
             }
             if(json != null) {
                 setFileJSON(folder, fileName, json.toString());
@@ -69,7 +73,7 @@ public interface NewCountryService extends WLService {
         return getJSONObject(subdivision, false);
     }
     default JSONObjectTranslatable getJSONObject(SovereignStateSubdivision subdivision, boolean isDataJSON) {
-        return getJSONObject(subdivision.getBackendID(), false, isDataJSON, null, subdivision);
+        return getJSONObject(false, isDataJSON, null, subdivision);
     }
     default void insertSubdivisionData(JSONObjectTranslatable dataJSON, JSONObjectTranslatable subdivisionJSON) {
     }
@@ -79,7 +83,8 @@ public interface NewCountryService extends WLService {
         return getData(info, false, null, subdivision);
     }
 
-    private JSONObjectTranslatable getJSONObject(String backendID, boolean isCountry, boolean isDataJSON, WLCountry country, SovereignStateSubdivision subdivision) {
+    private JSONObjectTranslatable getJSONObject(boolean isCountry, boolean isDataJSON, WLCountry country, SovereignStateSubdivision subdivision) {
+        final String backendID = country != null ? country.getBackendID() : subdivision.getBackendID();
         final SovereignStateInfo info = getInfo();
         final HashMap<SovereignStateInfo, HashMap<String, JSONObjectTranslatable>> cache = isCountry ? COUNTRY_CACHE : SUBDIVISION_CACHE;
         if(cache.containsKey(info) && cache.get(info).containsKey(backendID)) {
@@ -114,9 +119,12 @@ public interface NewCountryService extends WLService {
         if(!DATA_CACHE.get(info).containsKey(identifier)) {
             final Folder folder = getFolder();
             final String fileName = isCountry ? getServiceFileName(country) : getServiceFileName(subdivision);
-            final String folderName = folder.getFolderName();
+            String folderName = folder.getFolderName();
+            if(subdivision != null) {
+                folderName = folderName.replace("%country%", subdivision.getCountry().getBackendID());
+            }
             folder.setCustomFolderName(fileName, folderName);
-            final JSONObjectTranslatable json = isCountry ? tryLoadingData(folder, fileName, country) : null;
+            final JSONObjectTranslatable json = tryLoadingData(folder, fileName, country, subdivision);
             if(json != null) {
                 folder.setCustomFolderName(fileName, folderName);
                 json.setFolder(folder);
