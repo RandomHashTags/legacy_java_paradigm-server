@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.service.WikipediaDocument;
+import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.nodes.Element;
 
@@ -78,6 +79,13 @@ public interface Holiday {
         if(!translatable.has("name")) {
             translatable.put("name", name);
             edited = true;
+        }
+        if(!translatable.has("aliases")) {
+            final String[] aliases = getAliases();
+            if(aliases != null) {
+                translatable.put("aliases", new JSONArray(aliases));
+                edited = true;
+            }
         }
         if(!translatable.has("type")) {
             translatable.put("type", typeName);

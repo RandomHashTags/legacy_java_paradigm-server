@@ -345,6 +345,9 @@ public enum Settings {
                 return getOrDefaultJSONObject(getUpcomingEventsJSON(), "video_games", new JSONObject());
             }
 
+            public static JSONObject getMovieProductionCompanies() {
+                return getOrDefaultJSONObject(getUpcomingEventsJSON(), "movie_production_companies", new JSONObject());
+            }
             public static List<Integer> getMusicAlbumMultiPageYears() {
                 final JSONArray array = getOrDefaultJSONArray(getMusicAlbumsJSON(), "multi-page_years", new JSONArray());
                 return getListInteger(array);

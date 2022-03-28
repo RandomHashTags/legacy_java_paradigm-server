@@ -84,8 +84,8 @@ public final class UpcomingEvents implements WLServer {
 
     private void test() {
         final long started = System.currentTimeMillis();
-        final TVShows tvshows = new TVShows();
-        tvshows.refresh();
+        final JSONObjectTranslatable json = MovieProductionCompanies.getTypesJSON();
+        WLLogger.logInfo("UpcomingEvents;test;json=" + json.toString());
         WLLogger.logInfo("UpcomingEvents;test;took " + WLUtilities.getElapsedTime(started));
     }
 

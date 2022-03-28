@@ -6,13 +6,13 @@ import me.randomhashtags.worldlaws.country.Location;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 
 public final class Earthquake {
-    private final String country, subdivision, cause, magnitude, place;
-    private final float depthKM;
+    private final String country, subdivision, cause, place;
+    private final float magnitude, depthKM;
     private final long time, lastUpdated;
     private final Location location;
     private final EventSources sources;
 
-    public Earthquake(String country, String subdivision, String cause, String magnitude, String place, long time, long lastUpdated, float depthKM, Location location, EventSources sources) {
+    public Earthquake(String country, String subdivision, String cause, float magnitude, String place, long time, long lastUpdated, float depthKM, Location location, EventSources sources) {
         this.country = country;
         this.subdivision = subdivision;
         this.cause = cause;
@@ -23,22 +23,6 @@ public final class Earthquake {
         this.depthKM = depthKM;
         this.location = location;
         this.sources = sources;
-    }
-
-    @Override
-    public String toString() {
-        return "{" +
-                "\"cause\":\"" + cause + "\"," +
-                "\"magnitude\":" + magnitude + "," +
-                "\"place\":\"" + place + "\"," +
-                (country != null ? "\"country\":\"" + country + "\"," : "") +
-                (subdivision != null ? "\"subdivision\":\"" + subdivision + "\"," : "") +
-                "\"time\":" + time + "," +
-                "\"lastUpdated\":" + lastUpdated + "," +
-                (depthKM > 0.00 ? "\"depthKM\":" + depthKM + "," : "") +
-                "\"location\":" + location.toString() + "," +
-                "\"sources\":" + sources.toString() +
-                "}";
     }
 
     public JSONObjectTranslatable toJSONObject() {

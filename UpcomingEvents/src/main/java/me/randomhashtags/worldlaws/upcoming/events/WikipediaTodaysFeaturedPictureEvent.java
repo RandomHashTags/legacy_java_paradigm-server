@@ -13,8 +13,8 @@ public class WikipediaTodaysFeaturedPictureEvent extends UpcomingEvent {
     public WikipediaTodaysFeaturedPictureEvent(JSONObject json) {
         super(json);
     }
-    public WikipediaTodaysFeaturedPictureEvent(EventDate date, String title, String description, String imageURL, EventSources externalSources) {
-        super(date, title, description, imageURL, null, null, null);
+    public WikipediaTodaysFeaturedPictureEvent(EventDate date, String title, String description, String imageURL, EventSources sources, EventSources externalSources) {
+        super(date, title, description, imageURL, null, null, sources);
         this.externalSources = externalSources;
     }
 

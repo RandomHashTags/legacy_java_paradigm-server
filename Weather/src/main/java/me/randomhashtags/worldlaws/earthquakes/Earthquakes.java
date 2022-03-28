@@ -187,7 +187,7 @@ public enum Earthquakes implements RestAPI {
             if(json != null) {
                 final JSONObject properties = json.getJSONObject("properties");
                 final Object mag = properties.get("mag");
-                final String magnitude = mag != null ? mag.toString() : "0";
+                final float magnitude = Float.parseFloat(mag != null ? mag.toString() : "0");
 
                 final JSONObject geometry = json.getJSONObject("geometry");
                 final JSONArray coordinates = geometry.getJSONArray("coordinates");

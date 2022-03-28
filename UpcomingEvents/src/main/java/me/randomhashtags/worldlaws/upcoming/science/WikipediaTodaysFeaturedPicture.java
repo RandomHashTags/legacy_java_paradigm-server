@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.upcoming.science;
 
 import me.randomhashtags.worldlaws.EventDate;
+import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
@@ -60,7 +61,10 @@ public final class WikipediaTodaysFeaturedPicture extends LoadedUpcomingEventCon
                     final EventDate date = new EventDate(LocalDate.now());
                     final String dateString = date.getDateString();
                     final String identifier = getEventDateIdentifier(dateString, title);
-                    final WikipediaTodaysFeaturedPictureEvent event = new WikipediaTodaysFeaturedPictureEvent(date, title, description.toString(), imageURL, externalSources);
+                    final EventSources sources = new EventSources(
+                            new EventSource("Wikipedia: Main Page", url)
+                    );
+                    final WikipediaTodaysFeaturedPictureEvent event = new WikipediaTodaysFeaturedPictureEvent(date, title, description.toString(), imageURL, sources, externalSources);
                     putLoadedPreUpcomingEvent(identifier, event.toPreUpcomingEventJSON(getType(), identifier, photographCredit));
                     putUpcomingEvent(identifier, event);
                     break;

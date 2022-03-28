@@ -43,11 +43,11 @@ public interface Country extends SovereignState {
     default JSONObjectTranslatable getJSONObject() {
         final String backendID = getBackendID();
         if(!CACHE.containsKey(backendID)) {
-            final JSONObjectTranslatable json = new JSONObjectTranslatable("name", "shortName", "officialNames", "aliases", "unStatus", "sovereigntyDispute");
+            final JSONObjectTranslatable json = new JSONObjectTranslatable("shortName", "officialNames", "aliases", "unStatus", "sovereigntyDispute");
 
             final WLCountry wlcountry = getWLCountry();
 
-            final String shortName = getShortName(), name = getName();
+            final String shortName = getShortName();
             final HashSet<Integer> governmentAdministrations = LawUtilities.getAdministrationVersions(wlcountry);
             final boolean hasGovernmentAdministrations = governmentAdministrations != null;
             HashSet<String> aliases = null;
@@ -69,11 +69,12 @@ public interface Country extends SovereignState {
                 subdivisions = wlcountry.getSubdivisions();
             }
 
+            json.put("shortName", shortName);
             if(officialNames != null) {
                 json.put("officialNames", new JSONArray(Arrays.asList(officialNames)));
             }
             if(aliases != null) {
-                aliases.removeIf(alias -> alias.equalsIgnoreCase(shortName) || alias.equalsIgnoreCase(name));
+                aliases.removeIf(alias -> alias.equalsIgnoreCase(shortName));
                 if(!aliases.isEmpty()) {
                     final JSONArray array = new JSONArray(aliases);
                     json.put("aliases", array);
@@ -94,9 +95,6 @@ public interface Country extends SovereignState {
             if(hasGovernmentAdministrations) {
                 json.put("currentGovernmentAdministration", currentGovernmentAdministration);
                 json.put("governmentAdministrations", new JSONArray(governmentAdministrations));
-            }
-            if(!name.equals(shortName)) {
-                json.put("shortName", shortName);
             }
             if(timezones != null) {
                 json.put("timezones", getTimeZonesJSONArray(timezones));
@@ -188,6 +186,11 @@ public interface Country extends SovereignState {
 
         final HashSet<NewCountryService> services = CountryServices.STATIC_SERVICES;
         final EventSources resources = new EventSources();
+        final String governmentWebsite = country.getGovernmentWebsite();
+        if(governmentWebsite != null) {
+            resources.add(new EventSource("Government Website", governmentWebsite));
+        }
+
         final ConcurrentHashMap<SovereignStateInformationType, HashMap<SovereignStateInfo, JSONObjectTranslatable>> values = new ConcurrentHashMap<>();
         final WLCountry[] neighbors = country.getNeighbors();
         if(neighbors != null) {
@@ -256,8 +259,13 @@ public interface Country extends SovereignState {
         final WLCountry wlcountry = getWLCountry();
         final String backendID = getBackendID();
         final JSONObjectTranslatable json = new JSONObjectTranslatable();
+        final EventSources resources = new EventSources();
         final HashSet<NewCountryServiceNonStatic> nonStaticServices = CountryServices.NONSTATIC_SERVICES;
         new CompletableFutures<NewCountryServiceNonStatic>().stream(nonStaticServices, service -> {
+            final EventSources serviceResources = service.getResources(wlcountry);
+            if(serviceResources != null) {
+                resources.addAll(serviceResources);
+            }
             final JSONObjectTranslatable serviceJSON = service.getJSONObject(wlcountry);
             if(serviceJSON != null) {
                 final SovereignStateInfo info = service.getInfo();
@@ -266,6 +274,9 @@ public interface Country extends SovereignState {
                 json.addTranslatedKey(title);
             }
         });
+        if(!resources.isEmpty()) {
+            json.put(SovereignStateInformationType.RESOURCES_NONSTATIC.getName(), resources.toJSONObject());
+        }
         NONSTATIC_INFORMATION_CACHE.put(backendID, json);
         INFORMATION_CACHE.remove(backendID);
         return json;

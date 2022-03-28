@@ -166,6 +166,9 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
             new CompletableFutures<ServerRequest>().stream(Arrays.asList(requests), request -> {
                 final JSONTranslatable response = getServerResponse(version, serverUUID, request);
                 if(response != null) {
+                    if(response instanceof JSONObjectTranslatable) {
+                        ((JSONObjectTranslatable) response).remove("locale");
+                    }
                     final String path = request.getTotalPath();
                     json.put(path, response);
                     json.addTranslatedKey(path);

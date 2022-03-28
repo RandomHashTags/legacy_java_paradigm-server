@@ -2,13 +2,15 @@
   "response_versions": {
     "client_side": {
       "countries": 12,
+      "country_information": 1,
+      "subdivision_information": 1,
       "movie_production_companies": 3,
       "music_artists": 1,
       "upcoming_event_types": 6,
       "update_notes": 1
     },
     "server_side": {
-      "country_information": 1
+      "availabilities": 1
     }
   },
   "values": {
@@ -46,6 +48,622 @@
       "the visual novel database"
     ],
     "upcoming_events": {
+      "movie_production_companies": {
+        "1492 Pictures": {
+        },
+        "21 Laps Entertainment": {
+        },
+        "87North Productions": {
+        },
+
+        "Amazon Studios": {
+        },
+        "Lightworkers Media": {
+        },
+        "Metro-Goldwyn-Mayer": {
+          "aliases": [
+            "Metro-Goldwyn-Mayer Studios",
+            "MGM"
+          ]
+        },
+        "Orion Classics": {
+        },
+        "Orion Pictures": {
+          "aliases": [
+            "Orion Releasing",
+            "Orion Pictures Corporation"
+          ]
+        },
+
+        "A24": {
+          "wikipediaName": "A24 (company)",
+          "aliases": [
+            "A24 Films"
+          ]
+        },
+        "AGBO": {
+          "aliases": [
+            "Gozie AGBO"
+          ]
+        },
+        "AGC Studios": {
+        },
+        "Alcon Entertainment": {
+        },
+        "Allspark Pictures": {
+          "aliases": [
+            "Hasbro Films",
+            "Hasbro Film Group"
+          ]
+        },
+        "American Zoetrope": {
+        },
+        "Animal Logic": {
+        },
+        "Annapurna Pictures": {
+        },
+        "Atomic Monster Productions": {
+        },
+
+        "Amblin Entertainment": {
+        },
+        "Amblin Partners": {
+        },
+        "DreamWorks Animation": {
+        },
+        "DreamWorks Pictures": {
+        },
+
+        "Apatow Productions": {
+          "aliases": [
+            "The Apatow Company"
+          ]
+        },
+
+        "Apple Studios": {
+          "wikipediaName": "Apple Studios (production company)"
+        },
+        "Apple TV+": {
+        },
+
+        "Bad Robot Productions": {
+          "aliases": [
+            "Bad Robot"
+          ]
+        },
+        "Balboa Productions": {
+          "aliases": [
+            "Sylvester Stallone"
+          ]
+        },
+        "Bardel Entertainment": {
+        },
+        "Black Bear Pictures": {
+        },
+        "Black Label Media": {
+        },
+        "Bleecker Street": {
+          "wikipediaName": "Bleecker Street (company)"
+        },
+        "Bliss Media": {
+        },
+        "Blueprint Pictures": {
+        },
+        "Blumhouse Productions": {
+        },
+        "Bron Studios": {
+          "aliases": [
+            "Bron Creative",
+            "BRON"
+          ]
+        },
+
+        "CBS Films": {
+        },
+        "Centropolis Entertainment": {
+        },
+        "Chernin Entertainment": {
+        },
+        "Chockstone Pictures": {
+        },
+        "Cinedigm": {
+        },
+        "Cinereach": {
+        },
+        "Constantin Film": {
+        },
+        "Cross Creek Pictures": {
+        },
+
+        "Dark Horse Entertainment": {
+        },
+        "Di Bonaventura Pictures": {
+          "aliases": [
+            "dB Pictures"
+          ]
+        },
+        "DNA Films": {
+        },
+        "DreamCrew": {
+        },
+
+        "20th Century Animation": {
+        },
+        "20th Century Studios": {
+          "aliases": [
+            "20th Century Fox"
+          ]
+        },
+        "Discovery+": {
+        },
+        "Disney Channel": {
+          "aliases": [
+            "The Disney Channel",
+            "Disney"
+          ]
+        },
+        "Disney+": {
+        },
+        "Disney Television Animation": {
+        },
+        "Disneynature": {
+        },
+        "Lucasfilm": {
+        },
+        "Lucasfilm Animation": {
+        },
+        "Marvel Studios": {
+        },
+        "Marvel Entertainment": {
+        },
+        "Pixar": {
+          "aliases": [
+            "Pixar Animation Studios"
+          ]
+        },
+        "Regency Enterprises": {
+          "aliases": [
+            "Regency",
+            "Regency Entertainment",
+            "Monarchy Enterprises"
+          ]
+        },
+        "Searchlight Pictures": {
+          "aliases": [
+            "Searchlight"
+          ]
+        },
+        "Touchstone Pictures": {
+        },
+        "Walt Disney Animation Studios": {
+        },
+        "Walt Disney Pictures": {
+        },
+        "Walt Disney Studios Motion Pictures": {
+        },
+
+        "Davis Entertainment": {
+        },
+        "Dimension Films": {
+        },
+
+        "Electric Entertainment": {
+        },
+        "Entertainment One": {
+          "aliases": [
+            "eOne"
+          ]
+        },
+        "Eon Productions": {
+        },
+        "Escape Artists": {
+          "aliases": [
+            "Escape Artists Productions"
+          ]
+        },
+        "EuropaCorp": {
+        },
+
+        "FilmNation Entertainment": {
+        },
+        "Fortis Films": {
+        },
+
+        "Bento Box Entertainment": {
+        },
+
+        "Ghost House Pictures": {
+        },
+        "GK Films": {
+        },
+        "Gold Circle Films": {
+          "aliases": [
+            "Gold Circle Entertainment"
+          ]
+        },
+        "Good Universe": {
+        },
+        "Gracie Films": {
+        },
+        "Gravitas Ventures": {
+        },
+
+        "Happy Madison Productions": {
+        },
+
+        "HBO Films": {
+          "aliases": [
+            "HBO Pictures"
+          ]
+        },
+        "HBO Max": {
+        },
+
+        "Hello Sunshine": {
+          "wikipediaName": "Hello Sunshine (company)",
+          "aliases": [
+            "Reese Witherspoon"
+          ]
+        },
+        "Heyday Films": {
+        },
+        "Hulu": {
+        },
+
+        "IAC Films": {
+          "wikipediaName": "IAC (company)",
+          "aliases": [
+            "IAC"
+          ]
+        },
+        "ImageMovers": {
+          "aliases": [
+            "ImageMovers Digital"
+          ]
+        },
+        "Imagine Entertainment": {
+          "aliases": [
+            "Imagine",
+            "Imagine Films Entertainment"
+          ]
+        },
+        "Intrepid Pictures": {
+        },
+
+        "Legendary": {
+          "wikipediaName": "Legendary Entertainment",
+          "aliases": [
+            "Legendary Pictures Productions",
+            "Legendary Entertainment",
+            "Legendary Pictures"
+          ]
+        },
+        "Lightstorm Entertainment": {
+          "aliases": [
+            "James Cameron",
+            "Lawrence Kasanoff"
+          ]
+        },
+
+        "Lionsgate": {
+        },
+        "Lionsgate Films": {
+        },
+        "Lionsgate Premiere": {
+        },
+        "Roadside Attractions": {
+        },
+        "Summit Entertainment": {
+        },
+
+        "Mandeville Films": {
+        },
+        "Maximum Effort": {
+          "aliases": [
+            "Ryan Reynolds"
+          ]
+        },
+        "Millennium Media": {
+          "aliases": [
+            "Millennium Films"
+          ]
+        },
+        "Miramax": {
+          "aliases": [
+            "Miramax Films"
+          ]
+        },
+        "Monkeypaw Productions": {
+          "aliases": [
+            "Jordan Peele"
+          ]
+        },
+        "MRC": {
+          "wikipediaName": "MRC (company)",
+          "aliases": [
+            "Media Rights Capital",
+            "MRC Film"
+          ]
+        },
+
+        "Neon": {
+          "wikipediaName": "Neon (company)",
+          "aliases": [
+            "NEON"
+          ]
+        },
+
+        "Netflix": {
+        },
+        "Netflix Animation": {
+        },
+
+        "New Republic Pictures": {
+        },
+        "Nintendo": {
+        },
+
+        "One Race Films": {
+          "aliases": [
+            "One Race Productions"
+          ]
+        },
+        "Open Road Films": {
+        },
+        "Original Film": {
+        },
+        "Overbrook Entertainment": {
+        },
+        "Outerbanks Entertainment": {
+        },
+
+        "Nickelodeon Movies": {
+        },
+        "Paramount Animation": {
+        },
+        "Paramount Pictures": {
+        },
+        "Paramount+": {
+        },
+        "Paramount Players": {
+        },
+
+        "Participant": {
+          "wikipediaName": "Participant (company)",
+          "aliases": [
+            "Participant Media",
+            "Participant Productions"
+          ]
+        },
+        "Peacock": {
+          "wikipediaName": "Peacock (streaming service)"
+        },
+        "Perfect World Pictures": {
+        },
+        "Pinnacle Peak Pictures": {
+          "aliases": [
+            "Pure Flix Entertainment"
+          ]
+        },
+        "Plan B Entertainment": {
+          "aliases": [
+            "Plan B",
+            "Brad Pitt"
+          ]
+        },
+        "Platinum Dunes": {
+        },
+        "Point Grey Pictures": {
+        },
+
+        "QED International": {
+        },
+
+        "Radio Silence": {
+          "wikipediaName": "Radio Silence Productions"
+        },
+        "RatPac-Dune Entertainment": {
+        },
+        "RVK Studios": {
+        },
+
+        "Saban Films": {
+        },
+        "Saturn Films": {
+          "aliases": [
+            "Nicolas Cage"
+          ]
+        },
+        "Sega Sammy Group": {
+          "wikipediaName": "Sega Sammy Holdings",
+          "aliases": [
+            "Sega Sammy"
+          ]
+        },
+        "Scott Free Productions": {
+        },
+        "Screen Media Films": {
+        },
+        "Seven Bucks Productions": {
+        },
+        "Showtime": {
+          "wikipediaName": "Showtime (TV network)"
+        },
+        "Skydance Animation": {
+          "wikipediaName": "Skydance Media#Skydance Animation"
+        },
+        "Skydance Media": {
+        },
+        "Smokehouse Pictures": {
+        },
+        "STX Entertainment": {
+          "aliases": [
+            "STX Financing",
+            "STX Films",
+            "STXfilms"
+          ]
+        },
+
+        "Ghost Corps": {
+          "aliases": [
+            "Ghostbusters"
+          ]
+        },
+        "PlayStation Productions": {
+          "aliases": [
+            "PlayStation Originals"
+          ]
+        },
+        "Screen Gems": {
+        },
+        "Sony Pictures": {
+          "aliases": [
+            "Sony Pictures Entertainment",
+            "SPE",
+            "Columbia Pictures",
+            "Columbia Pictures Entertainment"
+          ]
+        },
+        "Sony Pictures Animation": {
+        },
+        "Sony Pictures Classics": {
+        },
+        "Sony Pictures Imageworks": {
+        },
+        "Sony Pictures Motion Picture Group": {
+          "aliases": [
+            "3000 Pictures",
+            "Sony Pictures Entertainment Motion Picture Group",
+            "Columbia TriStar Motion Picture Group",
+            "SPMPG"
+          ]
+        },
+        "TriStar Pictures": {
+        },
+        "TriStar Productions": {
+        },
+
+        "Spyglass Media Group": {
+          "aliases": [
+            "Spyglass Entertainment"
+          ]
+        },
+        "Stage 6 Films": {
+        },
+        "Sunday Night Productions": {
+        },
+        "Syncopy": {
+          "wikipediaName": "Syncopy Inc."
+        },
+
+        "Tencent Pictures": {
+        },
+        "The Imaginarium": {
+          "aliases": [
+            "Imaginarium Productions",
+            "The Imaginarium Studios"
+          ]
+        },
+        "The Stone Quarry": {
+          "aliases": [
+            "Cruel and Unusual Films"
+          ]
+        },
+        "Thunder Road Films": {
+        },
+        "Toho": {
+        },
+        "ToonBox Entertainment": {
+        },
+        "Troublemaker Studios": {
+        },
+        "TSG Entertainment": {
+        },
+        "Twisted Pictures": {
+        },
+
+        "Carnival Films": {
+        },
+        "Focus Features": {
+        },
+        "Illumination": {
+          "wikipediaName": "Illumination (company)",
+          "aliases": [
+            "Illumination Entertainment"
+          ]
+        },
+        "Universal Animation Studios": {
+          "aliases": [
+            "Universal Cartoon Studios"
+          ]
+        },
+        "Universal Pictures": {
+          "aliases": [
+            "Universal",
+            "Universal Studios",
+            "Universal City Studios",
+            "Universal Pictures Home Entertainment"
+          ]
+        },
+        "Working Title Films": {
+          "aliases": [
+            "Working Title"
+          ]
+        },
+
+        "Vertical Entertainment": {
+        },
+        "Vertigo Entertainment": {
+        },
+        "Village Roadshow Pictures": {
+        },
+        "Voltage Pictures": {
+        },
+
+        "Walden Media": {
+        },
+
+        "Castle Rock Entertainment": {
+        },
+        "DC Entertainment": {
+        },
+        "DC Films": {
+        },
+        "New Line Cinema": {
+          "aliases": [
+            "New Line Productions"
+          ]
+        },
+        "Warner Animation Group": {
+          "aliases": [
+            "WAG"
+          ]
+        },
+        "Warner Bros. Animation": {
+        },
+        "Warner Bros.": {
+          "aliases": [
+            "Warner Bros. Entertainment",
+            "WB"
+          ]
+        },
+        "Warner Bros. Pictures": {
+        },
+
+        "Will Packer Productions": {
+        },
+        "WingNut Films": {
+        },
+        "WWE Studios": {
+          "aliases": [
+            "WWE Films"
+          ]
+        },
+
+        "XYZ Films": {
+        }
+
+      },
       "music_albums": {
         "multi-page_years": [
           2021
@@ -126,6 +744,7 @@
       "volcano_wikipedia_pages": {
         "Ambae": "Manaro_Voui",
         "Aira": "Aira_Caldera",
+        "Bezymianny": "Bezymianny",
         "Shiveluch": "Shiveluch",
         "Sheveluch": "Sheveluch",
         "San Cristóbal": "San_Cristobal_Volcano",

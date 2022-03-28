@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws.weather;
 import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.country.Location;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
+import org.json.JSONArray;
 
 import java.util.List;
 
@@ -24,26 +25,14 @@ public final class WeatherZone {
         return subdivision;
     }
 
-    private String getGeometryJSON() {
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
+    private JSONArray getGeometryJSON() {
+        final JSONArray array = new JSONArray();
         for(Location point : geometry) {
             if(point != null) {
-                builder.append(isFirst ? "" : ",").append(point.toString());
-                isFirst = false;
+                array.put(point.toJSONArray());
             }
         }
-        return builder.append("]").toString();
-    }
-
-    @Override
-    public String toString() {
-        return "{" +
-                "\"name\":\"" + name + "\"," +
-                (nameSuffix != null ? "\"nameSuffix\":\"" + nameSuffix + "\"," : "") +
-                "\"subdivision\":\"" + subdivision + "\"," +
-                "\"geometry\":" + getGeometryJSON() +
-                "}";
+        return array;
     }
 
     public JSONObjectTranslatable toJSONObject() {
@@ -53,7 +42,7 @@ public final class WeatherZone {
             json.put("nameSuffix", nameSuffix);
         }
         json.put("subdivision", subdivision);
-        //json.put("geometry", null);
+        json.put("geometry", getGeometryJSON());
         return json;
     }
 }

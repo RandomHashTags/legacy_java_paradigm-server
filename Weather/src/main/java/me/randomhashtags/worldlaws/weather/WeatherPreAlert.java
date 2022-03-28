@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.weather;
 
 import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
+import org.json.JSONArray;
 
 import java.util.HashSet;
 
@@ -63,27 +64,25 @@ public final class WeatherPreAlert {
         return time;
     }
 
-    private String getAreas() {
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
+    private JSONArray getAreas() {
+        final JSONArray array = new JSONArray();
         for(WeatherZone zone : zones) {
-            builder.append(isFirst ? "" : ",").append("\"").append(zone.getName()).append("\"");
-            isFirst = false;
+            array.put(zone.getName());
         }
-        builder.append("]");
-        return builder.toString();
+        return array;
     }
 
     @Override
     public String toString() {
         return "\"" + id + "\":{" +
-                "\"areas\":" + getAreas() + "," +
+                "\"areas\":" + getAreas().toString() + "," +
                 "\"time\":" + time.toString() +
                 "}";
     }
     public JSONObjectTranslatable toJSONObject() {
         final JSONObjectTranslatable json = new JSONObjectTranslatable();
-        json.put("time", time);
+        json.put("areas", getAreas());
+        json.put("time", time.toJSONObject());
         return json;
     }
 }
