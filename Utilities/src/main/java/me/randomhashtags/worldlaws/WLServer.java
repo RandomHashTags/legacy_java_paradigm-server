@@ -83,8 +83,6 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
             }
         };
         localServer.setCompletionHandler(handler);
-
-        registerFixedTimer(UpdateIntervals.REFRESH_SETTINGS, Settings::refresh);
     }
     default void stop() {
     }

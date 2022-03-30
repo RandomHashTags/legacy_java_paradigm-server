@@ -93,7 +93,7 @@ public enum Ticketmaster implements RestAPI {
                             final EventSources sources = new EventSources(new EventSource("Ticketmaster: " + name, eventURL));
                             final List<TicketmasterVenue> venues = getVenuesFrom(venuesArray);
                             final TicketmasterMusicEvent event = new TicketmasterMusicEvent(eventDate, name, null, imageURL, ticketLimit, priceRange, seatMapURL, venues, sources);
-                            putLoadedPreUpcomingEvent(identifier, event.toPreUpcomingEventJSON(eventType, identifier, null));
+                            putLoadedPreUpcomingEvent(event.toPreUpcomingEventJSON(eventType, identifier, null));
                             putUpcomingEvent(identifier, event);
                         }
                     }

@@ -34,20 +34,19 @@ import me.randomhashtags.worldlaws.country.subdivisions.j.SubdivisionsJordan;
 import me.randomhashtags.worldlaws.country.subdivisions.k.SubdivisionsKazakhstan;
 import me.randomhashtags.worldlaws.country.subdivisions.l.SubdivisionsLibya;
 import me.randomhashtags.worldlaws.country.subdivisions.l.SubdivisionsLithuania;
-import me.randomhashtags.worldlaws.country.subdivisions.m.SubdivisionsMadagascar;
-import me.randomhashtags.worldlaws.country.subdivisions.m.SubdivisionsMalaysia;
-import me.randomhashtags.worldlaws.country.subdivisions.m.SubdivisionsMexico;
-import me.randomhashtags.worldlaws.country.subdivisions.m.SubdivisionsMontenegro;
+import me.randomhashtags.worldlaws.country.subdivisions.m.*;
 import me.randomhashtags.worldlaws.country.subdivisions.n.*;
 import me.randomhashtags.worldlaws.country.subdivisions.p.*;
+import me.randomhashtags.worldlaws.country.subdivisions.q.SubdivisionsQatar;
 import me.randomhashtags.worldlaws.country.subdivisions.r.SubdivisionsRomania;
-import me.randomhashtags.worldlaws.country.subdivisions.s.SubdivisionsSenegal;
-import me.randomhashtags.worldlaws.country.subdivisions.s.SubdivisionsSouthKorea;
-import me.randomhashtags.worldlaws.country.subdivisions.s.SubdivisionsSwitzerland;
+import me.randomhashtags.worldlaws.country.subdivisions.r.SubdivisionsRwanda;
+import me.randomhashtags.worldlaws.country.subdivisions.s.*;
 import me.randomhashtags.worldlaws.country.subdivisions.t.SubdivisionsTonga;
 import me.randomhashtags.worldlaws.country.subdivisions.t.SubdivisionsTunisia;
+import me.randomhashtags.worldlaws.country.subdivisions.t.SubdivisionsTurkmenistan;
 import me.randomhashtags.worldlaws.country.subdivisions.u.SubdivisionsUkraine;
 import me.randomhashtags.worldlaws.country.subdivisions.u.SubdivisionsUnitedStates;
+import me.randomhashtags.worldlaws.country.subdivisions.u.SubdivisionsUruguay;
 import me.randomhashtags.worldlaws.country.subdivisions.u.SubdivisionsUzbekistan;
 import me.randomhashtags.worldlaws.country.subdivisions.v.SubdivisionsVanuatu;
 
@@ -133,31 +132,45 @@ public enum WLSubdivisions {
             case MADAGASCAR: return SubdivisionsMadagascar.values();
             case MALAYSIA: return SubdivisionsMalaysia.values();
             case MEXICO: return SubdivisionsMexico.values();
+            case MONGOLIA: return SubdivisionsMongolia.values();
             case MONTENEGRO: return SubdivisionsMontenegro.values();
 
+            case NAMIBIA: return SubdivisionsNamibia.values();
             case NEPAL: return SubdivisionsNepal.values();
+            case NETHERLANDS: return SubdivisionsNetherlands.values();
             case NEW_ZEALAND: return SubdivisionsNewZealand.values();
             case NICARAGUA: return SubdivisionsNicaragua.values();
+            case NIGER: return SubdivisionsNiger.values();
             case NIGERIA: return SubdivisionsNigeria.values();
             case NORWAY: return SubdivisionsNorway.values();
 
             case PAKISTAN: return SubdivisionsPakistan.values();
+            case PALESTINE: return SubdivisionsPalestine.values();
             case PANAMA: return SubdivisionsPanama.values();
             case PAPUA_NEW_GUINEA: return SubdivisionsPapuaNewGuinea.values();
             case PERU: return SubdivisionsPeru.values();
             case POLAND: return SubdivisionsPoland.values();
+            case PORTUGAL: return SubdivisionsPortugal.values();
+
+            case QATAR: return SubdivisionsQatar.values();
 
             case ROMANIA: return SubdivisionsRomania.values();
+            case RWANDA: return SubdivisionsRwanda.values();
 
             case SENEGAL: return SubdivisionsSenegal.values();
             case SOUTH_KOREA: return SubdivisionsSouthKorea.values();
+            case SPAIN: return SubdivisionsSpain.values();
+            case SWEDEN: return SubdivisionsSweden.values();
             case SWITZERLAND: return SubdivisionsSwitzerland.values();
+            case SYRIA: return SubdivisionsSyria.values();
 
             case TONGA: return SubdivisionsTonga.values();
             case TUNISIA: return SubdivisionsTunisia.values();
+            case TURKMENISTAN: return SubdivisionsTurkmenistan.values();
 
             case UKRAINE: return SubdivisionsUkraine.values();
             case UNITED_STATES: return SubdivisionsUnitedStates.values();
+            case URUGUAY: return SubdivisionsUruguay.values();
             case UZBEKISTAN: return SubdivisionsUzbekistan.values();
 
             case VANUATU: return SubdivisionsVanuatu.values();

@@ -101,7 +101,7 @@ public final class ProfessionalWrestling extends LoadedUpcomingEventController {
 
                             final EventSources sources = new EventSources(eventDoc.getEventSource());
                             final ProWrestlingEvent event = new ProWrestlingEvent(eventDate, title, description, imageURL, location, mainEvent, notes, sources);
-                            putLoadedPreUpcomingEvent(identifier, event.toPreUpcomingEventJSON(type, identifier, location));
+                            putLoadedPreUpcomingEvent(event.toPreUpcomingEventJSON(type, identifier, location));
                             putUpcomingEvent(identifier, event);
                         }
                     }

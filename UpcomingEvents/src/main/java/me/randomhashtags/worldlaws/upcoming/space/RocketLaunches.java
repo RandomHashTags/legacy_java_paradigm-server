@@ -45,10 +45,10 @@ public final class RocketLaunches extends LoadedUpcomingEventController {
                 }
 
                 final EventDate date = new EventDate(windowStart);
-                final String dateString = getEventDateString(date), id = getEventDateIdentifier(dateString, name);
+                final String dateString = getEventDateString(date), identifier = getEventDateIdentifier(dateString, name);
                 final RocketLaunchEvent launch = new RocketLaunchEvent(date, name, status, location, exactDay, exactTime, probability, rocketImageURL, mission, windowStart, windowEnd, sources);
-                putLoadedPreUpcomingEvent(id, launch.toPreUpcomingEventJSON(eventType, id, location));
-                putUpcomingEvent(id, launch);
+                putLoadedPreUpcomingEvent(launch.toPreUpcomingEventJSON(eventType, identifier, location));
+                putUpcomingEvent(identifier, launch);
             });
         }
     }

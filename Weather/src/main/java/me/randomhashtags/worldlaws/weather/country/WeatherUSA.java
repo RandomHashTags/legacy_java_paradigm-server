@@ -269,24 +269,26 @@ public enum WeatherUSA implements WeatherController {
         if(json != null) {
             final WLCountry unitedStates = WLCountry.UNITED_STATES;
             final String nameSuffix = zoneID.startsWith("county") ? " County" : null;
-            final JSONObject geometryJSON = json.getJSONObject("geometry"), properties = json.getJSONObject("properties");
-            final Object state = properties.get("state");
-            String stateString = state instanceof String ? (String) state : null;
-            if(stateString == null) {
-                final String officeIdentifier = properties.getJSONArray("forecastOffices").getString(0).substring("https://api.weather.gov/offices/".length());
-                final JSONObject officeJSON = getForecastOffice(officeIdentifier);
-                final JSONObject addressJSON = officeJSON.getJSONObject("address");
-                stateString = addressJSON.getString("addressRegion");
+            if(json.has("geometry") && json.has("properties")) {
+                final JSONObject geometryJSON = json.getJSONObject("geometry"), properties = json.getJSONObject("properties");
+                final Object state = properties.get("state");
+                String stateString = state instanceof String ? (String) state : null;
+                if(stateString == null) {
+                    final String officeIdentifier = properties.getJSONArray("forecastOffices").getString(0).substring("https://api.weather.gov/offices/".length());
+                    final JSONObject officeJSON = getForecastOffice(officeIdentifier);
+                    final JSONObject addressJSON = officeJSON.getJSONObject("address");
+                    stateString = addressJSON.getString("addressRegion");
+                }
+                final SovereignStateSubdivision subdivision = unitedStates.valueOfSovereignStateSubdivision(stateString);
+                if(subdivision == null) {
+                    WLLogger.logError("WeatherUSA", "failed to find subdivision for stateString \"" + stateString + "\"! (zoneID=" + zoneID + ")");
+                }
+                final String name = properties.getString("name");
+                final String territory = subdivision != null ? subdivision.getName() : stateString != null ? stateString : "Unknown";
+                final List<Location> geometry = getGeometry(geometryJSON);
+                final WeatherZone weatherZone = new WeatherZone(name, nameSuffix, territory, geometry);
+                zones.put(zoneID, weatherZone);
             }
-            final SovereignStateSubdivision subdivision = unitedStates.valueOfSovereignStateSubdivision(stateString);
-            if(subdivision == null) {
-                WLLogger.logError("WeatherUSA", "failed to find subdivision for stateString \"" + stateString + "\"! (zoneID=" + zoneID + ")");
-            }
-            final String name = properties.getString("name");
-            final String territory = subdivision != null ? subdivision.getName() : stateString != null ? stateString : "Unknown";
-            final List<Location> geometry = getGeometry(geometryJSON);
-            final WeatherZone weatherZone = new WeatherZone(name, nameSuffix, territory, geometry);
-            zones.put(zoneID, weatherZone);
         }
         return zones.getOrDefault(zoneID, null);
     }
@@ -304,29 +306,31 @@ public enum WeatherUSA implements WeatherController {
         return forecastOffices.get(identifier);
     }
     private List<Location> getGeometry(JSONObject geometryJSON) {
-        final String geometryType = geometryJSON.getString("type");
         final List<Location> geometry = new ArrayList<>();
-        switch (geometryType) {
-            case "MultiPolygon":
-                final JSONArray coordinates = geometryJSON.getJSONArray("coordinates");
-                for(Object coordinateArray : coordinates) {
-                    final JSONArray array = (JSONArray) coordinateArray;
-                    geometry.addAll(getGeometryFromArray(array.getJSONArray(0)));
-                }
-                return geometry;
-            case "Polygon":
-                return getGeometryFromArray(geometryJSON.getJSONArray("coordinates").getJSONArray(0));
-            case "GeometryCollection":
-                final JSONArray array = geometryJSON.getJSONArray("geometries");
-                for(Object obj : array) {
-                    final JSONObject json = (JSONObject) obj;
-                    final List<Location> targetLocations = getGeometry(json);
-                    geometry.addAll(targetLocations);
-                }
-                break;
-            default:
-                WLLogger.logError(INSTANCE, "getGeometry - uncaught geometryType \"" + geometryType + "\"!");
-                break;
+        if(geometryJSON != null) {
+            final String geometryType = geometryJSON.getString("type");
+            switch (geometryType) {
+                case "MultiPolygon":
+                    final JSONArray coordinates = geometryJSON.getJSONArray("coordinates");
+                    for(Object coordinateArray : coordinates) {
+                        final JSONArray array = (JSONArray) coordinateArray;
+                        geometry.addAll(getGeometryFromArray(array.getJSONArray(0)));
+                    }
+                    return geometry;
+                case "Polygon":
+                    return getGeometryFromArray(geometryJSON.getJSONArray("coordinates").getJSONArray(0));
+                case "GeometryCollection":
+                    final JSONArray array = geometryJSON.getJSONArray("geometries");
+                    for(Object obj : array) {
+                        final JSONObject json = (JSONObject) obj;
+                        final List<Location> targetLocations = getGeometry(json);
+                        geometry.addAll(targetLocations);
+                    }
+                    break;
+                default:
+                    WLLogger.logError(INSTANCE, "getGeometry - uncaught geometryType \"" + geometryType + "\"!");
+                    break;
+            }
         }
         return geometry;
     }

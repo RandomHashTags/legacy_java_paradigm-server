@@ -102,16 +102,18 @@ public enum UpcomingEventType {
                     return 1;
                 case PRESENTATION:
                     return 2;
+                case SPORT_MLB:
+                    return 4;
                 case ASTRONOMY_PICTURE_OF_THE_DAY:
                 case SCIENCE_YEAR_REVIEW:
                 case WIKIPEDIA_TODAYS_FEATURED_PICTURE:
                 case WORD_OF_THE_DAY:
-                    return 4;
+                    return 5;
                 case SPORT_CHAMPIONSHIPS:
                 case TICKETMASTER_MUSIC_EVENT:
-                    return 5;
-                case TV_SHOW:
                     return 6;
+                case TV_SHOW:
+                    return 7;
                 default:
                     return 3;
             }

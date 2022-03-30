@@ -58,7 +58,7 @@ public final class ScienceYearReview extends LoadedUpcomingEventController {
                     json.addTranslatedKey(key);
                 }
             }
-            putLoadedPreUpcomingEvent(identifier, new LoadedPreUpcomingEvent(identifier, json));
+            putLoadedPreUpcomingEvent(new LoadedPreUpcomingEvent(identifier, json));
             //putUpcomingEvent(identifier, realString);
         }
     }

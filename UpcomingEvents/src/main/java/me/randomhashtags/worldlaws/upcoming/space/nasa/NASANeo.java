@@ -54,10 +54,10 @@ public final class NASANeo extends LoadedUpcomingEventController {
                 final long closeApproachEpoch = closeApproach.getLong("epoch_date_close_approach");
                 final String relativeVelocity = closeApproach.getJSONObject("relative_velocity").getString("kilometers_per_hour");
 
-                final String id = getEventDateIdentifier(dateString, name);
+                final String identifier = getEventDateIdentifier(dateString, name);
                 final NearEarthObjectEvent neo = new NearEarthObjectEvent(eventDate, name, closeApproachEpoch, isPotentiallyHazardousAsteroid, estimatedDiameterMin, estimatedDiameterMax, relativeVelocity, sources);
-                putLoadedPreUpcomingEvent(id, neo.toPreUpcomingEventJSON(type, id, null));
-                putUpcomingEvent(id, neo);
+                putLoadedPreUpcomingEvent(neo.toPreUpcomingEventJSON(type, identifier, null));
+                putUpcomingEvent(identifier, neo);
             });
         }
     }

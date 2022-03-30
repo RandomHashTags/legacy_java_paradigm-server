@@ -73,8 +73,8 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void initialize() {
-        //test();
-        load();
+        test();
+        //load();
     }
 
     @Override
@@ -84,8 +84,15 @@ public final class UpcomingEvents implements WLServer {
 
     private void test() {
         final long started = System.currentTimeMillis();
-        final JSONObjectTranslatable json = MovieProductionCompanies.getTypesJSON();
-        WLLogger.logInfo("UpcomingEvents;test;json=" + json.toString());
+        final ScienceYearReview json = new ScienceYearReview();
+        json.refresh();
+        final ConcurrentHashMap<String, List<LoadedPreUpcomingEvent>> test = json.getEventsFromDates(getWeeklyEventDateStrings(LocalDate.now()));
+        for(Map.Entry<String, List<LoadedPreUpcomingEvent>> entry : test.entrySet()) {
+            WLLogger.logInfo("UpcomingEvents;test;entry.key=" + entry.getKey());
+            for(LoadedPreUpcomingEvent event : entry.getValue()) {
+                WLLogger.logInfo("UpcomingEvents;test;entry.value=" + event.getJSONObject().toString());
+            }
+        }
         WLLogger.logInfo("UpcomingEvents;test;took " + WLUtilities.getElapsedTime(started));
     }
 
@@ -225,10 +232,10 @@ public final class UpcomingEvents implements WLServer {
     private JSONObjectTranslatable getEventsFromDates(HashSet<String> dateStrings) {
         final JSONObjectTranslatable json = new JSONObjectTranslatable();
         new CompletableFutures<UpcomingEventController>().stream(CONTROLLERS, controller -> {
-            final ConcurrentHashMap<String, List<LoadedPreUpcomingEvent>> string = controller.getEventsFromDates(dateStrings);
-            if(string != null) {
+            final ConcurrentHashMap<String, List<LoadedPreUpcomingEvent>> eventsFromDates = controller.getEventsFromDates(dateStrings);
+            if(eventsFromDates != null) {
                 final JSONObjectTranslatable controllerJSON = new JSONObjectTranslatable();
-                for(Map.Entry<String, List<LoadedPreUpcomingEvent>> map : string.entrySet()) {
+                for(Map.Entry<String, List<LoadedPreUpcomingEvent>> map : eventsFromDates.entrySet()) {
                     final JSONObjectTranslatable dateStringJSON = new JSONObjectTranslatable();
                     final String dateString = map.getKey();
                     final List<LoadedPreUpcomingEvent> events = map.getValue();

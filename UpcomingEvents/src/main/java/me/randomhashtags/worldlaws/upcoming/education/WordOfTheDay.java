@@ -36,7 +36,7 @@ public final class WordOfTheDay extends LoadedUpcomingEventController {
             final String dateString = date.getDateString(), word = wordOfTheDay.word;
             final String identifier = getEventDateIdentifier(dateString, word);
             final WordOfTheDayEvent event = new WordOfTheDayEvent(date, word, wordOfTheDay.description, imageURL, wordOfTheDay.pronunciationURL, wordOfTheDay.type, wordOfTheDay.syllables, sources);
-            putLoadedPreUpcomingEvent(identifier, event.toPreUpcomingEventJSON(type, identifier, null));
+            putLoadedPreUpcomingEvent(event.toPreUpcomingEventJSON(type, identifier, null));
             putUpcomingEvent(identifier, event);
         }
     }

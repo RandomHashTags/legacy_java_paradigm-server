@@ -134,7 +134,7 @@ public final class VideoGamesSteam extends UpcomingEventController {
                         }
                         final String identifier = getEventDateIdentifier(date.getDateString(), name);
                         final VideoGameRelease release = new VideoGameRelease(date, name, description, imageURL, genres, sources);
-                        putLoadedPreUpcomingEvent(identifier, release.toPreUpcomingEventJSON(eventType, identifier, null));
+                        putLoadedPreUpcomingEvent(release.toPreUpcomingEventJSON(eventType, identifier, null));
                         putUpcomingEvent(identifier, release);
                         return release;
                     } else {

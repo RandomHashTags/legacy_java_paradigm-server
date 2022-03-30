@@ -90,7 +90,7 @@ public final class TVShows extends LoadedUpcomingEventController {
                             }
 
                             tvShowEvent.setTitle(showTitle);
-                            putLoadedPreUpcomingEvent(identifier, tvShowEvent.toPreUpcomingEventJSON(eventType, identifier, tag, null, customValues));
+                            putLoadedPreUpcomingEvent(tvShowEvent.toPreUpcomingEventJSON(eventType, identifier, tag, null, customValues));
                             putUpcomingEvent(identifier, tvShowEvent);
                         }
                     }

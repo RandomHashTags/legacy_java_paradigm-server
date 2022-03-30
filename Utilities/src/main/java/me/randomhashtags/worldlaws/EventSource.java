@@ -30,16 +30,15 @@ public final class EventSource {
     public String getSiteName() {
         return siteName;
     }
-    public JSONObjectTranslatable toJSONObject() {
+    public JSONObjectTranslatable toJSONObject(boolean withSiteName) {
         final JSONObjectTranslatable json = new JSONObjectTranslatable();
-        json.put("homepageURL", homepageURL);
+        if(withSiteName) {
+            final JSONObjectTranslatable test = new JSONObjectTranslatable();
+            test.put("homepageURL", homepageURL);
+            json.put(siteName, test);
+        } else {
+            json.put("homepageURL", homepageURL);
+        }
         return json;
-    }
-
-    @Override
-    public String toString() {
-        return "\"" + siteName + "\":{" +
-                "\"homepageURL\":\"" + homepageURL + "\"" +
-                "}";
     }
 }

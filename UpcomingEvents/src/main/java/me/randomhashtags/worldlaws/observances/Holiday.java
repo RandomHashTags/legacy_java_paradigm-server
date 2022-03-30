@@ -105,7 +105,8 @@ public interface Holiday {
         return HolidaySource.WIKIPEDIA;
     }
     default String getURL() {
-        return getSource().getURL(getName());
+        final HolidaySource source = getSource();
+        return source != null ? source.getURL(getName()) : null;
     }
 
     private JSONObjectTranslatable loadHolidayJSON() {
@@ -140,6 +141,8 @@ public interface Holiday {
                     imageURL = (targetImageURL.startsWith("https:") ? "" : "https:") + targetImageURL;
                 }
             }
+        } else {
+            WLUtilities.saveLoggedError("Holiday", "url for holiday == null! name()=" + name() + ";type=" + getType());
         }
         final JSONObjectTranslatable json = new JSONObjectTranslatable("name", "description");
         json.put("name", getName());

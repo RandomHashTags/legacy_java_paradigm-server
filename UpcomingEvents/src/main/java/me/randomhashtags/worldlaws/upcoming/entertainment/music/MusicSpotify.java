@@ -84,7 +84,7 @@ public final class MusicSpotify extends LoadedUpcomingEventController implements
 
             final String identifier = getEventDateIdentifier(dateString, description);
             final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(identifier, description, null, null);
-            putLoadedPreUpcomingEvent(identifier, preUpcomingEvent.toLoadedPreUpcomingEventWithImageURL(type, imageURL));
+            putLoadedPreUpcomingEvent(preUpcomingEvent.toLoadedPreUpcomingEventWithImageURL(type, imageURL));
 
             final EventSources sources = new EventSources();
             sources.add(new EventSource(title + " Playlist", "https://open.spotify.com/playlist/37i9dQZF1DX4JAvHpjipBk"));

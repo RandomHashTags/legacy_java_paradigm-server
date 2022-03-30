@@ -65,7 +65,7 @@ public final class WikipediaTodaysFeaturedPicture extends LoadedUpcomingEventCon
                             new EventSource("Wikipedia: Main Page", url)
                     );
                     final WikipediaTodaysFeaturedPictureEvent event = new WikipediaTodaysFeaturedPictureEvent(date, title, description.toString(), imageURL, sources, externalSources);
-                    putLoadedPreUpcomingEvent(identifier, event.toPreUpcomingEventJSON(getType(), identifier, photographCredit));
+                    putLoadedPreUpcomingEvent(event.toPreUpcomingEventJSON(getType(), identifier, photographCredit));
                     putUpcomingEvent(identifier, event);
                     break;
                 }

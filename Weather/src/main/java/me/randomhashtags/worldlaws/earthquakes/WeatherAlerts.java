@@ -101,7 +101,7 @@ public enum WeatherAlerts {
             if(preAlerts != null) {
                 final String country = controller.getCountry().getBackendID();
                 final JSONObjectTranslatable json = new JSONObjectTranslatable();
-                json.put("source", controller.getSource().toJSONObject());
+                json.put("source", controller.getSource().toJSONObject(true));
                 json.put("alerts", preAlerts);
                 json.addTranslatedKey("alerts");
                 values.put(country, json);

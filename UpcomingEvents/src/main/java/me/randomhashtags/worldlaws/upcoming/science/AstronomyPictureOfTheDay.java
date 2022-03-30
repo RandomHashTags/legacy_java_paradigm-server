@@ -46,7 +46,7 @@ public final class AstronomyPictureOfTheDay extends LoadedUpcomingEventControlle
 
             final APODEvent event = new APODEvent(eventDate, title, description, imageURL, copyright, videoURL, sources);
             final String identifier = getEventDateIdentifier(eventDate.getDateString(), title);
-            putLoadedPreUpcomingEvent(identifier, event.toPreUpcomingEventJSON(type, identifier, copyright != null ? "Copyright: " + copyright : null));
+            putLoadedPreUpcomingEvent(event.toPreUpcomingEventJSON(type, identifier, copyright != null ? "Copyright: " + copyright : null));
             putUpcomingEvent(identifier, event);
         }
     }

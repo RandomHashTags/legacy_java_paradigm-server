@@ -49,9 +49,23 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
         }
         final String preUpcomingEventsLoaded = !preUpcomingEvents.isEmpty() ? preUpcomingEvents.size() + " preUpcomingEvents" : null;
         final String upcomingEventsLoaded = !upcomingEvents.isEmpty() ? upcomingEvents.size() + " upcomingEvents" : null;
-        String amount = "(" + (preUpcomingEventsLoaded != null ? preUpcomingEventsLoaded + (upcomingEventsLoaded != null ? ", " : "") : "") + (upcomingEventsLoaded != null ? upcomingEventsLoaded : "") + ")";
-        amount = amount.equals("()") ? "0" : amount;
-        WLLogger.logInfo(getType().name() + " - loaded " + amount + " events (took " + WLUtilities.getElapsedTime(started) + ")" + (didError ? " [DID ENCOUNTER ERROR LOADING]" : ""));
+        final String loadedPreUpcomingEventsLoaded = !loadedPreUpcomingEvents.isEmpty() ? loadedPreUpcomingEvents.size() + " loadedPreUpcomingEvents" : null;
+        final StringBuilder builder = new StringBuilder();
+        if(preUpcomingEventsLoaded != null) {
+            builder.append(preUpcomingEventsLoaded);
+        }
+        if(upcomingEventsLoaded != null) {
+            builder.append(builder.length() > 0 ? ", " : "").append(upcomingEventsLoaded);
+        }
+        if(loadedPreUpcomingEventsLoaded != null) {
+            builder.append(builder.length() > 0 ? ", " : "").append(loadedPreUpcomingEventsLoaded);
+        }
+        if(builder.length() > 0) {
+            builder.insert(0, "(").append(")");
+        } else {
+            builder.append("0");
+        }
+        WLLogger.logInfo(getType().name() + " - loaded " + builder.toString() + " events (took " + WLUtilities.getElapsedTime(started) + ")" + (didError ? " [DID ENCOUNTER ERROR LOADING]" : ""));
     }
     public abstract void load();
 
@@ -93,10 +107,10 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
             });
             if(!events.isEmpty()) {
                 for(String identifier : events) {
-                    final LoadedPreUpcomingEvent string = loadedPreUpcomingEvents.get(identifier);
+                    final LoadedPreUpcomingEvent loadedPreUpcomingEvent = loadedPreUpcomingEvents.get(identifier);
                     final String dateString = identifier.split("\\.")[0];
                     map.putIfAbsent(dateString, new ArrayList<>());
-                    map.get(dateString).add(string);
+                    map.get(dateString).add(loadedPreUpcomingEvent);
                 }
             }
         }
@@ -134,7 +148,7 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
                     value = toLoadedPreUpcomingEvent(identifier, translatable);
                 }
                 if(value != null) {
-                    putLoadedPreUpcomingEvent(identifier, value);
+                    putLoadedPreUpcomingEvent(value);
                 }
                 if(!jsonString.isEmpty()) {
                     final String todayEventDateString = EventDate.getDateString(LocalDate.now()) + ".";
@@ -205,8 +219,8 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
         upcomingEvents.put(identifier, value);
     }
 
-    public void putLoadedPreUpcomingEvent(String identifier, LoadedPreUpcomingEvent value) {
-        loadedPreUpcomingEvents.put(identifier, value);
+    public void putLoadedPreUpcomingEvent(LoadedPreUpcomingEvent value) {
+        loadedPreUpcomingEvents.put(value.getIdentifier(), value);
     }
 
     public ConcurrentHashMap<String, PreUpcomingEvent> getPreUpcomingEvents() {

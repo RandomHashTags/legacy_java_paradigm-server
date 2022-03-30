@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.LocalServer;
 
 public enum SubdivisionType {
     AUTONOMOUS_CITIES,
+    AUTONOMOUS_COMMUNITIES,
     AUTONOMOUS_REGIONS,
     AUTONOMOUS_REPUBLICS,
     CANTONS,
@@ -40,6 +41,7 @@ public enum SubdivisionType {
     public String getSingularName() {
         switch (this) {
             case AUTONOMOUS_CITIES: return "Autonomous City";
+            case AUTONOMOUS_COMMUNITIES: return "Autonomous Community";
             case AUTONOMOUS_REGIONS: return "Autonomous Region";
             case AUTONOMOUS_REPUBLICS: return "Autonomous Republic";
             case CANTONS: return "Canton";

@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.request.ServerRequestType;
+import me.randomhashtags.worldlaws.settings.Settings;
 import org.apache.commons.text.StringEscapeUtils;
 
 import java.net.ServerSocket;
@@ -45,6 +46,7 @@ public final class LocalServer implements UserServer, DataValues {
             final long interval = UpdateIntervals.SAVE_STATISTICS;
             registerFixedTimer(interval, this::saveStatistics);
         }
+        registerFixedTimer(UpdateIntervals.REFRESH_SETTINGS, Settings::refresh);
         setupHttpServer(server.getPort());
     }
 

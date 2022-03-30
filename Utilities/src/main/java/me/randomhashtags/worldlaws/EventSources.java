@@ -25,7 +25,7 @@ public final class EventSources extends ArrayList<EventSource> {
     public JSONObjectTranslatable toJSONObject() {
         final JSONObjectTranslatable json = new JSONObjectTranslatable();
         for(EventSource source : this) {
-            json.put(source.getSiteName(), source.toJSONObject());
+            json.put(source.getSiteName(), source.toJSONObject(false));
         }
         return json;
     }

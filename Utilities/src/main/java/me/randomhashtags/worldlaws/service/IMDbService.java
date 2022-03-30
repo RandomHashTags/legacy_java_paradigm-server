@@ -1,9 +1,6 @@
 package me.randomhashtags.worldlaws.service;
 
-import me.randomhashtags.worldlaws.DataValues;
-import me.randomhashtags.worldlaws.Folder;
-import me.randomhashtags.worldlaws.Jsoupable;
-import me.randomhashtags.worldlaws.WLUtilities;
+import me.randomhashtags.worldlaws.*;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
@@ -16,6 +13,7 @@ import java.util.Set;
 public interface IMDbService extends DataValues {
 
     default JSONObject getIMDbMovieDetails(String title, int year) {
+        title = LocalServer.fixUnescapeValues(title);
         final String lowercaseTitle = title.toLowerCase();
         final String url = "https://www.imdb.com/find?q=" + lowercaseTitle.replace(" ", "+");
         final Elements elements = Jsoupable.getStaticDocumentElements(Folder.OTHER, url, false, "div div.redesign div.pagecontent div div div.article div.findSection table.findList tr.findResult");

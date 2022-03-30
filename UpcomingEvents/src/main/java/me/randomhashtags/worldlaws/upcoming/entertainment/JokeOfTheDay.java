@@ -50,7 +50,7 @@ public final class JokeOfTheDay extends LoadedUpcomingEventController {
             final String identifier = getEventDateIdentifier(dateString, title);
 
             final JokeOfTheDayEvent event = new JokeOfTheDayEvent(date, title, null, imageURL, copyright, question, answer, sources);
-            putLoadedPreUpcomingEvent(identifier, event.toPreUpcomingEventJSON(type, identifier, "Copyright: " + copyright));
+            putLoadedPreUpcomingEvent(event.toPreUpcomingEventJSON(type, identifier, "Copyright: " + copyright));
             putUpcomingEvent(identifier, event);
         }
     }

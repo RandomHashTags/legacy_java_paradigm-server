@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.service;
 
 import me.randomhashtags.worldlaws.Jsonable;
+import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.RestAPI;
 import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
@@ -11,6 +12,7 @@ import java.util.LinkedHashMap;
 
 public interface YouTubeService extends RestAPI, Jsonable {
     default JSONArray getVideosJSONArray(YouTubeVideoType type, String title) {
+        title = LocalServer.fixUnescapeValues(title);
         final String apiKey = Settings.PrivateValues.YouTube.getKey();
         final String url = "https://youtube.googleapis.com/youtube/v3/search";
         final int requestLimit = Settings.PrivateValues.YouTube.getRequestLimit();

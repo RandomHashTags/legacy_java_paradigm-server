@@ -12,6 +12,13 @@ public class JSONArrayTranslatable extends JSONArray implements JSONTranslatable
     private Folder folder;
     private String fileName;
 
+    public JSONArrayTranslatable() {
+        super();
+    }
+    public JSONArrayTranslatable(JSONArray array) {
+        super(array);
+    }
+
     @Override
     public void setTranslatedKeys(String...keys) {
     }

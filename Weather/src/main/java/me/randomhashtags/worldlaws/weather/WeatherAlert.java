@@ -42,7 +42,7 @@ public final class WeatherAlert {
         json.put("description", description);
         json.put("time", time.toJSONObject());
         json.put("zones", new JSONArray(zones));
-        json.put("source", source.toJSONObject());
+        json.put("source", source.toJSONObject(true));
         return json;
     }
 }

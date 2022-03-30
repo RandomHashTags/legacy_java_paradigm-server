@@ -43,7 +43,7 @@ public enum ResponseVersions {
             case PRESENTATIONS:
                 return 2;
             case UPCOMING_EVENT_TYPES:
-                return 6;
+                return 7;
             case VIDEO_GAMES:
                 return 1;
 

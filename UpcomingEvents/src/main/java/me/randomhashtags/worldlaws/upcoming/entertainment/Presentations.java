@@ -31,7 +31,7 @@ public final class Presentations extends LoadedUpcomingEventController {
                     final String title = event.getTitle();
                     final String identifier = getEventDateIdentifier(date.getDateString(), title);
 
-                    putLoadedPreUpcomingEvent(identifier, event.toPreUpcomingEventJSON(type, identifier, event.getTag()));
+                    putLoadedPreUpcomingEvent(event.toPreUpcomingEventJSON(type, identifier, event.getTag()));
                     putUpcomingEvent(identifier, event);
                 }
             }
