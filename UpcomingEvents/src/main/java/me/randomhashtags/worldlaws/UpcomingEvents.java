@@ -36,7 +36,7 @@ public final class UpcomingEvents implements WLServer {
     private static final HashSet<UpcomingEventController> CONTROLLERS = new HashSet<>() {{
         addAll(Arrays.asList(
                 new Championships(),
-                new JokeOfTheDay(),
+                //new JokeOfTheDay(), // TODO: find better Joke of the Day service.
                 new MLB(),
                 new Movies(),
                 new MusicAlbums(),
@@ -73,8 +73,8 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void initialize() {
-        test();
-        //load();
+        //test();
+        load();
     }
 
     @Override
@@ -159,6 +159,10 @@ public final class UpcomingEvents implements WLServer {
 
     @Override
     public long getHomeResponseUpdateInterval() {
+        registerFixedTimer(UpdateIntervals.UpcomingEvents.RECENT_EVENTS, () -> {
+            final JSONObjectTranslatable test = RecentEvents.INSTANCE.refresh(7);
+            insertInHomeResponse(APIVersion.v1, ServerRequestTypeUpcomingEvents.RECENT_EVENTS.name().toLowerCase(), test);
+        });
         return 0;
     }
 
@@ -205,7 +209,7 @@ public final class UpcomingEvents implements WLServer {
         Holidays.INSTANCE.refreshNearHolidays();
         refreshEventsFromThisWeek(false);
         final String serverName = "UpcomingEvents";
-        autoRefreshHome(serverName, System.currentTimeMillis(), serverName, TargetServer.UPCOMING_EVENTS, APIVersion.getLatest());
+        autoRefreshHome(serverName, System.currentTimeMillis(), serverName, APIVersion.getLatest());
     }
     private void refreshEventsFromThisWeek(boolean registerAutoUpdates) {
         final long started = System.currentTimeMillis();

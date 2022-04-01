@@ -40,6 +40,14 @@ public enum SubdivisionsMongolia implements SovereignStateSubdivision { // https
     }
 
     @Override
+    public SubdivisionType getType() {
+        switch (this) {
+            case ULAANBAATAR: return SubdivisionType.MUNICIPALITIES;
+            default: return null;
+        }
+    }
+
+    @Override
     public String getRealName() {
         switch (this) {
             case BAYAN_OLGII: return "Bayan-Ölgii";

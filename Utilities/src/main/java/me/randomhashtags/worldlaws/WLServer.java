@@ -17,7 +17,7 @@ import java.util.HashMap;
 import java.util.concurrent.ConcurrentHashMap;
 
 public interface WLServer extends DataValues, Jsoupable, Jsonable {
-    ConcurrentHashMap<TargetServer, HashMap<APIVersion, JSONObjectTranslatable>> CACHED_HOME_RESPONSES = new ConcurrentHashMap<>();
+    ConcurrentHashMap<APIVersion, JSONObjectTranslatable> CACHED_HOME_RESPONSES = new ConcurrentHashMap<>();
     HashMap<TargetServer, LocalServer> LOCAL_SERVERS = new HashMap<>();
     TargetServer getServer();
     default ServerRequestType[] getRequestTypes() {
@@ -127,36 +127,34 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
         return null;
     }
     default JSONObjectTranslatable getHomeResponse(APIVersion version) {
-        final TargetServer server = getServer();
-        CACHED_HOME_RESPONSES.putIfAbsent(server, new HashMap<>());
-        final HashMap<APIVersion, JSONObjectTranslatable> map = CACHED_HOME_RESPONSES.get(server);
-        if(map.containsKey(version)) {
-            return map.get(version);
+        if(CACHED_HOME_RESPONSES.containsKey(version)) {
+            return CACHED_HOME_RESPONSES.get(version);
         } else {
-            final JSONObjectTranslatable string = refreshHome(server, version);
-            tryStartingAutoUpdates(server, version);
+            final JSONObjectTranslatable string = refreshHome(version);
+            tryStartingAutoUpdates(version);
             return string;
         }
     }
-    private void tryStartingAutoUpdates(TargetServer server, APIVersion version) {
+    private void tryStartingAutoUpdates(APIVersion version) {
         final long updateInterval = getHomeResponseUpdateInterval();
         if(updateInterval > 0) {
+            final TargetServer server = getServer();
             final String serverName = server.getName(), simpleName = getClass().getSimpleName();
             registerFixedTimer(updateInterval, () -> {
                 final long started = System.currentTimeMillis();
-                autoRefreshHome(simpleName, started, serverName, server, version);
+                autoRefreshHome(simpleName, started, serverName, version);
             });
         }
     }
-    default JSONObjectTranslatable autoRefreshHome(String simpleName, long started, String serverName, TargetServer server, APIVersion version) {
-        final JSONObjectTranslatable string = refreshHome(server, version);
+    default JSONObjectTranslatable autoRefreshHome(String simpleName, long started, String serverName, APIVersion version) {
+        final JSONObjectTranslatable string = refreshHome(version);
         WLLogger.logInfo(simpleName + " - auto updated \"" + serverName + "\"'s home response (took " + WLUtilities.getElapsedTime(started) + ")");
         return string;
     }
-    private JSONObjectTranslatable refreshHome(TargetServer server, APIVersion version) {
+    private JSONObjectTranslatable refreshHome(APIVersion version) {
         final ServerRequest[] requests = getHomeRequests();
         if(requests == null) {
-            CACHED_HOME_RESPONSES.get(server).put(version, null);
+            CACHED_HOME_RESPONSES.put(version, new JSONObjectTranslatable());
             return null;
         } else {
             final JSONObjectTranslatable json = new JSONObjectTranslatable();
@@ -172,8 +170,14 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
                     json.addTranslatedKey(path);
                 }
             });
-            CACHED_HOME_RESPONSES.get(server).put(version, json);
+            CACHED_HOME_RESPONSES.put(version, json);
             return json;
         }
+    }
+    default void insertInHomeResponse(APIVersion version, String totalPath, JSONTranslatable response) {
+        if(!CACHED_HOME_RESPONSES.containsKey(version)) {
+            CACHED_HOME_RESPONSES.put(version, new JSONObjectTranslatable());
+        }
+        CACHED_HOME_RESPONSES.get(version).put(totalPath, response);
     }
 }

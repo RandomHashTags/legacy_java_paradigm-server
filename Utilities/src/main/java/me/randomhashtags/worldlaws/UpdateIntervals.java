@@ -6,7 +6,7 @@ public enum UpdateIntervals {
     ;
 
     public static final long SAVE_STATISTICS = TimeUnit.HOURS.toMillis(1);
-    public static final long REFRESH_SETTINGS = TimeUnit.HOURS.toMillis(1);
+    public static final long REFRESH_SETTINGS = TimeUnit.HOURS.toMillis(6);
 
     public enum ServerHandler {
         ;
@@ -33,6 +33,7 @@ public enum UpdateIntervals {
 
     public enum UpcomingEvents {
         ;
+        public static final long RECENT_EVENTS = TimeUnit.HOURS.toMillis(1);
         public static final long WEEKLY_EVENTS = TimeUnit.DAYS.toMillis(1);
     }
 
