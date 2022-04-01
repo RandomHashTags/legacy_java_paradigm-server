@@ -50,6 +50,23 @@ public final class Laws implements WLServer {
         final ServerRequestTypeLaws type = (ServerRequestTypeLaws) request.getType();
         final String target = request.getTarget();
         final String[] values = target.split("/");
+        if(type == null) {
+            if(values.length >= 2) {
+                final String key = values[0];
+                final LawController controller = countries.get(key);
+                if(controller != null) {
+                    final int keyLength = key.length() + 1;
+                    final String targetKey = values[1];
+                    if(targetKey.matches("[0-9]+")) {
+                        final int administration = Integer.parseInt(targetKey);
+                        return controller.getGovernmentResponse(version, administration, target.substring(keyLength+targetKey.length()+1));
+                    } else {
+                        return controller.getResponse(version, target.substring(keyLength));
+                    }
+                }
+            }
+            return null;
+        }
         switch (type) {
             case RECENT_ACTIVITY:
                 if(values.length >= 1) {
@@ -60,18 +77,6 @@ public final class Laws implements WLServer {
                 }
                 return null;
             default:
-                if(values.length >= 2) {
-                    final String key = values[0];
-                    final LawController controller = countries.get(key);
-                    final int keyLength = key.length()+1;
-                    final String targetKey = values[1];
-                    if(targetKey.matches("[0-9]+")) {
-                        final int administration = Integer.parseInt(targetKey);
-                        return controller.getGovernmentResponse(version, administration, target.substring(keyLength+targetKey.length()+1));
-                    } else {
-                        return controller.getResponse(version, target.substring(keyLength));
-                    }
-                }
                 return null;
         }
     }

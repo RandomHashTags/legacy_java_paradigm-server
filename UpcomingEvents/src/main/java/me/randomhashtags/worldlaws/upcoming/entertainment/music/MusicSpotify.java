@@ -60,7 +60,6 @@ public final class MusicSpotify extends LoadedUpcomingEventController implements
                                 trackImageURL = imageJSON.getString("url");
                             }
                         }
-
                         final JSONArray artistsArray = trackJSON.getJSONArray("artists");
                         final JSONObjectTranslatable artists = new JSONObjectTranslatable();
                         for(Object artistObj : artistsArray) {
