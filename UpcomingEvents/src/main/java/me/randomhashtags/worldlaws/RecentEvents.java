@@ -32,15 +32,12 @@ public enum RecentEvents {
         final long started = System.currentTimeMillis();
         final LocalDate lastWeek = LocalDate.now().minusDays(daysOffset);
         final ConcurrentHashMap<RecentEventType, ConcurrentHashMap<String, HashSet<PreRecentEvent>>> allValues = new ConcurrentHashMap<>();
+        final HashSet<PreRecentEvent> newEvents = new HashSet<>();
         new CompletableFutures<RecentEventController>().stream(Arrays.asList(events), controller -> {
             final HashSet<PreRecentEvent> preRecentEvents = controller.refreshHashSet(lastWeek);
-            final HashSet<PreRecentEvent> newEvents = controller.getNewInformation(preRecentEvents);
-            if(newEvents != null) {
-                new CompletableFutures<PreRecentEvent>().stream(preRecentEvents, event -> {
-                    final RemoteNotificationCategory category = event.getRemoteNotificationCategory();
-                    new RemoteNotification(category, false, category.getTitle(), event.getTitle(), event.getDescription());
-                });
-                RemoteNotification.pushPending();
+            final HashSet<PreRecentEvent> newInformation = controller.getNewInformation(preRecentEvents);
+            if(newInformation != null) {
+                newEvents.addAll(newInformation);
             }
             if(preRecentEvents != null && !preRecentEvents.isEmpty()) {
                 final RecentEventType type = controller.getType();
@@ -58,6 +55,13 @@ public enum RecentEvents {
                 allValues.get(type).putAll(hashmap);
             }
         });
+        if(!newEvents.isEmpty()) {
+            new CompletableFutures<PreRecentEvent>().stream(newEvents, event -> {
+                final RemoteNotificationCategory category = event.getRemoteNotificationCategory();
+                new RemoteNotification(category, false, category.getTitle(), event.getTitle(), event.getDescription());
+            });
+            RemoteNotification.pushPending();
+        }
         return completeHandler(started, allValues);
     }
     private JSONObjectTranslatable completeHandler(long started, ConcurrentHashMap<RecentEventType, ConcurrentHashMap<String, HashSet<PreRecentEvent>>> values) {

@@ -220,7 +220,9 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
     }
 
     public void putLoadedPreUpcomingEvent(LoadedPreUpcomingEvent value) {
-        loadedPreUpcomingEvents.put(value.getIdentifier(), value);
+        if(value != null) {
+            loadedPreUpcomingEvents.put(value.getIdentifier(), value);
+        }
     }
 
     public ConcurrentHashMap<String, PreUpcomingEvent> getPreUpcomingEvents() {

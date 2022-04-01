@@ -49,7 +49,7 @@ public interface RestAPI {
     }
     default JSONArray requestJSONArray(String url, LinkedHashMap<String, String> headers, LinkedHashMap<String, String> query) {
         final String string = requestStatic(url, headers, query);
-        if(string != null) {
+        if(string != null && string.startsWith("[") && string.endsWith("]")) {
             try {
                 return new JSONArray(string);
             } catch (Exception e) {
@@ -77,7 +77,7 @@ public interface RestAPI {
     }
     static JSONObject requestStaticJSONObject(String url, boolean isLimited, LinkedHashMap<String, String> headers, LinkedHashMap<String, String> query) {
         final String string = requestStatic(url, isLimited, headers, query);
-        if(string != null) {
+        if(string != null && string.startsWith("{") && string.endsWith("}")) {
             try {
                 return new JSONObject(string);
             } catch (Exception e) {

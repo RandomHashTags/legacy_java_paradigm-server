@@ -60,7 +60,7 @@ public enum WeatherUSA implements WeatherController {
     public JSONObjectTranslatable refresh() {
         final String url = "https://api.weather.gov/alerts/active?status=actual";
         final JSONObject json = requestJSONObject(url);
-        if(json != null) {
+        if(json != null && json.opt("features") instanceof JSONArray) {
             final JSONArray array = json.getJSONArray("features");
             if(array.length() > 0) {
                 alertIDs = new HashMap<>();

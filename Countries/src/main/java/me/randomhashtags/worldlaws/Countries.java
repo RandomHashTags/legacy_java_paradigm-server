@@ -127,7 +127,7 @@ public final class Countries implements WLServer {
 
     private void updateNonStaticInformation() {
         final long started = System.currentTimeMillis();
-        new CompletableFutures<CustomCountry>().stream(countriesMap.values(), CustomCountry::updateNonStaticInformation);
+        new CompletableFutures<CustomCountry>().stream(countriesMap.values(), Country::updateNonStaticInformationIfExists);
         WLLogger.logInfo("Countries - refreshed " + countriesMap.size() + " non-static country information (took " + WLUtilities.getElapsedTime(started) + ")");
     }
 
