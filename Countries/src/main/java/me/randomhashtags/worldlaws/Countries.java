@@ -163,6 +163,9 @@ public final class Countries implements WLServer {
     @Override
     public JSONTranslatable getServerResponse(APIVersion version, String identifier, ServerRequest request) {
         final ServerRequestTypeCountries type = (ServerRequestTypeCountries) request.getType();
+        if(type == null) {
+            return null;
+        }
         final String target = request.getTarget();
         final String[] values = target != null ? target.split("/") : null;
         switch (type) {

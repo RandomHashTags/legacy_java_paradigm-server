@@ -31,6 +31,9 @@ public final class Weather implements WLServer {
     @Override
     public JSONObjectTranslatable getServerResponse(APIVersion version, String identifier, ServerRequest request) {
         final ServerRequestTypeWeather type = (ServerRequestTypeWeather) request.getType();
+        if(type == null) {
+            return null;
+        }
         final String target = request.getTarget();
         switch (type) {
             case ALERTS:

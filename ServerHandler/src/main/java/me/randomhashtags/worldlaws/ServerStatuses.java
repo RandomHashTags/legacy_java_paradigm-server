@@ -67,8 +67,8 @@ public enum ServerStatuses {
     public static void tryUpdatingServersIfAvailable() {
         final boolean updated = updateServersIfAvailable();
         if(updated) {
-            ServerHandler.setMaintenanceMode(false, null);
             spinUpServersWithHomeResponse();
+            ServerHandler.setMaintenanceMode(false, null);
         } else {
             WLLogger.logInfo("ServerHandler - no server updates available");
         }

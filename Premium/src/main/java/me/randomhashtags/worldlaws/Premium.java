@@ -18,6 +18,9 @@ public final class Premium implements WLServer {
     @Override
     public JSONObjectTranslatable getServerResponse(APIVersion version, String identifier, ServerRequest request) {
         final ServerRequestTypePremium type = (ServerRequestTypePremium) request.getType();
+        if(type == null) {
+            return null;
+        }
         switch (type) {
             case VERIFY:
                 final String[] values = request.getTarget().split("/");

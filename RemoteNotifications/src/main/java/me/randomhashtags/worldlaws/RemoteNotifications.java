@@ -45,6 +45,9 @@ public final class RemoteNotifications implements WLServer {
     @Override
     public JSONObjectTranslatable getServerResponse(APIVersion version, String identifier, ServerRequest request) {
         final ServerRequestTypeRemoteNotifications type = (ServerRequestTypeRemoteNotifications) request.getType();
+        if(type == null) {
+            return null;
+        }
         final String target = request.getTarget();
         final String[] values = target != null ? target.split("/") : null;
         switch (type) {

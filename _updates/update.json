@@ -9,12 +9,18 @@
       "": {
         "jar": [
           "Countries",
+          "Environment",
           "Feedback",
+          "Health",
           "Laws",
+          "News",
           "***REMOVED***",
           "Proxy",
           "RemoteNotifications",
           "Science",
+          "Services",
+          "Stories",
+          "Technology",
           "UpcomingEvents",
           "Weather"
         ],
@@ -33,11 +39,6 @@
       "_updates": {
         "json": [
           "update"
-        ]
-      },
-      "_downloaded_pages/countries": {
-        "json": [
-          "_Countries"
         ]
       },
       "_downloaded_pages/countries/availabilities": {

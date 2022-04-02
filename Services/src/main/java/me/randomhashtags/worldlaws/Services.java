@@ -21,8 +21,8 @@ public final class Services implements WLServer {
 
     private Services() {
         stockService = YahooFinance.INSTANCE;
-        test();
-        //load();
+        //test();
+        load();
     }
 
     @Override
@@ -38,6 +38,9 @@ public final class Services implements WLServer {
     @Override
     public JSONObjectTranslatable getServerResponse(APIVersion version, String identifier, ServerRequest request) {
         final ServerRequestTypeServices type = (ServerRequestTypeServices) request.getType();
+        if(type == null) {
+            return null;
+        }
         final String target = request.getTarget();
         switch (type) {
             case STOCK_MARKET:
