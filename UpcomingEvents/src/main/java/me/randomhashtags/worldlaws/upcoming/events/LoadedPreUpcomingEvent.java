@@ -15,6 +15,12 @@ public final class LoadedPreUpcomingEvent {
     public String getIdentifier() {
         return identifier;
     }
+    public String getDateString() {
+        return identifier.split("\\.")[0];
+    }
+    public String getID() {
+        return identifier.substring(getDateString().length()+1);
+    }
     public JSONObjectTranslatable getJSONObject() {
         return json;
     }

@@ -1,7 +1,9 @@
 package me.randomhashtags.worldlaws;
 
 import java.io.File;
+import java.nio.file.Files;
 import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.HashSet;
 import java.util.concurrent.ConcurrentHashMap;
 
@@ -118,9 +120,10 @@ public enum Folder {
         return literalFileExists(null, fileName);
     }
     public File literalFileExists(String id, String fullFileName) {
-        fullFileName = getCurrentFolderName(id) + File.separator + fullFileName;
-        final File file = new File(fullFileName);
-        return file.exists() ? file : null;
+        final String currentFolderName = id != null ? getCurrentFolderName(id) + File.separator : "";
+        final String fullPath = currentFolderName + fullFileName;
+        final Path path = Paths.get(fullPath);
+        return Files.exists(path) ? path.toFile() : null;
     }
 
     public HashSet<Path> getAllFilePaths(String id) {

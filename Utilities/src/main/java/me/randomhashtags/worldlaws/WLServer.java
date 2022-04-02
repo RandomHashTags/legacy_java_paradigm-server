@@ -175,9 +175,7 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
         }
     }
     default void insertInHomeResponse(APIVersion version, String totalPath, JSONTranslatable response) {
-        if(!CACHED_HOME_RESPONSES.containsKey(version)) {
-            CACHED_HOME_RESPONSES.put(version, new JSONObjectTranslatable());
-        }
+        CACHED_HOME_RESPONSES.putIfAbsent(version, new JSONObjectTranslatable());
         CACHED_HOME_RESPONSES.get(version).put(totalPath, response);
     }
 }

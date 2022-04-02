@@ -8,6 +8,7 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.util.HashSet;
+import java.util.LinkedHashMap;
 import java.util.Set;
 
 public interface IMDbService extends DataValues {
@@ -15,7 +16,11 @@ public interface IMDbService extends DataValues {
     default JSONObject getIMDbMovieDetails(String title, int year) {
         title = LocalServer.fixUnescapeValues(title);
         final String lowercaseTitle = title.toLowerCase();
-        final String url = "https://www.imdb.com/find?q=" + lowercaseTitle.replace(" ", "+");
+        final LinkedHashMap<String, String> query = new LinkedHashMap<>() {{
+            put("q", lowercaseTitle);
+        }};
+        final String queryString = RestAPI.parseQuery(query, false);
+        final String url = "https://www.imdb.com/find?" + queryString;
         final Elements elements = Jsoupable.getStaticDocumentElements(Folder.OTHER, url, false, "div div.redesign div.pagecontent div div div.article div.findSection table.findList tr.findResult");
         JSONObject json = null;
         if(elements != null) {

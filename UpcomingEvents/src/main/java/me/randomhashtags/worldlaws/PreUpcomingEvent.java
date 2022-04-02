@@ -62,12 +62,6 @@ public final class PreUpcomingEvent {
     public EventDate getEventDate() {
         return EventDate.valueOfDateString(getDateString());
     }
-    public String getID() {
-        return id;
-    }
-    public String getIdentifier() {
-        return id.split("\\.")[1];
-    }
     public String getTitle() {
         return title;
     }
@@ -124,6 +118,6 @@ public final class PreUpcomingEvent {
         if(customValues != null) {
             json.put("customValues", customValues);
         }
-        return new LoadedPreUpcomingEvent(getIdentifier(), json);
+        return new LoadedPreUpcomingEvent(id, json);
     }
 }

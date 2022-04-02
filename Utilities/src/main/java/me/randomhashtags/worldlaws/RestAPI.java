@@ -12,6 +12,8 @@ import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 import java.nio.charset.StandardCharsets;
 import java.time.Duration;
+import java.time.LocalDate;
+import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.concurrent.CompletableFuture;
@@ -25,6 +27,7 @@ public interface RestAPI {
     }};
 
     HttpClient CLIENT = getClient();
+    HashMap<String, JSONArray> RESPONSE_TIMES = new HashMap<>();
 
     private static HttpClient getClient() {
         final HttpClient.Builder client = HttpClient.newBuilder()
@@ -38,6 +41,20 @@ public interface RestAPI {
             WLUtilities.saveException(e);
         }
         return client.build();
+    }
+    static void saveResponseTimes() {
+        if(!RESPONSE_TIMES.isEmpty()) {
+            final LocalDate now = LocalDate.now();
+            final Folder folder = Folder.LOGS;
+            final String fileName = "response_times", folderName = folder.getFolderName().replace("%year%", Integer.toString(now.getYear())).replace("%month%", now.getMonth().name()).replace("%day%", Integer.toString(now.getDayOfMonth())).replace("%type%", "ResponseTimes").replace("%server%", "RestAPI");
+            folder.setCustomFolderName(fileName, folderName);
+            final JSONObject json = new JSONObject();
+            for(Map.Entry<String, JSONArray> entry : RESPONSE_TIMES.entrySet()) {
+                final String url = entry.getKey();
+                json.put(url, entry.getValue());
+            }
+            Jsonable.setFileJSONObject(folder, fileName, json);
+        }
     }
 
 
@@ -133,20 +150,14 @@ public interface RestAPI {
         return requestStatic(targetURL, postData, false, isLimited, headers, query);
     }
     static String requestStatic(String targetURL, LinkedHashMap<String, String> postData, boolean postDataIsJSONObject, boolean isLimited, LinkedHashMap<String, String> headers, LinkedHashMap<String, String> query) {
+        final long started = System.currentTimeMillis();
         final boolean isLocal = targetURL.startsWith("http://localhost") || targetURL.startsWith("http://192.168");
 
         final StringBuilder target = new StringBuilder(targetURL);
-        int i = 0;
         if(query != null) {
             target.append("?");
-            for(Map.Entry<String, String> entry : query.entrySet()) {
-                final String key = entry.getKey(), value = entry.getValue();
-                if(i != 0) {
-                    target.append("&");
-                }
-                target.append(key).append("=").append(value);
-                i++;
-            }
+            final String queryString = parseQuery(query, false);
+            target.append(queryString);
         }
         targetURL = target.toString();
 
@@ -172,6 +183,7 @@ public interface RestAPI {
             }
         }
         final String finalURL = targetURL;
+        RESPONSE_TIMES.putIfAbsent(finalURL, new JSONArray());
         final HttpRequest request = requestBuilder.build();
         final CompletableFuture<HttpResponse<String>> bruh = CLIENT.sendAsync(request, HttpResponse.BodyHandlers.ofString());
         final String string = bruh.thenApply(HttpResponse::body).exceptionally(throwable -> {
@@ -181,31 +193,38 @@ public interface RestAPI {
                     return null;
                 }
             }
+            RESPONSE_TIMES.get(finalURL).put("error occurred");
             final String value = "failed getting response with url \"" + finalURL + "\"\n\n" +
                     "HttpRequest=" + request.toString() + "\n\n" +
                     "stackTrace=\n" + WLUtilities.getThrowableStackTrace(throwable);
             WLUtilities.saveLoggedError("RestAPI", value);
             return null;
         }).join();
+        RESPONSE_TIMES.get(finalURL).put(WLUtilities.getElapsedTime(started));
         return string;
     }
     private static HttpRequest.BodyPublisher parsePostData(LinkedHashMap<String, String> data, boolean isJSON) {
+        final String string = parseQuery(data, isJSON);
+        return HttpRequest.BodyPublishers.ofString(string);
+    }
+    static String parseQuery(LinkedHashMap<String, String> data, boolean isJSON) {
         final StringBuilder builder = new StringBuilder(isJSON ? "{" : "");
         boolean isFirst = true;
         for(Map.Entry<String, String> map : data.entrySet()) {
             if(!isFirst) {
                 builder.append(isJSON ? "," : "&");
             }
+            final String key = map.getKey(), value = map.getValue();
             if(isJSON) {
-                builder.append("\"").append(map.getKey()).append("\":\"").append(map.getValue()).append("\"");
+                builder.append("\"").append(key).append("\":\"").append(value).append("\"");
             } else {
-                builder.append(URLEncoder.encode(map.getKey(), StandardCharsets.UTF_8));
+                builder.append(URLEncoder.encode(key, StandardCharsets.UTF_8));
                 builder.append("=");
-                builder.append(URLEncoder.encode(map.getValue(), StandardCharsets.UTF_8));
+                builder.append(URLEncoder.encode(value, StandardCharsets.UTF_8));
             }
             isFirst = false;
         }
         builder.append(isJSON ? "}" : "");
-        return HttpRequest.BodyPublishers.ofString(builder.toString());
+        return builder.toString();
     }
 }

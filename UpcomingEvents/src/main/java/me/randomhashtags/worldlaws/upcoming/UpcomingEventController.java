@@ -92,11 +92,11 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
         final ConcurrentHashMap<String, List<LoadedPreUpcomingEvent>> map = new ConcurrentHashMap<>();
         if(set.size() > 0) {
             new CompletableFutures<String>().stream(set, identifier -> {
-                final LoadedPreUpcomingEvent string = getLoadedPreUpcomingEvent(identifier);
-                if(string != null) {
+                final LoadedPreUpcomingEvent event = getLoadedPreUpcomingEvent(identifier);
+                if(event != null) {
                     final String dateString = identifier.split("\\.")[0];
                     map.putIfAbsent(dateString, new ArrayList<>());
-                    map.get(dateString).add(string);
+                    map.get(dateString).add(event);
                 }
             });
         } else if(!loadedPreUpcomingEvents.isEmpty()) {
@@ -107,10 +107,10 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
             });
             if(!events.isEmpty()) {
                 for(String identifier : events) {
-                    final LoadedPreUpcomingEvent loadedPreUpcomingEvent = loadedPreUpcomingEvents.get(identifier);
+                    final LoadedPreUpcomingEvent event = loadedPreUpcomingEvents.get(identifier);
                     final String dateString = identifier.split("\\.")[0];
                     map.putIfAbsent(dateString, new ArrayList<>());
-                    map.get(dateString).add(loadedPreUpcomingEvent);
+                    map.get(dateString).add(event);
                 }
             }
         }
@@ -125,45 +125,40 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
     public void saveUpcomingEventToJSON(String id, String json) {
         final Folder folder = Folder.UPCOMING_EVENTS_IDS;
         final String fileName = getUpcomingEventFileName(getType(), folder, id);
-        final File file = folder.literalFileExists(fileName, fileName + ".json");
+        final String test = Jsonable.getFilePath(folder, fileName, "json");
+        final File file = folder.literalFileExists(test);
         if(file == null) {
             setFileJSON(folder, fileName, json);
         }
     }
 
-    public JSONObjectTranslatable getUpcomingEvent(String identifier) {
+    public UpcomingEvent getUpcomingEvent(String identifier) {
         if(upcomingEvents.containsKey(identifier)) {
-            final JSONObjectTranslatable string = upcomingEvents.get(identifier);
-            return string.isEmpty() ? null : string;
+            final UpcomingEvent event = upcomingEvents.get(identifier);
+            return event.isEmpty() ? null : event;
         } else {
             final Folder folder = Folder.UPCOMING_EVENTS_IDS;
             final String fileName = getUpcomingEventFileName(getType(), folder, identifier);
             String string = getLocalFileString(folder, fileName, "json");
-            UpcomingEvent translatable = null;
+            final UpcomingEvent event;
             if(string == null) {
-                translatable = tryLoadingUpcomingEvent(identifier);
-                LoadedPreUpcomingEvent value = null;
-                final String jsonString = translatable != null ? translatable.toString() : "";
-                if(translatable != null) {
-                    value = toLoadedPreUpcomingEvent(identifier, translatable);
-                }
-                if(value != null) {
-                    putLoadedPreUpcomingEvent(value);
-                }
-                if(!jsonString.isEmpty()) {
+                event = tryLoadingUpcomingEvent(identifier);
+                if(event != null) {
                     final String todayEventDateString = EventDate.getDateString(LocalDate.now()) + ".";
                     if(identifier.startsWith(todayEventDateString)) {
-                        saveUpcomingEventToJSON(identifier, jsonString);
+                        saveUpcomingEventToJSON(identifier, event.toString());
                     }
                 }
             } else {
                 final JSONObject json = new JSONObject(string);
-                translatable = parseUpcomingEvent(json);
+                event = parseUpcomingEvent(json);
             }
-            if(translatable != null) {
-                upcomingEvents.put(identifier, translatable);
+            if(event != null) {
+                final LoadedPreUpcomingEvent value = toLoadedPreUpcomingEvent(identifier, event);
+                putLoadedPreUpcomingEvent(value);
+                upcomingEvents.put(identifier, event);
             }
-            return translatable;
+            return event;
         }
     }
     public static String getUpcomingEventFileName(UpcomingEventType type, Folder folder, String identifier) {
@@ -196,7 +191,7 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
 
     private LoadedPreUpcomingEvent toLoadedPreUpcomingEvent(String id, JSONObject json) {
         final UpcomingEventType type = getType();
-        final String imageURL = json.has("imageURL") ? json.getString("imageURL") : null;
+        final String imageURL = json.optString("imageURL", null);
         final PreUpcomingEvent preUpcomingEvent = preUpcomingEvents.getOrDefault(id, PreUpcomingEvent.fromUpcomingEventJSON(type, id, json));
         return preUpcomingEvent.toLoadedPreUpcomingEventWithImageURL(getType(), imageURL);
     }

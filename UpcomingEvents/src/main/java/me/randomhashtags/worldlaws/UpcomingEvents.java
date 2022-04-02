@@ -84,15 +84,7 @@ public final class UpcomingEvents implements WLServer {
 
     private void test() {
         final long started = System.currentTimeMillis();
-        final ScienceYearReview json = new ScienceYearReview();
-        json.refresh();
-        final ConcurrentHashMap<String, List<LoadedPreUpcomingEvent>> test = json.getEventsFromDates(getWeeklyEventDateStrings(LocalDate.now()));
-        for(Map.Entry<String, List<LoadedPreUpcomingEvent>> entry : test.entrySet()) {
-            WLLogger.logInfo("UpcomingEvents;test;entry.key=" + entry.getKey());
-            for(LoadedPreUpcomingEvent event : entry.getValue()) {
-                WLLogger.logInfo("UpcomingEvents;test;entry.value=" + event.getJSONObject().toString());
-            }
-        }
+        new WikipediaTodaysFeaturedPicture().refresh();
         WLLogger.logInfo("UpcomingEvents;test;took " + WLUtilities.getElapsedTime(started));
     }
 
@@ -244,9 +236,9 @@ public final class UpcomingEvents implements WLServer {
                     final String dateString = map.getKey();
                     final List<LoadedPreUpcomingEvent> events = map.getValue();
                     for(LoadedPreUpcomingEvent event : events) {
-                        final String identifier = event.getIdentifier();
-                        dateStringJSON.put(identifier, event.getJSONObject());
-                        dateStringJSON.addTranslatedKey(identifier);
+                        final String id = event.getID();
+                        dateStringJSON.put(id, event.getJSONObject());
+                        dateStringJSON.addTranslatedKey(id);
                     }
                     controllerJSON.put(dateString, dateStringJSON);
                     controllerJSON.addTranslatedKey(dateString);
