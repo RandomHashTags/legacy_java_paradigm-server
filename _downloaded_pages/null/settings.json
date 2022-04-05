@@ -8,6 +8,11 @@
     "serverRebootFrequencyInDays": 3,
     "server_handler_port": 0,
     "default_address": "http://localhost",
+    "https": {
+      "enabled": true,
+      "keystoreFileName": "***REMOVED***",
+      "keystorePassword": "***REMOVED***"
+    },
     "servers": {
       "proxy": {
         "port": 0

@@ -98,6 +98,9 @@ public enum Settings {
         private static JSONObject getServersJSON() {
             return getOrDefaultJSONObject(SETTINGS_JSON, "server", new JSONObject());
         }
+        private static JSONObject getHttpsJSON() {
+            return getOrDefaultJSONObject(getServersJSON(), "https", new JSONObject());
+        }
         private static JSONObject getServerJSON(TargetServer server) {
             return getOrDefaultJSONObject(getServersJSON(), server.getBackendID(), new JSONObject());
         }
@@ -119,6 +122,16 @@ public enum Settings {
         }
         public static int getDefaultAPIVersion() {
             return getOrDefaultInt(getServersJSON(), "default_api_version", 1);
+        }
+
+        public static boolean isHttpsEnabled() {
+            return getOrDefaultBoolean(getHttpsJSON(), "enabled", false);
+        }
+        public static String getHttpsKeystoreFileName() {
+            return getOrDefaultString(getHttpsJSON(), "keystoreFileName", "***REMOVED***");
+        }
+        public static String getHttpsKeystorePassword() {
+            return getOrDefaultString(getHttpsJSON(), "keystorePassword", "***REMOVED***");
         }
 
         public static int getPort(TargetServer server) {

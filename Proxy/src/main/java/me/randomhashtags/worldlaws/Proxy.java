@@ -19,6 +19,8 @@ public final class Proxy implements WLServer {
     }
 
     private void test() {
+        //final String uuid = "***REMOVED***";
+        //WLLogger.logInfo("Proxy;test;uuid=" + uuid + ";identifierIsValid=" + ProxyHeaders.identifierIsValid(uuid));
     }
 
     @Override
@@ -62,19 +64,19 @@ public final class Proxy implements WLServer {
                     return null;
                 }
             default:
-                return getProxyClientResponse("localhost", identifier, client.getPlatform(), target);
+                return getProxyClientResponse("localhost", identifier, client.getPlatform(), client.getVersion(), target);
         }
     }
-    private String getProxyClientResponse(String ip, String identifier, String platform, String target) {
+    private String getProxyClientResponse(String ip, String identifier, String platform, String version, String target) {
         final long started = System.currentTimeMillis();
-        final ProxyHeaders headers = ProxyHeaders.getWith(ip, identifier, platform, target);
+        final ProxyHeaders headers = ProxyHeaders.getWith(ip, identifier, platform, version, target);
         final String prefix = "[" + platform + ", " + identifier + "] " + ip + " - ";
         final TargetServer server = headers.getServer();
         if(server != null) {
-            final APIVersion version = headers.getAPIVersion();
+            final APIVersion apiVersion = headers.getAPIVersion();
             final HashSet<String> query = headers.getQuery();
             final String request = headers.getRequest();
-            final String string = server.sendResponse(version, identifier, request, query);
+            final String string = server.sendResponse(apiVersion, identifier, request, query);
             if(string != null && !string.equals("null")) {
                 return string;
             }

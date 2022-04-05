@@ -7,6 +7,7 @@ public enum PresentationEventType {
     CONVENTION_GAMING,
     EXHIBIT_FASHION,
     EXPO_GAMING,
+    EVENT_GATHERING,
     FESTIVAL_GAMING,
     FESTIVAL_MUSIC,
     PRESENTATION,
@@ -22,6 +23,7 @@ public enum PresentationEventType {
             case CONVENTION_GAMING: return "Gaming Convention";
             case EXHIBIT_FASHION: return "Fashion Exhibit";
             case EXPO_GAMING: return "Gaming Expo";
+            case EVENT_GATHERING: return "Gathering Event";
             case FESTIVAL_GAMING: return "Gaming Festival";
             case FESTIVAL_MUSIC: return "Music Festival";
             case SUMMIT: return "Summit";

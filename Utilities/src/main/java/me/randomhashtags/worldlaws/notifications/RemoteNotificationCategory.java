@@ -17,6 +17,15 @@ public enum RemoteNotificationCategory {
     VIDEO_GAME_UPDATE,
     ;
 
+    public static RemoteNotificationCategory valueOfString(String input) {
+        for(RemoteNotificationCategory category : RemoteNotificationCategory.values()) {
+            if(category.name().equalsIgnoreCase(input)) {
+                return category;
+            }
+        }
+        return null;
+    }
+
     public String getTitle() {
         switch (this) {
             case SOFTWARE_UPDATE_APPLE_IOS:
@@ -37,4 +46,5 @@ public enum RemoteNotificationCategory {
                 return "Unknown";
         }
     }
+
 }

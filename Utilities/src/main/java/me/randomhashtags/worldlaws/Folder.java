@@ -33,7 +33,7 @@ public enum Folder {
     SERVICES_FINANCE_YAHOO_FINANCE_CHARTS("services" + File.separator + "finance" + File.separator + "yahooFinance" + File.separator + "charts"),
 
     DIRECTORY(""),
-    DEVICE_TOKENS("device tokens"),
+    DEVICE_TOKENS("deviceTokens" + File.separator + "%type%"),
     ERRORS("errors" + File.separator + "%errorName%"),
     FEEDBACK_BUG_REPORTS("feedback" + File.separator + "bug reports"),
     FEEDBACK_FEATURE_REQUEST("feedback" + File.separator + "feature request"),

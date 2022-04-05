@@ -11,7 +11,7 @@ import java.net.SocketException;
 
 public final class WLClient {
     private final Socket httpClient;
-    private String target, identifier, platform;
+    private String target, identifier, platform, version;
     private Language language;
     private LanguageTranslator languageType;
 
@@ -28,6 +28,9 @@ public final class WLClient {
     }
     public String getPlatform() {
         return platform;
+    }
+    public String getVersion() {
+        return version;
     }
     public String getTarget() {
         return target;
@@ -69,6 +72,7 @@ public final class WLClient {
     private void loadHeaderData(String[] headers) {
         identifier = getFirstHeaderThatStartsWith(headers, "***REMOVED***");
         platform = getFirstHeaderThatStartsWith(headers, "***REMOVED***");
+        version = getFirstHeaderThatStartsWith(headers, "***REMOVED***");
         final String targetLanguage = getFirstHeaderThatStartsWith(headers, "***REMOVED***");
         if(!targetLanguage.equals("null")) {
             language = Language.valueOfString(targetLanguage);

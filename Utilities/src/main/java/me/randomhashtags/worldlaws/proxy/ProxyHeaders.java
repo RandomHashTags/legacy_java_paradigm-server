@@ -16,7 +16,7 @@ import java.util.HashSet;
 
 public final class ProxyHeaders {
 
-    private String ipAddress, identifier, platform, totalRequest, request;
+    private String ipAddress, identifier, platform, version, totalRequest, request;
     private Language language;
     private LanguageTranslator languageType;
     private APIVersion apiVersion;
@@ -54,6 +54,7 @@ public final class ProxyHeaders {
         final String ipAddress = client.getInetAddress().toString();
         final String identifier = getHeaderThatStartsWith(headers, "***REMOVED***");
         final String platform = getHeaderThatStartsWith(headers, "***REMOVED***");
+        final String version = getHeaderThatStartsWith(headers, "***REMOVED***");
         final String targetLanguage = getHeaderThatStartsWith(headers, "***REMOVED***");
         if(targetLanguage != null) {
             language = Language.valueOfString(targetLanguage);
@@ -68,32 +69,35 @@ public final class ProxyHeaders {
         if(languageType == null) {
             languageType = LanguageTranslator.ARGOS;
         }
-        test(ipAddress, identifier, platform, target);
+        test(ipAddress, identifier, platform, version, target);
     }
 
-    public void test(String ipAddress, String identifier, String platform, String target) {
+    public void test(String ipAddress, String identifier, String platform, String version, String target) {
         this.ipAddress = ipAddress;
         this.identifier = identifier;
+        this.version = version;
         this.platform = platform;
         final String finalTarget = target.split("\\?q=")[0];
         if(finalTarget.contains("/")) {
             final String[] finalTargetValues = finalTarget.split("/");
-            final String serverString = finalTargetValues[1];
-            server = TargetServer.valueOfBackendID(serverString);
+            if(finalTargetValues.length >= 2) {
+                final String serverString = finalTargetValues[1];
+                server = TargetServer.valueOfBackendID(serverString);
 
-            final String versionString = finalTargetValues[0];
-            totalRequest = finalTarget.substring(versionString.length() + 1);
-            apiVersion = APIVersion.valueOfInput(versionString);
-            query = getQuery(target);
-            if(server != null) {
-                String targetRequest = finalTarget.substring(versionString.length() + 1);
-                if(server.isRealServer()) {
-                    targetRequest = targetRequest.substring(serverString.length() + 1);
+                final String versionString = finalTargetValues[0];
+                totalRequest = finalTarget.substring(versionString.length() + 1);
+                apiVersion = APIVersion.valueOfInput(versionString);
+                query = getQuery(target);
+                if(server != null) {
+                    String targetRequest = finalTarget.substring(versionString.length() + 1);
+                    if(server.isRealServer()) {
+                        targetRequest = targetRequest.substring(serverString.length() + 1);
+                    }
+                    if(targetRequest.startsWith("/")) {
+                        targetRequest = target.substring(1);
+                    }
+                    request = targetRequest;
                 }
-                if(targetRequest.startsWith("/")) {
-                    targetRequest = target.substring(1);
-                }
-                request = targetRequest;
             }
         }
     }
@@ -104,7 +108,14 @@ public final class ProxyHeaders {
     }
 
     public boolean isValidRequest() {
-        return identifier != null && platform != null;
+        return identifierIsValid() && version != null && platform != null;
+    }
+    public boolean identifierIsValid() {
+        if(identifier != null) {
+            final String regex = "[0-9a-z]+";
+            return identifier.matches(regex + "-" + regex + "-" + regex + "-" + regex + "-" + regex);
+        }
+        return false;
     }
     public String getIPAddress() {
         return ipAddress;
@@ -114,6 +125,9 @@ public final class ProxyHeaders {
     }
     public String getPlatform() {
         return platform;
+    }
+    public String getVersion() {
+        return version;
     }
     public Language getLanguage() {
         return language;
@@ -146,9 +160,9 @@ public final class ProxyHeaders {
     public static ProxyHeaders getFrom(Socket client) {
         return new ProxyHeaders(client);
     }
-    public static ProxyHeaders getWith(String ipAddress, String identifier, String platform, String target) {
+    public static ProxyHeaders getWith(String ipAddress, String identifier, String platform, String version, String target) {
         final ProxyHeaders headers = new ProxyHeaders();
-        headers.test(ipAddress, identifier, platform, target);
+        headers.test(ipAddress, identifier, platform, version, target);
         return headers;
     }
 }

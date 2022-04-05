@@ -20,16 +20,16 @@ public enum Verification implements RestAPI {
         headers.put("exclude-old-transactions", "true");
         headers.put("password", sharedSecret);
         final JSONObject json = postJSONObject(url, null, true, headers);
-        JSONObjectTranslatable string = null;
+        JSONObjectTranslatable translatable = null;
         int status = 0;
         if(json != null) {
-            string = new JSONObjectTranslatable();
+            translatable = new JSONObjectTranslatable();
             for(String key : json.keySet()) {
-                string.put(key, json.get(key));
+                translatable.put(key, json.get(key));
             }
             status = json.getInt("status");
         }
-        WLLogger.logInfo("Verification - status=" + status + ";json=" + string);
-        return string;
+        WLLogger.logInfo("Verification - status=" + status + ";json=" + translatable);
+        return translatable;
     }
 }

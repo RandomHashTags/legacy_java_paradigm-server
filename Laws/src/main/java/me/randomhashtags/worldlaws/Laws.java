@@ -49,7 +49,7 @@ public final class Laws implements WLServer {
     public JSONObjectTranslatable getServerResponse(APIVersion version, String identifier, ServerRequest request) {
         final ServerRequestTypeLaws type = (ServerRequestTypeLaws) request.getType();
         final String target = request.getTarget();
-        final String[] values = target.split("/");
+        final String[] values = target != null ? target.split("/") : null;
         if(type == null) {
             if(values.length >= 2) {
                 final String key = values[0];

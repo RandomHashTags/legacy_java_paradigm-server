@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.notifications.RemoteNotification;
+import me.randomhashtags.worldlaws.notifications.RemoteNotificationCategory;
 import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.server.ServerRequestTypeRemoteNotifications;
 import me.randomhashtags.worldlaws.settings.Settings;
@@ -52,10 +53,9 @@ public final class RemoteNotifications implements WLServer {
         final String[] values = target != null ? target.split("/") : null;
         switch (type) {
             case REGISTER:
-                String token = values[1];
                 switch (values[0]) {
                     case "apple":
-                        AppleNotifications.INSTANCE.register(token);
+                        handleDeviceToken(AppleNotifications.INSTANCE, values, true);
                         return null;
                     case "google":
                         return null;
@@ -63,10 +63,9 @@ public final class RemoteNotifications implements WLServer {
                         return null;
                 }
             case UNREGISTER:
-                token = values[1];
                 switch (values[0]) {
                     case "apple":
-                        AppleNotifications.INSTANCE.unregister(token);
+                        handleDeviceToken(AppleNotifications.INSTANCE, values, false);
                         return null;
                     default:
                         return null;
@@ -80,6 +79,18 @@ public final class RemoteNotifications implements WLServer {
                 return null;
         }
     }
+    private void handleDeviceToken(DeviceTokenController controller, String[] values, boolean register) {
+        final String token = values[2];
+        final RemoteNotificationCategory category = RemoteNotificationCategory.valueOfString(values[1]);
+        if(category != null) {
+            if(register) {
+                controller.register(category, token);
+            } else {
+                controller.unregister(category, token);
+            }
+        }
+    }
+
 
     private void pushPending() {
         final Instant nowInstant = Instant.now();

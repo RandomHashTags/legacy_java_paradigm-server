@@ -11,6 +11,7 @@ import javax.net.ssl.*;
 import java.io.FileInputStream;
 import java.net.ServerSocket;
 import java.net.Socket;
+import java.net.SocketException;
 import java.security.KeyStore;
 import java.time.LocalDateTime;
 import java.util.*;
@@ -60,7 +61,7 @@ public final class ServerHandler implements UserServer {
         final Timer updateServersTimer = WLUtilities.getTimer(updateServersStartingDay, updateServersInterval, ServerStatuses::tryUpdatingServersIfAvailable);
         timers.add(updateServersTimer);
 
-        setupServer(false);
+        setupServer();
     }
 
     @Override
@@ -76,27 +77,76 @@ public final class ServerHandler implements UserServer {
         }
     }
 
-    private void setupServer(boolean https) {
+    private void setupServer() {
         listenForUserInput();
 
         final int port = Settings.Server.getServerHandlerPort();
-        if(https) {
-            setupHttpsServer(port);
-        } else {
-            setupHttpServer(port);
+        final boolean https = Settings.Server.isHttpsEnabled();
+        try {
+            if(https) {
+                setupHttpsServer(port);
+            } else {
+                setupHttpServer(port);
+            }
+        } catch (Exception e) {
+            WLUtilities.saveException(e);
         }
     }
+    private void setupHttpServer(int port) throws Exception {
+        server = new ServerSocket(port);
+        connectClients(false);
+    }
+    private void setupHttpsServer(int port) throws Exception {
+        final SSLContext context = getHttpsContext();
+        final SSLServerSocketFactory socketFactory = context.getServerSocketFactory();
+        server = socketFactory.createServerSocket(port);
+        connectClients(true);
+    }
+    private SSLContext getHttpsContext() throws Exception {
+        final KeyStore store = KeyStore.getInstance("JKS");
+        final char[] password = Settings.Server.getHttpsKeystorePassword().toCharArray();
+
+        final String keystoreFileName = Settings.Server.getHttpsKeystoreFileName();
+        final FileInputStream file = new FileInputStream(keystoreFileName);
+        store.load(file, password);
+
+        final String factoryType = "SunX509";
+        final KeyManagerFactory factory = KeyManagerFactory.getInstance(factoryType);
+        factory.init(store, password);
+
+        final TrustManagerFactory trustFactory = TrustManagerFactory.getInstance(factoryType);
+        trustFactory.init(store);
+
+        final SSLContext context = SSLContext.getInstance("TLS");
+        context.init(factory.getKeyManagers(), trustFactory.getTrustManagers(), null);
+        return context;
+    }
+
     private void connectClients(boolean https) {
         WLLogger.logInfo("ServerHandler - Listening for http" + (https ? "s" : "") + " clients on port " + server.getLocalPort() + "...");
         try {
             while (!server.isClosed()) {
                 final Socket client = server.accept();
                 CompletableFuture.runAsync(() -> {
-                    handleClient(client);
+                    if(https) {
+                        handleHttpsClient((SSLSocket) client);
+                    } else {
+                        handleClient(client);
+                    }
                 });
             }
         } catch (Exception e) {
             WLLogger.logInfo("ServerHandler - stopped listening for clients");
+        }
+    }
+    private void handleHttpsClient(SSLSocket client) {
+        client.setEnabledCipherSuites(client.getSupportedCipherSuites());
+        try {
+            client.startHandshake();
+            handleClient(client);
+        } catch (SocketException | SSLException ignored) {
+        } catch (Exception e) {
+            WLUtilities.saveException(e);
         }
     }
     private void handleClient(Socket client) {
@@ -131,48 +181,6 @@ public final class ServerHandler implements UserServer {
         } else {
             WLUtilities.writeClientOutput(client, DataValues.HTTP_ERROR_404);
         }
-    }
-
-    private void setupHttpServer(int port) {
-        try {
-            server = new ServerSocket(port);
-            connectClients(false);
-        } catch (Exception e) {
-            WLUtilities.saveException(e);
-        }
-    }
-    private void setupHttpsServer(int port) {
-        try {
-            final SSLContext context = getHttpsContext();
-            final SSLServerSocketFactory socketFactory = context.getServerSocketFactory();
-            server = socketFactory.createServerSocket(port);
-            connectClients(true);
-        } catch (Exception e) {
-            WLUtilities.saveException(e);
-        }
-    }
-    private SSLContext getHttpsContext() {
-        try {
-            final KeyStore store = KeyStore.getInstance("JKS");
-            final char[] password = {};//DataValues.HTTPS_KEYSTORE_PASSWORD.toCharArray();
-            final String factoryType = "SunX509";
-            store.load(new FileInputStream("eli5.keystore"), password);
-
-            final KeyManagerFactory factory = KeyManagerFactory.getInstance(factoryType);
-            factory.init(store, password);
-            final KeyManager[] keyManagers = factory.getKeyManagers();
-
-            final TrustManagerFactory trustFactory = TrustManagerFactory.getInstance(factoryType);
-            trustFactory.init(store);
-            final TrustManager[] trustManagers = trustFactory.getTrustManagers();
-
-            final SSLContext context = SSLContext.getInstance("SSL");
-            context.init(keyManagers, trustManagers, null);
-            return context;
-        } catch (Exception e) {
-            WLUtilities.saveException(e);
-        }
-        return null;
     }
 
     @Override

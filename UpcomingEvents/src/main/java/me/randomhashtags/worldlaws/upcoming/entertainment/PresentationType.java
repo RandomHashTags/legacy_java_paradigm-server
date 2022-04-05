@@ -110,6 +110,11 @@ public enum PresentationType implements Jsoupable {
             "https://www.playstation.com/en-us/state-of-play",
             PresentationEventType.PRESENTATION
     ),*/
+    /*POKEMON_GO(
+            getNames("Pokemon Go Community Day", "Pokemon Go Fest", "Pokemon Go Safazri Zone"),
+            "https://pokemongolive.com/events/",
+            PresentationEventType.EVENT_GATHERING
+    ),*/
     /*SOUTH_BY_SOUTHWEST(
             "South by Southwest",
             "https://en.wikipedia.org/wiki/South_by_Southwest",
