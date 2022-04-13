@@ -2,7 +2,6 @@ package me.randomhashtags.worldlaws.upcoming.events;
 
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSources;
-import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import org.json.JSONArray;
@@ -23,8 +22,8 @@ public final class TVShowEvent extends UpcomingEvent {
         this.runtimeMinutes = runtimeMinutes;
         this.season = season;
         this.episode = episode;
-        this.episodeName = LocalServer.fixEscapeValues(episodeName);
-        this.episodeSummary = LocalServer.fixEscapeValues(episodeSummary);
+        this.episodeName = episodeName;
+        this.episodeSummary = episodeSummary;
         this.genres = genres;
     }
 

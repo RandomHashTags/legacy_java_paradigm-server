@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws.upcoming.science;
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
+import me.randomhashtags.worldlaws.service.WikipediaEvent;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
@@ -46,6 +47,10 @@ public final class WikipediaTodaysFeaturedPicture extends LoadedUpcomingEventCon
                     for(Element paragraphElement : paragraphs) {
                         description.append(isFirst ? "" : "\n").append(paragraphElement.text());
                         isFirst = false;
+                        final EventSources links = WikipediaEvent.getExternalLinks(paragraphElement);
+                        if(links != null) {
+                            externalSources.addAll(links);
+                        }
                     }
 
                     String photographCredit = null;

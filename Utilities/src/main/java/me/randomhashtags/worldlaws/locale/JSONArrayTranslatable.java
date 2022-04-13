@@ -18,6 +18,9 @@ public class JSONArrayTranslatable extends JSONArray implements JSONTranslatable
     public JSONArrayTranslatable(JSONArray array) {
         super(array);
     }
+    public JSONArrayTranslatable(String source) {
+        super(source);
+    }
 
     @Override
     public void setTranslatedKeys(String...keys) {

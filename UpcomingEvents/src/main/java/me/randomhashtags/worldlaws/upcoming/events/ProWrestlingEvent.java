@@ -2,7 +2,6 @@ package me.randomhashtags.worldlaws.upcoming.events;
 
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSources;
-import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventValue;
@@ -20,8 +19,8 @@ public class ProWrestlingEvent extends UpcomingEvent {
     }
     public ProWrestlingEvent(EventDate date, String title, String description, String imageURL, String location, String mainEvent, String notes, EventSources sources) {
         super(date, title, description, imageURL, location, null, sources);
-        this.mainEvent = LocalServer.fixEscapeValues(mainEvent);
-        this.notes = LocalServer.fixEscapeValues(notes);
+        this.mainEvent = mainEvent;
+        this.notes = notes;
         insertProperties();
     }
 

@@ -19,8 +19,7 @@ public enum Holidays {
         countryHolidays = new HashMap<>();
     }
 
-    public JSONObjectTranslatable getResponse(String target) {
-        final String[] values = target.split("/");
+    public JSONObjectTranslatable getResponse(String[] values) {
         final int valueCount = values.length;
         final String key = values[0];
         switch (key) {

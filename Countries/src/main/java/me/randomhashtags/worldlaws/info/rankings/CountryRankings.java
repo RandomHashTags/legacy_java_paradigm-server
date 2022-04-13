@@ -276,7 +276,6 @@ public enum CountryRankings implements CountryRankingService {
     public void insertCountryData(JSONObjectTranslatable dataJSON, JSONObjectTranslatable countryJSON) {
         final String url = getURL().replace("%year%", Integer.toString(yearOfData)), valueType = this.valueType.name();
 
-        final String suffix = LocalServer.fixEscapeValues(this.suffix);
         if(suffix != null) {
             countryJSON.put("suffix", suffix);
         }

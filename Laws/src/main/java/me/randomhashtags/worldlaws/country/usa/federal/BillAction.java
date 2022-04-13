@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.country.usa.federal;
 
-import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.country.usa.USChamber;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 
 import java.time.LocalDateTime;
 
@@ -12,7 +12,7 @@ public final class BillAction {
 
     public BillAction(USChamber chamber, String title, LocalDateTime date) {
         this.chamber = chamber;
-        this.title = LocalServer.fixEscapeValues(title);
+        this.title = title;
         this.date = date;
     }
 
@@ -26,12 +26,13 @@ public final class BillAction {
         return title;
     }
 
-    @Override
-    public String toString() {
-        return "{" +
-                (chamber != null ? "\"chamber\":\"" + chamber + "\"," : "") +
-                "\"title\":\"" + title + "\"," +
-                "\"date\":\"" + date.toString() + "\"" +
-                "}";
+    public JSONObjectTranslatable toJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable();
+        if(chamber != null) {
+            json.put("chamber", chamber.name());
+        }
+        json.put("title", title);
+        json.put("date", date.toString());
+        return json;
     }
 }

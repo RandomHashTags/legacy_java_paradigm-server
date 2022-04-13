@@ -2,7 +2,6 @@ package me.randomhashtags.worldlaws.upcoming.events;
 
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSources;
-import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventValue;
@@ -26,7 +25,7 @@ public final class MovieEvent extends UpcomingEvent {
     public MovieEvent(EventDate date, String title, String description, String posterURL, JSONArray productionCompanies, String releaseInfo, JSONObject imdbInfo, String ratings, JSONArray youtubeVideoIDs, EventSources sources) {
         super(date, title, description, posterURL, null, youtubeVideoIDs, sources);
         this.productionCompanies = productionCompanies;
-        this.releaseInfo = LocalServer.fixEscapeValues(releaseInfo);
+        this.releaseInfo = releaseInfo;
         this.imdbInfo = imdbInfo;
         this.ratings = ratings;
         insertProperties();

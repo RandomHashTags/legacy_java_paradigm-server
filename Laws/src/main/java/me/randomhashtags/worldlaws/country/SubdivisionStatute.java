@@ -20,7 +20,7 @@ public final class SubdivisionStatute {
     public SubdivisionStatute(StateReference reference, String topic, String description, List<Subdivision> subdivisions) {
         this.reference = reference;
         this.topic = topic;
-        this.description = LocalServer.fixEscapeValues(description);
+        this.description = description;
         this.subdivisions = subdivisions;
     }
 

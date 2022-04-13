@@ -55,7 +55,7 @@ public enum ArgosTranslator implements LanguageTranslatorController {
                 "https://libretranslate.esmailelbob.xyz",
                 "https://libretranslate.pussthecat.org"
         ));
-        final LinkedHashMap<String, String> postData = new LinkedHashMap<>();
+        final LinkedHashMap<String, Object> postData = new LinkedHashMap<>();
         postData.put("q", text);
         postData.put("source", fromLanguage.getID());
         postData.put("target", toLanguage.getID());
@@ -65,7 +65,7 @@ public enum ArgosTranslator implements LanguageTranslatorController {
         for(int i = 1; i <= size; i++) {
             final String targetURL = fallbacks.get(RANDOM.nextInt(fallbacks.size()));
             final String url = targetURL + "/translate";
-            final JSONObject json = RestAPI.postStaticJSONObject(url, postData, true, false, null);
+            final JSONObject json = RestAPI.postStaticJSONObject(url, postData, false, null);
             final String key = "translatedText";
             if(json != null && json.has(key) && json.get(key) instanceof String) {
                 string = json.getString(key);

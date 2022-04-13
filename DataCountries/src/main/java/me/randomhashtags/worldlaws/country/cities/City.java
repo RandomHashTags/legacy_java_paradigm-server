@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.country.cities;
 
-import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 
 public final class City {
@@ -9,7 +8,7 @@ public final class City {
 
     public City(CityController controller, String name) {
         this.controller = controller;
-        this.name = LocalServer.fixEscapeValues(name);
+        this.name = name;
     }
 
 

@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.service;
 
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.Jsoupable;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -12,7 +13,8 @@ import java.util.HashMap;
 public enum TopClassActions implements Jsoupable { // https://topclassactions.com
     INSTANCE;
 
-    private final HashMap<String, String> settlementURLs, settlements;
+    private final HashMap<String, String> settlementURLs;
+    private final HashMap<String, JSONObjectTranslatable> settlements;
 
     TopClassActions() {
         settlementURLs = new HashMap<>();
@@ -33,7 +35,7 @@ public enum TopClassActions implements Jsoupable { // https://topclassactions.co
         return json.isEmpty() ? null : json.toString();
     }
 
-    public String getSettlement(String id) {
+    public JSONObjectTranslatable getSettlement(String id) {
         if(!settlements.containsKey(id)) {
             if(!settlementURLs.containsKey(id)) {
                 return null;
@@ -41,7 +43,7 @@ public enum TopClassActions implements Jsoupable { // https://topclassactions.co
             final String url = settlementURLs.get(id);
             final TopClassActionSettlement settlement = getSettlementFrom(url);
             if(settlement != null) {
-                settlements.put(id, settlement.toString());
+                settlements.put(id, settlement.toJSONObject());
             }
         }
         return settlements.get(id);

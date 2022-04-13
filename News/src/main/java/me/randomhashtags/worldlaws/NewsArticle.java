@@ -8,7 +8,6 @@ public final class NewsArticle {
 
     public NewsArticle(String author, String title, String description, String url, String urlToImage) {
         this.author = author;
-        title = LocalServer.fixEscapeValues(title);
         final String articleSite = title.split(" - ")[1];
         this.title = title.split(" - " + articleSite)[0];
         this.description = LocalServer.fixEscapeValues(description);
@@ -30,17 +29,6 @@ public final class NewsArticle {
     }
     private String getURLToImage() {
         return urlToImage;
-    }
-
-    @Override
-    public String toString() {
-        return "{" +
-                "\"author\":\"" + author + "\"," +
-                "\"title\":\"" + title + "\"," +
-                "\"description\":\"" + description + "\"," +
-                "\"url\":\"" + url + "\"," +
-                "\"urlToImage\":\"" + urlToImage + "\"" +
-                "}";
     }
 
     public JSONObjectTranslatable toJSONObject() {

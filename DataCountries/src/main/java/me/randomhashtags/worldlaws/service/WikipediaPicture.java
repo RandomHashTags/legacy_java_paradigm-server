@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.service;
 
-import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import org.json.JSONObject;
 
@@ -13,8 +12,8 @@ public final class WikipediaPicture {
     private final String name, title, imageURL;
 
     public WikipediaPicture(String name, String title, String imageURL) {
-        this.name = LocalServer.fixEscapeValues(name);
-        this.title = LocalServer.fixEscapeValues(title);
+        this.name = name;
+        this.title = title;
         this.imageURL = imageURL;
     }
     private WikipediaPicture(JSONObject json) {

@@ -1,6 +1,6 @@
 package me.randomhashtags.worldlaws.happeningnow;
 
-import me.randomhashtags.worldlaws.LocalServer;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 
 public final class Livestream {
     private final String streamerName, title, thumbnailURL;
@@ -9,7 +9,7 @@ public final class Livestream {
 
     public Livestream(String streamerName, String title, String thumbnailURL, int viewers, LivestreamType type) {
         this.streamerName = streamerName;
-        this.title = LocalServer.fixEscapeValues(title);
+        this.title = title;
         this.thumbnailURL = thumbnailURL;
         this.viewers = viewers;
         this.type = type;
@@ -31,14 +31,13 @@ public final class Livestream {
         return type;
     }
 
-    @Override
-    public String toString() {
-        return "{" +
-                "\"streamerName\":\"" + streamerName + "\"," +
-                "\"title\":\"" + title + "\"," +
-                "\"thumbnailURL\":\"" + thumbnailURL + "\"," +
-                "\"viewers\":" + viewers + "," +
-                "\"type\":\"" + type.name() + "\"" +
-                "}";
+    public JSONObjectTranslatable toJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("title");
+        json.put("streamerName", streamerName);
+        json.put("title", title);
+        json.put("thumbnailURL", thumbnailURL);
+        json.put("viewers", viewers);
+        json.put("type", type.name());
+        return json;
     }
 }

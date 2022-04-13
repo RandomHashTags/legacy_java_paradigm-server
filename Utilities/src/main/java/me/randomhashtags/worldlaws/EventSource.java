@@ -4,14 +4,16 @@ import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import org.json.JSONObject;
 
 public final class EventSource {
-    private final String siteName, homepageURL;
+    private final String siteName, fixedSiteName, homepageURL;
 
     public EventSource(String siteName, String homepageURL) {
-        this.siteName = parseSiteName(siteName);
+        this.siteName = siteName;
+        this.fixedSiteName = parseSiteName(siteName);
         this.homepageURL = homepageURL;
     }
     public EventSource(String siteName, JSONObject json) {
-        this.siteName = parseSiteName(siteName);
+        this.siteName = siteName;
+        this.fixedSiteName = parseSiteName(siteName);
         this.homepageURL = json.getString("homepageURL");
     }
 
@@ -27,8 +29,8 @@ public final class EventSource {
                 ;
     }
 
-    public String getSiteName() {
-        return siteName;
+    public String getSiteName(boolean fixed) {
+        return fixed ? fixedSiteName : siteName;
     }
     public JSONObjectTranslatable toJSONObject(boolean withSiteName) {
         final JSONObjectTranslatable json = new JSONObjectTranslatable();

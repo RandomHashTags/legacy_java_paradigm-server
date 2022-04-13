@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws;
 import me.randomhashtags.worldlaws.globalwarming.GlobalWarming;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.request.ServerRequest;
+import me.randomhashtags.worldlaws.request.ServerRequestType;
 
 public final class Environment implements WLServer {
 
@@ -40,5 +41,10 @@ public final class Environment implements WLServer {
     public ServerRequest[] getHomeRequests() {
         return new ServerRequest[] {
         };
+    }
+
+    @Override
+    public ServerRequestType[] getRequestTypes() {
+        return null;
     }
 }

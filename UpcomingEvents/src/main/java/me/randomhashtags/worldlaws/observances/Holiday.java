@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.service.WikipediaDocument;
+import me.randomhashtags.worldlaws.settings.ResponseVersions;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.nodes.Element;
@@ -62,7 +63,13 @@ public interface Holiday {
         final String fileName = folder.getFolderName().replace("%type%", typeName);
         folder.setCustomFolderName(name, fileName);
         final JSONObject local = Jsonable.getStaticLocalFileJSONObject(folder, name);
-        final JSONObject json = local != null ? local : loadHolidayJSON();
+        final int version = ResponseVersions.HOLIDAYS.getValue();
+        final JSONObject json;
+        if(local == null || local.optInt("version", -1) < version) {
+            json = loadHolidayJSON();
+        } else {
+            json = local;
+        }
         final JSONObjectTranslatable translatable = new JSONObjectTranslatable("name", "description");
         translatable.setFolder(folder);
         translatable.setFileName(name);
@@ -70,7 +77,12 @@ public interface Holiday {
             translatable.put(key, json.get(key));
         }
         translatable.addRemovedClientKeys("identifier");
+        translatable.addRemovedClientKeys("version");
         boolean edited = local == null;
+        if(!translatable.has("version")) {
+            translatable.put("version", version);
+            edited = true;
+        }
         if(!translatable.has("identifier")) {
             final String identifier = "***REMOVED***";
             translatable.put("identifier", identifier);
@@ -98,6 +110,7 @@ public interface Holiday {
         if(edited) {
             translatable.save();
         }
+
         return translatable;
     }
 
@@ -131,7 +144,7 @@ public interface Holiday {
                         isFirst = false;
                     }
                 }
-                description = LocalServer.fixEscapeValues(LocalServer.removeWikipediaTranslations(LocalServer.removeWikipediaReferences(builder.toString())));
+                description = LocalServer.removeWikipediaTranslations(LocalServer.removeWikipediaReferences(builder.toString()));
                 final List<String> images = doc.getImages();
                 if(!images.isEmpty()) {
                     final String src = images.get(0);
@@ -145,6 +158,7 @@ public interface Holiday {
             WLUtilities.saveLoggedError("Holiday", "url for holiday == null! name()=" + name() + ";type=" + getType());
         }
         final JSONObjectTranslatable json = new JSONObjectTranslatable("name", "description");
+        json.put("version", ResponseVersions.HOLIDAYS.getValue());
         json.put("name", getName());
         json.put("identifier", "***REMOVED***");
         json.put("description", description);

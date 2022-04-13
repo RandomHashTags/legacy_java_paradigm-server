@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.weather;
 
-import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import org.json.JSONArray;
 
@@ -18,10 +17,10 @@ public final class WeatherPreAlert {
         this.event = event;
         this.id = id;
         this.subdivisions = subdivisions;
-        this.certainty = LocalServer.fixEscapeValues(certainty);
-        this.headline = LocalServer.fixEscapeValues(headline);
-        this.instruction = LocalServer.fixEscapeValues(instruction);
-        this.description = LocalServer.fixEscapeValues(description);
+        this.certainty = certainty;
+        this.headline = headline;
+        this.instruction = instruction;
+        this.description = description;
         this.zones = zones;
         this.time = time;
     }
@@ -72,13 +71,6 @@ public final class WeatherPreAlert {
         return array;
     }
 
-    @Override
-    public String toString() {
-        return "\"" + id + "\":{" +
-                "\"areas\":" + getAreas().toString() + "," +
-                "\"time\":" + time.toString() +
-                "}";
-    }
     public JSONObjectTranslatable toJSONObject() {
         final JSONObjectTranslatable json = new JSONObjectTranslatable();
         json.put("areas", getAreas());

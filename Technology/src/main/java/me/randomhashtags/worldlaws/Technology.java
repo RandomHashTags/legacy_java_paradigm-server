@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.request.ServerRequest;
+import me.randomhashtags.worldlaws.request.ServerRequestType;
 import me.randomhashtags.worldlaws.smartphones.*;
 
 public final class Technology implements WLServer {
@@ -48,6 +49,11 @@ public final class Technology implements WLServer {
             default:
                 return null;
         }*/
+    }
+
+    @Override
+    public ServerRequestType[] getRequestTypes() {
+        return null;
     }
 
     private String getSmartphoneCompanyResponse(String target) {

@@ -12,7 +12,6 @@ public interface DataValues extends Jsonable {
     String HTTP_PREFIX = HTTP_VERSION + " %status%\r\nContent-Type: application/json\r\nCharset: " + ENCODING.displayName() + "\r\n\r\n";
     String HTTP_SUCCESS_200 = HTTP_PREFIX.replace("%status%", "200 OK");
     String HTTP_MAINTENANCE_MODE = HTTP_PREFIX.replace("%status%", "404 ERROR");
-    String HTTP_ERROR_404 = HTTP_PREFIX.replace("%status%", "404 ERROR") + "Access Denied. Your IP has been logged and will be banned if you continue trying to connect.";
 
     default JSONObject getJSONDataValue(JSONDataValue value) {
         final String identifier = value.getIdentifier();

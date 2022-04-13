@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.observances;
 
-import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import org.json.JSONArray;
@@ -14,7 +13,7 @@ public final class PreHoliday extends JSONObjectTranslatable {
     public PreHoliday(String identifier, String name, HolidayType type, String emoji, String celebrators) {
         super("name", "celebrators");
         this.identifier = identifier;
-        put("name", LocalServer.fixEscapeValues(name));
+        put("name", name);
         put("type", type.name());
         if(emoji != null) {
             put("emoji", emoji);

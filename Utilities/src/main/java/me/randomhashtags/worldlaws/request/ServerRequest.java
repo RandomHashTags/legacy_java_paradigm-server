@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.request;
 
 import me.randomhashtags.worldlaws.locale.Language;
+import me.randomhashtags.worldlaws.proxy.ClientHeaders;
 
 import java.util.HashMap;
 
@@ -9,6 +10,7 @@ public final class ServerRequest {
     private final String target;
     private final HashMap<String, String> query;
     private final Language language;
+    private ClientHeaders headers;
 
     public ServerRequest(ServerRequestType type) {
         this(type, null);
@@ -48,6 +50,12 @@ public final class ServerRequest {
     }
     public Language getLanguage() {
         return language;
+    }
+    public ClientHeaders getHeaders() {
+        return headers;
+    }
+    public void setHeaders(ClientHeaders headers) {
+        this.headers = headers;
     }
 
     public String getTotalPath() {

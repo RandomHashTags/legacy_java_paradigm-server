@@ -9,10 +9,10 @@ public final class CountryHistoryEra implements Jsoupable {
     private final String title, description, imageURL, url;
 
     public CountryHistoryEra(String title, int startingYear, int endingYear, String description, String imageURL, String url) {
-        this.title = LocalServer.fixEscapeValues(title);
+        this.title = title;
         this.startingYear = startingYear;
         this.endingYear = endingYear;
-        this.description = LocalServer.fixEscapeValues(LocalServer.removeWikipediaTranslations(LocalServer.removeWikipediaReferences(description)));
+        this.description = LocalServer.removeWikipediaTranslations(LocalServer.removeWikipediaReferences(description));
         this.imageURL = imageURL;
         this.url = url;
     }

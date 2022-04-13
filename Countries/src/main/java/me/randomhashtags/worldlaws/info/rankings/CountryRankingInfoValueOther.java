@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.info.rankings;
 
-import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import org.json.JSONObject;
 
@@ -16,8 +15,8 @@ public final class CountryRankingInfoValueOther {
     public CountryRankingInfoValueOther(Number value, NumberType valueType, String description, String suffix) {
         this.value = value;
         this.valueType = valueType;
-        this.description = LocalServer.fixEscapeValues(description);
-        this.suffix = LocalServer.fixEscapeValues(suffix);
+        this.description = description;
+        this.suffix = suffix;
     }
     private CountryRankingInfoValueOther(JSONObject json) {
         description = json.getString("description");

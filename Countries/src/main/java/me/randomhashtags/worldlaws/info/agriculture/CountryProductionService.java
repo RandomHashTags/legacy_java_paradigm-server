@@ -3,7 +3,6 @@ package me.randomhashtags.worldlaws.info.agriculture;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.Folder;
-import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
 import me.randomhashtags.worldlaws.info.rankings.NumberType;
@@ -75,7 +74,7 @@ public interface CountryProductionService extends NewCountryService {
 
     @Override
     default void insertCountryData(JSONObjectTranslatable dataJSON, JSONObjectTranslatable countryJSON) {
-        final String suffix = LocalServer.fixEscapeValues(getSuffix());
+        final String suffix = getSuffix();
         if(suffix != null) {
             countryJSON.put("suffix", suffix);
         }

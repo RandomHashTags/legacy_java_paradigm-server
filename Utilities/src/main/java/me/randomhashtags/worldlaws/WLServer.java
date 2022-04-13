@@ -4,9 +4,10 @@ import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.locale.JSONTranslatable;
 import me.randomhashtags.worldlaws.locale.Language;
 import me.randomhashtags.worldlaws.locale.LanguageTranslator;
+import me.randomhashtags.worldlaws.proxy.ClientHeaders;
 import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.ServerRequestType;
-import me.randomhashtags.worldlaws.request.server.*;
+import me.randomhashtags.worldlaws.request.WLHttpHandler;
 import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONObject;
@@ -20,24 +21,46 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
     ConcurrentHashMap<APIVersion, JSONObjectTranslatable> CACHED_HOME_RESPONSES = new ConcurrentHashMap<>();
     HashMap<TargetServer, LocalServer> LOCAL_SERVERS = new HashMap<>();
     TargetServer getServer();
-    default ServerRequestType[] getRequestTypes() {
-        final TargetServer server = getServer();
-        if(server != null) {
-            switch (server) {
-                case COUNTRIES: return ServerRequestTypeCountries.values();
-                case FEEDBACK: return ServerRequestTypeFeedback.values();
-                case LAWS: return ServerRequestTypeLaws.values();
-                case PREMIUM: return ServerRequestTypePremium.values();
-                case REMOTE_NOTIFICATIONS: return ServerRequestTypeRemoteNotifications.values();
-                case SERVICES: return ServerRequestTypeServices.values();
-                case SCIENCE: return ServerRequestTypeScience.values();
-                case UPCOMING_EVENTS: return ServerRequestTypeUpcomingEvents.values();
-                case WEATHER: return ServerRequestTypeWeather.values();
-                default: return null;
-            }
-        }
+    ServerRequestType[] getRequestTypes();
+    default WLHttpHandler getDefaultHandler() {
         return null;
     }
+    /*default WLHttpHandler getServerHandler() {
+        return httpExchange -> {
+            final String fullRequest = httpExchange.getPath(), identifier = httpExchange.getIdentifier();
+            final String[] values = fullRequest.split("/");
+            final APIVersion version = httpExchange.getAPIVersion();
+            final Language clientLanguage = httpExchange.getLanguage();
+            final LanguageTranslator translator = httpExchange.getLanguageType();
+            final JSONObject json;
+            if(values.length >= 2) {
+                switch (values[1]) {
+                    case "home":
+                        final JSONObjectTranslatable response = getHomeResponse(version);
+                        json = WLUtilities.translateJSON(response, translator, clientLanguage);
+                        return json;
+                    case "stop":
+                        if(identifier.equals(Settings.Server.getUUID())) {
+                            getLocalServer().stop();
+                            return "1";
+                        } else {
+                            return null;
+                        }
+                    default:
+                        final LocalServer localServer = getLocalServer();
+                        localServer.madeRequest(identifier, fullRequest);
+                        final String targetType = httpExchange.getTargetRequestType();
+                        final ServerRequestType type = localServer.parseRequestType(targetType);
+                        final ServerRequest request = new ServerRequest(type, httpExchange.getShortPath());
+                        request.setHeaders(headers);
+                        final JSONTranslatable serverJSON = getServerResponse(version, identifier, request);
+                        json = WLUtilities.translateJSON(serverJSON, translator, clientLanguage);
+                        return json != null ? json.toString() : null;
+                }
+            }
+            return null;
+        };
+    }*/
 
     default LocalServer getLocalServer() {
         final TargetServer server = getServer();
@@ -61,62 +84,43 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
     }
     default void startServer() {
         final LocalServer localServer = getLocalServer();
-        final CompletionHandler handler = new CompletionHandler() {
-            @Override
-            public void handleClient(WLClient client) {
-                final String target = client.getTarget();
-                if(target == null) {
-                    return;
-                } else if(target.equals("ping")) {
-                    client.sendResponse("1");
-                    return;
-                }
-                if(target.startsWith("favicon")) {
-                    client.sendResponse(null);
-                    return;
-                }
-                final String identifier = client.getIdentifier();
-                final Language clientLanguage = client.getLanguage();
-                final LanguageTranslator languageType = client.getLanguageType();
-                final String string = getResponse(localServer, identifier, target, clientLanguage, languageType);
-                client.sendResponse(string);
-            }
-        };
-        localServer.setCompletionHandler(handler);
+        localServer.start();
     }
     default void stop() {
     }
 
-    private String getResponse(LocalServer localServer, String identifier, String target, Language clientLanguage, LanguageTranslator translator) {
-        final String[] values = target.split("/");
-        final String versionString = values[0];
-        final APIVersion version = APIVersion.valueOfInput(versionString);
+    private String getResponse(LocalServer localServer, ClientHeaders headers) {
+        final String fullRequest = headers.getFullRequest(), identifier = headers.getIdentifier();
+        final String[] values = fullRequest.split("/");
+        final APIVersion version = headers.getAPIVersion();
+        final Language clientLanguage = headers.getLanguage();
+        final LanguageTranslator translator = headers.getLanguageType();
         final JSONObject json;
-        switch (values[1]) {
-            case "home":
-                final JSONObjectTranslatable response = getHomeResponse(version);
-                json = WLUtilities.translateJSON(response, translator, clientLanguage);
-                return json != null ? json.toString() : null;
-            case "stop":
-                if(identifier.equals(Settings.Server.getUUID())) {
-                    localServer.stop();
-                    return "1";
-                } else {
-                    return null;
-                }
-            default:
-                localServer.madeRequest(identifier, target);
-                String requestTarget = target.substring(versionString.length() + 1);
-                final String targetType = requestTarget.split("/")[0].split("\\?")[0];
-                final ServerRequestType type = localServer.parseRequestType(targetType);
-                if(type != null) {
-                    requestTarget = requestTarget.substring(targetType.length() + (requestTarget.contains("/") ? 1 : 0));
-                }
-                final ServerRequest request = new ServerRequest(type, requestTarget);
-                final JSONTranslatable serverJSON = getServerResponse(version, identifier, request);
-                json = WLUtilities.translateJSON(serverJSON, translator, clientLanguage);
-                return json != null ? json.toString() : null;
+        if(values.length >= 2) {
+            switch (values[1]) {
+                case "home":
+                    final JSONObjectTranslatable response = getHomeResponse(version);
+                    json = WLUtilities.translateJSON(response, translator, clientLanguage);
+                    return json != null ? json.toString() : null;
+                case "stop":
+                    if(identifier.equals(Settings.Server.getUUID())) {
+                        localServer.stop();
+                        return "1";
+                    } else {
+                        return null;
+                    }
+                default:
+                    localServer.madeRequest(identifier, fullRequest);
+                    final String targetType = headers.getTargetRequestType();
+                    final ServerRequestType type = localServer.parseRequestType(targetType);
+                    final ServerRequest request = new ServerRequest(type, headers.getRequest());
+                    request.setHeaders(headers);
+                    final JSONTranslatable serverJSON = getServerResponse(version, identifier, request);
+                    json = WLUtilities.translateJSON(serverJSON, translator, clientLanguage);
+                    return json != null ? json.toString() : null;
+            }
         }
+        return null;
     }
 
     JSONTranslatable getServerResponse(APIVersion version, String identifier, ServerRequest request);

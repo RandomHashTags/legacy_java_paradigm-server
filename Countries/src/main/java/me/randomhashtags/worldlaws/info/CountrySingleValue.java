@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.info;
 
-import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import org.json.JSONObject;
 
@@ -14,9 +13,9 @@ public final class CountrySingleValue {
     private final int yearOfData;
 
     public CountrySingleValue(String notes, String value, String valueDescription, int yearOfData) {
-        this.notes = LocalServer.fixEscapeValues(notes);
-        this.value = LocalServer.fixEscapeValues(value);
-        this.valueDescription = LocalServer.fixEscapeValues(valueDescription);
+        this.notes = notes;
+        this.value = value;
+        this.valueDescription = valueDescription;
         this.yearOfData = yearOfData;
     }
     private CountrySingleValue(JSONObject json) {

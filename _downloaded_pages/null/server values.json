@@ -761,7 +761,10 @@
         "Langila": "Langila",
         "Nevado del Ruiz": "Nevado_del_Ruiz",
         "Dukono": "Dukono",
-        "Telica": "Telica_(volcano)"
+        "Telica": "Telica_(volcano)",
+        "Taal": "Taal_Volcano",
+        "Agung": "Mount_Agung",
+        "Nevados de Chillan": "Nevados_de_Chillán"
       }
     }
   }

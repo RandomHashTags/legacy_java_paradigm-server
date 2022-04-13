@@ -18,7 +18,7 @@ public final class UnitedStatesProjectPolitician {
     public UnitedStatesProjectPolitician(JSONObject json) {
         final JSONObject nameJSON = json.getJSONObject("name");
         final String firstName = nameJSON.getString("first");
-        final String middleName = nameJSON.has("middle") ? nameJSON.getString("middle") : null;
+        final String middleName = nameJSON.optString("middle", null);
         final String lastName = nameJSON.getString("last");
         name = new HumanName(firstName, middleName, lastName);
 

@@ -16,7 +16,7 @@ public interface IMDbService extends DataValues {
     default JSONObject getIMDbMovieDetails(String title, int year) {
         title = LocalServer.fixUnescapeValues(title);
         final String lowercaseTitle = title.toLowerCase();
-        final LinkedHashMap<String, String> query = new LinkedHashMap<>() {{
+        final LinkedHashMap<String, Object> query = new LinkedHashMap<>() {{
             put("q", lowercaseTitle);
         }};
         final String queryString = RestAPI.parseQuery(query, false);

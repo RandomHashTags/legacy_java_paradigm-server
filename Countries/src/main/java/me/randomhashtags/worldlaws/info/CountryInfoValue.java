@@ -14,9 +14,9 @@ public final class CountryInfoValue implements Jsoupable {
     private final String title, value, description;
 
     public CountryInfoValue(String title, String value, String description) {
-        this.title = LocalServer.fixEscapeValues(title);
-        this.value = LocalServer.fixEscapeValues(LocalServer.removeWikipediaReferences(value));
-        this.description = LocalServer.fixEscapeValues(LocalServer.removeWikipediaReferences(description));
+        this.title = title;
+        this.value = LocalServer.removeWikipediaReferences(value);
+        this.description = LocalServer.removeWikipediaReferences(description);
     }
     private CountryInfoValue(JSONObject json) {
         title = json.getString("title");

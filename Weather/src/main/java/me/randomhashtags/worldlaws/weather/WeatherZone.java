@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.weather;
 
-import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.country.Location;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import org.json.JSONArray;
@@ -12,9 +11,9 @@ public final class WeatherZone {
     private final List<Location> geometry;
 
     public WeatherZone(String name, String nameSuffix, String subdivision, List<Location> geometry) {
-        this.name = LocalServer.fixEscapeValues(name);
-        this.nameSuffix = LocalServer.fixEscapeValues(nameSuffix);
-        this.subdivision = LocalServer.fixEscapeValues(subdivision);
+        this.name = name;
+        this.nameSuffix = nameSuffix;
+        this.subdivision = subdivision;
         this.geometry = geometry;
     }
 

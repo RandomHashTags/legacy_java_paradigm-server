@@ -1,6 +1,12 @@
 package me.randomhashtags.worldlaws;
 
-import me.randomhashtags.worldlaws.proxy.ProxyHeaders;
+import com.sun.net.httpserver.HttpServer;
+import com.sun.net.httpserver.HttpsConfigurator;
+import com.sun.net.httpserver.HttpsParameters;
+import com.sun.net.httpserver.HttpsServer;
+import me.randomhashtags.worldlaws.locale.JSONTranslatable;
+import me.randomhashtags.worldlaws.request.WLHttpExchange;
+import me.randomhashtags.worldlaws.request.WLHttpHandler;
 import me.randomhashtags.worldlaws.settings.ResponseVersions;
 import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
@@ -9,27 +15,23 @@ import org.json.JSONObject;
 
 import javax.net.ssl.*;
 import java.io.FileInputStream;
-import java.net.ServerSocket;
-import java.net.Socket;
-import java.net.SocketException;
+import java.net.InetSocketAddress;
 import java.security.KeyStore;
 import java.time.LocalDateTime;
 import java.util.*;
-import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.TimeUnit;
 
 public final class ServerHandler implements UserServer {
     private static final ServerHandler INSTANCE = new ServerHandler();
     private static final HashMap<APIVersion, JSONObject> HOME_JSON = new HashMap<>();
-    private static final HashMap<APIVersion, HashMap<HashSet<String>, String>> HOME_JSON_QUERIES = new HashMap<>();
+    private static final HashMap<APIVersion, HashMap<Collection<String>, String>> HOME_JSON_QUERIES = new HashMap<>();
 
     private static String PING_RESPONSE, MAINTENANCE_MESSAGE;
     private static boolean MAINTENANCE_MODE = false;
     private static long MAINTENANCE_STARTED;
 
-    private ServerSocket server;
-    private final boolean productionMode;
+    private HttpServer server;
     private final HashSet<Timer> timers;
 
     public static void main(String[] args) {
@@ -37,7 +39,6 @@ public final class ServerHandler implements UserServer {
     }
 
     private ServerHandler() {
-        productionMode = Settings.DataValues.isProductionMode();
         timers = new HashSet<>();
     }
 
@@ -70,39 +71,30 @@ public final class ServerHandler implements UserServer {
             timer.cancel();
         }
         stopListeningForUserInput();
-        try {
-            server.close();
-        } catch (Exception e) {
-            WLUtilities.saveException(e);
-        }
+        server.stop(0);
+        WLLogger.logInfo("ServerHandler - stopped listening for clients");
     }
 
     private void setupServer() {
         listenForUserInput();
 
         final int port = Settings.Server.getServerHandlerPort();
-        final boolean https = Settings.Server.isHttpsEnabled();
+        final boolean https = Settings.DataValues.isProductionMode() && Settings.Server.isHttpsEnabled();
         try {
             if(https) {
                 setupHttpsServer(port);
             } else {
                 setupHttpServer(port);
             }
+            connectClients(https);
         } catch (Exception e) {
             WLUtilities.saveException(e);
         }
     }
     private void setupHttpServer(int port) throws Exception {
-        server = new ServerSocket(port);
-        connectClients(false);
+        server = HttpServer.create(new InetSocketAddress(port), 0);
     }
     private void setupHttpsServer(int port) throws Exception {
-        final SSLContext context = getHttpsContext();
-        final SSLServerSocketFactory socketFactory = context.getServerSocketFactory();
-        server = socketFactory.createServerSocket(port);
-        connectClients(true);
-    }
-    private SSLContext getHttpsContext() throws Exception {
         final KeyStore store = KeyStore.getInstance("JKS");
         final char[] password = Settings.Server.getHttpsKeystorePassword().toCharArray();
 
@@ -119,68 +111,55 @@ public final class ServerHandler implements UserServer {
 
         final SSLContext context = SSLContext.getInstance("TLS");
         context.init(factory.getKeyManagers(), trustFactory.getTrustManagers(), null);
-        return context;
+
+        final HttpsServer server = HttpsServer.create(new InetSocketAddress(port), 0);
+        server.setHttpsConfigurator(new HttpsConfigurator(context) {
+            @Override
+            public void configure(HttpsParameters params) {
+                try {
+                    final SSLEngine engine = context.createSSLEngine();
+                    params.setNeedClientAuth(true);
+                    params.setCipherSuites(engine.getEnabledCipherSuites());
+                    params.setProtocols(engine.getEnabledProtocols());
+
+                    final SSLParameters sslParameters = context.getSupportedSSLParameters();
+                    params.setSSLParameters(sslParameters);
+                } catch (Exception e) {
+                    WLUtilities.saveException(e);
+                }
+            }
+        });
     }
 
     private void connectClients(boolean https) {
-        WLLogger.logInfo("ServerHandler - Listening for http" + (https ? "s" : "") + " clients on port " + server.getLocalPort() + "...");
-        try {
-            while (!server.isClosed()) {
-                final Socket client = server.accept();
-                CompletableFuture.runAsync(() -> {
-                    if(https) {
-                        handleHttpsClient((SSLSocket) client);
-                    } else {
-                        handleClient(client);
-                    }
-                });
+        WLLogger.logInfo("ServerHandler - Listening for http" + (https ? "s" : "") + " clients on port " + server.getAddress().getPort() + "...");
+        server.createContext("/", new WLHttpHandler() {
+            @Override
+            public JSONTranslatable getResponse(WLHttpExchange httpExchange) {
+                return null;
             }
-        } catch (Exception e) {
-            WLLogger.logInfo("ServerHandler - stopped listening for clients");
-        }
-    }
-    private void handleHttpsClient(SSLSocket client) {
-        client.setEnabledCipherSuites(client.getSupportedCipherSuites());
-        try {
-            client.startHandshake();
-            handleClient(client);
-        } catch (SocketException | SSLException ignored) {
-        } catch (Exception e) {
-            WLUtilities.saveException(e);
-        }
-    }
-    private void handleClient(Socket client) {
-        final ProxyHeaders clientHeaders = ProxyHeaders.getFrom(client);
-        if(productionMode == clientHeaders.isValidRequest()) {
-            final String identifier = clientHeaders.getIdentifier(), totalRequest = clientHeaders.getTotalRequest();
-            switch (totalRequest) {
-                case "ping":
-                    final String pingResponse = getPingResponse();
-                    WLUtilities.writeClientOutput(client, DataValues.HTTP_SUCCESS_200 + pingResponse);
-                    break;
-                case "home":
-                    final LinkedHashMap<String, String> headers = new LinkedHashMap<>();
-                    headers.put("Accept", "application/json");
-                    headers.put("Charset", DataValues.ENCODING.name());
-                    headers.put("***REMOVED***", identifier);
-                    final String homeResponse = getHomeResponse(clientHeaders.getAPIVersion(), headers, clientHeaders.getQuery());
-                    WLUtilities.writeClientOutput(client, DataValues.HTTP_SUCCESS_200 + homeResponse);
-                    break;
-                default:
-                    if(MAINTENANCE_MODE) {
-                        WLUtilities.writeClientOutput(client, DataValues.HTTP_MAINTENANCE_MODE);
-                    } else {
-                        CompletableFuture.runAsync(() -> {
-                            final String string = TargetServer.PROXY.sendResponse(clientHeaders.getAPIVersion(), identifier, totalRequest, clientHeaders.getQuery());
-                            final String response = string == null ? WLUtilities.SERVER_EMPTY_JSON_RESPONSE : string;
-                            WLUtilities.writeClientOutput(client, DataValues.HTTP_SUCCESS_200 + response);
-                        });
-                    }
-                    break;
+
+            @Override
+            public String getFallbackResponse(WLHttpExchange httpExchange) {
+                final String path = httpExchange.getPath(), key = path.split("/")[1];
+                switch (key) {
+                    case "ping":
+                        return getPingResponse();
+                    case "home":
+                        final LinkedHashMap<String, String> query = httpExchange.getQuery();
+                        final Collection<String> queryCollection = query != null && query.containsKey("q") ? Arrays.asList(query.get("q").split("&")) : new HashSet<>();
+                        return getHomeResponse(httpExchange.getAPIVersion(), queryCollection);
+                    default:
+                        if(MAINTENANCE_MODE) {
+                            return DataValues.HTTP_MAINTENANCE_MODE;
+                        } else {
+                            return TargetServer.PROXY.sendResponse(httpExchange);
+                        }
+                }
             }
-        } else {
-            WLUtilities.writeClientOutput(client, DataValues.HTTP_ERROR_404);
-        }
+        });
+        server.setExecutor(null);
+        server.start();
     }
 
     @Override
@@ -264,13 +243,10 @@ public final class ServerHandler implements UserServer {
         }
     }
 
-    private String getHomeResponse(APIVersion version, LinkedHashMap<String, String> headers, HashSet<String> query) {
+    private String getHomeResponse(APIVersion version, Collection<String> query) {
         if(!HOME_JSON.containsKey(version)) {
-            final String string = updateHomeResponse(version, false, headers);
+            final String string = updateHomeResponse(version, false);
         }
-        return getHomeResponse(version, query);
-    }
-    private String getHomeResponse(APIVersion version, HashSet<String> query) {
         if(HOME_JSON_QUERIES.containsKey(version)) {
             return HOME_JSON_QUERIES.get(version).containsKey(query) ? HOME_JSON_QUERIES.get(version).get(query) : loadQueryJSON(version, query);
         } else {
@@ -278,12 +254,12 @@ public final class ServerHandler implements UserServer {
             return loadQueryJSON(version, query);
         }
     }
-    private String loadQueryJSON(APIVersion version, HashSet<String> query) {
+    private String loadQueryJSON(APIVersion version, Collection<String> query) {
         final String target = getQueryJSON(version, query);
         HOME_JSON_QUERIES.get(version).put(query, target);
         return target;
     }
-    private String getQueryJSON(APIVersion version, HashSet<String> query) {
+    private String getQueryJSON(APIVersion version, Collection<String> query) {
         final JSONObject homeJSON = HOME_JSON.get(version);
         final JSONObject json = new JSONObject(homeJSON.toMap());
         if(!query.isEmpty()) {
@@ -308,18 +284,20 @@ public final class ServerHandler implements UserServer {
     }
 
     public static String updateHomeResponse() {
-        final APIVersion version = APIVersion.getLatest();
+        return updateHomeResponse(APIVersion.getLatest(), true);
+    }
+    private static String updateHomeResponse(APIVersion version, boolean isUpdate) {
+        final long started = System.currentTimeMillis();
+
         final LinkedHashMap<String, String> headers = new LinkedHashMap<>();
         headers.put("Content-Type", "application/json");
         headers.put("Charset", DataValues.ENCODING.name());
         headers.put("***REMOVED***", Settings.Server.getUUID());
-        return updateHomeResponse(version, true, headers);
-    }
-    private static String updateHomeResponse(APIVersion version, boolean isUpdate, LinkedHashMap<String, String> headers) {
-        final long started = System.currentTimeMillis();
+        headers.put("***REMOVED***", "***REMOVED***");
+        headers.put("***REMOVED***", version.name());
         if(!isUpdate) {
             final long interval = UpdateIntervals.ServerHandler.HOME;
-            final Timer timer = WLUtilities.getTimer(null, interval, () -> updateHomeResponse(version, true, headers));
+            final Timer timer = WLUtilities.getTimer(null, interval, () -> updateHomeResponse(version, true));
             INSTANCE.timers.add(timer);
         }
 
@@ -339,24 +317,17 @@ public final class ServerHandler implements UserServer {
         final ConcurrentHashMap<String, JSONObject> values = new ConcurrentHashMap<>();
         new CompletableFutures<Map.Entry<String, String>>().stream(requests.entrySet(), entry -> {
             final String key = entry.getKey(), serverIP = entry.getValue();
-            final String value;
+            final JSONObject value;
             switch (key) {
                 case "trending":
-                    final JSONObject json = Statistics.INSTANCE.getTrendingJSON();
-                    value = json == null ? null : json.toString();
+                    value = Statistics.INSTANCE.getTrendingJSON();
                     break;
                 default:
-                    value = RestAPI.requestStatic(serverIP, headers, null);
+                    value = RestAPI.requestStaticJSONObject(serverIP, headers, null);
                     break;
             }
-            if(value != null) {
-                try {
-                    final JSONObject json = new JSONObject(value);
-                    values.put(key, json);
-                } catch (Exception e) {
-                    final String details = "isUpdate=" + isUpdate + ";string!=null;key=" + key + ";server=" + serverIP + "\n\nvalue=" + value + "\n\n" + WLUtilities.getThrowableStackTrace(e);
-                    WLUtilities.saveLoggedError("ServerHandler", "failed to parse string to JSONObject! " + details);
-                }
+            if(value != null && !value.isEmpty()) {
+                values.put(key, value);
             }
         });
         final JSONObject json = new JSONObject();
@@ -368,7 +339,6 @@ public final class ServerHandler implements UserServer {
         }
         HOME_JSON.put(version, json);
         HOME_JSON_QUERIES.remove(version);
-        WLLogger.logInfo("ServerHandler - " + (isUpdate ? "auto-" : "") + "updated " + versionName + " home responses (took " + WLUtilities.getElapsedTime(started) + ")");
         return json.toString();
     }
 }

@@ -110,8 +110,8 @@ public enum WeatherUSA implements WeatherController {
     }
     private void processZone(String zoneID, HashSet<String> officeIDs) {
         final JSONObject zone = getOrLoadWeatherZone(zoneID);
-        final JSONObject zoneProperties = zone.getJSONObject("properties");
-        if(zoneProperties.get("state") == null) {
+        final JSONObject zoneProperties = zone.optJSONObject("properties", null);
+        if(zoneProperties != null && zoneProperties.get("state") == null) {
             final String identifier = zoneProperties.getJSONArray("forecastOffices").getString(0);
             officeIDs.add(identifier);
         }
@@ -150,23 +150,13 @@ public enum WeatherUSA implements WeatherController {
             final String severityString = properties.getString("severity"), severity = severityString.equals("Unknown") ? "-1" : severityString;
             final String certainty = properties.getString("certainty");
             final String event = properties.getString("event");
-            final String headline = properties.has("headline") ? properties.getString("headline") : null;
-            final String description = properties.get("description") instanceof String ? properties.getString("description")
-                    .replace("\n\n", "%double_bruh%")
-                    .replace(".\n", "%bruh%")
-                    .replace("\n", " ")
-                    .replace("%bruh%", ".\n")
-                    .replace("%double_bruh%", "\n\n") : null;
-            final String instruction = properties.has("instruction") && properties.get("instruction") instanceof String
-                    ? properties.getString("instruction")
-                    .replace(".\n", "%bruh%")
-                    .replace("\n", " ")
-                    .replace("%bruh%", ".\n")
-                    : null;
+            final String headline = properties.optString("headline", null);
+            final String description = properties.optString("description", null);
+            final String instruction = properties.optString("instruction", null);
             final String sent = properties.getString("sent");
             final String effective = properties.getString("effective");
             final String expires = properties.getString("expires");
-            final String ends = properties.get("ends") instanceof String ? properties.getString("ends") : null;
+            final String ends = properties.optString("ends", null);
             final WeatherAlertTime time = new WeatherAlertTime(sent, effective, expires, ends);
 
             final int defcon = getSeverityDEFCON(severity);
@@ -276,8 +266,8 @@ public enum WeatherUSA implements WeatherController {
                 if(stateString == null) {
                     final String officeIdentifier = properties.getJSONArray("forecastOffices").getString(0).substring("https://api.weather.gov/offices/".length());
                     final JSONObject officeJSON = getForecastOffice(officeIdentifier);
-                    final JSONObject addressJSON = officeJSON.getJSONObject("address");
-                    stateString = addressJSON.getString("addressRegion");
+                    final JSONObject addressJSON = officeJSON.optJSONObject("address", null);
+                    stateString = addressJSON != null ? addressJSON.getString("addressRegion") : null;
                 }
                 final SovereignStateSubdivision subdivision = unitedStates.valueOfSovereignStateSubdivision(stateString);
                 if(subdivision == null) {

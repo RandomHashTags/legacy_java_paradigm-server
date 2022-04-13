@@ -34,12 +34,12 @@ public abstract class UpcomingEvent extends JSONObjectTranslatable implements Js
         this.date = date;
         put("eventDate", date.getDateString());
         this.customTypeSingularName = customTypeSingularName;
-        put("title", LocalServer.fixEscapeValues(title));
+        put("title", title);
         if(description != null) {
-            put("description", LocalServer.fixEscapeValues(LocalServer.removeWikipediaReferences(description)));
+            put("description", LocalServer.removeWikipediaReferences(description));
         }
         if(location != null) {
-            put("location", LocalServer.fixEscapeValues(location));
+            put("location", location);
         }
         if(imageURL != null) {
             put("imageURL", imageURL);

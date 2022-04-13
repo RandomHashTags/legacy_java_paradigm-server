@@ -17,6 +17,7 @@ public enum SubdivisionType {
     FEDERAL_DISTRICTS,
     FEDERAL_ENTITIES,
     FEDERAL_TERRITORIES,
+    FREELY_ASSOCIATED_STATES,
     GOVERNORATES,
     INCORPORATED_AREAS,
     INDEPENDENT_CITIES,
@@ -54,6 +55,7 @@ public enum SubdivisionType {
             case FEDERAL_DISTRICTS: return "Federal District";
             case FEDERAL_ENTITIES: return "Federal Entity";
             case FEDERAL_TERRITORIES: return "Federal Territory";
+            case FREELY_ASSOCIATED_STATES: return "Freely Associated State";
             case GOVERNORATES: return "Governorate";
             case INCORPORATED_AREAS: return "Incorporated Area";
             case INDEPENDENT_CITIES: return "Independent City";

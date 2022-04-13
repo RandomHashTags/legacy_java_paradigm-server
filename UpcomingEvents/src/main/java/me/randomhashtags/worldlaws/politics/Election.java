@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.politics;
 
-import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 
 public final class Election {
@@ -8,7 +7,7 @@ public final class Election {
 
     public Election(String id, String name) {
         this.id = id;
-        this.name = LocalServer.fixEscapeValues(name);
+        this.name = name;
     }
 
     public String getID() {

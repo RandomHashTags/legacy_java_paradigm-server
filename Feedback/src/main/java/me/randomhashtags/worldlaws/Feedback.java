@@ -2,7 +2,7 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.request.ServerRequest;
-import me.randomhashtags.worldlaws.request.server.ServerRequestTypeFeedback;
+import me.randomhashtags.worldlaws.request.ServerRequestType;
 
 public final class Feedback implements WLServer, Jsonable {
 
@@ -25,47 +25,11 @@ public final class Feedback implements WLServer, Jsonable {
 
     @Override
     public JSONObjectTranslatable getServerResponse(APIVersion version, String identifier, ServerRequest request) {
-        final ServerRequestTypeFeedback type = (ServerRequestTypeFeedback) request.getType();
-        switch (type) {
-            case SUBMIT:
-                final String fileName = Long.toString(System.currentTimeMillis());
-                final String[] values = request.getTarget().split("/");
-                switch (values[0]) {
-                    case "bug_report":
-                        return submit(Folder.FEEDBACK_BUG_REPORTS, fileName, values[1]);
-                    case "feature_request":
-                        return submit(Folder.FEEDBACK_FEATURE_REQUEST, fileName, values[1]);
-                    default:
-                        return null;
-                }
-            case BUG_REPORTS:
-                return getAllBugReports();
-            case FEATURE_REQUESTS:
-                return getAllFeatureRequests();
-            default:
-                return null;
-        }
-    }
-
-    private JSONObjectTranslatable submit(Folder folder, String fileName, String value) {
-        setFileJSON(folder, fileName, value);
         return null;
     }
 
-    private String getText(String[] headers) {
-        final String target = "Text: ";
-        for(String string : headers) {
-            if(string.startsWith(target)) {
-                return string.substring(target.length());
-            }
-        }
-        return null;
-    }
-
-    private JSONObjectTranslatable getAllBugReports() {
-        return null;
-    }
-    private JSONObjectTranslatable getAllFeatureRequests() {
-        return null;
+    @Override
+    public ServerRequestType[] getRequestTypes() {
+        return ServerRequestTypeFeedback.values();
     }
 }

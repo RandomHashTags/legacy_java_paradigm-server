@@ -49,7 +49,7 @@ public final class PreUpcomingEvent {
     public PreUpcomingEvent(String customTypeSingularName, String id, String title, String url, String tag, List<String> countries, JSONObjectTranslatable customValues) {
         this.customTypeSingularName = customTypeSingularName;
         this.id = id;
-        this.title = LocalServer.fixEscapeValues(title);
+        this.title = title;
         this.url = url;
         this.tag = tag;
         this.countries = countries;

@@ -13,7 +13,7 @@ import java.util.*;
 
 public class WikipediaEvent extends JSONObject {
     public WikipediaEvent(String description, EventSources externalLinks, EventSources sources) {
-        put("description", LocalServer.fixEscapeValues(description));
+        put("description", description);
         if(externalLinks != null) {
             put("externalLinks", externalLinks.toJSONObject());
         }
@@ -172,7 +172,7 @@ public class WikipediaEvent extends JSONObject {
         }
         return events;
     }
-    private static EventSources getExternalLinks(Element element) {
+    public static EventSources getExternalLinks(Element element) {
         final EventSources sources = new EventSources();
         final Elements links = element.select("a[href]");
         links.removeIf(test -> test.attr("href").startsWith("#cite_note-"));

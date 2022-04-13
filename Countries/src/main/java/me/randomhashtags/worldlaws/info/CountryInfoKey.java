@@ -21,7 +21,7 @@ public final class CountryInfoKey {
     private final List<CountryInfoValue> values;
 
     public CountryInfoKey(String notes, int yearOfData, CountryInfoValue...values) {
-        this.notes = LocalServer.fixEscapeValues(LocalServer.removeWikipediaReferences(notes));
+        this.notes = LocalServer.removeWikipediaReferences(notes);
         this.yearOfData = yearOfData;
         this.values = new ArrayList<>(Arrays.asList(values));
     }

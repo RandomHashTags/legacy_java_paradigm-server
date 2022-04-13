@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.info.availability;
 
-import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 
 public final class CountryAvailability {
@@ -9,7 +8,7 @@ public final class CountryAvailability {
     private final boolean value;
 
     public CountryAvailability(String title, AvailabilityCategory primaryCategory, String imageURL, boolean value) {
-        this.title = LocalServer.fixEscapeValues(title);
+        this.title = title;
         this.primaryCategory = primaryCategory;
         this.imageURL = imageURL;
         this.value = value;

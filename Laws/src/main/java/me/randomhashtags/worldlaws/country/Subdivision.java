@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.country;
 
-import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 
 public final class Subdivision {
@@ -9,8 +8,8 @@ public final class Subdivision {
     private String description;
 
     public Subdivision(String title, String description) {
-        this.title = LocalServer.fixEscapeValues(title);
-        this.description = LocalServer.fixEscapeValues(description);
+        this.title = title;
+        this.description = description;
     }
 
     public String getTitle() {

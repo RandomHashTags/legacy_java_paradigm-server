@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.upcoming.events;
 
-import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import org.json.JSONObject;
 
@@ -13,7 +12,7 @@ public final class MLBTeam {
     private final String name, scheduleURL, logoURL;
 
     public MLBTeam(String name, String scheduleURL, String logoURL) {
-        this.name = LocalServer.fixEscapeValues(name);
+        this.name = name;
         this.scheduleURL = scheduleURL;
         this.logoURL = logoURL;
     }

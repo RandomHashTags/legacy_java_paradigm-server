@@ -1,6 +1,9 @@
 package me.randomhashtags.worldlaws.upcoming.entertainment.music;
 
-import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.EventDate;
+import me.randomhashtags.worldlaws.EventSource;
+import me.randomhashtags.worldlaws.EventSources;
+import me.randomhashtags.worldlaws.PreUpcomingEvent;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.service.SpotifyService;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
@@ -41,7 +44,7 @@ public final class MusicSpotify extends LoadedUpcomingEventController implements
             final EventDate eventDate = new EventDate(date);
             final String dateString = eventDate.getDateString();
             final String imageURL = responseJSON.getJSONArray("images").getJSONObject(0).getString("url");
-            final String title = "Spotify: New Music Friday", description = LocalServer.fixEscapeValues(responseJSON.getString("description"));
+            final String title = "Spotify: New Music Friday", description = responseJSON.getString("description");
 
             final JSONArray tracksArray = responseJSON.getJSONObject("tracks").getJSONArray("items");
             final JSONObjectTranslatable tracks = new JSONObjectTranslatable();
@@ -64,7 +67,7 @@ public final class MusicSpotify extends LoadedUpcomingEventController implements
                         final JSONObjectTranslatable artists = new JSONObjectTranslatable();
                         for(Object artistObj : artistsArray) {
                             final JSONObject artistJSON = (JSONObject) artistObj;
-                            final String id = artistJSON.getString("id"), name = LocalServer.fixEscapeValues(artistJSON.getString("name"));
+                            final String id = artistJSON.getString("id"), name = artistJSON.getString("name");
                             artists.put(id, name);
                             artists.addTranslatedKey(id);
                         }

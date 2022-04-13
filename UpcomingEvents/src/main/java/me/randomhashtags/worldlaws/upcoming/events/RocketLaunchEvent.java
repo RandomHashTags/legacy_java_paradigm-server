@@ -2,7 +2,6 @@ package me.randomhashtags.worldlaws.upcoming.events;
 
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSources;
-import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventValue;
@@ -40,8 +39,8 @@ public final class RocketLaunchEvent extends UpcomingEvent {
         this.exactTime = exactTime;
         this.probability = probability;
         this.mission = mission;
-        this.windowStart = LocalServer.fixEscapeValues(windowStart);
-        this.windowEnd = LocalServer.fixEscapeValues(windowEnd);
+        this.windowStart = windowStart;
+        this.windowEnd = windowEnd;
         insertProperties();
     }
 

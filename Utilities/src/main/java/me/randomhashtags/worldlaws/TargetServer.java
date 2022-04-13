@@ -1,9 +1,13 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.request.WLHttpExchange;
 import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 
-import java.util.*;
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.LinkedHashMap;
+import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
 public enum TargetServer implements RestAPI, DataValues {
@@ -111,35 +115,41 @@ public enum TargetServer implements RestAPI, DataValues {
         return apiVersion;
     }
 
-    public String sendResponse(APIVersion version, String identifier, String request, HashSet<String> query) {
-        switch (this) {
-            default:
-                return handleResponse(version, identifier, request, query);
-        }
+    public String sendResponseFromProxy(WLHttpExchange headers) {
+        return sendResponse(headers, true);
     }
-
-    public String handleResponse(APIVersion version, String identifier, String request, HashSet<String> query) {
+    public String sendResponse(WLHttpExchange headers) {
+        return sendResponse(headers, false);
+    }
+    private String sendResponse(WLHttpExchange headers, boolean fromProxy) {
+        return sendResponse(headers.getIdentifier(), headers.getPlatform(), headers.getVersion(), headers.getAPIVersion(), fromProxy ? headers.getShortPath() : headers.getPath(), fromProxy);
+    }
+    public String sendResponse(String identifier, String platform, String version, APIVersion apiVersion, String path, boolean fromProxy) {
         final LinkedHashMap<String, String> headers = new LinkedHashMap<>();
         headers.put("Content-Type", "application/json");
         headers.put("Charset", DataValues.ENCODING.name());
         headers.put("***REMOVED***", identifier);
+        headers.put("***REMOVED***", platform);
+        headers.put("***REMOVED***", version);
+        if(fromProxy) {
+            path = apiVersion.name() + "/" + path;
+        }
         switch (this) {
             case COMBINE:
-                return getCombinedResponse(version, identifier, request);
+                return getCombinedResponse(null);
             default:
-                return handleProxyResponse(version, request, headers);
+                return handleProxyResponse(path, headers);
         }
     }
 
-    private String getCombinedResponse(APIVersion version, String identifier, String request) {
-        final String[] values = request.split("&&");
+    private String getCombinedResponse(WLHttpExchange headers) {
+        final String[] values = headers.getShortPath().split("&&");
         final ConcurrentHashMap<String, String> responses = new ConcurrentHashMap<>();
         new CompletableFutures<String>().stream(Arrays.asList(values), value -> {
             final String[] target = value.split("/");
-            final String apiVersionString = target[0], serverBackendID = target[1];
-            final APIVersion apiVersion = APIVersion.valueOfInput(apiVersionString);
+            final String serverBackendID = target[1];
             final TargetServer server = TargetServer.valueOfBackendID(serverBackendID);
-            final String string = server != null ? server.sendResponse(apiVersion, identifier, value, null) : null;
+            final String string = server != null ? server.sendResponse(headers) : null;
             if(string != null) {
                 responses.put(value, string);
             }
@@ -154,12 +164,9 @@ public enum TargetServer implements RestAPI, DataValues {
         builder.append("}");
         return builder.toString();
     }
-    private String handleProxyResponse(APIVersion version, String request, LinkedHashMap<String, String> headers) {
-        final String url = getIpAddress() + "/" + version.name() + "/" + request;
-        return handleProxyResponse(url, headers);
-    }
     private String handleProxyResponse(String url, LinkedHashMap<String, String> headers) {
-        return request(url, headers, null);
+        final String targetURL = getIpAddress() + "/" + url;
+        return request(targetURL, headers, null);
     }
 
     public static TargetServer valueOfBackendID(String backendID) {

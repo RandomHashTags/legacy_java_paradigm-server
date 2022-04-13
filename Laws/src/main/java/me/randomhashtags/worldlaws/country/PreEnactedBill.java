@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.country;
 
-import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 
 public final class PreEnactedBill {
@@ -8,7 +7,7 @@ public final class PreEnactedBill {
 
     public PreEnactedBill(String id, String title) {
         this.id = id;
-        this.title = LocalServer.fixEscapeValues(title);
+        this.title = title;
     }
 
     public String getID() {

@@ -30,10 +30,10 @@ public interface SpotifyService extends QuotaHandler, RestAPI, DataValues {
         headers.put("Content-Type", "application/x-www-form-urlencoded");
         final String encodedString = Base64.getEncoder().encodeToString((clientID + ":" + clientSecret).getBytes());
         headers.put("Authorization", "Basic " + encodedString);
-        final LinkedHashMap<String, String> postData = new LinkedHashMap<>();
+        final LinkedHashMap<String, Object> postData = new LinkedHashMap<>();
         postData.put("grant_type", "client_credentials");
         final long requestTime = System.currentTimeMillis();
-        final JSONObject json = postJSONObject(url, postData, true, headers);// requestJSONObject(url, RequestMethod.POST, headers, query);
+        final JSONObject json = postJSONObject(url, postData, headers);
         final int expireDuration = json.getInt("expires_in") * 1_000;
         json.put("expiration", requestTime + expireDuration);
         json.remove("expires_in");

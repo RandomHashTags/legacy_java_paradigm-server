@@ -22,7 +22,7 @@ public class PreRecentEvent {
         this.category = category;
         this.date = date;
         this.title = LocalServer.fixEscapeValues(title);
-        this.description = LocalServer.fixEscapeValues(description);
+        this.description = description;
         this.imageURL = imageURL;
         this.sources = sources;
         this.customValues = customValues;

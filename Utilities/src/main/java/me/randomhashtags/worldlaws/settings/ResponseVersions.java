@@ -14,11 +14,13 @@ public enum ResponseVersions {
 
     // Server Side
     AVAILABILITIES,
+    HOLIDAYS,
     ;
 
     public boolean isClientSide() {
         switch (this) {
             case AVAILABILITIES:
+            case HOLIDAYS:
                 return false;
             default:
                 return true;
@@ -30,7 +32,7 @@ public enum ResponseVersions {
     public int getValue() {
         switch (this) {
             case COUNTRIES:
-                return 12;
+                return 13;
             case COUNTRY_INFORMATION:
                 return 1;
             case SUBDIVISION_INFORMATION:
@@ -48,6 +50,8 @@ public enum ResponseVersions {
                 return 1;
 
             case AVAILABILITIES:
+                return 1;
+            case HOLIDAYS:
                 return 1;
 
             case UPDATE_NOTES:

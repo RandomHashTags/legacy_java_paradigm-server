@@ -210,11 +210,11 @@ public enum NASA_EONET implements WLService {
 
         NaturalEvent(String id, String place, String country, String subdivision, Location location, String description, EventSources sources) {
             this.id = id;
-            this.place = LocalServer.fixEscapeValues(place);
+            this.place = place;
             this.country = country;
             this.subdivision = subdivision;
             this.location = location;
-            this.description = LocalServer.fixEscapeValues(description);
+            this.description = description;
             this.sources = sources;
         }
 

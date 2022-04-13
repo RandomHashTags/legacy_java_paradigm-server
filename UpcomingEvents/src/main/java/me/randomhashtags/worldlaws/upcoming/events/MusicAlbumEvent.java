@@ -2,7 +2,6 @@ package me.randomhashtags.worldlaws.upcoming.events;
 
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSources;
-import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventValue;
@@ -22,7 +21,7 @@ public final class MusicAlbumEvent extends UpcomingEvent {
     }
     public MusicAlbumEvent(EventDate date, String artist, String album, String albumImageURL, String description, JSONObject spotifyDetails, JSONObject itunesDetails, EventSources sources) {
         super(date, album, description, albumImageURL, null, null, sources);
-        this.artist = LocalServer.fixEscapeValues(artist);
+        this.artist = artist;
         this.spotifyDetails = spotifyDetails;
         this.itunesDetails = itunesDetails;
         insertProperties();

@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.people;
 
-import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import org.json.JSONObject;
 
@@ -8,14 +7,14 @@ public final class HumanName {
     private final String firstName, middleName, lastName;
 
     public HumanName(String firstName, String middleName, String lastName) {
-        this.firstName = LocalServer.fixEscapeValues(firstName);
-        this.middleName = LocalServer.fixEscapeValues(middleName);
-        this.lastName = LocalServer.fixEscapeValues(lastName);
+        this.firstName = firstName;
+        this.middleName = middleName;
+        this.lastName = lastName;
     }
     public HumanName(JSONObject json) {
-        firstName = LocalServer.fixEscapeValues(json.getString("firstName"));
-        middleName = json.has("middleName") ? LocalServer.fixEscapeValues(json.getString("middleName")) : null;
-        lastName = LocalServer.fixEscapeValues(json.getString("lastName"));
+        firstName = json.getString("firstName");
+        middleName = json.optString("middleName", null);
+        lastName = json.getString("lastName");
     }
 
     public String getFirstName() {

@@ -28,12 +28,15 @@ public interface RestAPI {
 
     HttpClient CLIENT = getClient();
     HashMap<String, JSONArray> RESPONSE_TIMES = new HashMap<>();
+    private static Duration getConnectionTimeout() {
+        return Duration.ofSeconds(15);
+    }
 
     private static HttpClient getClient() {
         final HttpClient.Builder client = HttpClient.newBuilder()
                 .version(HttpClient.Version.HTTP_1_1)
                 .followRedirects(HttpClient.Redirect.NORMAL)
-                .connectTimeout(Duration.ofSeconds(10))
+                .connectTimeout(getConnectionTimeout())
                 ;
         try {
             client.sslContext(SSLContext.getDefault());
@@ -83,17 +86,11 @@ public interface RestAPI {
     default JSONObject requestJSONObject(String url, LinkedHashMap<String, String> headers) {
         return requestJSONObject(url, headers, null);
     }
-    default JSONObject requestJSONObject(String url, boolean isLimited, LinkedHashMap<String, String> headers) {
-        return requestJSONObject(url, isLimited, headers, null);
-    }
     default JSONObject requestJSONObject(String url, LinkedHashMap<String, String> headers, LinkedHashMap<String, String> query) {
-        return requestJSONObject(url, true, headers, query);
+        return requestStaticJSONObject(url, headers, query);
     }
-    default JSONObject requestJSONObject(String url, boolean isLimited, LinkedHashMap<String, String> headers, LinkedHashMap<String, String> query) {
-        return requestStaticJSONObject(url, isLimited, headers, query);
-    }
-    static JSONObject requestStaticJSONObject(String url, boolean isLimited, LinkedHashMap<String, String> headers, LinkedHashMap<String, String> query) {
-        final String string = requestStatic(url, isLimited, headers, query);
+    static JSONObject requestStaticJSONObject(String url, LinkedHashMap<String, String> headers, LinkedHashMap<String, String> query) {
+        final String string = requestStatic(url, headers, query);
         if(string != null && string.startsWith("{") && string.endsWith("}")) {
             try {
                 return new JSONObject(string);
@@ -110,13 +107,16 @@ public interface RestAPI {
         return null;
     }
 
-    default JSONObject postJSONObject(String url, LinkedHashMap<String, String> postData, boolean isLimited, LinkedHashMap<String, String> headers) {
-        return postStaticJSONObject(url, postData, isLimited, headers);
+    default JSONObject postJSONObject(String url, LinkedHashMap<String, Object> postData, LinkedHashMap<String, String> headers) {
+        return postStaticJSONObject(url, postData, headers);
     }
-    static JSONObject postStaticJSONObject(String url, LinkedHashMap<String, String> postData, boolean isLimited, LinkedHashMap<String, String> headers) {
-        return postStaticJSONObject(url, postData, false, isLimited, headers);
+    default JSONObject postJSONObject(String url, LinkedHashMap<String, Object> postData, boolean postDataIsJSONObject, LinkedHashMap<String, String> headers) {
+        return postStaticJSONObject(url, postData, postDataIsJSONObject, headers);
     }
-    static JSONObject postStaticJSONObject(String url, LinkedHashMap<String, String> postData, boolean postDataIsJSONObject, boolean isLimited, LinkedHashMap<String, String> headers) {
+    static JSONObject postStaticJSONObject(String url, LinkedHashMap<String, Object> postData, LinkedHashMap<String, String> headers) {
+        return postStaticJSONObject(url, postData, false, headers);
+    }
+    static JSONObject postStaticJSONObject(String url, LinkedHashMap<String, Object> postData, boolean postDataIsJSONObject, LinkedHashMap<String, String> headers) {
         if(postData == null) {
             postData = new LinkedHashMap<>();
         }
@@ -129,27 +129,21 @@ public interface RestAPI {
         if(!headers.containsKey("Content-Type")) {
             headers.put("Content-Type", "application/json");
         }
-        final String string = requestStatic(url, postData, postDataIsJSONObject, isLimited, headers, null);
-        return string != null ? new JSONObject(string) : null;
+        final String string = requestStatic(url, postData, postDataIsJSONObject, headers, null);
+        return string != null && string.startsWith("{") && string.endsWith("}") ? new JSONObject(string) : null;
     }
 
     default String request(String targetURL, LinkedHashMap<String, String> headers, LinkedHashMap<String, String> query) {
-        return request(targetURL, true, headers, query);
-    }
-    default String request(String targetURL, boolean isLimited, LinkedHashMap<String, String> headers, LinkedHashMap<String, String> query) {
-        return requestStatic(targetURL, isLimited, headers, query);
+        return requestStatic(targetURL, headers, query);
     }
     static String requestStatic(String targetURL, LinkedHashMap<String, String> headers, LinkedHashMap<String, String> query) {
-        return requestStatic(targetURL, true, headers, query);
-    }
-    static String requestStatic(String targetURL, boolean isLimited, LinkedHashMap<String, String> headers, LinkedHashMap<String, String> query) {
-        return requestStatic(targetURL, null, isLimited, headers, query);
+        return requestStatic(targetURL, null, headers, query);
     }
 
-    static String requestStatic(String targetURL, LinkedHashMap<String, String> postData, boolean isLimited, LinkedHashMap<String, String> headers, LinkedHashMap<String, String> query) {
-        return requestStatic(targetURL, postData, false, isLimited, headers, query);
+    static String requestStatic(String targetURL, LinkedHashMap<String, Object> postData, LinkedHashMap<String, String> headers, LinkedHashMap<String, String> query) {
+        return requestStatic(targetURL, postData, false, headers, query);
     }
-    static String requestStatic(String targetURL, LinkedHashMap<String, String> postData, boolean postDataIsJSONObject, boolean isLimited, LinkedHashMap<String, String> headers, LinkedHashMap<String, String> query) {
+    static String requestStatic(String targetURL, LinkedHashMap<String, Object> postData, boolean postDataIsJSONObject, LinkedHashMap<String, String> headers, LinkedHashMap<String, String> query) {
         final long started = System.currentTimeMillis();
         final boolean isLocal = targetURL.startsWith("http://localhost") || targetURL.startsWith("http://192.168");
 
@@ -163,16 +157,13 @@ public interface RestAPI {
 
         final HttpRequest.Builder requestBuilder = HttpRequest.newBuilder().uri(URI.create(targetURL));
         if(!isLocal) {
-            requestBuilder.timeout(Duration.ofSeconds(15));
+            requestBuilder.timeout(getConnectionTimeout());
         }
         if(postData != null) {
             final HttpRequest.BodyPublisher publisher = parsePostData(postData, postDataIsJSONObject);
             requestBuilder.POST(publisher);
         } else {
             requestBuilder.GET();
-        }
-        if(isLocal) {
-            requestBuilder.header("Accept-Charset", DataValues.ENCODING.displayName());
         }
         if(headers != null) {
             for(Map.Entry<String, String> entry : headers.entrySet()) {
@@ -183,7 +174,9 @@ public interface RestAPI {
             }
         }
         final String finalURL = targetURL;
-        RESPONSE_TIMES.putIfAbsent(finalURL, new JSONArray());
+        if(!isLocal) {
+            RESPONSE_TIMES.putIfAbsent(finalURL, new JSONArray());
+        }
         final HttpRequest request = requestBuilder.build();
         final CompletableFuture<HttpResponse<String>> bruh = CLIENT.sendAsync(request, HttpResponse.BodyHandlers.ofString());
         final String string = bruh.thenApply(HttpResponse::body).exceptionally(throwable -> {
@@ -193,34 +186,41 @@ public interface RestAPI {
                     return null;
                 }
             }
-            RESPONSE_TIMES.get(finalURL).put("error occurred");
+            if(!isLocal) {
+                RESPONSE_TIMES.get(finalURL).put("error occurred");
+            }
             final String value = "failed getting response with url \"" + finalURL + "\"\n\n" +
                     "HttpRequest=" + request.toString() + "\n\n" +
                     "stackTrace=\n" + WLUtilities.getThrowableStackTrace(throwable);
             WLUtilities.saveLoggedError("RestAPI", value);
             return null;
         }).join();
-        RESPONSE_TIMES.get(finalURL).put(WLUtilities.getElapsedTime(started));
+        if(!isLocal) {
+            RESPONSE_TIMES.get(finalURL).put(WLUtilities.getElapsedTime(started));
+        }
         return string;
     }
-    private static HttpRequest.BodyPublisher parsePostData(LinkedHashMap<String, String> data, boolean isJSON) {
+    private static HttpRequest.BodyPublisher parsePostData(LinkedHashMap<String, Object> data, boolean isJSON) {
         final String string = parseQuery(data, isJSON);
         return HttpRequest.BodyPublishers.ofString(string);
     }
-    static String parseQuery(LinkedHashMap<String, String> data, boolean isJSON) {
+    static String parseQuery(LinkedHashMap<String, ?> data, boolean isJSON) {
         final StringBuilder builder = new StringBuilder(isJSON ? "{" : "");
         boolean isFirst = true;
-        for(Map.Entry<String, String> map : data.entrySet()) {
+        for(Map.Entry<String, ?> map : data.entrySet()) {
             if(!isFirst) {
                 builder.append(isJSON ? "," : "&");
             }
-            final String key = map.getKey(), value = map.getValue();
+            final String key = map.getKey();
+            final Object value = map.getValue();
+
             if(isJSON) {
-                builder.append("\"").append(key).append("\":\"").append(value).append("\"");
+                final boolean isString = value instanceof String;
+                builder.append("\"").append(key).append("\":").append(isString ? "\"" : "").append(value.toString()).append(isString ? "\"" : "");
             } else {
                 builder.append(URLEncoder.encode(key, StandardCharsets.UTF_8));
                 builder.append("=");
-                builder.append(URLEncoder.encode(value, StandardCharsets.UTF_8));
+                builder.append(URLEncoder.encode(value.toString(), StandardCharsets.UTF_8));
             }
             isFirst = false;
         }

@@ -69,10 +69,10 @@ public abstract class LawSubdivisionController implements Jsoupable {
         final JSONObjectTranslatable json = new JSONObjectTranslatable();
         final boolean isIndex = type == SubdivisionLegislationType.INDEX;
         for(Element chapter : table) {
-            String text = LocalServer.fixEscapeValues(chapter.text());
+            String text = chapter.text();
             if(index % 2 == 0) {
                 final String[] spaces = text.split(" ");
-                final String target = usesValues ? LocalServer.fixEscapeValues(values.get(index)) : spaces.length > 1 ? spaces[1] : text;
+                final String target = usesValues ? values.get(index) : spaces.length > 1 ? spaces[1] : text;
                 final int fromRoman = RomanNumeral.fromRoman(target);
                 text = fromRoman != 0 ? Integer.toString(fromRoman) : target;
                 previousChapter = isIndex ? new SubdivisionStatuteIndex(text) : new SubdivisionStatuteChapter(text);
@@ -161,7 +161,7 @@ public abstract class LawSubdivisionController implements Jsoupable {
                     title = text.split(backendID)[1];
                 }
                 final SubdivisionLegal legal = isIndex ? new SubdivisionStatuteIndex(backendID) : new SubdivisionStatuteChapter(backendID);
-                legal.setTitle(LocalServer.fixEscapeValues(title));
+                legal.setTitle(title);
                 final String id = legal.getID();
                 json.put(id, legal.toJSONObject());
                 json.addTranslatedKey(id);

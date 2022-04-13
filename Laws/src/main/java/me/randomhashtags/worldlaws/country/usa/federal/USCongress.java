@@ -401,7 +401,7 @@ public enum USCongress implements Jsoupable, Jsonable {
     }
     private String getBillActions(Elements allInfoContent) {
         final Elements table = allInfoContent.get(2).select("table.expanded-actions tbody tr");
-        final HashSet<String> actions = new HashSet<>();
+        final HashSet<JSONObjectTranslatable> actions = new HashSet<>();
         table.parallelStream().forEach(element -> {
             final String text = element.text();
             final String[] values = text.split(" ");
@@ -424,12 +424,12 @@ public enum USCongress implements Jsoupable, Jsonable {
             }
             final LocalDateTime date = LocalDateTime.of(Integer.parseInt(dateValues[2]), Integer.parseInt(dateValues[0]), Integer.parseInt(dateValues[1]), dateHour, dateMinute);
             final BillAction action = new BillAction(chamber, title, date);
-            actions.add(action.toString());
+            actions.add(action.toJSONObject());
         });
         final StringBuilder builder = new StringBuilder("[");
         boolean isFirst = true;
-        for(String action : actions) {
-            builder.append(isFirst ? "" : ",").append(action);
+        for(JSONObjectTranslatable action : actions) {
+            builder.append(isFirst ? "" : ",").append(action.toString());
             isFirst = false;
         }
         builder.append("]");

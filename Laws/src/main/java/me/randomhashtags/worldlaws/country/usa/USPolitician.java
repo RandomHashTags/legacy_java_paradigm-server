@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws.country.usa;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.usa.federal.PreCongressBill;
 import me.randomhashtags.worldlaws.country.usa.federal.USCongress;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.people.HumanName;
 import me.randomhashtags.worldlaws.people.PoliticalParty;
 import me.randomhashtags.worldlaws.people.Politician;
@@ -16,7 +17,7 @@ public final class USPolitician implements Politician {
     private final HumanName name;
     private final PoliticalParty party;
     private final String district, governedTerritory, imageURL, url, website;
-    private HashMap<LegislationType, HashMap<Integer, String>> signedLegislation;
+    private HashMap<LegislationType, HashMap<Integer, JSONObjectTranslatable>> signedLegislation;
 
     public USPolitician(HumanName name, String governedTerritory, String district, PoliticalParty party, String imageURL, String url, String website) {
         this.name = name;
@@ -29,12 +30,12 @@ public final class USPolitician implements Politician {
     }
     public USPolitician(JSONObject json) {
         name = json.has("name") ? new HumanName(json.getJSONObject("name")) : null;
-        governedTerritory = json.has("governedTerritory") ? json.getString("governedTerritory") : null;
-        district = json.has("district") ? json.getString("district") : null;
+        governedTerritory = json.optString("governedTerritory", null);
+        district = json.optString("district", null);
         party = PoliticalParty.valueOf(json.getString("party").toUpperCase());
         imageURL = json.has("imageURL") ? "https://www.congress.gov/img/member/" + json.getString("imageURL") : null;
         url = json.has("url") ? "https://www.congress.gov/member/" + json.getString("url") : null;
-        website = json.has("website") ? json.getString("website") : null;
+        website = json.optString("website", null);
     }
 
     @Override
@@ -67,7 +68,7 @@ public final class USPolitician implements Politician {
     }
 
     @Override
-    public String getSignedLegislationJSON(LegislationType type, int administration) {
+    public JSONObjectTranslatable getSignedLegislationJSON(LegislationType type, int administration) {
         if(signedLegislation == null) {
             signedLegislation = new HashMap<>();
         }
@@ -81,19 +82,15 @@ public final class USPolitician implements Politician {
             final String targetURL = url + "?pageSize=250&q=%7B%22sponsorship%22%3A%22" + type.name().toLowerCase() + "%22%7D";
             final USCongress congress = USCongress.getCongress(administration);
             final Elements table = Jsoupable.getStaticDocumentElements(Folder.LAWS_USA_MEMBERS, targetURL, true, "main.content div.main-wrapper div.search-row div.search-column-main ol.basic-search-results-list li.expanded");
-            final StringBuilder builder = new StringBuilder("[");
-            boolean isFirst = true;
+            final JSONObjectTranslatable json = new JSONObjectTranslatable();
             for(Element element : table) {
                 final PreCongressBill bill = congress.getPreCongressBillFrom(element);
-                builder.append(isFirst ? "" : ",").append(bill.toString());
-                isFirst = false;
+                json.put(bill.getID(), bill.toJSONObject());
             }
-            builder.append("]");
-            final String string = builder.toString();
-            signedLegislation.get(type).put(administration, string);
+            signedLegislation.get(type).put(administration, json);
             final HumanName name = getName();
             WLLogger.logInfo("USPolitician - loaded \"" + name.getFirstName() + " " + name.getMiddleName() + " " + name.getLastName() + "\"'s " + type.name() + " legislation for administration " + administration + " (took " + WLUtilities.getElapsedTime(started) + ")");
-            return string;
+            return json;
         }
     }
 }

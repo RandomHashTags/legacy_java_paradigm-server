@@ -1,6 +1,10 @@
 package me.randomhashtags.worldlaws.notifications;
 
-import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.Folder;
+import me.randomhashtags.worldlaws.Jsonable;
+import me.randomhashtags.worldlaws.TargetServer;
+import me.randomhashtags.worldlaws.proxy.ClientHeaders;
+import me.randomhashtags.worldlaws.request.WLHttpExchange;
 import me.randomhashtags.worldlaws.settings.Settings;
 import org.json.JSONObject;
 
@@ -17,13 +21,13 @@ public final class RemoteNotification extends JSONObject implements Jsonable {
         put("category", category.name());
         put("badge", badge);
         if(title != null) {
-            put("title", LocalServer.fixEscapeValues(title));
+            put("title", title);
         }
         if(subtitle != null) {
-            put("subtitle", LocalServer.fixEscapeValues(subtitle));
+            put("subtitle", subtitle);
         }
         if(body != null) {
-            put("body", LocalServer.fixEscapeValues(body));
+            put("body", body);
         }
         save();
     }
@@ -65,6 +69,7 @@ public final class RemoteNotification extends JSONObject implements Jsonable {
 
     public static void pushPending() {
         final String identifier = Settings.Server.getUUID();
-        final String string = TargetServer.REMOTE_NOTIFICATIONS.sendResponse(APIVersion.v1, identifier, "push_pending", null);
+        final WLHttpExchange headers = new WLHttpExchange(); ClientHeaders.getWith("localhost", identifier, null, null, "push_pending");
+        final String string = TargetServer.REMOTE_NOTIFICATIONS.sendResponse(headers);
     }
 }

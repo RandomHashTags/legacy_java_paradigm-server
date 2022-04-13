@@ -32,17 +32,17 @@ public enum TwitchClips implements RefreshableService {
         thumbnailURLPrefix = "https://clips-media-assets.twitch.tv/";
     }
 
-    public JSONObjectTranslatable getResponse(String target) {
-        final String[] values = target.split("/");
-        switch (values[0]) {
+    public JSONObjectTranslatable getResponse(String[] values) {
+        final String key = values[0];
+        switch (key) {
             case "id":
                 return getClip(values[1]);
             default:
-                if(clipTypes.contains(target) || target.equals("getAll")) {
+                if(clipTypes.contains(key) || key.equals("getAll")) {
                     if(types.isEmpty()) {
                         refresh();
                     }
-                    return types.get(target);
+                    return types.get(key);
                 }
                 return null;
         }

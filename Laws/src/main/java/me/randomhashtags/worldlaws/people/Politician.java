@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.people;
 
 import me.randomhashtags.worldlaws.LegislationType;
 import me.randomhashtags.worldlaws.ServerObject;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 
 public interface Politician extends Person, ServerObject {
     String getGovernedTerritory();
@@ -10,7 +11,7 @@ public interface Politician extends Person, ServerObject {
     String getImageURL();
     String getURL();
     String getWebsite();
-    String getSignedLegislationJSON(LegislationType type, int administration);
+    JSONObjectTranslatable getSignedLegislationJSON(LegislationType type, int administration);
 
     default String toJSON() {
         final HumanName name = getName();

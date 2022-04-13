@@ -1,7 +1,6 @@
 package me.randomhashtags.worldlaws.earthquakes;
 
 import me.randomhashtags.worldlaws.EventSources;
-import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.country.Location;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 
@@ -17,7 +16,7 @@ public final class Earthquake {
         this.subdivision = subdivision;
         this.cause = cause;
         this.magnitude = magnitude;
-        this.place = LocalServer.fixEscapeValues(place);
+        this.place = place;
         this.time = time;
         this.lastUpdated = lastUpdated;
         this.depthKM = depthKM;

@@ -1,11 +1,12 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
-import me.randomhashtags.worldlaws.proxy.ProxyHeaders;
+import me.randomhashtags.worldlaws.locale.JSONTranslatable;
 import me.randomhashtags.worldlaws.request.ServerRequest;
+import me.randomhashtags.worldlaws.request.ServerRequestType;
+import me.randomhashtags.worldlaws.request.WLHttpExchange;
+import me.randomhashtags.worldlaws.request.WLHttpHandler;
 import me.randomhashtags.worldlaws.settings.Settings;
-
-import java.util.HashSet;
 
 public final class Proxy implements WLServer {
 
@@ -28,59 +29,61 @@ public final class Proxy implements WLServer {
         return TargetServer.PROXY;
     }
 
-    @Override
+    /*@Override
     public void startServer() {
         final LocalServer localServer = getLocalServer();
         final CompletionHandler handler = new CompletionHandler() {
             @Override
             public void handleClient(WLClient client) {
-                final String target = client.getTarget();
-                if(target == null) {
+                final ClientHeaders headers = client.getHeaders();
+                final String fullRequest = headers.getFullRequest();
+                if(fullRequest == null) {
                     return;
-                } else if(target.equals("ping")) {
+                } else if(fullRequest.equals("ping")) {
                     client.sendResponse("1");
                     return;
                 }
-                if(target.startsWith("favicon")) {
+                if(fullRequest.startsWith("favicon")) {
                     client.sendResponse(null);
                     return;
                 }
-                final String identifier = client.getIdentifier();
-                final String string = getProxyResponse(client, localServer, identifier, target);
+                final String string = getProxyResponse(headers, localServer, headers.getTotalRequest());
                 client.sendResponse(string);
             }
         };
         localServer.setCompletionHandler(handler);
     }
 
-    private String getProxyResponse(WLClient client, LocalServer localServer, String identifier, String target) {
-        final String[] values = target.split("/");
-        switch (values[1]) {
-            case "stop":
-                if(identifier.equals(Settings.Server.getUUID())) {
-                    localServer.stop();
-                    return "1";
-                } else {
-                    return null;
-                }
-            default:
-                return getProxyClientResponse("localhost", identifier, client.getPlatform(), client.getVersion(), target);
+    private String getProxyResponse(ClientHeaders headers, LocalServer localServer, String totalRequest) {
+        final String[] values = totalRequest.split("/");
+        if(values.length >= 2) {
+            switch (values[1]) {
+                case "stop":
+                    final String identifier = headers.getIdentifier();
+                    if(identifier.equals(Settings.Server.getUUID())) {
+                        localServer.stop();
+                        return "1";
+                    } else {
+                        return null;
+                    }
+                default:
+                    break;
+            }
         }
-    }
-    private String getProxyClientResponse(String ip, String identifier, String platform, String version, String target) {
+        return getProxyClientResponse(headers);
+    }*/
+    private String getProxyClientResponse(WLHttpExchange headers) {
         final long started = System.currentTimeMillis();
-        final ProxyHeaders headers = ProxyHeaders.getWith(ip, identifier, platform, version, target);
+        final String ip = headers.getIPAddress(), platform = headers.getPlatform(), identifier = headers.getIdentifier();
         final String prefix = "[" + platform + ", " + identifier + "] " + ip + " - ";
-        final TargetServer server = headers.getServer();
+        final String targetServer = headers.getPath().split("/")[1];
+        final TargetServer server = TargetServer.valueOfBackendID(targetServer);
         if(server != null) {
-            final APIVersion apiVersion = headers.getAPIVersion();
-            final HashSet<String> query = headers.getQuery();
-            final String request = headers.getRequest();
-            final String string = server.sendResponse(apiVersion, identifier, request, query);
+            final String string = server.sendResponseFromProxy(headers);
             if(string != null && !string.equals("null")) {
                 return string;
             }
-            WLLogger.logWarning(prefix + "Failed to connect to \"" + request + "\" (took " + WLUtilities.getElapsedTime(started) + ")");
+            WLLogger.logWarning(prefix + "Failed to connect to \"" + headers.getShortPath() + "\" (took " + WLUtilities.getElapsedTime(started) + ")");
             return null;
         }
         WLLogger.logWarning(prefix + "INVALID");
@@ -89,6 +92,45 @@ public final class Proxy implements WLServer {
 
     @Override
     public JSONObjectTranslatable getServerResponse(APIVersion version, String identifier, ServerRequest request) {
+        return null;
+    }
+
+    @Override
+    public WLHttpHandler getDefaultHandler() {
+        final LocalServer localServer = getLocalServer();
+        return new WLHttpHandler() {
+            @Override
+            public JSONTranslatable getResponse(WLHttpExchange httpExchange) {
+                return null;
+            }
+
+            @Override
+            public String getFallbackResponse(WLHttpExchange httpExchange) {
+                WLLogger.logInfo("Proxy;getFallbackResponse;path=" + httpExchange.getPath() + ";shortPath=" + httpExchange.getShortPath());
+                final String[] values = httpExchange.getPathValues();
+                if(values.length >= 2) {
+                    switch (values[1]) {
+                        case "ping":
+                            return "1";
+                        case "stop":
+                            final String identifier = httpExchange.getIdentifier();
+                            if(identifier.equals(Settings.Server.getUUID())) {
+                                localServer.stop();
+                                return "1";
+                            } else {
+                                return null;
+                            }
+                        default:
+                            break;
+                    }
+                }
+                return getProxyClientResponse(httpExchange);
+            }
+        };
+    }
+
+    @Override
+    public ServerRequestType[] getRequestTypes() {
         return null;
     }
 }

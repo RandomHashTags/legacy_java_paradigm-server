@@ -1,0 +1,266 @@
+package me.randomhashtags.worldlaws.request;
+
+import com.sun.net.httpserver.Headers;
+import com.sun.net.httpserver.HttpContext;
+import com.sun.net.httpserver.HttpExchange;
+import com.sun.net.httpserver.HttpPrincipal;
+import me.randomhashtags.worldlaws.APIVersion;
+import me.randomhashtags.worldlaws.RequestMethod;
+import me.randomhashtags.worldlaws.WLLogger;
+import me.randomhashtags.worldlaws.WLUtilities;
+import me.randomhashtags.worldlaws.locale.Language;
+import me.randomhashtags.worldlaws.locale.LanguageTranslator;
+import org.json.JSONObject;
+
+import java.io.*;
+import java.net.InetSocketAddress;
+import java.net.URI;
+import java.nio.charset.StandardCharsets;
+import java.util.LinkedHashMap;
+
+public final class WLHttpExchange extends HttpExchange {
+
+    private final HttpExchange exchange;
+
+    public WLHttpExchange() {
+        super();
+        exchange = this;
+    }
+    public WLHttpExchange(HttpExchange exchange) {
+        this.exchange = exchange;
+    }
+
+    public String getIPAddress() {
+        final InetSocketAddress local = exchange.getLocalAddress(), remote = exchange.getRemoteAddress();
+        return (local != null ? local : remote).getAddress().toString();
+    }
+
+    public RequestMethod getActualRequestMethod() {
+        switch (getRequestMethod()) {
+            case "POST": return RequestMethod.POST;
+            case "GET": return RequestMethod.GET;
+            default: return null;
+        }
+    }
+    private String getPath(boolean excludeQuery) {
+        final String path = exchange.getRequestURI().toString().substring(1);
+        return excludeQuery ? path.split("\\?")[0] : path;
+    }
+    public String getPath() {
+        return getPath(true);
+    }
+    public String[] getPathValues() {
+        return getPath().split("/");
+    }
+    public String getShortPath() {
+        final String path = getPath();
+        final String[] values = path.split("\\?")[0].split("/");
+        String string = path.substring(values[0].length() + values[1].length() + 1);
+        if(string.startsWith("/")) {
+            string = string.substring(1);
+        }
+        return string;
+    }
+    public String[] getShortPathValues() {
+        return getShortPath().split("/");
+    }
+    public APIVersion getAPIVersion() {
+        final String path = getPath().split("/")[0];
+        return APIVersion.valueOfInput(path);
+    }
+    public LinkedHashMap<String, String> getQuery() {
+        final String path = getPath(false);
+        if(path.contains("?")) {
+            final LinkedHashMap<String, String> query = new LinkedHashMap<>();
+            final String[] values = path.split("\\?")[1].split("&");
+            for(String string : values) {
+                final String[] queryValues = string.split("=");
+                query.put(queryValues[0], queryValues[1]);
+            }
+            return query;
+        }
+        return null;
+    }
+
+
+    public String getHeader(String key) {
+        return getHeader(key, null);
+    }
+    public String getHeader(String key, String defaultValue) {
+        final Headers headers = exchange.getRequestHeaders();
+        if(headers != null) {
+            final String string = headers.getFirst(key);
+            return string != null ? string : defaultValue;
+        }
+        return defaultValue;
+    }
+
+    public boolean isValidRequest() {
+        final String platform = getPlatform(), version = getVersion();
+        return isValidIdentifier() && platform != null && version != null;
+    }
+    public boolean isValidIdentifier() {
+        final String identifier = getIdentifier(), regex = "[0-9a-zA-Z]+";
+        return identifier != null && identifier.matches(regex + "-" + regex + "-" + regex + "-" + regex + "-" + regex);
+    }
+    public String getIdentifier() {
+        return getHeader("***REMOVED***");
+    }
+    public String getPlatform() {
+        return getHeader("***REMOVED***");
+    }
+    public String getVersion() {
+        return getHeader("***REMOVED***");
+    }
+    public String getTargetLanguage() {
+        return getHeader("***REMOVED***", "en");
+    }
+    public Language getLanguage() {
+        final String target = getTargetLanguage();
+        final Language language = Language.valueOfString(target);
+        return language != null ? language : Language.ENGLISH;
+    }
+    public String getTargetLanguageType() {
+        return getHeader("***REMOVED***", "ARGOS");
+    }
+    public LanguageTranslator getLanguageType() {
+        final String target = getTargetLanguageType();
+        final LanguageTranslator translator = LanguageTranslator.valueOfString(target);
+        return translator != null ? translator : LanguageTranslator.ARGOS;
+    }
+    public boolean isSandbox() {
+        return "true".equals(getHeader("***REMOVED***"));
+    }
+    public boolean isPremium() {
+        return "true".equals(getHeader("***REMOVED***"));
+    }
+
+    public String getActualRequestBody() {
+        final BufferedInputStream in = new BufferedInputStream(getRequestBody());
+        String line;
+        try {
+            do {
+                line = readLine(in);
+                if(line.isEmpty()) break;
+                WLLogger.logInfo("WLHttpExchange;getActualRequestBody;line=" + line);
+            } while (true);
+        } catch (Exception e) {
+            WLUtilities.saveException(e);
+        }
+        return null;
+    }
+    public JSONObject getRequestBodyJSON() {
+        final String string = getActualRequestBody();
+        return string != null && string.startsWith("{") && string.endsWith("}") ? new JSONObject(string) : null;
+    }
+    private String readLine(BufferedInputStream in) throws Exception {
+        final InputStreamReader reader = new InputStreamReader(in, StandardCharsets.US_ASCII);
+        final StringBuilder builder = new StringBuilder();
+        int c;
+        while ((c = reader.read()) >= 0) {
+            char character = (char) c;
+            if(character == '\n') {
+                break;
+            }
+            if(character == '\r') {
+                c = reader.read();
+                if(c < 0) {
+                    break;
+                }
+                character = (char) c;
+                if(character == '\n') {
+                    break;
+                }
+                builder.append('\r');
+            }
+            builder.append(character);
+        }
+        WLLogger.logInfo("WLHttpExchange;readLine;builder=" + builder.toString());
+        return builder.toString();
+    }
+
+    @Override
+    public Headers getRequestHeaders() {
+        return exchange.getRequestHeaders();
+    }
+
+    @Override
+    public Headers getResponseHeaders() {
+        return exchange.getResponseHeaders();
+    }
+
+    @Override
+    public URI getRequestURI() {
+        return exchange.getRequestURI();
+    }
+
+    @Override
+    public String getRequestMethod() {
+        return exchange.getRequestMethod();
+    }
+
+    @Override
+    public HttpContext getHttpContext() {
+        return exchange.getHttpContext();
+    }
+
+    @Override
+    public void close() {
+        exchange.close();
+    }
+
+    @Override
+    public InputStream getRequestBody() {
+        return exchange.getRequestBody();
+    }
+
+    @Override
+    public OutputStream getResponseBody() {
+        return exchange.getResponseBody();
+    }
+
+    @Override
+    public void sendResponseHeaders(int i, long l) throws IOException {
+        exchange.sendResponseHeaders(i, l);
+    }
+
+    @Override
+    public InetSocketAddress getRemoteAddress() {
+        return exchange.getRemoteAddress();
+    }
+
+    @Override
+    public int getResponseCode() {
+        return exchange.getResponseCode();
+    }
+
+    @Override
+    public InetSocketAddress getLocalAddress() {
+        return exchange.getLocalAddress();
+    }
+
+    @Override
+    public String getProtocol() {
+        return exchange.getProtocol();
+    }
+
+    @Override
+    public Object getAttribute(String s) {
+        return exchange.getAttribute(s);
+    }
+
+    @Override
+    public void setAttribute(String s, Object o) {
+        exchange.setAttribute(s, o);
+    }
+
+    @Override
+    public void setStreams(InputStream inputStream, OutputStream outputStream) {
+        exchange.setStreams(inputStream, outputStream);
+    }
+
+    @Override
+    public HttpPrincipal getPrincipal() {
+        return exchange.getPrincipal();
+    }
+}

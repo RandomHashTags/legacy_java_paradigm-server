@@ -4,8 +4,9 @@ import me.randomhashtags.worldlaws.earthquakes.Earthquakes;
 import me.randomhashtags.worldlaws.earthquakes.WeatherAlerts;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.request.ServerRequest;
-import me.randomhashtags.worldlaws.request.server.ServerRequestTypeWeather;
+import me.randomhashtags.worldlaws.request.ServerRequestType;
 import me.randomhashtags.worldlaws.tracker.NASA_EONET;
+import org.json.JSONObject;
 
 public final class Weather implements WLServer {
     public static void main(String[] args) {
@@ -24,27 +25,25 @@ public final class Weather implements WLServer {
 
     private void test() {
         final long started = System.currentTimeMillis();
-        NASA_EONET.INSTANCE.refresh(APIVersion.v1);
+        final String key = "key", value = "This is ā \ntest!", fixed = LocalServer.fixEscapeValues(value);
+        WLLogger.logInfo("Weather;test;value=" + value + ";fixed=" + fixed);
+        final String targetJSON = "{\"" + key + "\":\"" + LocalServer.fixEscapeValues(value) + "\"}";
+        final JSONObject json1 = new JSONObject(targetJSON);
+        final JSONObject json2 = new JSONObject();
+        json2.put(key, fixed);
+        WLLogger.logInfo("Weather;test;json1=" + json1.toString());
+        WLLogger.logInfo("Weather;test;json2=" + json2.toString());
         WLLogger.logInfo("Weather;test;took=" + WLUtilities.getElapsedTime(started));
     }
 
     @Override
     public JSONObjectTranslatable getServerResponse(APIVersion version, String identifier, ServerRequest request) {
-        final ServerRequestTypeWeather type = (ServerRequestTypeWeather) request.getType();
-        if(type == null) {
-            return null;
-        }
-        final String target = request.getTarget();
-        switch (type) {
-            case ALERTS:
-                return WeatherAlerts.INSTANCE.getResponse(target);
-            case EARTHQUAKES:
-                return Earthquakes.INSTANCE.getResponse(target.split("/"));
-            case NATURAL_EVENTS:
-                return NASA_EONET.INSTANCE.getCurrent(version);
-            default:
-                return null;
-        }
+        return null;
+    }
+
+    @Override
+    public ServerRequestType[] getRequestTypes() {
+        return ServerRequestTypeWeather.values();
     }
 
     @Override

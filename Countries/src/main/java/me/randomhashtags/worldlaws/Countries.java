@@ -13,7 +13,6 @@ import me.randomhashtags.worldlaws.info.national.NationalAnimals;
 import me.randomhashtags.worldlaws.info.national.NationalAnthems;
 import me.randomhashtags.worldlaws.info.national.NationalCapitals;
 import me.randomhashtags.worldlaws.info.national.NationalTrees;
-import me.randomhashtags.worldlaws.info.rankings.CountryRankingServices;
 import me.randomhashtags.worldlaws.info.rankings.CountryRankings;
 import me.randomhashtags.worldlaws.info.service.WikipediaFeaturedPictures;
 import me.randomhashtags.worldlaws.info.service.nonstatic.CIAServices;
@@ -23,7 +22,7 @@ import me.randomhashtags.worldlaws.locale.JSONTranslatable;
 import me.randomhashtags.worldlaws.locale.Language;
 import me.randomhashtags.worldlaws.locale.LanguageTranslator;
 import me.randomhashtags.worldlaws.request.ServerRequest;
-import me.randomhashtags.worldlaws.request.server.ServerRequestTypeCountries;
+import me.randomhashtags.worldlaws.request.ServerRequestType;
 import me.randomhashtags.worldlaws.service.CountryServices;
 import me.randomhashtags.worldlaws.service.CurrencyExchange;
 import me.randomhashtags.worldlaws.service.NewCountryService;
@@ -35,21 +34,19 @@ import org.json.JSONObject;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Set;
-import java.util.stream.Collectors;
 
 // https://en.wikipedia.org/wiki/List_of_sovereign_states
 // https://en.wikipedia.org/wiki/Lists_by_country
 public final class Countries implements WLServer {
-
-    private final HashMap<String, CustomCountry> countriesMap;
+    public static Countries INSTANCE = new Countries();
+    private HashMap<String, CustomCountry> countriesMap;
     private HashMap<APIVersion, JSONObjectTranslatable> countriesCacheJSON;
 
     public static void main(String[] args) {
-         new Countries();
+         INSTANCE.init();
     }
 
-    private Countries() {
+    private void init() {
         countriesMap = new HashMap<>();
         //test();
         load();
@@ -62,7 +59,6 @@ public final class Countries implements WLServer {
 
     private void test() {
         loadServices();
-        loadCountries(APIVersion.v1);
         final ServerRequest request = new ServerRequest(ServerRequestTypeCountries.INFORMATION, "unitedstates");
         final JSONTranslatable json = getServerResponse(APIVersion.v1, "***REMOVED***", request);
         WLLogger.logInfo("Countries;test1;string=" + (json != null ? json.toString() : "null"));
@@ -131,7 +127,7 @@ public final class Countries implements WLServer {
         WLLogger.logInfo("Countries - refreshed " + countriesMap.size() + " non-static country information (took " + WLUtilities.getElapsedTime(started) + ")");
     }
 
-    private JSONObjectTranslatable getCountries(APIVersion version) {
+    public JSONObjectTranslatable getCountries(APIVersion version) {
         if(countriesCacheJSON == null) {
             countriesCacheJSON = new HashMap<>();
         }
@@ -162,46 +158,31 @@ public final class Countries implements WLServer {
 
     @Override
     public JSONTranslatable getServerResponse(APIVersion version, String identifier, ServerRequest request) {
-        final ServerRequestTypeCountries type = (ServerRequestTypeCountries) request.getType();
-        if(type == null) {
-            return null;
-        }
-        final String target = request.getTarget();
-        final String[] values = target != null ? target.split("/") : null;
-        switch (type) {
-            case COUNTRIES:
-                return getCountries(version);
-            case CURRENCY_EXCHANGE:
-                return CurrencyExchange.getResponse(request);
-            case FILTERS:
-                return getFilters();
-            case RANKED:
-                return CountryRankingServices.getRanked(values[0]);
-            case INFORMATION:
-                final String value = values[0];
-                final CustomCountry country = countriesMap.get(value);
-                if(country != null) {
-                    final int length = values.length;
-                    switch (length) {
-                        case 1:
-                            return country.getInformation(version);
-                        case 2:
-                            final String subdivisionBackendID = values[1];
-                            final SovereignStateSubdivision subdivision = country.getWLCountry().valueOfSovereignStateSubdivision(subdivisionBackendID);
-                            if(subdivision != null) {
-                                return subdivision.getInformation(version);
-                            } else {
-                                WLLogger.logError(this, "getServerResponse - failed to get information for subdivision \"" + subdivisionBackendID + "\" from country \"" + country.getBackendID() + "\"!");
-                                return null;
-                            }
-                        default:
-                            return null;
+        return null;
+    }
+    public JSONTranslatable getInformationResponse(APIVersion version, String[] values) {
+        final String value = values[0];
+        WLLogger.logInfo("Countries;getInformationResponse;value=" + value);
+        final CustomCountry country = countriesMap.get(value);
+        if(country != null) {
+            final int length = values.length;
+            switch (length) {
+                case 1:
+                    return country.getInformation(version);
+                case 2:
+                    final String subdivisionBackendID = values[1];
+                    final SovereignStateSubdivision subdivision = country.getWLCountry().valueOfSovereignStateSubdivision(subdivisionBackendID);
+                    if(subdivision != null) {
+                        return subdivision.getInformation(version);
+                    } else {
+                        WLLogger.logError(this, "getInformationResponse - failed to get information for subdivision \"" + subdivisionBackendID + "\" from country \"" + country.getBackendID() + "\"!");
+                        return null;
                     }
-                }
-                return null;
-            default:
-                return null;
+                default:
+                    return null;
+            }
         }
+        return null;
     }
 
     @Override
@@ -212,30 +193,8 @@ public final class Countries implements WLServer {
         };
     }
 
-    private JSONObjectTranslatable getFilters() {
-        final Set<String> services = CountryRankingServices.getNewRankingsServices().stream().map(test -> test.getInfo().getTitle()).collect(Collectors.toSet());
-        final Folder folder = Folder.COUNTRIES;
-        final String fileName = "filters";
-        folder.setCustomFolderName(fileName, folder.getFolderName());
-        JSONObjectTranslatable json = new JSONObjectTranslatable();
-        json.setFolder(folder);
-        json.setFileName(fileName);
-        final JSONObject local = Jsonable.getStaticLocalFileJSONObject(folder, fileName);
-        if(local != null) {
-            json = JSONObjectTranslatable.parse(local, folder, fileName, services, title -> {
-                final JSONObjectTranslatable filterJSON = new JSONObjectTranslatable("title");
-                filterJSON.put("title", title);
-                return filterJSON;
-            });
-        } else {
-            for(String title : services) {
-                final JSONObjectTranslatable filterJSON = new JSONObjectTranslatable("title");
-                filterJSON.put("title", title);
-                json.put(title, filterJSON);
-                json.addTranslatedKey(title);
-            }
-            Jsonable.setFileJSONObject(folder, fileName, json);
-        }
-        return json;
+    @Override
+    public ServerRequestType[] getRequestTypes() {
+        return ServerRequestTypeCountries.values();
     }
 }

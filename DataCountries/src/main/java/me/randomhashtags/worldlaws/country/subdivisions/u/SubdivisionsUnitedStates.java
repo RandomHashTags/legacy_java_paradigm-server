@@ -71,6 +71,10 @@ public enum SubdivisionsUnitedStates implements SovereignStateSubdivision { // h
     GUAM,
     NORTHERN_MARIANA_ISLANDS,
     UNITED_STATES_VIRGIN_ISLANDS,
+
+    MARSHALL_ISLANDS,
+    MICRONESIA,
+    PALAU,
     ;
 
     @Override
@@ -94,6 +98,10 @@ public enum SubdivisionsUnitedStates implements SovereignStateSubdivision { // h
                 return SubdivisionType.TERRITORIES;
             case WASHINGTON_DC:
                 return SubdivisionType.FEDERAL_DISTRICTS;
+            case MARSHALL_ISLANDS:
+            case MICRONESIA:
+            case PALAU:
+                return SubdivisionType.FREELY_ASSOCIATED_STATES;
             default:
                 return null;
         }

@@ -87,13 +87,12 @@ public final class WikipediaCountryService implements NewCountryService {
             final Element paragraphElement = paragraphs.get(0);
             final Element listenElement = paragraphElement.selectFirst("span.rt-commentedText");
             final String listenReplacement = listenElement != null ? " (" + listenElement.text() + ")" : null;
-            String firstParagraph = LocalServer.removeWikipediaReferences(paragraphElement.text());
+            String paragraph = LocalServer.removeWikipediaReferences(paragraphElement.text());
             if(listenReplacement != null) {
-                firstParagraph = firstParagraph.replace(listenReplacement, "");
+                paragraph = paragraph.replace(listenReplacement, "");
             }
-            firstParagraph = firstParagraph.replace(" (listen)", "").replace("(listen)", "").replace(" (listen to all)", "").replace("(listen to all)", "");
-            firstParagraph = LocalServer.removeWikipediaTranslations(firstParagraph);
-            final String paragraph = LocalServer.fixEscapeValues(firstParagraph);
+            paragraph = paragraph.replace(" (listen)", "").replace("(listen)", "").replace(" (listen to all)", "").replace("(listen to all)", "");
+            paragraph = LocalServer.removeWikipediaTranslations(paragraph);
             final JSONObjectTranslatable json = new JSONObjectTranslatable("paragraph");
             json.put("paragraph", paragraph);
             json.put("url", url);
