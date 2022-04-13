@@ -35,7 +35,7 @@ public final class TestStatute extends TestStatuteAbstract {
                 "\"title\":\"" + title + "\"," +
                 (description != null ? "\"description\":\"" + description + "\"," : "") +
                 (subdivisions != null && !subdivisions.isEmpty() ? "\"subdivisions\":" + getSubdivisionsJSON() + "," : "") +
-                "\"sources\":" + sources.toString() +
+                "\"sources\":" + sources.toJSONObject().toString() +
                 "}";
     }
 }

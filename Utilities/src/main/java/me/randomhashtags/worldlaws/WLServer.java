@@ -2,15 +2,11 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.locale.JSONTranslatable;
-import me.randomhashtags.worldlaws.locale.Language;
-import me.randomhashtags.worldlaws.locale.LanguageTranslator;
-import me.randomhashtags.worldlaws.proxy.ClientHeaders;
 import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.ServerRequestType;
 import me.randomhashtags.worldlaws.request.WLHttpHandler;
 import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
-import org.json.JSONObject;
 
 import java.time.LocalDateTime;
 import java.util.Arrays;
@@ -89,40 +85,6 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
     default void stop() {
     }
 
-    private String getResponse(LocalServer localServer, ClientHeaders headers) {
-        final String fullRequest = headers.getFullRequest(), identifier = headers.getIdentifier();
-        final String[] values = fullRequest.split("/");
-        final APIVersion version = headers.getAPIVersion();
-        final Language clientLanguage = headers.getLanguage();
-        final LanguageTranslator translator = headers.getLanguageType();
-        final JSONObject json;
-        if(values.length >= 2) {
-            switch (values[1]) {
-                case "home":
-                    final JSONObjectTranslatable response = getHomeResponse(version);
-                    json = WLUtilities.translateJSON(response, translator, clientLanguage);
-                    return json != null ? json.toString() : null;
-                case "stop":
-                    if(identifier.equals(Settings.Server.getUUID())) {
-                        localServer.stop();
-                        return "1";
-                    } else {
-                        return null;
-                    }
-                default:
-                    localServer.madeRequest(identifier, fullRequest);
-                    final String targetType = headers.getTargetRequestType();
-                    final ServerRequestType type = localServer.parseRequestType(targetType);
-                    final ServerRequest request = new ServerRequest(type, headers.getRequest());
-                    request.setHeaders(headers);
-                    final JSONTranslatable serverJSON = getServerResponse(version, identifier, request);
-                    json = WLUtilities.translateJSON(serverJSON, translator, clientLanguage);
-                    return json != null ? json.toString() : null;
-            }
-        }
-        return null;
-    }
-
     JSONTranslatable getServerResponse(APIVersion version, String identifier, ServerRequest request);
     default long getHomeResponseUpdateInterval() {
         return 0;
@@ -130,7 +92,7 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
     default ServerRequest[] getHomeRequests() {
         return null;
     }
-    default JSONObjectTranslatable getHomeResponse(APIVersion version) {
+    default JSONObjectTranslatable getHomeResponse(APIVersion version) { // TODO: fix this
         if(CACHED_HOME_RESPONSES.containsKey(version)) {
             return CACHED_HOME_RESPONSES.get(version);
         } else {

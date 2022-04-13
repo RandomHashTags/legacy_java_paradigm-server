@@ -110,6 +110,6 @@ public enum ServerRequestTypeRemoteNotifications implements ServerRequestType {
             final AppleNotifications apple = AppleNotifications.INSTANCE;
             new CompletableFutures<RemoteNotification>().stream(notifications, apple::sendNotification);
         }
-        WLLogger.logInfo("RemoteNotifications - sending " + amount + " remote notifications");
+        WLLogger.logInfo("RemoteNotifications - sending " + amount + " remote notification" + (amount > 1 ? "s" : ""));
     }
 }

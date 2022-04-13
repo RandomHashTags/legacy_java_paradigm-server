@@ -15,12 +15,11 @@ public enum ServerRequestTypePremium implements ServerRequestType {
         return httpExchange -> {
             switch (this) {
                 case VERIFY:
-                    final String path = httpExchange.getPath();
                     final String[] values = httpExchange.getShortPathValues();
                     final String key = values[0];
                     switch (key) {
                         case "apple":
-                            return verifyApple(path.substring(key.length()+1).split("/"), httpExchange);
+                            return verifyApple(values, httpExchange);
                         default:
                             return null;
                     }

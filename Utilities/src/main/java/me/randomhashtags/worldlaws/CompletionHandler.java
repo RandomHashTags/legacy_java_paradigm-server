@@ -5,7 +5,6 @@ import org.json.JSONObject;
 
 public interface CompletionHandler {
     default void handleString(String string) { }
-    default void handleClient(@NotNull WLClient client) { }
 
     default String loadJSONObjectString() { return null; }
     default JSONObject loadJSONObject() { return null; }

@@ -8,7 +8,20 @@ import me.randomhashtags.worldlaws.request.WLHttpHandler;
 public final class Premium implements WLServer {
 
     public static void main(String[] args) {
-        new Premium().load();
+        new Premium().initialize();
+    }
+
+    private void initialize() {
+        test();
+        //load();
+    }
+
+    private void test() {
+    }
+
+    @Override
+    public void load() {
+        startServer();
     }
 
     @Override

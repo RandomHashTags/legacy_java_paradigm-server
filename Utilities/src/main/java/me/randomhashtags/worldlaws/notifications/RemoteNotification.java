@@ -1,10 +1,9 @@
 package me.randomhashtags.worldlaws.notifications;
 
+import me.randomhashtags.worldlaws.APIVersion;
 import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.Jsonable;
 import me.randomhashtags.worldlaws.TargetServer;
-import me.randomhashtags.worldlaws.proxy.ClientHeaders;
-import me.randomhashtags.worldlaws.request.WLHttpExchange;
 import me.randomhashtags.worldlaws.settings.Settings;
 import org.json.JSONObject;
 
@@ -69,7 +68,7 @@ public final class RemoteNotification extends JSONObject implements Jsonable {
 
     public static void pushPending() {
         final String identifier = Settings.Server.getUUID();
-        final WLHttpExchange headers = new WLHttpExchange(); ClientHeaders.getWith("localhost", identifier, null, null, "push_pending");
-        final String string = TargetServer.REMOTE_NOTIFICATIONS.sendResponse(headers);
+        final APIVersion apiVersion = APIVersion.v1;
+        final String string = TargetServer.REMOTE_NOTIFICATIONS.sendResponse(identifier, "***REMOVED***", apiVersion.name(), apiVersion, "push_pending", true);
     }
 }

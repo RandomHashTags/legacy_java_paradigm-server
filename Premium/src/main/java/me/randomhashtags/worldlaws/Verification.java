@@ -11,6 +11,7 @@ public enum Verification implements RestAPI {
     INSTANCE;
 
     public JSONObjectTranslatable verifyResponseBodyV2(JSONObject json) {
+        WLLogger.logInfo("Verification;verifyResponseBodyV2;json=" + json.toString());
         return null;
     }
 
@@ -22,8 +23,6 @@ public enum Verification implements RestAPI {
         final String url = "https://" + prefix + ".itunes.apple.com/verifyReceipt";
         final LinkedHashMap<String, String> headers = new LinkedHashMap<>();
         headers.put("Content-Type", "application/json");
-        headers.put("receipt-data", value);
-        headers.put("exclude-old-transactions", "true");
 
         final LinkedHashMap<String, Object> postData = new LinkedHashMap<>();
         postData.put("receipt-data", value);
@@ -37,14 +36,13 @@ public enum Verification implements RestAPI {
             status = json.getInt("status");
             final JSONArray latestReceiptInfo = json.optJSONArray("latest_receipt_info");
             if(latestReceiptInfo != null) {
-
             }
             translatable = new JSONObjectTranslatable();
             for(String key : json.keySet()) {
                 translatable.put(key, json.get(key));
             }
         }
-        WLLogger.logInfo("Verification - status=" + status + ";json=" + translatable);
+        WLLogger.logInfo("Verification - status=" + status + ";json=" + translatable + ";took " + WLUtilities.getElapsedTime(nowMilliseconds));
         return translatable;
     }
 }

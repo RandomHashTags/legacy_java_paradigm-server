@@ -6,7 +6,6 @@ import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpPrincipal;
 import me.randomhashtags.worldlaws.APIVersion;
 import me.randomhashtags.worldlaws.RequestMethod;
-import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.locale.Language;
 import me.randomhashtags.worldlaws.locale.LanguageTranslator;
@@ -95,20 +94,34 @@ public final class WLHttpExchange extends HttpExchange {
         return defaultValue;
     }
 
+    public String getIdentifier() {
+        return getHeader("***REMOVED***");
+    }
     public boolean isValidRequest() {
         final String platform = getPlatform(), version = getVersion();
         return isValidIdentifier() && platform != null && version != null;
     }
     public boolean isValidIdentifier() {
-        final String identifier = getIdentifier(), regex = "[0-9a-zA-Z]+";
-        return identifier != null && identifier.matches(regex + "-" + regex + "-" + regex + "-" + regex + "-" + regex);
+        final String identifier = getIdentifier(), regex = "[0-9a-zA-Z]";
+        final StringBuilder builder = new StringBuilder();
+        final int[] test = { 8, 4, 4, 4, 12 };
+        for(int amount : test) {
+            if(builder.length() > 0) {
+                builder.append("-");
+            }
+            builder.append(regex.repeat(amount));
+        }
+        final String regexString = builder.toString();
+        return identifier != null && identifier.matches(regexString);
     }
-    public String getIdentifier() {
-        return getHeader("***REMOVED***");
-    }
+
     public String getPlatform() {
         return getHeader("***REMOVED***");
     }
+    public boolean isValidPlatform() {
+        return true;
+    }
+
     public String getVersion() {
         return getHeader("***REMOVED***");
     }
@@ -137,21 +150,24 @@ public final class WLHttpExchange extends HttpExchange {
 
     public String getActualRequestBody() {
         final BufferedInputStream in = new BufferedInputStream(getRequestBody());
+        final StringBuilder builder = new StringBuilder();
         String line;
         try {
             do {
                 line = readLine(in);
-                if(line.isEmpty()) break;
-                WLLogger.logInfo("WLHttpExchange;getActualRequestBody;line=" + line);
+                if(line.isEmpty()) {
+                    break;
+                }
+                builder.append(line);
             } while (true);
         } catch (Exception e) {
             WLUtilities.saveException(e);
         }
-        return null;
+        return builder.toString();
     }
     public JSONObject getRequestBodyJSON() {
         final String string = getActualRequestBody();
-        return string != null && string.startsWith("{") && string.endsWith("}") ? new JSONObject(string) : null;
+        return string.startsWith("{") && string.endsWith("}") ? new JSONObject(string) : null;
     }
     private String readLine(BufferedInputStream in) throws Exception {
         final InputStreamReader reader = new InputStreamReader(in, StandardCharsets.US_ASCII);
@@ -175,7 +191,6 @@ public final class WLHttpExchange extends HttpExchange {
             }
             builder.append(character);
         }
-        WLLogger.logInfo("WLHttpExchange;readLine;builder=" + builder.toString());
         return builder.toString();
     }
 

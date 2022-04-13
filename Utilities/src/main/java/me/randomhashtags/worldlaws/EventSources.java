@@ -35,7 +35,7 @@ public final class EventSources extends ArrayList<EventSource> {
         final StringBuilder builder = new StringBuilder("{");
         boolean isFirst = true;
         for(EventSource source : this) {
-            builder.append(isFirst ? "" : ",").append(source.toString());
+            builder.append(isFirst ? "" : ",").append("\"").append(source.getSiteName(true)).append("\":").append(source.toJSONObject(false).toString());
             isFirst = false;
         }
         builder.append("}");

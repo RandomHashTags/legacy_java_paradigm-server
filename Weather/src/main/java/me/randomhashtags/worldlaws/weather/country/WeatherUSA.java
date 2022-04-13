@@ -267,7 +267,7 @@ public enum WeatherUSA implements WeatherController {
                     final String officeIdentifier = properties.getJSONArray("forecastOffices").getString(0).substring("https://api.weather.gov/offices/".length());
                     final JSONObject officeJSON = getForecastOffice(officeIdentifier);
                     final JSONObject addressJSON = officeJSON.optJSONObject("address", null);
-                    stateString = addressJSON != null ? addressJSON.getString("addressRegion") : null;
+                    stateString = addressJSON != null ? addressJSON.optString("addressRegion", null) : null;
                 }
                 final SovereignStateSubdivision subdivision = unitedStates.valueOfSovereignStateSubdivision(stateString);
                 if(subdivision == null) {
