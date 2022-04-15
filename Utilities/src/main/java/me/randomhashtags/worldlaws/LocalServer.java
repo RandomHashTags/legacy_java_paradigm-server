@@ -17,7 +17,6 @@ import java.util.concurrent.ConcurrentHashMap;
 public final class LocalServer implements UserServer, DataValues, RestAPI {
     private final WLServer wlserver;
     private final String serverName;
-    private HashMap<String, ServerRequestType> requestTypes;
     private HttpServer server;
     private HashSet<Timer> timers;
 
@@ -87,21 +86,9 @@ public final class LocalServer implements UserServer, DataValues, RestAPI {
     private ServerRequestType[] getRequestTypes() {
         return wlserver.getRequestTypes();
     }
-    public ServerRequestType parseRequestType(String type) {
-        if(requestTypes == null) {
-            requestTypes = new HashMap<>();
-            final ServerRequestType[] types = getRequestTypes();
-            if(types != null) {
-                for(ServerRequestType requestType : types) {
-                    requestTypes.put(requestType.name().toLowerCase(), requestType);
-                }
-            }
-        }
-        return requestTypes.get(type);
-    }
 
     public void madeRequest(String identifier, String target) {
-        if(wlserver.getServer().recordsStatistics()) {
+        if(wlserver.getServer().recordsStatistics() && !Settings.Server.getUUID().equals(identifier)) {
             uniqueRequests.putIfAbsent(target, new HashSet<>());
             uniqueRequests.get(target).add(identifier);
             totalRequests.put(target, totalRequests.getOrDefault(target, 0) + 1);

@@ -196,6 +196,7 @@ public enum SubdivisionsUnitedStates implements SovereignStateSubdivision { // h
             case GUAM: return WLCountry.GUAM.getISOAlpha2Official();
             case NORTHERN_MARIANA_ISLANDS: return WLCountry.NORTHERN_MARIANA_ISLANDS.getISOAlpha2Official();
             case UNITED_STATES_VIRGIN_ISLANDS: return "VI";
+            case PALAU: return WLCountry.PALAU.getISOAlpha2Official();
             default: return null;
         }
     }

@@ -44,8 +44,7 @@ public interface WLHttpHandler extends HttpHandler {
                 exchange.sendResponseHeaders(status, bytes.length);
                 final OutputStream out = exchange.getResponseBody();
                 out.write(bytes);
-            } catch (Exception e) {
-                WLUtilities.saveException(e);
+            } catch (Exception ignored) {
             }
             exchange.close();
         });

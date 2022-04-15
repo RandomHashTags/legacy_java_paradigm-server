@@ -36,11 +36,17 @@ public final class PlayStation4Updates extends RecentEventController {
             final EventDate date = new EventDate(month, day, year);
             if(date.getLocalDate().isAfter(startingDate)) {
                 final Elements updateNotesElements = box.select("div.inlineAccordion div.accordion div.accordion__item-description div div.textblock").get(0).select("div.text-block");
-                final String[] updateNotesValues = updateNotesElements.select("p").text().split(" ");
+                final Elements paragraphs = updateNotesElements.select("p");
+                final String[] updateNotesValues = paragraphs.text().split(" ");
                 final String updateNotesTitle = "PS4 " + updateNotesValues[1] + " system update";
+                final Elements updateNoteElements = updateNotesElements.select("ul").select("li");
+                final Elements targetElements = updateNoteElements.isEmpty() ? paragraphs : updateNoteElements;
                 final StringBuilder description = new StringBuilder();
                 boolean isFirst = true;
-                for(Element element : updateNotesElements.select("ul").select("li")) {
+                if(updateNoteElements.isEmpty()) {
+                    paragraphs.remove(0);
+                }
+                for(Element element : targetElements) {
                     description.append(isFirst ? "" : "\n").append(element.text());
                     isFirst = false;
                 }

@@ -15,7 +15,7 @@
         "email": "***REMOVED***"
       },
       "keystore": {
-        "fileName": "***REMOVED***",
+        "fileName": "paradigmKeystore",
         "password": "***REMOVED***"
       },
       "p12": {

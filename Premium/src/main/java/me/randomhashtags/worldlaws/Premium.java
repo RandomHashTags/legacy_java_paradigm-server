@@ -10,8 +10,8 @@ public final class Premium implements WLServer {
     }
 
     private void initialize() {
-        test();
-        //load();
+        //test();
+        load();
     }
 
     private void test() {

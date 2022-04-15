@@ -115,8 +115,8 @@ public enum ServerRequestTypeUpcomingEvents implements ServerRequestType {
 
     public static WLHttpHandler getDefaultHandler() {
         return httpExchange -> {
-            final String path = httpExchange.getShortPath();
-            final String[] values = httpExchange.getShortPathValues();
+            final String path = httpExchange.getPath();
+            final String[] values = httpExchange.getPathValues();
             final String key = values[0];
             final UpcomingEventController controller = valueOfEventType(key);
             if(controller != null) {
