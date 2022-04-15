@@ -73,7 +73,7 @@ public final class MusicSpotify extends LoadedUpcomingEventController implements
                         }
 
                         final String name = trackJSON.getString("name");
-                        final String previewURL = trackJSON.get("preview_url") instanceof String ? trackJSON.getString("preview_url") : null;
+                        final String previewURL = trackJSON.optString("preview_url", null);
                         final boolean isExplicit = trackJSON.getBoolean("explicit");
                         final long duration = trackJSON.getLong("duration_ms");
                         final EventSources sources = new EventSources();

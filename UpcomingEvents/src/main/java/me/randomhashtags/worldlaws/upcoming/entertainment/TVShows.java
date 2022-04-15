@@ -54,7 +54,7 @@ public final class TVShows extends LoadedUpcomingEventController {
                             final String showTitle = showJSON.getString("name");
 
                             final String showURL = showJSON.getString("url");
-                            final String officialSite = showJSON.get("officialSite") instanceof String ? showJSON.getString("officialSite").replace("http://", "https://") : null;
+                            final String officialSite = showJSON.optString("officialSite", null);
                             final String language = showJSON.optString("language", null);
                             final JSONArray genres = showJSON.getJSONArray("genres");
 
@@ -62,7 +62,7 @@ public final class TVShows extends LoadedUpcomingEventController {
                             sources.add(new EventSource("TVMaze: " + showTitle, showURL));
 
                             final String identifier = getEventDateIdentifier(dateString, showID + "_" + tag);
-                            String imageURL = showJSON.has("image") && showJSON.get("image") instanceof JSONObject ? showJSON.getJSONObject("image").getString("original") : null;
+                            final String imageURL = showJSON.has("image") && showJSON.get("image") instanceof JSONObject ? showJSON.getJSONObject("image").getString("original") : null;
 
                             final String episodeSummary = json.optString("summary", null);
                             final int runtimeMinutes = json.optInt("runtime", -1);
@@ -70,7 +70,7 @@ public final class TVShows extends LoadedUpcomingEventController {
                             String network = null, countryCode = null;
                             if(networkJSON != null) {
                                 network = networkJSON.getString("name");
-                                countryCode = networkJSON.has("code") ? networkJSON.getString("code") : null;
+                                countryCode = networkJSON.optString("code", null);
                             }
 
                             if(network == null) {

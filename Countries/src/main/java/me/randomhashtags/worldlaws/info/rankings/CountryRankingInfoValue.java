@@ -29,7 +29,7 @@ public final class CountryRankingInfoValue {
         this.isEstimate = isEstimate;
     }
     private CountryRankingInfoValue(JSONObject json) {
-        defcon = json.has("defcon") ? json.getInt("defcon") : -1;
+        defcon = json.optInt("defcon", -1);
         worldRank = json.getInt("worldRank");
         yearOfData = json.optInt("yearOfData", -1);
         isEstimate = json.optBoolean("isEstimate");

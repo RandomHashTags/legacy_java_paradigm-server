@@ -49,7 +49,7 @@ public interface CountryRankingService extends NewCountryServiceCentralData {
             final JSONObjectTranslatable string = loadData();
             final JSONObjectTranslatable json = new JSONObjectTranslatable();
             for(String key : string.keySet()) {
-                final int worldRank = string.has("worldRank") && string.get("worldRank") instanceof Integer ? string.getInt("worldRank") : -1;
+                final int worldRank = string.optInt("worldRank", -1);
                 if(worldRank > 0) {
                     json.put(key, worldRank);
                 }

@@ -15,6 +15,7 @@ public enum AppleNotifications implements DeviceTokenController {
     INSTANCE;
 
     private final HashMap<RemoteNotificationCategory, HashSet<String>> deviceTokens;
+    private String connectionToken;
 
     AppleNotifications() {
         deviceTokens = new HashMap<>();
@@ -48,6 +49,25 @@ public enum AppleNotifications implements DeviceTokenController {
         }
     }
 
+    public void tryUpdatingToken() {
+        final Folder folder = Folder.DEVICE_TOKENS;
+        final String fileName = "connectionToken";
+        folder.setCustomFolderName(fileName, folder.getFolderName().replace("%type%", "apple"));
+        final JSONObject json = getJSONObject(Folder.DEVICE_TOKENS, fileName, new CompletionHandler() {
+            @Override
+            public JSONObject loadJSONObject() {
+                return generateConnectionTokenJSON(System.currentTimeMillis()/1000);
+            }
+        });
+        final String token;
+        if(json.getLong("iat") + (30 * 60) <= System.currentTimeMillis()/1000) {
+            token = refreshConnectionToken();
+        } else {
+            token = generateConnectionToken(json.getLong("iat"));
+        }
+        connectionToken = Base64.getUrlEncoder().encodeToString(token.getBytes());
+    }
+
     @Override
     public void register(RemoteNotificationCategory category, String deviceToken) {
         deviceTokens.get(category).add(deviceToken);
@@ -58,24 +78,11 @@ public enum AppleNotifications implements DeviceTokenController {
         deviceTokens.get(category).remove(deviceToken);
     }
 
-    private String getConnectionToken() {
-        final Folder folder = Folder.DEVICE_TOKENS;
-        final String fileName = "connectionToken";
-        folder.setCustomFolderName(fileName, folder.getFolderName().replace("%type%", "apple"));
-        final JSONObject json = getJSONObject(Folder.DEVICE_TOKENS, fileName, new CompletionHandler() {
-            @Override
-            public JSONObject loadJSONObject() {
-                return generateConnectionTokenJSON(System.currentTimeMillis()/1000);
-            }
-        });
-        final String connectionToken;
-        if(json.getLong("iat") + (30 * 60) <= System.currentTimeMillis()/1000) {
-            connectionToken = refreshConnectionToken();
-        } else {
-            connectionToken = generateConnectionToken(json.getLong("iat"));
-        }
-        return Base64.getUrlEncoder().encodeToString(connectionToken.getBytes());
+    @Override
+    public boolean isRegistered(RemoteNotificationCategory category, String deviceToken) {
+        return deviceTokens.containsKey(category) && deviceTokens.get(category).contains(deviceToken);
     }
+
     private String refreshConnectionToken() {
         return generateConnectionToken(System.currentTimeMillis()/1000);
     }
@@ -106,26 +113,28 @@ public enum AppleNotifications implements DeviceTokenController {
         final RemoteNotificationCategory category = notification.getCategory();
         if(!deviceTokens.get(category).isEmpty()) {
             final HashSet<String> tokens = deviceTokens.get(category);
-            final JSONObject json = new JSONObject(), aps = new JSONObject();
+            final JSONObject aps = new JSONObject();
             aps.put("alert", notification);
             aps.put("badge", notification.hasBadge() ? 1 : 0);
             aps.put("sound", "default");
             aps.put("category", notification.getCategory().name());
-            json.put("aps", aps);
+            final LinkedHashMap<String, Object> postData = new LinkedHashMap<>();
+            postData.put("aps", aps);
 
-            final String connectionToken = getConnectionToken();
             final HashMap<String, String> primaryHeaders = new HashMap<>();
             primaryHeaders.put("authorization", "bearer " + connectionToken);
             primaryHeaders.put("apns-id", uuid);
             primaryHeaders.put("apns-expiration", "0");
             primaryHeaders.put("apns-priority", "5");
+            primaryHeaders.put("apns-push-type", "alert");
+            primaryHeaders.put("apns-topic", "***REMOVED***");
 
             final String key = Settings.PrivateValues.Apple.isProductionMode() ? "" : "sandbox.";
             final String url = "https://api." + key + "push.apple.com:443";
             new CompletableFutures<String>().stream(tokens, deviceToken -> {
                 final LinkedHashMap<String, String> headers = new LinkedHashMap<>(primaryHeaders);
                 headers.put("path", "/3/device/" + deviceToken);
-                final JSONObject postJSON = postJSONObject(url, null, headers);
+                final JSONObject postJSON = postJSONObject(url, postData, true, headers);
             });
             WLLogger.logInfo("AppleNotifications - sent " + uuid + " (" + category.name() + ") to " + tokens.size() + " devices (took " + WLUtilities.getElapsedTime(started) + ")");
         }

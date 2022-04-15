@@ -1,7 +1,5 @@
 package me.randomhashtags.worldlaws;
 
-import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
-import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.ServerRequestType;
 
 public final class Feedback implements WLServer, Jsonable {
@@ -21,11 +19,6 @@ public final class Feedback implements WLServer, Jsonable {
     }
 
     private void test() {
-    }
-
-    @Override
-    public JSONObjectTranslatable getServerResponse(APIVersion version, String identifier, ServerRequest request) {
-        return null;
     }
 
     @Override

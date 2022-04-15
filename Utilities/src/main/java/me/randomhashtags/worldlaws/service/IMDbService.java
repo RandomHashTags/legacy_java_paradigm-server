@@ -277,7 +277,7 @@ public interface IMDbService extends DataValues {
                                     }
 
                                     if(runtimeJSON == null) {
-                                        runtimeJSON = titleJSON.get("runtime") instanceof JSONObject ? titleJSON.getJSONObject("runtime") : null;
+                                        runtimeJSON = titleJSON.optJSONObject("runtime", null);
                                     }
 
                                     if(primaryImageURL != null && certificateJSON != null && runtimeJSON != null && genresArray != null) {
@@ -301,7 +301,7 @@ public interface IMDbService extends DataValues {
         String rating = null, ratingReason = null;
         if(hasCertificate) {
             rating = certificateJSON.getString("rating");
-            ratingReason = certificateJSON.get("ratingReason") instanceof String ? certificateJSON.getString("ratingReason") : "Unknown";
+            ratingReason = certificateJSON.optString("ratingReason", "Unknown");
         }
         final int runtimeSeconds = runtimeJSON != null ? runtimeJSON.getInt("seconds") : 0;
 

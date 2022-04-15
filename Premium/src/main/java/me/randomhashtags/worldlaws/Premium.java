@@ -1,7 +1,5 @@
 package me.randomhashtags.worldlaws;
 
-import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
-import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.ServerRequestType;
 import me.randomhashtags.worldlaws.request.WLHttpHandler;
 
@@ -27,11 +25,6 @@ public final class Premium implements WLServer {
     @Override
     public TargetServer getServer() {
         return TargetServer.PREMIUM;
-    }
-
-    @Override
-    public JSONObjectTranslatable getServerResponse(APIVersion version, String identifier, ServerRequest request) {
-        return null;
     }
 
     @Override

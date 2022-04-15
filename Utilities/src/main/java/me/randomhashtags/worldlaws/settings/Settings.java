@@ -101,6 +101,15 @@ public enum Settings {
         private static JSONObject getHttpsJSON() {
             return getOrDefaultJSONObject(getServersJSON(), "https", new JSONObject());
         }
+        private static JSONObject getHttpsCertbotJSON() {
+            return getOrDefaultJSONObject(getHttpsJSON(), "certbot", new JSONObject());
+        }
+        private static JSONObject getHttpsKeystoreJSON() {
+            return getOrDefaultJSONObject(getHttpsJSON(), "keystore", new JSONObject());
+        }
+        private static JSONObject getHttpsP12JSON() {
+            return getOrDefaultJSONObject(getHttpsJSON(), "p12", new JSONObject());
+        }
         private static JSONObject getServerJSON(TargetServer server) {
             return getOrDefaultJSONObject(getServersJSON(), server.getBackendID(), new JSONObject());
         }
@@ -124,15 +133,44 @@ public enum Settings {
             return getOrDefaultInt(getServersJSON(), "default_api_version", 1);
         }
 
-        public static boolean isHttpsEnabled() {
-            return getOrDefaultBoolean(getHttpsJSON(), "enabled", false);
+        public enum Https {
+            ;
+            public static boolean isEnabled() {
+                return getOrDefaultBoolean(getHttpsJSON(), "enabled", false);
+            }
+            public static JSONArray getDomains() {
+                return getOrDefaultJSONArray(getHttpsJSON(), "domains", new JSONArray());
+            }
+
+            public enum Certbot {
+                ;
+                public static String getFolderName() {
+                    return getOrDefaultString(getHttpsCertbotJSON(), "folderName", "certbot");
+                }
+                public static String getEmail() {
+                    return getOrDefaultString(getHttpsCertbotJSON(), "email", "***REMOVED***");
+                }
+            }
+
+            public enum Keystore {
+                ;
+                public static String getFileName() {
+                    return getOrDefaultString(getHttpsKeystoreJSON(), "fileName", "***REMOVED***");
+                }
+                public static String getPassword() {
+                    return getOrDefaultString(getHttpsKeystoreJSON(), "password", "***REMOVED***");
+                }
+            }
+
+            public enum P12 {
+                ;
+                public static String getFileName() {
+                    return getOrDefaultString(getHttpsP12JSON(), "fileName", "***REMOVED***");
+                }
+            }
+
         }
-        public static String getHttpsKeystoreFileName() {
-            return getOrDefaultString(getHttpsJSON(), "keystoreFileName", "***REMOVED***");
-        }
-        public static String getHttpsKeystorePassword() {
-            return getOrDefaultString(getHttpsJSON(), "keystorePassword", "***REMOVED***");
-        }
+
 
         public static int getPort(TargetServer server) {
             return getOrDefaultInt(getServerJSON(server), "port", server.getDefaultPort());

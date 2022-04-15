@@ -7,5 +7,6 @@ public interface DeviceTokenController extends RestAPI, Jsonable {
     void save();
     void register(RemoteNotificationCategory category, String deviceToken);
     void unregister(RemoteNotificationCategory category, String deviceToken);
+    boolean isRegistered(RemoteNotificationCategory category, String deviceToken);
     void sendNotification(RemoteNotification notification);
 }

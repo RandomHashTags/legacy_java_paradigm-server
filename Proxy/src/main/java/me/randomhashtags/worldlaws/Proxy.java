@@ -1,8 +1,6 @@
 package me.randomhashtags.worldlaws;
 
-import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.locale.JSONTranslatable;
-import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.ServerRequestType;
 import me.randomhashtags.worldlaws.request.WLHttpExchange;
 import me.randomhashtags.worldlaws.request.WLHttpHandler;
@@ -91,11 +89,6 @@ public final class Proxy implements WLServer {
     }
 
     @Override
-    public JSONObjectTranslatable getServerResponse(APIVersion version, String identifier, ServerRequest request) {
-        return null;
-    }
-
-    @Override
     public WLHttpHandler getDefaultHandler() {
         final LocalServer localServer = getLocalServer();
         return new WLHttpHandler() {
@@ -106,7 +99,6 @@ public final class Proxy implements WLServer {
 
             @Override
             public String getFallbackResponse(WLHttpExchange httpExchange) {
-                WLLogger.logInfo("Proxy;getFallbackResponse;path=" + httpExchange.getPath() + ";shortPath=" + httpExchange.getShortPath());
                 final String[] values = httpExchange.getPathValues();
                 if(values.length >= 2) {
                     switch (values[1]) {

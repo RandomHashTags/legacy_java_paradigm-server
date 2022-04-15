@@ -47,12 +47,12 @@ public enum NewsAPIDotOrg implements NewsService {
         final JSONObjectTranslatable json = new JSONObjectTranslatable();
         for(Object obj : articles) {
             final JSONObject articleJSON = new JSONObject(obj.toString());
-            final Object author = articleJSON.get("author"), description = articleJSON.get("description"), urlToImage = articleJSON.get("urlToImage");
+            final Object author = articleJSON.get("author");
             final String title = articleJSON.getString("title").replace("|", "");
             final String authorString = author != JSONObject.NULL ? author.toString().startsWith("[") ? new JSONArray(author.toString()).getJSONObject(0).getString("name") : articleJSON.getString("author") : null;
-            final String descriptionString = description != JSONObject.NULL ? articleJSON.getString("description") : null;
-            final String urlToImageString = urlToImage != JSONObject.NULL ? articleJSON.getString("urlToImage") : null;
-            final NewsArticle article = new NewsArticle(authorString, title, descriptionString, articleJSON.getString("url"), urlToImageString);
+            final String description = articleJSON.optString("description", null);
+            final String urlToImage = articleJSON.optString("urlToImage", null);
+            final NewsArticle article = new NewsArticle(authorString, title, description, articleJSON.getString("url"), urlToImage);
             final String id = title.toLowerCase().replace(" ", "");
             ARTICLES.put(id, article);
             articleJSON.put(id, article.toJSONObject());

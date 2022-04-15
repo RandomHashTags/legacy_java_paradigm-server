@@ -2,7 +2,6 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.earthquakes.Earthquakes;
 import me.randomhashtags.worldlaws.earthquakes.WeatherAlerts;
-import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.ServerRequestType;
 import me.randomhashtags.worldlaws.tracker.NASA_EONET;
@@ -34,11 +33,6 @@ public final class Weather implements WLServer {
         WLLogger.logInfo("Weather;test;json1=" + json1.toString());
         WLLogger.logInfo("Weather;test;json2=" + json2.toString());
         WLLogger.logInfo("Weather;test;took=" + WLUtilities.getElapsedTime(started));
-    }
-
-    @Override
-    public JSONObjectTranslatable getServerResponse(APIVersion version, String identifier, ServerRequest request) {
-        return null;
     }
 
     @Override

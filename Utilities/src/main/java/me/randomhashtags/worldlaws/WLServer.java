@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.locale.JSONArrayTranslatable;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.locale.JSONTranslatable;
 import me.randomhashtags.worldlaws.request.ServerRequest;
@@ -7,10 +8,12 @@ import me.randomhashtags.worldlaws.request.ServerRequestType;
 import me.randomhashtags.worldlaws.request.WLHttpHandler;
 import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
+import org.json.JSONObject;
 
 import java.time.LocalDateTime;
 import java.util.Arrays;
 import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.concurrent.ConcurrentHashMap;
 
 public interface WLServer extends DataValues, Jsoupable, Jsonable {
@@ -85,60 +88,65 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
     default void stop() {
     }
 
-    JSONTranslatable getServerResponse(APIVersion version, String identifier, ServerRequest request);
     default long getHomeResponseUpdateInterval() {
         return 0;
     }
     default ServerRequest[] getHomeRequests() {
         return null;
     }
-    default JSONObjectTranslatable getHomeResponse(APIVersion version) { // TODO: fix this
-        if(CACHED_HOME_RESPONSES.containsKey(version)) {
-            return CACHED_HOME_RESPONSES.get(version);
-        } else {
-            final JSONObjectTranslatable string = refreshHome(version);
-            tryStartingAutoUpdates(version);
-            return string;
-        }
-    }
-    private void tryStartingAutoUpdates(APIVersion version) {
-        final long updateInterval = getHomeResponseUpdateInterval();
-        if(updateInterval > 0) {
-            final TargetServer server = getServer();
-            final String serverName = server.getName(), simpleName = getClass().getSimpleName();
-            registerFixedTimer(updateInterval, () -> {
-                final long started = System.currentTimeMillis();
-                autoRefreshHome(simpleName, started, serverName, version);
-            });
-        }
-    }
+
+
     default JSONObjectTranslatable autoRefreshHome(String simpleName, long started, String serverName, APIVersion version) {
-        final JSONObjectTranslatable string = refreshHome(version);
+        final JSONObjectTranslatable string = refreshHome(version, Settings.Server.getUUID(), "***REMOVED***", version.name());
         WLLogger.logInfo(simpleName + " - auto updated \"" + serverName + "\"'s home response (took " + WLUtilities.getElapsedTime(started) + ")");
         return string;
     }
-    private JSONObjectTranslatable refreshHome(APIVersion version) {
-        final ServerRequest[] requests = getHomeRequests();
-        if(requests == null) {
-            CACHED_HOME_RESPONSES.put(version, new JSONObjectTranslatable());
-            return null;
-        } else {
-            final JSONObjectTranslatable json = new JSONObjectTranslatable();
-            final String serverUUID = Settings.Server.getUUID();
-            new CompletableFutures<ServerRequest>().stream(Arrays.asList(requests), request -> {
-                final JSONTranslatable response = getServerResponse(version, serverUUID, request);
-                if(response != null) {
-                    if(response instanceof JSONObjectTranslatable) {
-                        ((JSONObjectTranslatable) response).remove("locale");
-                    }
-                    final String path = request.getTotalPath();
-                    json.put(path, response);
-                    json.addTranslatedKey(path);
-                }
-            });
-            CACHED_HOME_RESPONSES.put(version, json);
-            return json;
+
+    default JSONTranslatable makeLocalRequest(APIVersion version, ServerRequest request) {
+        return makeLocalRequest(version, getServer().getIpAddress() + "/" + version.name() + "/", request);
+    }
+    private JSONTranslatable makeLocalRequest(APIVersion version, String prefix, ServerRequest request) {
+        final LinkedHashMap<String, String> headers = new LinkedHashMap<>();
+        headers.put("***REMOVED***", Settings.Server.getUUID());
+        headers.put("***REMOVED***", "***REMOVED***");
+        headers.put("***REMOVED***", version.name());
+        return makeLocalRequest(headers, prefix, request);
+    }
+    private JSONTranslatable makeLocalRequest(LinkedHashMap<String, String> headers, String prefix, ServerRequest request) {
+        final String totalPath = request.getTotalPath();
+        final String targetURL = prefix + totalPath;
+        final String test = RestAPI.requestStatic(targetURL, headers, null);
+        if(test != null) {
+            if(test.startsWith("[") && test.endsWith("]")) {
+                return new JSONArrayTranslatable(test);
+            } else if(test.startsWith("{") && test.endsWith("}")) {
+                final JSONObject json = new JSONObject(test);
+                return JSONObjectTranslatable.copy(json, true);
+            }
         }
+        return null;
+    }
+    default JSONObjectTranslatable refreshHome(APIVersion apiVersion, String identifier, String platform, String version) {
+        final ServerRequest[] types = getHomeRequests();
+        final LinkedHashMap<String, String> headers = new LinkedHashMap<>();
+        headers.put("***REMOVED***", identifier);
+        headers.put("***REMOVED***", platform);
+        headers.put("***REMOVED***", version);
+
+        final String prefix = getServer().getIpAddress() + "/" + apiVersion.name() + "/";
+        final JSONObjectTranslatable translatable = new JSONObjectTranslatable();
+        new CompletableFutures<ServerRequest>().stream(Arrays.asList(types), type -> {
+            final String totalPath = type.getTotalPath();
+            final JSONTranslatable test = makeLocalRequest(headers, prefix, type);
+            if(test instanceof JSONArrayTranslatable) {
+                translatable.put(totalPath, test);
+            } else if(test instanceof JSONObjectTranslatable) {
+                translatable.put(totalPath, test);
+                translatable.addTranslatedKey(totalPath);
+            }
+        });
+        CACHED_HOME_RESPONSES.put(apiVersion, translatable);
+        return translatable;
     }
     default void insertInHomeResponse(APIVersion version, String totalPath, JSONTranslatable response) {
         CACHED_HOME_RESPONSES.putIfAbsent(version, new JSONObjectTranslatable());

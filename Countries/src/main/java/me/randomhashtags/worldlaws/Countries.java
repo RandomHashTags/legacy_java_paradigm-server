@@ -19,8 +19,6 @@ import me.randomhashtags.worldlaws.info.service.nonstatic.CIAServices;
 import me.randomhashtags.worldlaws.info.service.nonstatic.TravelAdvisories;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.locale.JSONTranslatable;
-import me.randomhashtags.worldlaws.locale.Language;
-import me.randomhashtags.worldlaws.locale.LanguageTranslator;
 import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.ServerRequestType;
 import me.randomhashtags.worldlaws.service.CountryServices;
@@ -29,7 +27,6 @@ import me.randomhashtags.worldlaws.service.NewCountryService;
 import me.randomhashtags.worldlaws.service.WikipediaCountryService;
 import me.randomhashtags.worldlaws.settings.ResponseVersions;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
-import org.json.JSONObject;
 
 import java.util.Arrays;
 import java.util.HashMap;
@@ -60,11 +57,8 @@ public final class Countries implements WLServer {
     private void test() {
         loadServices();
         final ServerRequest request = new ServerRequest(ServerRequestTypeCountries.INFORMATION, "unitedstates");
-        final JSONTranslatable json = getServerResponse(APIVersion.v1, "***REMOVED***", request);
+        final JSONTranslatable json = makeLocalRequest(APIVersion.v1, request);
         WLLogger.logInfo("Countries;test1;string=" + (json != null ? json.toString() : "null"));
-        final JSONObject translatedJSON = WLUtilities.translateJSON(json, LanguageTranslator.ARGOS, Language.SPANISH);
-        final String string = translatedJSON != null ? translatedJSON.toString() : null;
-        WLLogger.logInfo("Countries;test2;string=" + string);
         /*
         final NewCountryService service = WikipediaFeaturedPictures.INSTANCE;
         //for(CountryValueService service : CountryValues.values()) {
@@ -156,13 +150,8 @@ public final class Countries implements WLServer {
         }
     }
 
-    @Override
-    public JSONTranslatable getServerResponse(APIVersion version, String identifier, ServerRequest request) {
-        return null;
-    }
     public JSONTranslatable getInformationResponse(APIVersion version, String[] values) {
         final String value = values[0];
-        WLLogger.logInfo("Countries;getInformationResponse;value=" + value);
         final CustomCountry country = countriesMap.get(value);
         if(country != null) {
             final int length = values.length;

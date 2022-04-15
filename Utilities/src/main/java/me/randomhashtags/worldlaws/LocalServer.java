@@ -1,17 +1,13 @@
 package me.randomhashtags.worldlaws;
 
 import com.sun.net.httpserver.HttpServer;
-import me.randomhashtags.worldlaws.locale.JSONArrayTranslatable;
-import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.locale.JSONTranslatable;
 import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.ServerRequestType;
 import me.randomhashtags.worldlaws.request.WLHttpExchange;
 import me.randomhashtags.worldlaws.request.WLHttpHandler;
 import me.randomhashtags.worldlaws.settings.Settings;
-import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.apache.commons.text.StringEscapeUtils;
-import org.json.JSONObject;
 
 import java.net.InetSocketAddress;
 import java.time.LocalDateTime;
@@ -140,7 +136,7 @@ public final class LocalServer implements UserServer, DataValues, RestAPI {
                             conditionals.putIfAbsent(apiVersion, new ArrayList<>());
                             conditionals.get(apiVersion).add(type);
                         } else {
-                            final WLHttpHandler handler = type.getHandler(apiVersion);
+                            final WLHttpHandler handler = type.getWLHttpHandler(this, apiVersion);
                             if(handler != null) {
                                 server.createContext(prefix + type.name().toLowerCase(), handler);
                             }
@@ -155,9 +151,8 @@ public final class LocalServer implements UserServer, DataValues, RestAPI {
                         if(conditionals.containsKey(apiVersion)) {
                             for(ServerRequestType type : types) {
                                 final String typeNameLowercase = type.name().toLowerCase();
-                                final WLHttpHandler handler = type.getHandler(apiVersion);
+                                final WLHttpHandler handler = type.getWLHttpHandler(this, apiVersion);
                                 server.createContext(prefix + typeNameLowercase, handler);
-                                WLLogger.logInfo("LocalServer;createdContext;path=" + prefix + typeNameLowercase);
                             }
                         }
                     }
@@ -165,7 +160,6 @@ public final class LocalServer implements UserServer, DataValues, RestAPI {
             }
             server.start();
             WLLogger.logInfo(serverName + " - Listening for clients on port " + port + "...");
-            //connectClients(port);
         } catch (Exception e) {
             WLUtilities.saveException(e);
         }
@@ -191,7 +185,7 @@ public final class LocalServer implements UserServer, DataValues, RestAPI {
             @Override
             public String getFallbackResponse(WLHttpExchange httpExchange) {
                 final String identifier = httpExchange.getIdentifier();
-                if(identifier.equals(Settings.Server.getUUID())) {
+                if(Settings.Server.getUUID().equals(identifier)) {
                     stop();
                     return "1";
                 } else {
@@ -209,63 +203,25 @@ public final class LocalServer implements UserServer, DataValues, RestAPI {
             if(types == null) {
                 return null;
             }
-
-            final LinkedHashMap<String, String> headers = new LinkedHashMap<>();
-            headers.put("***REMOVED***", httpExchange.getIdentifier());
-            headers.put("***REMOVED***", httpExchange.getPlatform());
-            headers.put("***REMOVED***", httpExchange.getVersion());
-            if(httpExchange.isSandbox()) {
-                headers.put("***REMOVED***", "true");
+            if(WLServer.CACHED_HOME_RESPONSES.containsKey(version)) {
+                return WLServer.CACHED_HOME_RESPONSES.get(version);
+            } else {
+                tryStartingAutoUpdates(version);
+                return wlserver.refreshHome(version, httpExchange.getIdentifier(), httpExchange.getPlatform(), httpExchange.getVersion());
             }
-            if(httpExchange.isPremium()) {
-                headers.put("***REMOVED***", "true");
-            }
-            final LinkedHashMap<String, String> query = httpExchange.getQuery();
-            final String prefix = "/" + version.name() + "/";
-            final JSONObjectTranslatable translatable = new JSONObjectTranslatable();
-            new CompletableFutures<ServerRequest>().stream(Arrays.asList(types), type -> {
-                final String totalPath = type.getTotalPath();
-                final String targetURL = wlserver.getServer().getIpAddress() + prefix + totalPath;
-                final String test = request(targetURL, headers, query);
-                if(test != null) {
-                    if(test.startsWith("[") && test.endsWith("]")) {
-                        final JSONArrayTranslatable array = new JSONArrayTranslatable(test);
-                        translatable.put(totalPath, array);
-                    } else if(test.startsWith("{") && test.endsWith("}")) {
-                        final JSONObject json = new JSONObject(test);
-                        final JSONObjectTranslatable bruh = JSONObjectTranslatable.copy(json, true);
-                        translatable.put(totalPath, bruh);
-                        translatable.addTranslatedKey(totalPath);
-                    }
-                }
-            });
-            return translatable;
         };
     }
-    /*private void connectClients(int port) {
-        WLLogger.logInfo(serverName + " - Listening for clients on port " + port + "...");
-        acceptClients();
-    }
-    private void acceptClients() {
-        while (!server.isClosed()) {
-            try {
-                final Socket socket = server.accept();
-                final WLClient client = new WLClient(socket);
-                CompletableFuture.runAsync(() -> {
-                    try {
-                        if(!socket.isOutputShutdown()) {
-                            handler.handleClient(client);
-                        }
-                    } catch (Exception e) {
-                        WLUtilities.saveException(e);
-                    }
-                });
-            } catch (SocketException | SocketTimeoutException ignored) {
-            } catch (Exception e) {
-                WLUtilities.saveException(e);
-            }
+    private void tryStartingAutoUpdates(APIVersion version) {
+        final long updateInterval = wlserver.getHomeResponseUpdateInterval();
+        if(updateInterval > 0) {
+            final TargetServer server = wlserver.getServer();
+            final String serverName = server.getName(), simpleName = getClass().getSimpleName();
+            registerFixedTimer(updateInterval, () -> {
+                final long started = System.currentTimeMillis();
+                wlserver.autoRefreshHome(simpleName, started, serverName, version);
+            });
         }
-    }*/
+    }
 
     public static String fixEscapeValues(String input) {
         return StringEscapeUtils.escapeJava(input);

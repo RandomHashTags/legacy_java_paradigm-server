@@ -46,7 +46,7 @@ public final class SpaceX extends USAUpcomingEventController {
             final JSONObject json = (JSONObject) obj;
             final String title = json.getString("name");
 
-            final String description = json.get("details") instanceof String ? json.getString("details") : "null";
+            final String description = json.optString("details", "null");
             final long dateUnix = json.getLong("date_unix");
             final EventDate date = new EventDate(dateUnix*1000);
 

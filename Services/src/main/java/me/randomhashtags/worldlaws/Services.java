@@ -32,11 +32,6 @@ public final class Services implements WLServer {
     }
 
     @Override
-    public JSONObjectTranslatable getServerResponse(APIVersion version, String identifier, ServerRequest request) {
-        return null;
-    }
-
-    @Override
     public ServerRequest[] getHomeRequests() {
         return new ServerRequest[] {
                 //"stock_market"

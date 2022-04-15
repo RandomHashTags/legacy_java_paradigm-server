@@ -28,7 +28,7 @@ public interface QuotaHandler extends DataValues {
             return QUOTA_REQUESTS.get(identifier) + amount <= maxRequestsPerDay;
         } else {
             final JSONObject json = getJSONDataValue(JSONDataValue.QUOTAS);
-            final int requestsToday = json.has(identifier) ? json.getInt(identifier) : 0;
+            final int requestsToday = json.optInt(identifier, 0);
             QUOTA_REQUESTS.put(identifier, requestsToday);
             return requestsToday+amount <= maxRequestsPerDay;
         }

@@ -82,10 +82,10 @@ public final class EventDate {
     }
     public EventDate(JSONObject json) {
         month = Month.valueOf(json.getString("month").toUpperCase());
-        day = json.has("day") ? json.getInt("day") : -1;
-        year = json.has("year") ? json.getInt("year") : -1;
-        hour = json.has("hour") ? json.getInt("hour") : -1;
-        minute = json.has("minute") ? json.getInt("minute") : -1;
+        day = json.optInt("day", -1);
+        year = json.optInt("year", -1);
+        hour = json.optInt("hour", -1);
+        minute = json.optInt("minute", -1);
     }
     public EventDate(LocalDate date) {
         month = date.getMonth();

@@ -1,7 +1,5 @@
 package me.randomhashtags.worldlaws;
 
-import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
-import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.ServerRequestType;
 import me.randomhashtags.worldlaws.smartphones.*;
 
@@ -36,10 +34,8 @@ public final class Technology implements WLServer {
         };
     }
 
-    @Override
-    public JSONObjectTranslatable getServerResponse(APIVersion version, String identifier, ServerRequest request) {
-        return null; // TODO: fix this
-        /*
+    /*@Override
+    public JSONObjectTranslatable getServerResponse(APIVersion version, String identifier, ServerRequest request) { // TODO: fix this
         final String target = request.getTarget();
         final String[] values = target.split("/");
         final String key = values[0];
@@ -48,8 +44,8 @@ public final class Technology implements WLServer {
                 return getSmartphoneCompanyResponse(target.substring(key.length()+1));
             default:
                 return null;
-        }*/
-    }
+        }
+    }*/
 
     @Override
     public ServerRequestType[] getRequestTypes() {

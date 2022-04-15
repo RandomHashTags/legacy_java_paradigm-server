@@ -144,7 +144,7 @@ public enum Earthquakes implements RestAPI {
             final double latitude = isPoint ? coordinates.getDouble(1) : -1, longitude = isPoint ? coordinates.getDouble(0) : -1;
             final Location location = new Location(latitude, longitude);
 
-            String place = properties.get("place") instanceof String ? properties.getString("place") : "null";
+            String place = properties.optString("place", "null");
 
             final String[] regionValues = getRegionValues(place);
             place = regionValues[0];
@@ -197,18 +197,18 @@ public enum Earthquakes implements RestAPI {
 
                 final String url = properties.getString("url"), cause = properties.getString("type").toUpperCase();
 
-                String place = properties.get("place") instanceof String ? properties.getString("place") : "null";
+                String place = properties.optString("place", "null");
                 final String[] regionValues = getRegionValues(place);
                 place = regionValues[0];
                 final String country = regionValues[1], subdivision = regionValues[2];
 
-                final JSONObject productsJSON = properties.has("products") ? properties.getJSONObject("products") : null;
+                final JSONObject productsJSON = properties.optJSONObject("products", null);
                 float depthKM = -1;
                 if(productsJSON != null) {
-                    final JSONArray origin = productsJSON.has("origin") ? productsJSON.getJSONArray("origin") : null;
+                    final JSONArray origin = productsJSON.optJSONArray("origin");
                     if(origin != null) {
                         final JSONObject targetJSON = origin.getJSONObject(0);
-                        final JSONObject targetProperties = targetJSON.has("properties") ? targetJSON.getJSONObject("properties") : null;
+                        final JSONObject targetProperties = targetJSON.optJSONObject("properties", null);
                         if(targetProperties != null) {
                             depthKM = Float.parseFloat(targetProperties.getString("depth"));
                         }

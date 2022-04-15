@@ -1,9 +1,6 @@
 package me.randomhashtags.worldlaws;
 
 import com.sun.net.httpserver.HttpServer;
-import com.sun.net.httpserver.HttpsConfigurator;
-import com.sun.net.httpserver.HttpsParameters;
-import com.sun.net.httpserver.HttpsServer;
 import me.randomhashtags.worldlaws.locale.JSONTranslatable;
 import me.randomhashtags.worldlaws.request.WLHttpExchange;
 import me.randomhashtags.worldlaws.request.WLHttpHandler;
@@ -13,10 +10,7 @@ import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-import javax.net.ssl.*;
-import java.io.FileInputStream;
 import java.net.InetSocketAddress;
-import java.security.KeyStore;
 import java.time.LocalDateTime;
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
@@ -79,56 +73,23 @@ public final class ServerHandler implements UserServer {
         listenForUserInput();
 
         final int port = Settings.Server.getServerHandlerPort();
-        final boolean https = Settings.DataValues.isProductionMode() && Settings.Server.isHttpsEnabled();
+        final boolean https = Settings.DataValues.isProductionMode() && Settings.Server.Https.isEnabled();
+        if(https) {
+            setupHttpsServer(port);
+        } else {
+            setupHttpServer(port);
+        }
+        connectClients(https);
+    }
+    private void setupHttpServer(int port) {
         try {
-            if(https) {
-                setupHttpsServer(port);
-            } else {
-                setupHttpServer(port);
-            }
-            connectClients(https);
+            server = HttpServer.create(new InetSocketAddress(port), 0);
         } catch (Exception e) {
             WLUtilities.saveException(e);
         }
     }
-    private void setupHttpServer(int port) throws Exception {
-        server = HttpServer.create(new InetSocketAddress(port), 0);
-    }
-    private void setupHttpsServer(int port) throws Exception {
-        final KeyStore store = KeyStore.getInstance("JKS");
-        final char[] password = Settings.Server.getHttpsKeystorePassword().toCharArray();
-
-        final String keystoreFileName = Settings.Server.getHttpsKeystoreFileName();
-        final FileInputStream file = new FileInputStream(keystoreFileName);
-        store.load(file, password);
-
-        final String factoryType = "SunX509";
-        final KeyManagerFactory factory = KeyManagerFactory.getInstance(factoryType);
-        factory.init(store, password);
-
-        final TrustManagerFactory trustFactory = TrustManagerFactory.getInstance(factoryType);
-        trustFactory.init(store);
-
-        final SSLContext context = SSLContext.getInstance("TLS");
-        context.init(factory.getKeyManagers(), trustFactory.getTrustManagers(), null);
-
-        final HttpsServer server = HttpsServer.create(new InetSocketAddress(port), 0);
-        server.setHttpsConfigurator(new HttpsConfigurator(context) {
-            @Override
-            public void configure(HttpsParameters params) {
-                try {
-                    final SSLEngine engine = context.createSSLEngine();
-                    params.setNeedClientAuth(true);
-                    params.setCipherSuites(engine.getEnabledCipherSuites());
-                    params.setProtocols(engine.getEnabledProtocols());
-
-                    final SSLParameters sslParameters = context.getSupportedSSLParameters();
-                    params.setSSLParameters(sslParameters);
-                } catch (Exception e) {
-                    WLUtilities.saveException(e);
-                }
-            }
-        });
+    private void setupHttpsServer(int port) {
+        server = WLUtilities.getHttpsServer(port);
     }
 
     private void connectClients(boolean https) {
@@ -147,7 +108,7 @@ public final class ServerHandler implements UserServer {
                         return getPingResponse();
                     case "home":
                         final LinkedHashMap<String, String> query = httpExchange.getQuery();
-                        final Collection<String> queryCollection = query != null && query.containsKey("q") ? Arrays.asList(query.get("q").split("&")) : new HashSet<>();
+                        final Collection<String> queryCollection = query != null && query.containsKey("q") ? Arrays.asList(query.get("q").split(",")) : new HashSet<>();
                         return getHomeResponse(httpExchange.getAPIVersion(), queryCollection);
                     default:
                         if(MAINTENANCE_MODE) {
@@ -172,6 +133,7 @@ public final class ServerHandler implements UserServer {
         map.put("reboot", ServerStatuses::rebootServers);
         map.put("restart", ServerStatuses::rebootServers);
         map.put("update", ServerStatuses::tryUpdatingServersIfAvailable);
+        map.put("generatecertificates", CertbotHandler::generateCertificates);
         return map;
     }
 

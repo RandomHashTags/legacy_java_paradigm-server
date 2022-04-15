@@ -33,7 +33,7 @@ public interface WLHttpHandler extends HttpHandler {
                     string = getFallbackResponse(exchange);
                 }
             } else {
-                string = "stop";
+                string = null;
             }
 
             if(string == null) {

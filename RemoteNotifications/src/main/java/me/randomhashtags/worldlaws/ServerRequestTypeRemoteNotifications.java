@@ -1,5 +1,7 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
+import me.randomhashtags.worldlaws.locale.JSONTranslatable;
 import me.randomhashtags.worldlaws.notifications.RemoteNotification;
 import me.randomhashtags.worldlaws.notifications.RemoteNotificationCategory;
 import me.randomhashtags.worldlaws.request.ServerRequestType;
@@ -20,6 +22,7 @@ public enum ServerRequestTypeRemoteNotifications implements ServerRequestType {
     PUSH_PENDING,
     REGISTER,
     UNREGISTER,
+    IS_REGISTERED,
     ;
 
     @Override
@@ -50,6 +53,13 @@ public enum ServerRequestTypeRemoteNotifications implements ServerRequestType {
                         default:
                             return null;
                     }
+                case IS_REGISTERED:
+                    switch (values[0]) {
+                        case "apple":
+                            return isRegistered(AppleNotifications.INSTANCE, values);
+                        default:
+                            return null;
+                    }
                 default:
                     return null;
             }
@@ -66,12 +76,23 @@ public enum ServerRequestTypeRemoteNotifications implements ServerRequestType {
             }
         }
     }
+    private JSONTranslatable isRegistered(DeviceTokenController controller, String[] values) {
+        final String token = values[2];
+        final RemoteNotificationCategory category = RemoteNotificationCategory.valueOfString(values[1]);
+        JSONObjectTranslatable value = null;
+        if(category != null) {
+            value = new JSONObjectTranslatable();
+            value.put("value", controller.isRegistered(category, token));
+        }
+        return value;
+    }
 
     @Override
     public boolean isConditional() {
         switch (this) {
             case REGISTER:
             case UNREGISTER:
+            case IS_REGISTERED:
                 return true;
             default:
                 return false;
@@ -108,6 +129,7 @@ public enum ServerRequestTypeRemoteNotifications implements ServerRequestType {
                 }
             }
             final AppleNotifications apple = AppleNotifications.INSTANCE;
+            apple.tryUpdatingToken();
             new CompletableFutures<RemoteNotification>().stream(notifications, apple::sendNotification);
         }
         WLLogger.logInfo("RemoteNotifications - sending " + amount + " remote notification" + (amount > 1 ? "s" : ""));

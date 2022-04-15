@@ -10,8 +10,22 @@
     "default_address": "http://localhost",
     "https": {
       "enabled": true,
-      "keystoreFileName": "***REMOVED***",
-      "keystorePassword": "***REMOVED***"
+      "certbot": {
+        "folderName": "certbot",
+        "email": "***REMOVED***"
+      },
+      "keystore": {
+        "fileName": "***REMOVED***",
+        "password": "***REMOVED***"
+      },
+      "p12": {
+        "fileName": "***REMOVED***"
+      },
+      "domains": [
+        "***REMOVED***",
+        "api.***REMOVED***",
+        "sandbox.***REMOVED***"
+      ]
     },
     "servers": {
       "proxy": {

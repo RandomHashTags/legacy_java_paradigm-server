@@ -21,10 +21,6 @@ public final class WLHttpExchange extends HttpExchange {
 
     private final HttpExchange exchange;
 
-    public WLHttpExchange() {
-        super();
-        exchange = this;
-    }
     public WLHttpExchange(HttpExchange exchange) {
         this.exchange = exchange;
     }
@@ -41,7 +37,7 @@ public final class WLHttpExchange extends HttpExchange {
             default: return null;
         }
     }
-    private String getPath(boolean excludeQuery) {
+    public String getPath(boolean excludeQuery) {
         final String path = exchange.getRequestURI().toString().substring(1);
         return excludeQuery ? path.split("\\?")[0] : path;
     }

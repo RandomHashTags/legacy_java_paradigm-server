@@ -42,7 +42,7 @@ public enum Verification implements RestAPI {
                 translatable.put(key, json.get(key));
             }
         }
-        WLLogger.logInfo("Verification - status=" + status + ";json=" + translatable + ";took " + WLUtilities.getElapsedTime(nowMilliseconds));
+        WLLogger.logInfo("Verification - status=" + status + ";json=" + (translatable != null ? translatable.toString() : "null") + ";took " + WLUtilities.getElapsedTime(nowMilliseconds));
         return translatable;
     }
 }

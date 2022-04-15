@@ -42,7 +42,8 @@ public enum ServerRequestTypePremium implements ServerRequestType {
                     case "v2":
                         return Verification.INSTANCE.verifyResponseBodyV2(json);
                     case "receipt":
-                        return Verification.INSTANCE.verifyReceipt(request.isSandbox(), null);
+                        final String receiptData = request.getHeader("receipt-data", null);
+                        return receiptData != null ? Verification.INSTANCE.verifyReceipt(request.isSandbox(), receiptData) : null;
                     default:
                         return null;
                 }

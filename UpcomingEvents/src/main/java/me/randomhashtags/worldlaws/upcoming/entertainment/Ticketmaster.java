@@ -163,12 +163,12 @@ public enum Ticketmaster implements RestAPI {
                     String generalRule = null, childRule = null;
                     if(json.has("generalInfo")) {
                         final JSONObject generalInfo = json.getJSONObject("generalInfo");
-                        generalRule = generalInfo.has("generalRule") ? generalInfo.getString("generalRule") : null;
-                        childRule = generalInfo.has("childRule") ? generalInfo.getString("childRule") : null;
+                        generalRule = generalInfo.optString("generalRule", null);
+                        childRule = generalInfo.optString("childRule", null);
                     }
 
-                    final String parkingDetail = json.has("parkingDetail") ? json.getString("parkingDetail") : null;
-                    final String accessibleSeatingDetail = json.has("accessibleSeatingDetail") ? json.getString("accessibleSeatingDetail") : null;
+                    final String parkingDetail = json.optString("parkingDetail", null);
+                    final String accessibleSeatingDetail = json.optString("accessibleSeatingDetail", null);
                     final TicketmasterVenue venue = new TicketmasterVenue(name, imageURL, location, countryCode, subdivisionName, cityName, generalRule, childRule, parkingDetail, accessibleSeatingDetail);
                     venues.add(venue);
                 }

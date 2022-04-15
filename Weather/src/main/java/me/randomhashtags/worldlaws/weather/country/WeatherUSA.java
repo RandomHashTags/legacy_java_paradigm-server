@@ -261,8 +261,7 @@ public enum WeatherUSA implements WeatherController {
             final String nameSuffix = zoneID.startsWith("county") ? " County" : null;
             if(json.has("geometry") && json.has("properties")) {
                 final JSONObject geometryJSON = json.getJSONObject("geometry"), properties = json.getJSONObject("properties");
-                final Object state = properties.get("state");
-                String stateString = state instanceof String ? (String) state : null;
+                String stateString = properties.optString("state", null);
                 if(stateString == null) {
                     final String officeIdentifier = properties.getJSONArray("forecastOffices").getString(0).substring("https://api.weather.gov/offices/".length());
                     final JSONObject officeJSON = getForecastOffice(officeIdentifier);

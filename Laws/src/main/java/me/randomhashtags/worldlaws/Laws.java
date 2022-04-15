@@ -2,7 +2,6 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.country.usa.state.recode.Minnesota;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
-import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.ServerRequestType;
 import me.randomhashtags.worldlaws.request.WLHttpHandler;
 
@@ -32,11 +31,6 @@ public final class Laws implements WLServer {
     @Override
     public void load() {
         startServer();
-    }
-
-    @Override
-    public JSONObjectTranslatable getServerResponse(APIVersion version, String identifier, ServerRequest request) {
-        return null;
     }
 
     @Override

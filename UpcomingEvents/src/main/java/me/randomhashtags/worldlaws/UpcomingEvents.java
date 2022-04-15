@@ -1,7 +1,6 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
-import me.randomhashtags.worldlaws.locale.JSONTranslatable;
 import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.ServerRequestType;
 import me.randomhashtags.worldlaws.request.WLHttpHandler;
@@ -28,11 +27,6 @@ public final class UpcomingEvents implements WLServer {
         final long started = System.currentTimeMillis();
         new WikipediaTodaysFeaturedPicture().refresh();
         WLLogger.logInfo("UpcomingEvents;test;took " + WLUtilities.getElapsedTime(started));
-    }
-
-    @Override
-    public JSONTranslatable getServerResponse(APIVersion version, String identifier, ServerRequest request) {
-        return null;
     }
 
     @Override
