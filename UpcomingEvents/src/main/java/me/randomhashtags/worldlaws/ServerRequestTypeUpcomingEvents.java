@@ -117,10 +117,10 @@ public enum ServerRequestTypeUpcomingEvents implements ServerRequestType {
         return httpExchange -> {
             final String path = httpExchange.getPath();
             final String[] values = httpExchange.getPathValues();
-            final String key = values[0];
+            final String key = values[1];
             final UpcomingEventController controller = valueOfEventType(key);
             if(controller != null) {
-                return controller.getUpcomingEvent(path.substring(key.length()+1));
+                return controller.getUpcomingEvent(path.substring(values[0].length() + key.length() + 2));
             } else {
                 WLLogger.logError("ServerRequestTypeUpcomingEvents", "getDefaultHandler - failed to get controller using key \"" + key + "\" with path \"" + path + "\"!");
             }

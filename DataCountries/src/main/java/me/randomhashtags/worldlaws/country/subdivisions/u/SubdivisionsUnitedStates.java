@@ -190,12 +190,14 @@ public enum SubdivisionsUnitedStates implements SovereignStateSubdivision { // h
             case WISCONSIN: return "WI";
             case WYOMING: return "WY";
 
-            case AMERICAN_SAMOA: return WLCountry.AMERICAN_SAMOA.getISOAlpha2Official();
             case WASHINGTON_DC: return "DC";
+            case UNITED_STATES_VIRGIN_ISLANDS: return "VI";
+
+            case AMERICAN_SAMOA: return WLCountry.AMERICAN_SAMOA.getISOAlpha2Official();
             case PUERTO_RICO: return WLCountry.PUERTO_RICO.getISOAlpha2Official();
             case GUAM: return WLCountry.GUAM.getISOAlpha2Official();
             case NORTHERN_MARIANA_ISLANDS: return WLCountry.NORTHERN_MARIANA_ISLANDS.getISOAlpha2Official();
-            case UNITED_STATES_VIRGIN_ISLANDS: return "VI";
+            case MICRONESIA: return WLCountry.MICRONESIA.getISOAlpha2Official();
             case PALAU: return WLCountry.PALAU.getISOAlpha2Official();
             default: return null;
         }
