@@ -42,12 +42,12 @@ public enum ServerStatuses {
     public static void rebootServers() {
         final boolean updated = updateServersIfAvailable();
         if(!updated) {
-            ServerHandler.setMaintenanceMode(true, "Servers are rebooting, and should be back up in a few minutes :)");
+            ServerHandler.startMaintenanceMode("Servers are rebooting, and should be back up in a few minutes :)");
             rebootServersWithHomeResponse();
         } else {
             spinUpServersWithHomeResponse();
         }
-        ServerHandler.setMaintenanceMode(false, null);
+        ServerHandler.endMaintenanceMode();
     }
     private static void rebootServersWithHomeResponse() {
         shutdownServers();
@@ -68,7 +68,7 @@ public enum ServerStatuses {
         final boolean updated = updateServersIfAvailable();
         if(updated) {
             spinUpServersWithHomeResponse();
-            ServerHandler.setMaintenanceMode(false, null);
+            ServerHandler.endMaintenanceMode();
         } else {
             WLLogger.logInfo("ServerHandler - no server updates available");
         }
@@ -79,7 +79,7 @@ public enum ServerStatuses {
         final HashSet<Path> files = updatedFilesFolder.getAllFilePaths(null);
         final boolean updatesAreAvailable = files != null;
         if(updatesAreAvailable) {
-            ServerHandler.setMaintenanceMode(true, "Servers are updating, and should be back up in a few minutes :)");
+            ServerHandler.startMaintenanceMode("Servers are updating, and should be back up in a few minutes :)");
             shutdownServers();
 
             final JSONObject updateJSON = Jsonable.getStaticLocalFileJSONObject(Folder.UPDATES, "update");

@@ -11,6 +11,10 @@ public interface UserServer {
     TargetServer getTargetServer();
     void start();
     void stop();
+    default void rebootServer() {
+        stop();
+        start();
+    }
 
     default void listenForUserInput() {
         INPUT_SCANNERS.put(this, new Scanner(System.in));
@@ -39,6 +43,9 @@ public interface UserServer {
             case "close":
             case "end":
                 stop();
+                return;
+            case "reboot":
+                rebootServer();
                 return;
             case "execute":
                 WLUtilities.executeCommand(input.substring(key.length()+1), true);

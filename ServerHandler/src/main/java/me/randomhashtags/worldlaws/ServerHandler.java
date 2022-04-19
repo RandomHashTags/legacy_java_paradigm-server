@@ -119,19 +119,17 @@ public final class ServerHandler implements UserServer {
                 }
             }
         });
-        server.setExecutor(null);
         server.start();
     }
 
     @Override
     public HashMap<String, Runnable> getCustomUserCommands() {
         final HashMap<String, Runnable> map = new HashMap<>();
-        map.put("startmaintenance", () -> setMaintenanceMode(true, "Manual updates in progress, please wait a few minutes :)"));
-        map.put("endmaintenance", () -> setMaintenanceMode(false, null));
+        map.put("startmaintenance", () -> startMaintenanceMode("Manual updates in progress, please wait a few minutes :)"));
+        map.put("endmaintenance", ServerHandler::endMaintenanceMode);
         map.put("shutdown", ServerStatuses::shutdownServers);
         map.put("spinup", ServerStatuses::spinUpServers);
-        map.put("reboot", ServerStatuses::rebootServers);
-        map.put("restart", ServerStatuses::rebootServers);
+        map.put("rebootservers", ServerStatuses::rebootServers);
         map.put("update", ServerStatuses::tryUpdatingServersIfAvailable);
         map.put("generatecertificates", CertbotHandler::generateCertificates);
         return map;
@@ -180,22 +178,26 @@ public final class ServerHandler implements UserServer {
         PING_RESPONSE = json.toString();
     }
 
-    public static void setMaintenanceMode(boolean active, String reason) {
-        if(MAINTENANCE_MODE == active) {
+    public static void startMaintenanceMode(String reason) {
+        if(MAINTENANCE_MODE) {
             return;
         }
-        final long now = System.currentTimeMillis();
-        WLLogger.logInfo("ServerHandler - " + (active ? "started" : "ended") + " maintenance mode" + (active ? "" : " (active for " + (now- MAINTENANCE_STARTED) + "ms)"));
-        MAINTENANCE_MODE = active;
+        MAINTENANCE_STARTED = System.currentTimeMillis();
+        MAINTENANCE_MODE = true;
         MAINTENANCE_MESSAGE = reason;
-        if(active) {
-            MAINTENANCE_STARTED = now;
+        WLLogger.logInfo("ServerHandler - started maintenance mode");
+    }
+    public static void endMaintenanceMode() {
+        if(!MAINTENANCE_MODE) {
+            return;
         }
         updatePingResponse();
+        updateDetails();
 
-        if(!active) {
-            updateDetails();
-        }
+        WLLogger.logInfo("ServerHandler - ended maintenance mode (active for " + WLUtilities.getElapsedTime(MAINTENANCE_STARTED) + ")");
+        MAINTENANCE_MODE = false;
+        MAINTENANCE_MESSAGE = null;
+        MAINTENANCE_STARTED = 0;
     }
     private static void updateDetails() {
         HOME_JSON.clear();

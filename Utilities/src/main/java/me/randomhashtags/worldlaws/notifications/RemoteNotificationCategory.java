@@ -15,6 +15,8 @@ public enum RemoteNotificationCategory {
     SOFTWARE_UPDATE_CONSOLE_PLAYSTATION_5,
 
     VIDEO_GAME_UPDATE,
+
+    WEATHER_LOCAL_ALERT,
     ;
 
     public static RemoteNotificationCategory valueOfString(String input) {
@@ -42,6 +44,8 @@ public enum RemoteNotificationCategory {
                 return "PlayStation Console Update";
             case VIDEO_GAME_UPDATE:
                 return "Video Game Update";
+            case WEATHER_LOCAL_ALERT:
+                return "Local Weather Alert";
             default:
                 return "Unknown";
         }

@@ -16,14 +16,16 @@ import java.util.concurrent.CompletableFuture;
 
 public interface WLHttpHandler extends HttpHandler {
 
+    boolean PRODUCTION_MODE = Settings.DataValues.isProductionMode();
+
     @Override
     default void handle(HttpExchange httpExchange) {
         CompletableFuture.runAsync(() -> {
             final WLHttpExchange exchange = new WLHttpExchange(httpExchange);
-            final boolean validRequest = exchange.isValidRequest(), productionMode = Settings.DataValues.isProductionMode();
+            final boolean validRequest = exchange.isValidRequest();
             int status = HttpURLConnection.HTTP_FORBIDDEN;
             String string;
-            if(!productionMode || validRequest) {
+            if(!PRODUCTION_MODE || validRequest) {
                 status = HttpURLConnection.HTTP_OK;
                 final JSONTranslatable json = getResponse(exchange);
                 if(json instanceof JSONObjectTranslatable || json instanceof JSONArrayTranslatable) {
@@ -41,10 +43,13 @@ public interface WLHttpHandler extends HttpHandler {
             }
             final byte[] bytes = string.getBytes(StandardCharsets.UTF_8);
             try {
+                exchange.getResponseHeaders().set("Content-Type", "application/json");
                 exchange.sendResponseHeaders(status, bytes.length);
                 final OutputStream out = exchange.getResponseBody();
                 out.write(bytes);
-            } catch (Exception ignored) {
+                out.close();
+            } catch (Exception e) {
+                WLUtilities.saveException(e);
             }
             exchange.close();
         });

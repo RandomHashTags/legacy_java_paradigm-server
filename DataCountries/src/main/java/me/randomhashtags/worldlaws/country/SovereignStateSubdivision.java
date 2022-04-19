@@ -87,7 +87,7 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
         folder.setCustomFolderName(fileName, folder.getFolderName().replace("%country%", country.getBackendID()));
         final JSONObjectTranslatable json;
         final JSONObject local = Jsonable.getStaticLocalFileJSONObject(folder, fileName);
-        if(local == null || local.getInt("response_version") != responseVersion) {
+        if(local == null || local.getInt("response_version") < responseVersion) {
             json = loadStaticInformation();
             json.setFolder(folder);
             json.setFileName(fileName);

@@ -34,9 +34,9 @@ public enum ResponseVersions {
             case COUNTRIES:
                 return 14;
             case COUNTRY_INFORMATION:
-                return 1;
+                return 2;
             case SUBDIVISION_INFORMATION:
-                return 1;
+                return 2;
 
             case MOVIE_PRODUCTION_COMPANIES:
                 return 3;

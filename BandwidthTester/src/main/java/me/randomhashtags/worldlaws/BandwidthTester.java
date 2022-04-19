@@ -23,6 +23,11 @@ public final class BandwidthTester implements UserServer, RestAPI {
 
 
     private void test() {
+        for(int i = 1; i <= 100; i++) {
+            final JSONObject json = requestJSONObject("http://localhost:0/v1/ping");
+            WLLogger.logInfo("BandwidthTester;test;json=" + (json != null ? json.toString() : "null"));
+        }
+        /*
         final LinkedHashMap<String, Object> postData = new LinkedHashMap<>();
         postData.put("responseBodyV2", new JSONObject());
         postData.put("notificationType", "immediate");
@@ -33,7 +38,7 @@ public final class BandwidthTester implements UserServer, RestAPI {
         headers.put("***REMOVED***", "Java");
         headers.put("***REMOVED***", "-1");
         final JSONObject json = postJSONObject("http://192.168.1.58:34562/v1/verify/apple/v2", postData, true, headers);
-        WLLogger.logInfo("BandwidthTester;test;json=" + (json != null ? json.toString() : "null"));
+        WLLogger.logInfo("BandwidthTester;test;json=" + (json != null ? json.toString() : "null"));*/
     }
     private void load() {
         INPUT_SCANNERS.put(this, new Scanner(System.in));

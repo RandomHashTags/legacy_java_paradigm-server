@@ -1,21 +1,21 @@
 package me.randomhashtags.worldlaws;
 
-import com.sun.net.httpserver.HttpsConfigurator;
-import com.sun.net.httpserver.HttpsParameters;
 import com.sun.net.httpserver.HttpsServer;
+import me.randomhashtags.worldlaws.garbage.JavaUtil;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.locale.JSONTranslatable;
 import me.randomhashtags.worldlaws.locale.Language;
 import me.randomhashtags.worldlaws.locale.LanguageTranslator;
-import me.randomhashtags.worldlaws.settings.Settings;
 import org.json.JSONObject;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 
 import javax.net.ssl.*;
 import java.io.*;
-import java.net.*;
-import java.security.KeyStore;
+import java.net.Socket;
+import java.net.SocketException;
+import java.net.URL;
+import java.net.URLConnection;
 import java.security.SecureRandom;
 import java.security.cert.X509Certificate;
 import java.time.*;
@@ -250,45 +250,6 @@ public abstract class WLUtilities {
     }
 
     public static HttpsServer getHttpsServer(int port) {
-        HttpsServer server = null;
-        try {
-            final KeyStore store = KeyStore.getInstance("JKS");
-            final char[] password = Settings.Server.Https.Keystore.getPassword().toCharArray();
-
-            final String keystoreFileName = Settings.Server.Https.Keystore.getFileName() + ".keystore";
-            final FileInputStream file = new FileInputStream(keystoreFileName);
-            store.load(file, password);
-
-            final String factoryType = "SunX509";
-            final KeyManagerFactory factory = KeyManagerFactory.getInstance(factoryType);
-            factory.init(store, password);
-
-            final TrustManagerFactory trustFactory = TrustManagerFactory.getInstance(factoryType);
-            trustFactory.init(store);
-
-            final SSLContext context = SSLContext.getInstance("TLS");
-            context.init(factory.getKeyManagers(), trustFactory.getTrustManagers(), null);
-
-            server = HttpsServer.create(new InetSocketAddress(port), 0);
-            server.setHttpsConfigurator(new HttpsConfigurator(context) {
-                @Override
-                public void configure(HttpsParameters params) {
-                    try {
-                        final SSLEngine engine = context.createSSLEngine();
-                        params.setNeedClientAuth(true);
-                        params.setCipherSuites(engine.getEnabledCipherSuites());
-                        params.setProtocols(engine.getEnabledProtocols());
-
-                        final SSLParameters sslParameters = context.getSupportedSSLParameters();
-                        params.setSSLParameters(sslParameters);
-                    } catch (Exception e) {
-                        WLUtilities.saveException(e);
-                    }
-                }
-            });
-        } catch (Exception e) {
-            WLUtilities.saveException(e);
-        }
-        return server;
+        return JavaUtil.getHttpsServer(port);
     }
 }
