@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws;
 import me.randomhashtags.worldlaws.request.WLHttpExchange;
 import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
+import org.json.JSONObject;
 
 import java.util.Arrays;
 import java.util.HashMap;
@@ -122,7 +123,15 @@ public enum TargetServer implements RestAPI, DataValues {
         return sendResponse(headers, false);
     }
     private String sendResponse(WLHttpExchange headers, boolean fromProxy) {
-        return sendResponse(headers.getIdentifier(), headers.getPlatform(), headers.getVersion(), headers.getAPIVersion(), fromProxy ? headers.getShortPath() : headers.getPath(), fromProxy);
+        return sendResponse(headers, fromProxy ? headers.getShortPath() : headers.getPath().substring(headers.getAPIVersion().name().length() + 1));
+    }
+    public String sendResponse(WLHttpExchange exchange, String path) {
+        switch (this) {
+            case COMBINE:
+                return null;
+            default:
+                return forwardFromProxy(exchange, path);
+        }
     }
     public String sendResponse(String identifier, String platform, String version, APIVersion apiVersion, String path, boolean fromProxy) {
         final LinkedHashMap<String, String> headers = new LinkedHashMap<>();
@@ -138,7 +147,8 @@ public enum TargetServer implements RestAPI, DataValues {
             case COMBINE:
                 return getCombinedResponse(null);
             default:
-                return handleProxyResponse(path, headers);
+                final String targetURL = getIpAddress() + "/" + path;
+                return request(targetURL, headers, null);
         }
     }
 
@@ -164,9 +174,51 @@ public enum TargetServer implements RestAPI, DataValues {
         builder.append("}");
         return builder.toString();
     }
-    private String handleProxyResponse(String url, LinkedHashMap<String, String> headers) {
-        final String targetURL = getIpAddress() + "/" + url;
-        return request(targetURL, headers, null);
+
+    private String forwardFromProxy(WLHttpExchange exchange, String path) {
+        final RequestMethod requestMethod = exchange.getActualRequestMethod();
+        if(requestMethod != null) {
+            final LinkedHashMap<String, String> headers = new LinkedHashMap<>();
+            headers.put("Content-Type", "application/json");
+            headers.put("Charset", DataValues.ENCODING.name());
+            headers.put("***REMOVED***", exchange.getIdentifier());
+            headers.put("***REMOVED***", exchange.getPlatform());
+            headers.put("***REMOVED***", exchange.getVersion());
+            headers.put("***REMOVED***", "" + exchange.isSandbox());
+            headers.put("***REMOVED***", "" + exchange.isPremium());
+
+            final String url = getIpAddress() + "/" + exchange.getAPIVersion().name() + "/" + path;
+            switch (requestMethod) {
+                case GET:
+                    return RestAPI.requestStatic(url, headers, null);
+                case POST:
+                    final String requestBody = exchange.getActualRequestBody();
+                    final boolean isJSONObject = requestBody.startsWith("{") && requestBody.endsWith("}");
+                    final LinkedHashMap<String, Object> postData = new LinkedHashMap<>();
+                    final JSONObject targetJSON;
+                    if(isJSONObject) {
+                        targetJSON = exchange.getRequestBodyJSON();
+                    } else {
+                        targetJSON = new JSONObject();
+                        final String[] values = requestBody.split("\n");
+                        for(String string : values) {
+                            final String[] array = string.split(": ");
+                            final String key = array[0];
+                            targetJSON.put(key, string.substring(key.length() + 2));
+                        }
+                    }
+
+                    if(targetJSON != null) {
+                        postData.putAll(targetJSON.toMap());
+                    }
+                    WLLogger.logInfo("TargetServer;forwardFromProxy;postData=" + postData.toString());
+                    final JSONObject json = RestAPI.postStaticJSONObject(url, postData, isJSONObject, headers);
+                    return json != null ? json.toString() : null;
+                default:
+                    return null;
+            }
+        }
+        return null;
     }
 
     public static TargetServer valueOfBackendID(String backendID) {

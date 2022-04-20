@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.recent.software.videogame;
 
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSources;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.notifications.RemoteNotificationCategory;
 import me.randomhashtags.worldlaws.recent.PreRecentEvent;
 
@@ -17,13 +18,11 @@ public final class VideoGameUpdate extends PreRecentEvent {
         return identifier;
     }
 
+
     @Override
-    public String toString() {
-        return "{" +
-                "\"title\":\"" + title + "\"," +
-                (description != null ? "\"description\":\"" + description + "\"," : "") +
-                (imageURL != null ? "\"imageURL\":\"" + imageURL + "\"," : "") +
-                "\"sources\":" + sources.toString() +
-                "}";
+    public JSONObjectTranslatable toJSONObject() {
+        final JSONObjectTranslatable json = super.toJSONObject();
+        json.put("title", title);
+        return json;
     }
 }

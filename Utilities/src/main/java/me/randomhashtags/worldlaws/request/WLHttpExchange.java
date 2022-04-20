@@ -20,6 +20,7 @@ import java.util.LinkedHashMap;
 public final class WLHttpExchange extends HttpExchange {
 
     private final HttpExchange exchange;
+    private String actualRequestBody;
 
     public WLHttpExchange(HttpExchange exchange) {
         this.exchange = exchange;
@@ -49,7 +50,7 @@ public final class WLHttpExchange extends HttpExchange {
     }
     public String getShortPath() {
         final String path = getPath();
-        final String[] values = path.split("\\?")[0].split("/");
+        final String[] values = path.split("/");
         String string = path.substring(values[0].length() + values[1].length() + 1);
         if(string.startsWith("/")) {
             string = string.substring(1);
@@ -145,21 +146,25 @@ public final class WLHttpExchange extends HttpExchange {
     }
 
     public String getActualRequestBody() {
-        final BufferedInputStream in = new BufferedInputStream(getRequestBody());
-        final StringBuilder builder = new StringBuilder();
-        String line;
-        try {
-            do {
-                line = readLine(in);
-                if(line.isEmpty()) {
-                    break;
-                }
-                builder.append(line);
-            } while (true);
-        } catch (Exception e) {
-            WLUtilities.saveException(e);
+        if(actualRequestBody == null) {
+            final BufferedInputStream in = new BufferedInputStream(getRequestBody());
+            final StringBuilder builder = new StringBuilder();
+            String line;
+            try {
+                do {
+                    line = readLine(in);
+                    if(line.isEmpty()) {
+                        break;
+                    }
+                    builder.append(builder.length() > 0 ? "\n" : "");
+                    builder.append(line);
+                } while (true);
+            } catch (Exception e) {
+                WLUtilities.saveException(e);
+            }
+            actualRequestBody = builder.toString();
         }
-        return builder.toString();
+        return actualRequestBody;
     }
     public JSONObject getRequestBodyJSON() {
         final String string = getActualRequestBody();

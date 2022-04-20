@@ -74,7 +74,8 @@ public final class Proxy implements WLServer {
         final long started = System.currentTimeMillis();
         final String ip = headers.getIPAddress(), platform = headers.getPlatform(), identifier = headers.getIdentifier();
         final String prefix = "[" + platform + ", " + identifier + "] " + ip + " - ";
-        final String targetServer = headers.getPath().split("/")[1];
+        final String path = headers.getPath();
+        final String targetServer = path.split("/")[1];
         final TargetServer server = TargetServer.valueOfBackendID(targetServer);
         if(server != null) {
             final String string = server.sendResponseFromProxy(headers);
@@ -84,7 +85,7 @@ public final class Proxy implements WLServer {
             WLLogger.logWarning(prefix + "Failed to connect to \"" + headers.getShortPath() + "\" (took " + WLUtilities.getElapsedTime(started) + ")");
             return null;
         }
-        WLLogger.logWarning(prefix + "INVALID");
+        WLLogger.logWarning(prefix + "INVALID - path=\"" + path + "\", server=\"" + targetServer + "\"");
         return null;
     }
 

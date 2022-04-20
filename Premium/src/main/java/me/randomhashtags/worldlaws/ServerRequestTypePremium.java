@@ -29,11 +29,6 @@ public enum ServerRequestTypePremium implements ServerRequestType {
         };
     }
 
-    @Override
-    public boolean isConditional() {
-        return this == VERIFY;
-    }
-
     private JSONObjectTranslatable verifyApple(String[] values, WLHttpExchange request) {
         if(request != null && request.getActualRequestMethod() == RequestMethod.POST) {
             final JSONObject json = request.getRequestBodyJSON();
@@ -42,7 +37,7 @@ public enum ServerRequestTypePremium implements ServerRequestType {
                     case "v2":
                         return Verification.INSTANCE.verifyResponseBodyV2(json);
                     case "receipt":
-                        final String receiptData = request.getHeader("receipt-data", null);
+                        final String receiptData = json.optString("receipt-data", null);
                         return receiptData != null ? Verification.INSTANCE.verifyReceipt(request.isSandbox(), receiptData) : null;
                     default:
                         return null;

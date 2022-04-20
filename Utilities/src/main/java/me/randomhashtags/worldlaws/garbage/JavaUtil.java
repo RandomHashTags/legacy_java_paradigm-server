@@ -17,7 +17,7 @@ public abstract class JavaUtil {
         HttpsServer server = null;
         try {
             final SSLContext context = WLServerSocket.getSSLContext();
-            server = HttpsServer.create(new InetSocketAddress(port), 1);
+            server = HttpsServer.create(new InetSocketAddress(port), 100);
             server.setExecutor(Executors.newSingleThreadExecutor());
             server.setHttpsConfigurator(new HttpsConfigurator(context) {
                 @Override
