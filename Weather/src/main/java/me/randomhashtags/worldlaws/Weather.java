@@ -5,7 +5,6 @@ import me.randomhashtags.worldlaws.earthquakes.WeatherAlerts;
 import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.ServerRequestType;
 import me.randomhashtags.worldlaws.tracker.NASA_EONET;
-import org.json.JSONObject;
 
 public final class Weather implements WLServer {
     public static void main(String[] args) {
@@ -23,16 +22,9 @@ public final class Weather implements WLServer {
     }
 
     private void test() {
-        final long started = System.currentTimeMillis();
-        final String key = "key", value = "This is ā \ntest!", fixed = LocalServer.fixEscapeValues(value);
-        WLLogger.logInfo("Weather;test;value=" + value + ";fixed=" + fixed);
-        final String targetJSON = "{\"" + key + "\":\"" + LocalServer.fixEscapeValues(value) + "\"}";
-        final JSONObject json1 = new JSONObject(targetJSON);
-        final JSONObject json2 = new JSONObject();
-        json2.put(key, fixed);
-        WLLogger.logInfo("Weather;test;json1=" + json1.toString());
-        WLLogger.logInfo("Weather;test;json2=" + json2.toString());
-        WLLogger.logInfo("Weather;test;took=" + WLUtilities.getElapsedTime(started));
+        //final String input = "2022-04-21T21:04:00-05:00";
+        //final long time = WeatherAlertTime.getTimeFrom(input);
+        //WLLogger.logInfo("Weather;test;input=" + input + ";inputMS=" + time + ";toDate=" + LocalDateTime.ofEpochSecond(time/1000, 0, ZoneOffset.UTC));
     }
 
     @Override

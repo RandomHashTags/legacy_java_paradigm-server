@@ -147,7 +147,8 @@ public final class WLHttpExchange extends HttpExchange {
 
     public String getActualRequestBody() {
         if(actualRequestBody == null) {
-            final BufferedInputStream in = new BufferedInputStream(getRequestBody());
+            final InputStream inputStream = getRequestBody();
+            final BufferedInputStream in = new BufferedInputStream(inputStream);
             final StringBuilder builder = new StringBuilder();
             String line;
             try {
@@ -163,6 +164,11 @@ public final class WLHttpExchange extends HttpExchange {
                 WLUtilities.saveException(e);
             }
             actualRequestBody = builder.toString();
+            try {
+                inputStream.close();
+            } catch (Exception e) {
+                WLUtilities.saveException(e);
+            }
         }
         return actualRequestBody;
     }

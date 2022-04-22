@@ -211,7 +211,6 @@ public enum TargetServer implements RestAPI, DataValues {
                     if(targetJSON != null) {
                         postData.putAll(targetJSON.toMap());
                     }
-                    WLLogger.logInfo("TargetServer;forwardFromProxy;postData=" + postData.toString());
                     final JSONObject json = RestAPI.postStaticJSONObject(url, postData, isJSONObject, headers);
                     return json != null ? json.toString() : null;
                 default:

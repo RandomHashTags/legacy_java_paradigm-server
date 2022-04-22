@@ -297,12 +297,6 @@ public enum Settings {
             public static String getKey() {
                 return getOrDefaultString(getPrivateValuesYouTube(), "key", null);
             }
-            public static String getKeyIdentifier() {
-                return getOrDefaultString(getPrivateValuesYouTube(), "key_identifier", "***REMOVED***");
-            }
-            public static String getKeyValue() {
-                return getOrDefaultString(getPrivateValuesYouTube(), "key_value", null);
-            }
         }
     }
 

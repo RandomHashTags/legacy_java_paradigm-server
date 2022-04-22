@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws.service;
 import me.randomhashtags.worldlaws.Jsonable;
 import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.RestAPI;
+import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONArray;
@@ -30,6 +31,8 @@ public interface YouTubeService extends RestAPI, Jsonable {
         if(json != null) {
             final JSONArray items = json.getJSONArray("items");
             array = filterResults(type, title, items);
+        } else {
+            WLUtilities.saveLoggedError("YouTubeService", "json==null;title=" + title + ";q=" + q + ";headers=" + headers.toString() + ";query=" + query.toString());
         }
         return array != null && array.isEmpty() ? null : array;
     }

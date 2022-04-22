@@ -14,10 +14,11 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.util.HashMap;
+import java.util.concurrent.ConcurrentHashMap;
 
 public interface NewCountryService extends WLService {
     HashMap<SovereignStateInfo, HashMap<String, JSONObjectTranslatable>> DATA_CACHE = new HashMap<>();
-    HashMap<SovereignStateInfo, HashMap<String, JSONObjectTranslatable>> COUNTRY_CACHE = new HashMap<>(), SUBDIVISION_CACHE = new HashMap<>();
+    ConcurrentHashMap<SovereignStateInfo, HashMap<String, JSONObjectTranslatable>> COUNTRY_CACHE = new ConcurrentHashMap<>(), SUBDIVISION_CACHE = new ConcurrentHashMap<>();
 
     Folder getFolder();
     default String getServiceFileName(WLCountry country) {
@@ -86,7 +87,7 @@ public interface NewCountryService extends WLService {
     private JSONObjectTranslatable getJSONObject(boolean isCountry, boolean isDataJSON, WLCountry country, SovereignStateSubdivision subdivision) {
         final String backendID = country != null ? country.getBackendID() : subdivision.getBackendID();
         final SovereignStateInfo info = getInfo();
-        final HashMap<SovereignStateInfo, HashMap<String, JSONObjectTranslatable>> cache = isCountry ? COUNTRY_CACHE : SUBDIVISION_CACHE;
+        final ConcurrentHashMap<SovereignStateInfo, HashMap<String, JSONObjectTranslatable>> cache = isCountry ? COUNTRY_CACHE : SUBDIVISION_CACHE;
         if(cache.containsKey(info) && cache.get(info).containsKey(backendID)) {
             return cache.get(info).get(backendID);
         } else {

@@ -11,6 +11,7 @@ import java.net.Socket;
 import java.net.SocketException;
 import java.security.KeyStore;
 import java.util.HashMap;
+import java.util.concurrent.CompletableFuture;
 
 public final class WLServerSocket {
 
@@ -33,9 +34,14 @@ public final class WLServerSocket {
         WLLogger.logInfo("WLServerSocket - Listening for http" + (https ? "s" : "") + " clients on port " + server.getLocalPort() + "...");
         try {
             while (!server.isClosed()) {
-                if(https) {
-                } else {
-                }
+                final Socket client = server.accept();
+                CompletableFuture.runAsync(() -> {
+                    if(https) {
+                        handleHttpsClient(((SSLSocket) client));
+                    } else {
+                        handleClient(client);
+                    }
+                });
             }
         } catch (Exception e) {
             WLLogger.logInfo("WLServerSocket - stopped listening for clients");
@@ -53,6 +59,18 @@ public final class WLServerSocket {
         }
     }
     private void handleClient(Socket client) {
+        final ClientHeaders clientHeaders = ClientHeaders.getFrom(client);
+        final boolean productionMode = true;
+        if(productionMode == clientHeaders.isValidRequest()) {
+            final String identifier = clientHeaders.getIdentifier(), originalRequest = clientHeaders.getOriginalRequest();
+            if(handlers.containsKey(originalRequest)) {
+                //handlers.get(originalRequest).handle(clientHeaders);
+            } else {
+                //WLUtilities.writeClientOutput(client, DataValues.HTTP_ERROR_404);
+            }
+        } else {
+            //WLUtilities.writeClientOutput(client, DataValues.HTTP_ERROR_404);
+        }
     }
 
     public static SSLContext getSSLContext() throws Exception {

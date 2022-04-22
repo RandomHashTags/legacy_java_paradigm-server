@@ -10,15 +10,14 @@ import javax.net.ssl.SSLContext;
 import javax.net.ssl.SSLEngine;
 import javax.net.ssl.SSLParameters;
 import java.net.InetSocketAddress;
-import java.util.concurrent.Executors;
 
 public abstract class JavaUtil {
     public static HttpsServer getHttpsServer(int port) {
         HttpsServer server = null;
         try {
             final SSLContext context = WLServerSocket.getSSLContext();
-            server = HttpsServer.create(new InetSocketAddress(port), 100);
-            server.setExecutor(Executors.newSingleThreadExecutor());
+            server = HttpsServer.create(new InetSocketAddress(port), 0);
+            server.setExecutor(null);
             server.setHttpsConfigurator(new HttpsConfigurator(context) {
                 @Override
                 public void configure(HttpsParameters params) {

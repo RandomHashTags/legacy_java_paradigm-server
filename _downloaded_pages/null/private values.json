@@ -28,9 +28,7 @@
     },
     "youtube": {
       "request_limit": 49,
-      "key": "***REMOVED***",
-      "key_identifier": "***REMOVED***",
-      "key_value": "***REMOVED***"
+      "key": "***REMOVED***"
     }
   }
 }
