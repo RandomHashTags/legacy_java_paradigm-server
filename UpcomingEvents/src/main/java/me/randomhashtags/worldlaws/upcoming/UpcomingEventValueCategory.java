@@ -13,6 +13,7 @@ public enum UpcomingEventValueCategory {
     NEAR_EARTH_OBJECT_DETAILS,
     ROCKET_DETAILS("Mission"),
     SPACE_EVENT_DETAILS,
+    SPOTIFY_NEW_MUSIC_FRIDAY_TRACKS("Songs"),
     TICKETMASTER_MUSIC_EVENT_DETAILS,
     TICKETMASTER_VENUES("Venues"),
     VIDEO_GAME_DETAILS(UpcomingEventValueCategoryPosition.PRE_CONTENT, "Releasing for platforms"),

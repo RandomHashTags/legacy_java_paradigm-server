@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.PreUpcomingEvent;
+import me.randomhashtags.worldlaws.locale.JSONArrayTranslatable;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.service.SpotifyService;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
@@ -47,7 +48,7 @@ public final class MusicSpotify extends LoadedUpcomingEventController implements
             final String title = "Spotify: New Music Friday", description = responseJSON.getString("description");
 
             final JSONArray tracksArray = responseJSON.getJSONObject("tracks").getJSONArray("items");
-            final JSONObjectTranslatable tracks = new JSONObjectTranslatable();
+            final JSONArrayTranslatable tracks = new JSONArrayTranslatable();
             for(Object obj : tracksArray) {
                 final JSONObject itemJSON = (JSONObject) obj;
                 if(itemJSON.opt("track") instanceof JSONObject) {
@@ -81,8 +82,8 @@ public final class MusicSpotify extends LoadedUpcomingEventController implements
                         if(externalURLs.has("spotify")) {
                             sources.add(new EventSource("Spotify: " + name, externalURLs.getString("spotify")));
                         }
-                        final SpotifyTrack track = new SpotifyTrack(artists, trackImageURL, isExplicit, duration, previewURL, sources);
-                        tracks.put(name, track);
+                        final SpotifyTrack track = new SpotifyTrack(name, artists, trackImageURL, isExplicit, duration, previewURL, sources);
+                        tracks.put(track);
                     }
                 }
             }

@@ -13,7 +13,8 @@ public final class SpotifyTrack extends JSONObjectTranslatable {
             put(key, json.get(key));
         }
     }
-    public SpotifyTrack(JSONObjectTranslatable artists, String imageURL, boolean isExplicit, long duration, String previewURL, EventSources sources) {
+    public SpotifyTrack(String name, JSONObjectTranslatable artists, String imageURL, boolean isExplicit, long duration, String previewURL, EventSources sources) {
+        put("name", name);
         put("artists", artists);
         put("imageURL", imageURL);
         if(isExplicit) {

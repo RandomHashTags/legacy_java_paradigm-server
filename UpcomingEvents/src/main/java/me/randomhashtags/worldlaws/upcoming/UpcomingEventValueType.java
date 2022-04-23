@@ -19,6 +19,7 @@ public enum UpcomingEventValueType {
     IMDB_INFO,
     MLB_TEAM,
     PRODUCTION_COMPANIES,
+    SPOTIFY_TRACKS,
     TICKETMASTER_VENUES,
     TIMESTAMP,
     VIDEO_URL,

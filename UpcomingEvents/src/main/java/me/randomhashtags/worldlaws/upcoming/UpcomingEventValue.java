@@ -171,6 +171,12 @@ public enum UpcomingEventValue {
         putKey("videoURL");
     }}),
 
+    SPOTIFY_NEW_MUSIC_FRIDAY_TRACKS(new UpcomingEventValueMap() {{
+        putCategory(UpcomingEventValueCategory.SPOTIFY_NEW_MUSIC_FRIDAY_TRACKS);
+        putKey("tracks");
+        putValueType(UpcomingEventValueType.SPOTIFY_TRACKS);
+    }}),
+
     TICKETMASTER_MUSIC_SEAT_MAP_URL(new UpcomingEventValueMap() {{
         putCategory(UpcomingEventValueCategory.TICKETMASTER_MUSIC_EVENT_DETAILS);
         putKey("seatMapURL");
