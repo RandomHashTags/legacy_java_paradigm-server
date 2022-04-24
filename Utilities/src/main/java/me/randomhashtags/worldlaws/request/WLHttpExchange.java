@@ -95,11 +95,14 @@ public final class WLHttpExchange extends HttpExchange {
         return getHeader("***REMOVED***");
     }
     public boolean isValidRequest() {
-        final String platform = getPlatform(), version = getVersion();
-        return isValidIdentifier() && platform != null && version != null;
+        final String version = getVersion();
+        return isValidIdentifier() && isValidPlatform() && version != null;
     }
     public boolean isValidIdentifier() {
-        final String identifier = getIdentifier(), regex = "[0-9a-zA-Z]";
+        return isValidIdentifier(getIdentifier());
+    }
+    private boolean isValidIdentifier(String identifier) {
+        final String regex = "[0-9a-zA-Z]";
         final StringBuilder builder = new StringBuilder();
         final int[] test = { 8, 4, 4, 4, 12 };
         for(int amount : test) {
@@ -116,7 +119,26 @@ public final class WLHttpExchange extends HttpExchange {
         return getHeader("***REMOVED***");
     }
     public boolean isValidPlatform() {
-        return true;
+        final String platform = getPlatform();
+        if(platform != null) {
+            final String[] values = platform.split("/");
+            if(values.length == 2) {
+                final String target = values[1];
+                switch (values[0]) {
+                    case "***REMOVED***":
+                    case "***REMOVED***":
+                    case "***REMOVED***":
+                    case "***REMOVED***":
+                        final String regex = "[0-9]+\\.?[0-9]+";
+                        return target.matches(regex);
+                    case "***REMOVED***":
+                        return isValidIdentifier(target);
+                    default:
+                        return false;
+                }
+            }
+        }
+        return false;
     }
 
     public String getVersion() {

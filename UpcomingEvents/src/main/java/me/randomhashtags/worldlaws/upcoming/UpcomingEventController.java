@@ -14,9 +14,7 @@ import org.json.JSONObject;
 import java.io.File;
 import java.time.LocalDate;
 import java.time.Month;
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.List;
+import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 
 public abstract class UpcomingEventController implements YouTubeService, Jsoupable, DataValues {
@@ -83,35 +81,37 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
     public String getEventDateString(int year, Month month, int day) {
         return month.getValue() + "-" + year + "-" + day;
     }
-    public ConcurrentHashMap<String, List<LoadedPreUpcomingEvent>> getEventsFromDates(HashSet<String> dates) {
+    public ConcurrentHashMap<String, Collection<LoadedPreUpcomingEvent>> getEventsFromDates(HashSet<String> dates) {
         final HashSet<String> set = new HashSet<>((!preUpcomingEvents.isEmpty() ? preUpcomingEvents : upcomingEvents).keySet());
         set.removeIf(id -> {
             final String dateString = id.split("\\.")[0];
             return !dates.contains(dateString);
         });
-        final ConcurrentHashMap<String, List<LoadedPreUpcomingEvent>> map = new ConcurrentHashMap<>();
+        final ConcurrentHashMap<String, Collection<LoadedPreUpcomingEvent>> map = new ConcurrentHashMap<>();
         if(set.size() > 0) {
+            final ConcurrentHashMap<String, HashMap<String, LoadedPreUpcomingEvent>> events = new ConcurrentHashMap<>();
             new CompletableFutures<String>().stream(set, identifier -> {
                 final LoadedPreUpcomingEvent event = getLoadedPreUpcomingEvent(identifier);
                 if(event != null) {
                     final String dateString = identifier.split("\\.")[0];
-                    map.putIfAbsent(dateString, new ArrayList<>());
-                    map.get(dateString).add(event);
+                    events.putIfAbsent(dateString, new HashMap<>());
+                    events.get(dateString).put(identifier, event);
                 }
             });
+            for(Map.Entry<String, HashMap<String, LoadedPreUpcomingEvent>> entry : events.entrySet()) {
+                map.put(entry.getKey(), entry.getValue().values());
+            }
         } else if(!loadedPreUpcomingEvents.isEmpty()) {
             final HashSet<String> events = new HashSet<>(loadedPreUpcomingEvents.keySet());
             events.removeIf(id -> {
                 final String dateString = id.split("\\.")[0];
                 return !dates.contains(dateString);
             });
-            if(!events.isEmpty()) {
-                for(String identifier : events) {
-                    final LoadedPreUpcomingEvent event = loadedPreUpcomingEvents.get(identifier);
-                    final String dateString = identifier.split("\\.")[0];
-                    map.putIfAbsent(dateString, new ArrayList<>());
-                    map.get(dateString).add(event);
-                }
+            for(String identifier : events) {
+                final LoadedPreUpcomingEvent event = loadedPreUpcomingEvents.get(identifier);
+                final String dateString = identifier.split("\\.")[0];
+                map.putIfAbsent(dateString, new ArrayList<>());
+                map.get(dateString).add(event);
             }
         }
         return map.isEmpty() ? null : map;

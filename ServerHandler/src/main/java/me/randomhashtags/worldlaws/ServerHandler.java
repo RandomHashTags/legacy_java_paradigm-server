@@ -64,8 +64,11 @@ public final class ServerHandler implements UserServer {
         for(Timer timer : timers) {
             timer.cancel();
         }
-        stopListeningForUserInput();
+        timers.clear();
+        HOME_JSON.clear();
+        HOME_JSON_QUERIES.clear();
         server.stop(0);
+        stopListeningForUserInput();
         WLLogger.logInfo("ServerHandler - stopped listening for clients");
     }
 

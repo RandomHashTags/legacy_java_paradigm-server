@@ -183,7 +183,7 @@ public abstract class WLUtilities {
         return LocalDate.now(Clock.systemUTC());
     }
 
-    public static void saveException(Exception exception) {
+    public static void saveException(Throwable exception) {
         final String trace = getThrowableStackTrace(exception);
         final String errorName = exception.getClass().getSimpleName();
         saveError("WLUtilities.saveException", errorName, trace);

@@ -11,7 +11,7 @@ public interface UserServer {
     TargetServer getTargetServer();
     void start();
     void stop();
-    default void rebootServer() {
+    default void rebootServer() { // TODO: fix dis | doesn't execute in main thread, which is why it doesn't work
         stop();
         start();
     }

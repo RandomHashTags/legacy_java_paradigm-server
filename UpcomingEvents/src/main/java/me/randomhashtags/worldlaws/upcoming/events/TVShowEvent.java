@@ -32,6 +32,10 @@ public final class TVShowEvent extends UpcomingEvent {
         return UpcomingEventType.TV_SHOW;
     }
 
+    public int getPopularity() {
+        return popularity;
+    }
+
     @Override
     public JSONObjectTranslatable getPropertiesJSONObject() {
         final JSONObjectTranslatable json = new JSONObjectTranslatable();

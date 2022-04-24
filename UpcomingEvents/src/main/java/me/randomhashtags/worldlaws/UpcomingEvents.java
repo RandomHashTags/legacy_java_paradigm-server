@@ -4,7 +4,6 @@ import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.ServerRequestType;
 import me.randomhashtags.worldlaws.request.WLHttpHandler;
-import me.randomhashtags.worldlaws.upcoming.science.WikipediaTodaysFeaturedPicture;
 
 public final class UpcomingEvents implements WLServer {
     public static final UpcomingEvents INSTANCE = new UpcomingEvents();
@@ -24,9 +23,8 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void test() {
-        final long started = System.currentTimeMillis();
-        new WikipediaTodaysFeaturedPicture().refresh();
-        WLLogger.logInfo("UpcomingEvents;test;took " + WLUtilities.getElapsedTime(started));
+        final String platform = "iOS/15.0";
+        //WLLogger.logInfo("UpcomingEvents;test;isValidPlatform=" + WLHttpExchange.isValidPlatform(platform));
     }
 
     @Override

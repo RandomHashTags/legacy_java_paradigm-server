@@ -199,13 +199,13 @@ public enum ServerRequestTypeUpcomingEvents implements ServerRequestType {
     private JSONObjectTranslatable getEventsFromDates(HashSet<String> dateStrings) {
         final JSONObjectTranslatable json = new JSONObjectTranslatable();
         new CompletableFutures<UpcomingEventController>().stream(CONTROLLERS, controller -> {
-            final ConcurrentHashMap<String, List<LoadedPreUpcomingEvent>> eventsFromDates = controller.getEventsFromDates(dateStrings);
+            final ConcurrentHashMap<String, Collection<LoadedPreUpcomingEvent>> eventsFromDates = controller.getEventsFromDates(dateStrings);
             if(eventsFromDates != null) {
                 final JSONObjectTranslatable controllerJSON = new JSONObjectTranslatable();
-                for(Map.Entry<String, List<LoadedPreUpcomingEvent>> map : eventsFromDates.entrySet()) {
+                for(Map.Entry<String, Collection<LoadedPreUpcomingEvent>> map : eventsFromDates.entrySet()) {
                     final JSONObjectTranslatable dateStringJSON = new JSONObjectTranslatable();
                     final String dateString = map.getKey();
-                    final List<LoadedPreUpcomingEvent> events = map.getValue();
+                    final Collection<LoadedPreUpcomingEvent> events = map.getValue();
                     for(LoadedPreUpcomingEvent event : events) {
                         final String id = event.getID();
                         dateStringJSON.put(id, event.getJSONObject());

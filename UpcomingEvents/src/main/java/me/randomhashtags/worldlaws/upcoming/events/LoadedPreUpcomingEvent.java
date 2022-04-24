@@ -24,4 +24,8 @@ public final class LoadedPreUpcomingEvent {
     public JSONObjectTranslatable getJSONObject() {
         return json;
     }
+
+    public String getTag() {
+        return json.optString("tag", null);
+    }
 }

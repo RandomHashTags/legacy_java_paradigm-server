@@ -65,9 +65,14 @@ public abstract class UpcomingEvent extends JSONObjectTranslatable implements Js
     public EventDate getDate() {
         return date;
     }
+
     public String getTitle() {
         return optString("title", null);
     }
+    public void setTitle(String title) {
+        put("title", title);
+    }
+
     public void setSources(EventSources sources) {
         put("sources", sources.toJSONObject());
     }
@@ -85,9 +90,7 @@ public abstract class UpcomingEvent extends JSONObjectTranslatable implements Js
         final String title = getTitle(), imageURL = optString("imageURL", null);
         return new PreUpcomingEvent(customTypeSingularName, id, title, null, tag, countries, customValues).toLoadedPreUpcomingEventWithImageURL(type, imageURL);
     }
-    public void setTitle(String title) {
-        put("title", title);
-    }
+
 
     @Override
     public HashSet<String> getTranslatedKeys() {
