@@ -9,13 +9,17 @@ import me.randomhashtags.worldlaws.RequestMethod;
 import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.locale.Language;
 import me.randomhashtags.worldlaws.locale.LanguageTranslator;
+import me.randomhashtags.worldlaws.settings.Settings;
 import org.json.JSONObject;
 
 import java.io.*;
 import java.net.InetSocketAddress;
 import java.net.URI;
 import java.nio.charset.StandardCharsets;
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.LinkedHashMap;
+import java.util.List;
 
 public final class WLHttpExchange extends HttpExchange {
 
@@ -47,6 +51,13 @@ public final class WLHttpExchange extends HttpExchange {
     }
     public String[] getPathValues() {
         return getPath().split("/");
+    }
+    public String[] getPathValuesExcludingFirst(int amount) {
+        final List<String> array = new ArrayList<>(Arrays.asList(getPathValues()));
+        for(int i = 0; i < amount; i++) {
+            array.remove(0);
+        }
+        return array.toArray(new String[array.size()]);
     }
     public String getShortPath() {
         final String path = getPath();
@@ -101,7 +112,7 @@ public final class WLHttpExchange extends HttpExchange {
     public boolean isValidIdentifier() {
         return isValidIdentifier(getIdentifier());
     }
-    private boolean isValidIdentifier(String identifier) {
+    private static boolean isValidIdentifier(String identifier) {
         final String regex = "[0-9a-zA-Z]";
         final StringBuilder builder = new StringBuilder();
         final int[] test = { 8, 4, 4, 4, 12 };
@@ -119,7 +130,9 @@ public final class WLHttpExchange extends HttpExchange {
         return getHeader("***REMOVED***");
     }
     public boolean isValidPlatform() {
-        final String platform = getPlatform();
+        return isValidPlatform(getPlatform());
+    }
+    public static boolean isValidPlatform(String platform) {
         if(platform != null) {
             final String[] values = platform.split("/");
             if(values.length == 2) {
@@ -129,10 +142,13 @@ public final class WLHttpExchange extends HttpExchange {
                     case "***REMOVED***":
                     case "***REMOVED***":
                     case "***REMOVED***":
-                        final String regex = "[0-9]+\\.?[0-9]+";
+                    case "***REMOVED***":
+                        final String regex = "[0-9]+\\.?[0-9]?+\\.?[0-9]?";
                         return target.matches(regex);
                     case "***REMOVED***":
                         return isValidIdentifier(target);
+                    case "***REMOVED***":
+                        return Settings.Server.getUUID().equals(target);
                     default:
                         return false;
                 }

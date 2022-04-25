@@ -14,6 +14,7 @@ import java.time.LocalDateTime;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
+import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
 public interface WLServer extends DataValues, Jsoupable, Jsonable {
@@ -134,17 +135,21 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
         headers.put("***REMOVED***", version);
 
         final String prefix = getServer().getIpAddress() + "/" + apiVersion.name() + "/";
-        final JSONObjectTranslatable translatable = new JSONObjectTranslatable();
+        final ConcurrentHashMap<String, JSONTranslatable> map = new ConcurrentHashMap<>();
         new CompletableFutures<ServerRequest>().stream(Arrays.asList(types), type -> {
             final String totalPath = type.getTotalPath();
             final JSONTranslatable test = makeLocalRequest(headers, prefix, type);
-            if(test instanceof JSONArrayTranslatable) {
-                translatable.put(totalPath, test);
-            } else if(test instanceof JSONObjectTranslatable) {
-                translatable.put(totalPath, test);
-                translatable.addTranslatedKey(totalPath);
+            if(test instanceof JSONArrayTranslatable || test instanceof JSONObjectTranslatable) {
+                map.put(totalPath, test);
             }
         });
+
+        final JSONObjectTranslatable translatable = new JSONObjectTranslatable();
+        for(Map.Entry<String, JSONTranslatable> entry : map.entrySet()) {
+            final String totalPath = entry.getKey();
+            translatable.put(totalPath, entry.getValue());
+            translatable.addTranslatedKey(totalPath);
+        }
         CACHED_HOME_RESPONSES.put(apiVersion, translatable);
         return translatable;
     }

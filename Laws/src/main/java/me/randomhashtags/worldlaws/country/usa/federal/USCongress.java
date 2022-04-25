@@ -2,10 +2,12 @@ package me.randomhashtags.worldlaws.country.usa.federal;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.PreEnactedBill;
+import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.country.usa.USBillStatus;
 import me.randomhashtags.worldlaws.country.usa.USChamber;
 import me.randomhashtags.worldlaws.country.usa.USLaws;
 import me.randomhashtags.worldlaws.country.usa.USPoliticians;
+import me.randomhashtags.worldlaws.locale.JSONArrayTranslatable;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONObject;
@@ -61,10 +63,11 @@ public enum USCongress implements Jsoupable, Jsonable {
             return string;
         } else {
             final long started = System.currentTimeMillis();
+            final WLCountry country = WLCountry.UNITED_STATES;
             final String statusName = status.name(), suffix = " bills with status " + statusName + " for congress " + version + " (took %time%ms)";
-            final Folder folder = Folder.LAWS_USA_CONGRESS;
+            final Folder folder = Folder.LAWS_COUNTRY_CONGRESS;
             final String fileName = "bill status: " + statusName.toLowerCase();
-            folder.setCustomFolderName(fileName, folder.getFolderName().replace("%version%", "" + version));
+            folder.setCustomFolderName(fileName, folder.getFolderName().replace("%country%", country.getBackendID()).replace("%version%", "" + version));
             final JSONObject localJSON = getJSONObject(folder, fileName, null);
             final JSONObjectTranslatable json;
             if(localJSON == null) {
@@ -188,11 +191,12 @@ public enum USCongress implements Jsoupable, Jsonable {
             return null;
         } else {
             final long started = System.currentTimeMillis();
+            final WLCountry country = WLCountry.UNITED_STATES;
             final int versionInt = version;
             final String version = Integer.toString(versionInt);
-            final Folder folder = Folder.LAWS_USA_CONGRESS;
+            final Folder folder = Folder.LAWS_COUNTRY_CONGRESS;
             final String fileName = "enacted bills";
-            folder.setCustomFolderName(fileName, folder.getFolderName().replace("%version%", version));
+            folder.setCustomFolderName(fileName, folder.getFolderName().replace("%country%", country.getBackendID()).replace("%version%", version));
             final JSONObject localJSON = getJSONObject(folder, fileName, null);
             final JSONObjectTranslatable json;
             if(localJSON == null) {
@@ -276,20 +280,17 @@ public enum USCongress implements Jsoupable, Jsonable {
         }
         if(!bills.containsKey(id)) {
             final long started = System.currentTimeMillis();
-            final Folder folder = Folder.LAWS_USA_CONGRESS;
+            final WLCountry country = WLCountry.UNITED_STATES;
+            final Folder folder = Folder.LAWS_COUNTRY_CONGRESS;
             final String[] title = new String[1];
             final String chamberName = chamber.name(), chamberNameLowercase = chamberName.toLowerCase();
-            folder.setCustomFolderName(id, folder.getFolderName().replace("%version%", "" + version) + File.separator + chamberNameLowercase);
+            folder.setCustomFolderName(id, folder.getFolderName().replace("%country%", country.getBackendID()).replace("%version%", "" + version) + File.separator + chamberNameLowercase);
             final JSONObject localJSON = getLocalFileJSONObject(folder, id);
             JSONObjectTranslatable json = null;
             if(localJSON != null) {
-                json = new JSONObjectTranslatable();
+                json = JSONObjectTranslatable.copy(localJSON, true);
                 json.setFolder(folder);
                 json.setFileName(id);
-                for(String key : localJSON.keySet()) {
-                    json.put(key, localJSON.get(key));
-                    json.addTranslatedKey(key);
-                }
             } else {
                 final String targetURL = "https://www.congress.gov/bill/" + getVersioned() + "-congress/" + chamberNameLowercase + "-bill/" + id + "/all-info";
                 final Document doc = getDocument(targetURL);
@@ -306,16 +307,16 @@ public enum USCongress implements Jsoupable, Jsonable {
                     }
                     final Element element = doc.select("div.overview_wrapper div.overview table.standard01 tbody tr td a[href]").get(0);
                     final String profileSlug = element.attr("href");
-                    final String sponsor = USPoliticians.INSTANCE.get(element, profileSlug);
+                    final JSONObjectTranslatable sponsor = USPoliticians.INSTANCE.get(element, profileSlug);
                     final String summary = getBillSummary(doc);
                     final Elements allInfoContent = doc.select("main.content div.main-wrapper div.all-info-content");
                     final PolicyArea policyArea = getBillPolicyArea(allInfoContent);
-                    final String subjects = getBillSubjects(allInfoContent);
+                    final JSONArrayTranslatable subjects = getBillSubjects(allInfoContent);
                     final EventSources sources = new EventSources();
                     sources.add(new EventSource("US Congress: Bill URL", targetURL));
                     sources.add(new EventSource("US Congress: Bill PDF", pdfURL));
-                    final String cosponsors = getBillCosponsors(allInfoContent);
-                    final String actions = getBillActions(allInfoContent);
+                    final JSONArrayTranslatable cosponsors = getBillCosponsors(allInfoContent);
+                    final JSONArrayTranslatable actions = getBillActions(allInfoContent);
                     final CongressBill bill = new CongressBill(sponsor, summary, policyArea, subjects, cosponsors, actions, null, sources);
                     json = bill.toJSONObject();
                     if(!summary.toLowerCase().contains("a summary is in progress")) {
@@ -358,51 +359,35 @@ public enum USCongress implements Jsoupable, Jsonable {
         final String text = target != null ? target.text() : "";
         return PolicyArea.fromTag(text);
     }
-    private String getBillSubjects(Elements allInfoContent) {
+    private JSONArrayTranslatable getBillSubjects(Elements allInfoContent) {
         final Elements table = allInfoContent.get(6).select("div.search-column-main div ul.plain li a[href]");
         final HashSet<String> subjects = new HashSet<>();
         table.forEach(element -> subjects.add(element.text()));
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
-        for(String subject : subjects) {
-            builder.append(isFirst ? "" : ",").append("\"").append(subject).append("\"");
-            isFirst = false;
-        }
-        builder.append("]");
-        return builder.toString();
+        final JSONArrayTranslatable array = new JSONArrayTranslatable();
+        array.putAll(subjects);
+        return array;
     }
-    private String getBillCosponsors(Elements allInfoContent) {
+    private JSONArrayTranslatable getBillCosponsors(Elements allInfoContent) {
         final Elements table = allInfoContent.get(3).select("div.main-wrapper table.item_table tbody tr td.actions a[href]");
-        String value = null;
         if(table.size() > 0) {
             table.remove(0);
             if(!table.isEmpty()) {
+                final JSONArrayTranslatable array = new JSONArrayTranslatable();
                 final USPoliticians politicians = USPoliticians.INSTANCE;
-                final HashSet<String> cosponsors = new HashSet<>();
                 new CompletableFutures<Element>().stream(table, elements -> {
                     final String profileSlug = elements.attr("href").split("https://www\\.congress\\.gov")[1];
-                    final String string = politicians.get(elements, profileSlug);
-                    cosponsors.add(string);
+                    final JSONObjectTranslatable string = politicians.get(elements, profileSlug);
+                    array.put(string);
                 });
-
-                if(!cosponsors.isEmpty()) {
-                    final StringBuilder builder = new StringBuilder("[");
-                    boolean isFirst = true;
-                    for(String cosponsor : cosponsors) {
-                        builder.append(isFirst ? "" : ",").append(cosponsor);
-                        isFirst = false;
-                    }
-                    builder.append("]");
-                    value = builder.toString();
-                }
+                return array;
             }
         }
-        return value;
+        return null;
     }
-    private String getBillActions(Elements allInfoContent) {
+    private JSONArrayTranslatable getBillActions(Elements allInfoContent) {
         final Elements table = allInfoContent.get(2).select("table.expanded-actions tbody tr");
-        final HashSet<JSONObjectTranslatable> actions = new HashSet<>();
-        table.parallelStream().forEach(element -> {
+        final JSONArrayTranslatable actions = new JSONArrayTranslatable();
+        for(Element element : table) {
             final String text = element.text();
             final String[] values = text.split(" ");
             final String value0 = values[0], dateString = value0.split("-")[0], dateTime = value0.contains("-") ? value0.split("-")[1] : null, chamberString = values[1];
@@ -424,16 +409,9 @@ public enum USCongress implements Jsoupable, Jsonable {
             }
             final LocalDateTime date = LocalDateTime.of(Integer.parseInt(dateValues[2]), Integer.parseInt(dateValues[0]), Integer.parseInt(dateValues[1]), dateHour, dateMinute);
             final BillAction action = new BillAction(chamber, title, date);
-            actions.add(action.toJSONObject());
-        });
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
-        for(JSONObjectTranslatable action : actions) {
-            builder.append(isFirst ? "" : ",").append(action.toString());
-            isFirst = false;
+            actions.put(action.toJSONObject());
         }
-        builder.append("]");
-        return builder.toString();
+        return actions;
     }
     private USChamber getChamber(String input) {
         input = input.toUpperCase();

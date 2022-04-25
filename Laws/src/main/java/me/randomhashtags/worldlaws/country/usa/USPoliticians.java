@@ -2,10 +2,11 @@ package me.randomhashtags.worldlaws.country.usa;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.Folder;
-import me.randomhashtags.worldlaws.Jsonable;
 import me.randomhashtags.worldlaws.Jsoupable;
+import me.randomhashtags.worldlaws.country.PoliticianController;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.people.HumanName;
 import me.randomhashtags.worldlaws.people.PoliticalParty;
 import org.json.JSONObject;
@@ -13,38 +14,45 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import java.util.HashMap;
+import java.util.concurrent.ConcurrentHashMap;
 
-public enum USPoliticians implements Jsonable {
+public enum USPoliticians implements PoliticianController {
     INSTANCE;
 
-    private static final HashMap<String, String> CACHE = new HashMap<>();
+    private static final ConcurrentHashMap<String, JSONObjectTranslatable> CACHE = new ConcurrentHashMap<>();
 
-    public String get(Element elements, String profileSlug) {
+    @Override
+    public WLCountry getCountry() {
+        return WLCountry.UNITED_STATES;
+    }
+
+    public JSONObjectTranslatable get(Element elements, String profileSlug) {
         if(!CACHE.containsKey(profileSlug)) {
-            final String string = getFromBill(profileSlug, elements);
+            final JSONObjectTranslatable string = getFromBill(profileSlug, elements);
             CACHE.put(profileSlug, string);
         }
         return CACHE.get(profileSlug);
     }
-    private String getFromBill(String profileSlug, Element element) {
+    private JSONObjectTranslatable getFromBill(String profileSlug, Element element) {
+        final WLCountry country = getCountry();
         final String fileName = profileSlug.substring("members/".length()).replace("/", "-");
-        final JSONObject json = getJSONObject(Folder.LAWS_USA_MEMBERS, fileName, new CompletionHandler() {
+        final Folder folder = Folder.LAWS_COUNTRY_MEMBERS;
+        folder.setCustomFolderName(fileName, folder.getFolderName().replace("%country%", country.getBackendID()));
+        final JSONObject json = getJSONObject(folder, fileName, new CompletionHandler() {
             @Override
-            public String loadJSONObjectString() {
+            public JSONObject loadJSONObject() {
                 final String text = element.text();
                 final String[] describingValues = text.split(" \\[")[1].split("]")[0].split("-");
                 final PoliticalParty party = PoliticalParty.fromAbbreviation(describingValues[0]);
                 String governedTerritory = describingValues[1];
-                final SovereignStateSubdivision subdivision = WLCountry.UNITED_STATES.valueOfSovereignStateSubdivision(governedTerritory);
+                final SovereignStateSubdivision subdivision = country.valueOfSovereignStateSubdivision(governedTerritory);
                 if(subdivision != null) {
                     governedTerritory = subdivision.getName();
                 }
                 final String district = describingValues.length > 2 ? describingValues[2] : null;
-
                 final String congressURLPrefix = "https://www.congress.gov";
                 final String url = congressURLPrefix + profileSlug;
-                final Document doc = Jsoupable.getStaticDocument(Folder.LAWS_USA_MEMBERS, url, false);
+                final Document doc = Jsoupable.getStaticDocument(Folder.LAWS_COUNTRY_MEMBERS, url, false);
                 String imageURL = null, website = null;
                 HumanName name = null;
                 if(doc != null) {
@@ -67,11 +75,11 @@ public enum USPoliticians implements Jsonable {
                     }
                 }
                 final USPolitician politician = new USPolitician(name, governedTerritory, district, party, imageURL, url.substring("https://www.congress.gov/member/".length()), website);
-                return politician.toServerJSON();
+                return politician.toJSONObject();
             }
         });
 
         final USPolitician politician = new USPolitician(json);
-        return politician.toJSON();
+        return politician.toJSONObject();
     }
 }

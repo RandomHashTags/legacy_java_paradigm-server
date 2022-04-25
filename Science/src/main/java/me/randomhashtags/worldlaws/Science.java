@@ -10,8 +10,8 @@ public final class Science implements WLServer {
     }
 
     private Science() {
-        test();
-        //load();
+        //test();
+        load();
     }
 
     private void test() {

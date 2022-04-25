@@ -81,7 +81,7 @@ public final class USPolitician implements Politician {
             }
             final String targetURL = url + "?pageSize=250&q=%7B%22sponsorship%22%3A%22" + type.name().toLowerCase() + "%22%7D";
             final USCongress congress = USCongress.getCongress(administration);
-            final Elements table = Jsoupable.getStaticDocumentElements(Folder.LAWS_USA_MEMBERS, targetURL, true, "main.content div.main-wrapper div.search-row div.search-column-main ol.basic-search-results-list li.expanded");
+            final Elements table = Jsoupable.getStaticDocumentElements(Folder.LAWS_COUNTRY_MEMBERS, targetURL, false, "main.content div.main-wrapper div.search-row div.search-column-main ol.basic-search-results-list li.expanded");
             final JSONObjectTranslatable json = new JSONObjectTranslatable();
             for(Element element : table) {
                 final PreCongressBill bill = congress.getPreCongressBillFrom(element);

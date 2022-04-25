@@ -8,6 +8,7 @@ public enum ResponseVersions {
     MOVIE_PRODUCTION_COMPANIES,
     MUSIC_ARTISTS,
     PRESENTATIONS,
+    REMOTE_NOTIFICATIONS,
     UPCOMING_EVENT_TYPES,
     UPDATE_NOTES,
     VIDEO_GAMES,
@@ -44,6 +45,8 @@ public enum ResponseVersions {
                 return 1;
             case PRESENTATIONS:
                 return 2;
+            case REMOTE_NOTIFICATIONS:
+                return 1;
             case UPCOMING_EVENT_TYPES:
                 return 8;
             case VIDEO_GAMES:

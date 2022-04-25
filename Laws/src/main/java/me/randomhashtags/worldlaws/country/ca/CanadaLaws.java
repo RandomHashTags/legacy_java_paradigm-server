@@ -32,7 +32,7 @@ public final class CanadaLaws extends LawController {
     }
 
     @Override
-    public JSONObjectTranslatable getGovernmentResponse(APIVersion version, int administration, String value) {
+    public JSONObjectTranslatable getGovernmentResponse(APIVersion version, int administration, String[] values) {
         return null;
     }
 }

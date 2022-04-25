@@ -219,7 +219,14 @@ public enum TargetServer implements RestAPI, DataValues {
         }
         return null;
     }
-
+    public static TargetServer valueOfInput(String string) {
+        for(Map.Entry<String, TargetServer> entry : BACKEND_IDS.entrySet()) {
+            if(entry.getKey().equalsIgnoreCase(string)) {
+                return entry.getValue();
+            }
+        }
+        return null;
+    }
     public static TargetServer valueOfBackendID(String backendID) {
         return BACKEND_IDS.get(backendID);
     }

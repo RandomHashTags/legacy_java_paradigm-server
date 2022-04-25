@@ -25,8 +25,8 @@ public enum Folder {
     COUNTRIES_WIKIPEDIA_SUBDIVISIONS("countries" + File.separator + "wikipedia" + File.separator + "%country%"),
     COUNTRIES_WIKIPEDIA_FEATURED_PICTURES("countries" + File.separator + "wikipedia" + File.separator + "featured pictures"),
 
-    LAWS_USA_MEMBERS,
-    LAWS_USA_CONGRESS("laws" + File.separator + "unitedstates" + File.separator + "congress" + File.separator + "%version%"),
+    LAWS_COUNTRY_MEMBERS("laws" + File.separator + "%country%" + File.separator + "members"),
+    LAWS_COUNTRY_CONGRESS("laws" + File.separator + "%country%" + File.separator + "congress" + File.separator + "%version%"),
     LAWS_COUNTRY_SUBDIVISIONS_SUBDIVISION_YEAR("laws" + File.separator + "%country%" + File.separator + "subdivisions" + File.separator + "%subdivision%" + File.separator + "%year%"),
 
     SERVICES_FINANCE_TWELVE_DATA_CHARTS("services" + File.separator + "finance" + File.separator + "twelveData" + File.separator + "charts"),

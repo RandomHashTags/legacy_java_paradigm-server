@@ -28,11 +28,10 @@ public final class HumanName {
     }
 
     public JSONObjectTranslatable toJSONObject() {
-        final JSONObjectTranslatable json = new JSONObjectTranslatable("firstName", "lastName");
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("firstName", "middleName", "lastName");
         json.put("firstName", firstName);
         if(middleName != null) {
             json.put("middleName", middleName);
-            json.addTranslatedKey("middleName");
         }
         json.put("lastName", lastName);
         return json;

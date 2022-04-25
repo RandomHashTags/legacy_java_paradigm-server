@@ -106,8 +106,7 @@ public final class USLaws extends LawController {
     }
 
     @Override
-    public JSONObjectTranslatable getGovernmentResponse(APIVersion version, int administration, String input) {
-        final String[] values = input.split("/");
+    public JSONObjectTranslatable getGovernmentResponse(APIVersion version, int administration, String[] values) {
         final String key = values[0];
         final USCongress congress = USCongress.getCongress(administration);
         switch (key) {

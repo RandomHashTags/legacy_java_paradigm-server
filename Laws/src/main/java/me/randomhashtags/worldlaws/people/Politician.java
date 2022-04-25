@@ -1,10 +1,9 @@
 package me.randomhashtags.worldlaws.people;
 
 import me.randomhashtags.worldlaws.LegislationType;
-import me.randomhashtags.worldlaws.ServerObject;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 
-public interface Politician extends Person, ServerObject {
+public interface Politician extends Person {
     String getGovernedTerritory();
     String getDistrict();
     PoliticalParty getCurrentParty();
@@ -13,32 +12,25 @@ public interface Politician extends Person, ServerObject {
     String getWebsite();
     JSONObjectTranslatable getSignedLegislationJSON(LegislationType type, int administration);
 
-    default String toJSON() {
+    default JSONObjectTranslatable toJSONObject() {
         final HumanName name = getName();
         final String imageURL = getImageURL(), district = getDistrict(), website = getWebsite();
-        return "{" +
-                (name != null ? "\"name\":" + name.toString() + "," : "") +
-                "\"governedTerritory\":\"" + getGovernedTerritory() + "\"," +
-                (imageURL != null ? "\"imageURL\":\"" + imageURL + "\"," : "") +
-                (district != null ? "\"district\":\"" + getDistrict() + "\"," : "") +
-                (website != null ? "\"website\":\"" + website + "\"," : "") +
-                "\"party\":\"" + getCurrentParty().getName() + "\"," +
-                "\"url\":\"" + getURL() + "\"" +
-                "}";
-    }
-
-    @Override
-    default String toServerJSON() {
-        final HumanName name = getName();
-        final String imageURL = getImageURL(), district = getDistrict(), website = getWebsite();
-        return "{" +
-                (name != null ? "\"name\":" + name.toString() + "," : "") +
-                "\"governedTerritory\":\"" + getGovernedTerritory() + "\"," +
-                (imageURL != null ? "\"imageURL\":\"" + imageURL + "\"," : "") +
-                (district != null ? "\"district\":\"" + getDistrict() + "\"," : "") +
-                (website != null ? "\"website\":\"" + getWebsite() + "\"," : "") +
-                "\"party\":\"" + getCurrentParty().getName() + "\"," +
-                "\"url\":\"" + getURL() + "\"" +
-                "}";
+        final JSONObjectTranslatable json = new JSONObjectTranslatable();
+        if(name != null) {
+            json.put("name", name.toJSONObject());
+        }
+        json.put("governedTerritory", getGovernedTerritory());
+        if(imageURL != null) {
+            json.put("imageURL", imageURL);
+        }
+        if(district != null) {
+            json.put("district", district);
+        }
+        if(website != null) {
+            json.put("website", website);
+        }
+        json.put("party", getCurrentParty().getName());
+        json.put("url", getURL());
+        return json;
     }
 }

@@ -336,7 +336,13 @@ public enum PresentationType implements Jsoupable {
         final List<PresentationEvent> events = new ArrayList<>();
         final Element table = doc.selectFirst("h2 + table.wikitable");
         if(table != null) {
-            final EventSources externalLinks = doc.getExternalLinks();
+            final EventSources externalLinks = new EventSources(
+                    new EventSource("Twitter: Coachella", "https://twitter.com/coachella")
+            );
+            final EventSources docExternalLinks = doc.getExternalLinks();
+            if(docExternalLinks != null) {
+                externalLinks.addAll(docExternalLinks);
+            }
             final String location = "Indio, California, United States", imageURL = "https://upload.wikimedia.org/wikipedia/commons/2/28/Coachella18W1-18_%2842058161311%29.jpg";
             final String description = doc.getDescription();
             final Elements elements = table.select("tbody tr");
@@ -499,7 +505,6 @@ public enum PresentationType implements Jsoupable {
         if(table != null) {
             final String description = doc.getDescription();
             final EventSources externalLinks = doc.getExternalLinks();
-
             final Elements elements = table.select("tbody tr");
             elements.removeIf(element -> element.select("td").size() < 5);
             for(Element element : elements) {

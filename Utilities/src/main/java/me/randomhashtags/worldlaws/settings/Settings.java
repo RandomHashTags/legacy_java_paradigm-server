@@ -4,10 +4,7 @@ import me.randomhashtags.worldlaws.*;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.UUID;
+import java.util.*;
 
 public enum Settings {
     ;
@@ -73,6 +70,28 @@ public enum Settings {
         return (boolean) getOrDefault(json, key, defaultValue);
     }
 
+    private static List<Integer> getListInteger(JSONArray array) {
+        final List<Integer> list = new ArrayList<>();
+        for(Object obj : array) {
+            list.add((Integer) obj);
+        }
+        return list;
+    }
+    private static List<String> getListString(JSONArray array) {
+        final List<String> list = new ArrayList<>();
+        for(Object obj : array) {
+            list.add((String) obj);
+        }
+        return list;
+    }
+    private static HashMap<String, String> getMap(JSONObject json) {
+        final HashMap<String, String> map = new HashMap<>();
+        for(String key : json.keySet()) {
+            map.put(key, json.getString(key));
+        }
+        return map;
+    }
+
     public enum DataValues {
         ;
 
@@ -131,6 +150,10 @@ public enum Settings {
         }
         public static int getDefaultAPIVersion() {
             return getOrDefaultInt(getServersJSON(), "default_api_version", 1);
+        }
+        public static List<String> getSupportedHomeRequestServers() {
+            final JSONArray array = getOrDefaultJSONArray(getServersJSON(), "supported_home_request_servers", new JSONArray(Arrays.asList("countries", "remote_notifications", "services", "upcoming_events", "weather")));
+            return getListString(array);
         }
 
         public enum Https {
@@ -346,27 +369,6 @@ public enum Settings {
         private static JSONObject getServerValuesJSON(TargetServer server) {
             final String key = server.name().toLowerCase();
             return getOrDefaultJSONObject(getServerValuesJSON(), key, new JSONObject());
-        }
-        private static List<Integer> getListInteger(JSONArray array) {
-            final List<Integer> list = new ArrayList<>();
-            for(Object obj : array) {
-                list.add((Integer) obj);
-            }
-            return list;
-        }
-        private static List<String> getListString(JSONArray array) {
-            final List<String> list = new ArrayList<>();
-            for(Object obj : array) {
-                list.add((String) obj);
-            }
-            return list;
-        }
-        private static HashMap<String, String> getMap(JSONObject json) {
-            final HashMap<String, String> map = new HashMap<>();
-            for(String key : json.keySet()) {
-                map.put(key, json.getString(key));
-            }
-            return map;
         }
 
         public static List<String> getWikipediaSupportedExternalLinkSources() {

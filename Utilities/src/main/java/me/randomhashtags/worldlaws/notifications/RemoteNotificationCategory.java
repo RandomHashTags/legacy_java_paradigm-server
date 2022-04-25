@@ -1,5 +1,7 @@
 package me.randomhashtags.worldlaws.notifications;
 
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
+
 public enum RemoteNotificationCategory {
     SOFTWARE_UPDATE_APPLE_IOS,
     SOFTWARE_UPDATE_APPLE_IPADOS,
@@ -28,6 +30,10 @@ public enum RemoteNotificationCategory {
         return null;
     }
 
+    public String getID() {
+        return name().toLowerCase();
+    }
+
     public String getTitle() {
         switch (this) {
             case SOFTWARE_UPDATE_APPLE_IOS:
@@ -51,4 +57,9 @@ public enum RemoteNotificationCategory {
         }
     }
 
+    public JSONObjectTranslatable toJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("title");
+        json.put("title", getTitle());
+        return json;
+    }
 }

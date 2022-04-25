@@ -39,5 +39,5 @@ public abstract class LawController {
     }
     public abstract JSONObjectTranslatable refreshRecentActivity(APIVersion version);
     public abstract JSONObjectTranslatable getResponse(APIVersion version, String value);
-    public abstract JSONObjectTranslatable getGovernmentResponse(APIVersion version, int administration, String value);
+    public abstract JSONObjectTranslatable getGovernmentResponse(APIVersion version, int administration, String[] values);
 }

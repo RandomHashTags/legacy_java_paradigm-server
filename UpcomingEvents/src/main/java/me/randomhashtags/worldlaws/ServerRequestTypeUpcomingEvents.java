@@ -71,8 +71,7 @@ public enum ServerRequestTypeUpcomingEvents implements ServerRequestType {
         ));
     }};
 
-    private JSONObjectTranslatable weeklyEvents;
-    private static final HashMap<ServerRequestTypeUpcomingEvents, JSONObjectTranslatable> TYPE_JSONS = new HashMap<>();
+    private static final HashMap<ServerRequestTypeUpcomingEvents, JSONObjectTranslatable> CACHE_JSONS = new HashMap<>();
 
     @Override
     public WLHttpHandler getHandler(APIVersion version) {
@@ -85,6 +84,7 @@ public enum ServerRequestTypeUpcomingEvents implements ServerRequestType {
             case MOVIE_PRODUCTION_COMPANIES:
             case PRESENTATIONS:
             case VIDEO_GAMES:
+            case WEEKLY_EVENTS:
                 return httpExchange -> getTypeJSON();
             case HAPPENING_NOW:
                 //StreamingEvents.TWITCH.getUpcomingEvents(handler);
@@ -98,8 +98,6 @@ public enum ServerRequestTypeUpcomingEvents implements ServerRequestType {
                 return null;
             case RECENT_EVENTS:
                 return httpExchange -> RecentEvents.INSTANCE.refresh(7);
-            case WEEKLY_EVENTS:
-                return httpExchange -> getWeeklyEvents();
             default:
                 return httpExchange -> {
                     WLLogger.logError(this, "getServerResponse - failed to get response using type \"" + name() + "\" with target \"" + httpExchange.getPath() + "\"!");
@@ -129,7 +127,7 @@ public enum ServerRequestTypeUpcomingEvents implements ServerRequestType {
     }
 
     private JSONObjectTranslatable getTypeJSON() {
-        if(!TYPE_JSONS.containsKey(this)) {
+        if(!CACHE_JSONS.containsKey(this)) {
             JSONObjectTranslatable json = null;
             switch (this) {
                 case EVENT_TYPES:
@@ -144,14 +142,19 @@ public enum ServerRequestTypeUpcomingEvents implements ServerRequestType {
                 case VIDEO_GAMES:
                     json = VideoGameUpdates.getTypesJSON();
                     break;
+
+                case WEEKLY_EVENTS:
+                    json = refreshEventsFromThisWeek(true);
+                    break;
+
                 default:
                     break;
             }
             if(json != null) {
-                TYPE_JSONS.put(this, json);
+                CACHE_JSONS.put(this, json);
             }
         }
-        return TYPE_JSONS.get(this);
+        return CACHE_JSONS.get(this);
     }
 
     private HashSet<String> getWeeklyEventDateStrings(LocalDate now) {
@@ -162,19 +165,13 @@ public enum ServerRequestTypeUpcomingEvents implements ServerRequestType {
         return dates;
     }
 
-    private JSONObjectTranslatable getWeeklyEvents() {
-        if(weeklyEvents == null) {
-            refreshEventsFromThisWeek(true);
-        }
-        return weeklyEvents;
-    }
     private void refreshData() {
         Holidays.INSTANCE.refreshNearHolidays();
         refreshEventsFromThisWeek(false);
         final String serverName = "UpcomingEvents";
         UpcomingEvents.INSTANCE.autoRefreshHome(serverName, System.currentTimeMillis(), serverName, APIVersion.getLatest());
     }
-    private void refreshEventsFromThisWeek(boolean registerAutoUpdates) {
+    private JSONObjectTranslatable refreshEventsFromThisWeek(boolean registerAutoUpdates) {
         final long started = System.currentTimeMillis();
         if(registerAutoUpdates) {
             final LocalDateTime tomorrow = LocalDateTime.now().plusDays(1)
@@ -188,10 +185,8 @@ public enum ServerRequestTypeUpcomingEvents implements ServerRequestType {
         final HashSet<String> dates = getWeeklyEventDateStrings(now);
         new CompletableFutures<UpcomingEventController>().stream(CONTROLLERS, UpcomingEventController::refresh);
         final JSONObjectTranslatable json = getEventsFromDates(dates);
-        if(json != null) {
-            weeklyEvents = json;
-        }
         WLLogger.logInfo("UpcomingEvents - " + (registerAutoUpdates ? "" : "auto-") + "refreshed events from this week (took " + WLUtilities.getElapsedTime(started) + ")");
+        return json;
     }
     private String getEventStringForDate(LocalDate date) {
         return date.getMonthValue() + "-" + date.getYear() + "-" + date.getDayOfMonth();

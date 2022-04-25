@@ -31,7 +31,7 @@ public enum ServerStatuses {
         WLLogger.logInfo("ServerHandler - shutdown Paradigm Servers (took " + WLUtilities.getElapsedTime(started) + ")");
     }
     public static String shutdownServer(TargetServer server, APIVersion version, String uuid) {
-        return server.sendResponse(uuid, "***REMOVED***", "***REMOVED***", version, "stop", false);
+        return server.sendResponse(uuid, "***REMOVED***" + uuid, "***REMOVED***", version, "stop", false);
     }
     public static void spinUpServers() {
         final long started = System.currentTimeMillis();

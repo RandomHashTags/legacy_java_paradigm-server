@@ -1,10 +1,15 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.ServerRequestType;
 
 import java.util.UUID;
 
 public final class RemoteNotifications implements WLServer {
+
+    private static final DeviceTokenController[] CONTROLLERS = new DeviceTokenController[] {
+            AppleNotifications.INSTANCE
+    };
 
     public static void main(String[] args) {
         new RemoteNotifications().tryLoading();
@@ -22,7 +27,9 @@ public final class RemoteNotifications implements WLServer {
 
     @Override
     public void stop() {
-        AppleNotifications.INSTANCE.save();
+        for(DeviceTokenController controller : CONTROLLERS) {
+            controller.save();
+        }
     }
 
     @Override
@@ -30,6 +37,12 @@ public final class RemoteNotifications implements WLServer {
         return TargetServer.REMOTE_NOTIFICATIONS;
     }
 
+    @Override
+    public ServerRequest[] getHomeRequests() {
+        return new ServerRequest[] {
+                new ServerRequest(ServerRequestTypeRemoteNotifications.CATEGORIES)
+        };
+    }
 
     @Override
     public ServerRequestType[] getRequestTypes() {

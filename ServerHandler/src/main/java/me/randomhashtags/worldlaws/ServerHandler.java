@@ -253,32 +253,30 @@ public final class ServerHandler implements UserServer {
     public static String updateHomeResponse() {
         return updateHomeResponse(APIVersion.getLatest(), true);
     }
-    private static String updateHomeResponse(APIVersion version, boolean isUpdate) {
+    private static String updateHomeResponse(APIVersion apiVersion, boolean isUpdate) {
         final long started = System.currentTimeMillis();
+        final String versionName = apiVersion.name(), serverUUID = Settings.Server.getUUID();
 
         final LinkedHashMap<String, String> headers = new LinkedHashMap<>();
         headers.put("Content-Type", "application/json");
         headers.put("Charset", DataValues.ENCODING.name());
-        headers.put("***REMOVED***", Settings.Server.getUUID());
-        headers.put("***REMOVED***", "***REMOVED***");
-        headers.put("***REMOVED***", version.name());
+        headers.put("***REMOVED***", serverUUID);
+        headers.put("***REMOVED***", "***REMOVED***" + serverUUID);
+        headers.put("***REMOVED***", versionName);
         if(!isUpdate) {
             final long interval = UpdateIntervals.ServerHandler.HOME;
-            final Timer timer = WLUtilities.getTimer(null, interval, () -> updateHomeResponse(version, true));
+            final Timer timer = WLUtilities.getTimer(null, interval, () -> updateHomeResponse(apiVersion, true));
             INSTANCE.timers.add(timer);
         }
 
-        final String versionName = version.name();
-        final TargetServer[] servers = {
-                TargetServer.COUNTRIES,
-                TargetServer.SERVICES,
-                TargetServer.UPCOMING_EVENTS,
-                TargetServer.WEATHER
-        };
         final HashMap<String, String> requests = new HashMap<>();
         requests.put("trending", null);
-        for(TargetServer server : servers) {
-            requests.put(server.name().toLowerCase(), server.getIpAddress() + "/" + versionName + "/home");
+        final List<String> supportedServers = Settings.Server.getSupportedHomeRequestServers();
+        for(String serverID : supportedServers) {
+            final TargetServer server = TargetServer.valueOfInput(serverID);
+            if(server != null) {
+                requests.put(server.name().toLowerCase(), server.getIpAddress() + "/" + versionName + "/home");
+            }
         }
 
         final ConcurrentHashMap<String, JSONObject> values = new ConcurrentHashMap<>();
@@ -304,8 +302,8 @@ public final class ServerHandler implements UserServer {
             final JSONObject keyValue = map.getValue();
             json.put(serverName, keyValue);
         }
-        HOME_JSON.put(version, json);
-        HOME_JSON_QUERIES.remove(version);
+        HOME_JSON.put(apiVersion, json);
+        HOME_JSON_QUERIES.remove(apiVersion);
         return json.toString();
     }
 }

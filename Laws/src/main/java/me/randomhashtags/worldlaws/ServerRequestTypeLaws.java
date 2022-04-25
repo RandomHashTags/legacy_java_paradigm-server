@@ -25,18 +25,18 @@ public enum ServerRequestTypeLaws implements ServerRequestType {
 
     public static WLHttpHandler getDefaultHandler() {
         return httpExchange -> {
-            final String[] values = httpExchange.getShortPathValues();
-            if(values.length >= 2) {
+            final String[] values = httpExchange.getPathValues();
+            if(values.length >= 3) {
                 final APIVersion version = httpExchange.getAPIVersion();
-                final String key = values[0];
-                final LawController controller = COUNTRIES.get(key);
+                final String key = values[1];
+                final LawController controller = getController(key);
                 if(controller != null) {
                     final int keyLength = key.length() + 1;
-                    final String targetKey = values[1];
-                    final String path = httpExchange.getShortPath();
+                    final String targetKey = values[2];
+                    final String path = httpExchange.getPath().substring(values[0].length() + 1);
                     if(targetKey.matches("[0-9]+")) {
                         final int administration = Integer.parseInt(targetKey);
-                        return controller.getGovernmentResponse(version, administration, path.substring(keyLength+targetKey.length()+1));
+                        return controller.getGovernmentResponse(version, administration, httpExchange.getPathValuesExcludingFirst(3));
                     } else {
                         return controller.getResponse(version, path.substring(keyLength));
                     }
@@ -64,7 +64,7 @@ public enum ServerRequestTypeLaws implements ServerRequestType {
         }
     }
 
-    private LawController getController(String countryBackendID) {
+    private static LawController getController(String countryBackendID) {
         if(COUNTRIES.isEmpty()) {
             for(LawController country : CONTROLLERS) {
                 COUNTRIES.put(country.getCountry().getBackendID(), country);

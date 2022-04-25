@@ -15,7 +15,10 @@ import org.json.JSONObject;
 
 import java.time.LocalDate;
 import java.time.Month;
-import java.util.*;
+import java.util.Collection;
+import java.util.Comparator;
+import java.util.HashSet;
+import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
 public final class TVShows extends LoadedUpcomingEventController {
@@ -39,7 +42,7 @@ public final class TVShows extends LoadedUpcomingEventController {
             if(max > 0) {
                 final LocalDate nextWeek = LocalDate.now().plusWeeks(1);
                 final ConcurrentHashMap<String, Collection<TVShowEvent>> shows = new ConcurrentHashMap<>();
-                final HashMap<TVShowEvent, LoadedPreUpcomingEvent> loadedShows = new HashMap<>();
+                final ConcurrentHashMap<TVShowEvent, LoadedPreUpcomingEvent> loadedShows = new ConcurrentHashMap<>();
                 new CompletableFutures<JSONObject>().stream(array, json -> {
                     final int season = json.getInt("season");
                     final JSONObject showJSON = json.getJSONObject("_embedded").getJSONObject("show");
@@ -96,17 +99,20 @@ public final class TVShows extends LoadedUpcomingEventController {
                                 customValues = new JSONObjectTranslatable();
                                 customValues.put("popularity", popularity);
                             }
-                            loadedShows.put(tvShowEvent, tvShowEvent.toPreUpcomingEventJSON(eventType, identifier, tag, null, customValues));
+                            final LoadedPreUpcomingEvent loadedPreUpcomingEvent = tvShowEvent.toPreUpcomingEventJSON(eventType, identifier, tag, null, customValues);
+                            loadedShows.put(tvShowEvent, loadedPreUpcomingEvent);
                         }
                     }
                 });
                 for(Map.Entry<String, Collection<TVShowEvent>> entry : new ConcurrentHashMap<>(shows).entrySet()) {
                     final Collection<TVShowEvent> events = entry.getValue();
-                    events.stream().sorted(Comparator.comparingInt(TVShowEvent::getPopularity)).limit(50).forEach(event -> {
+                    new HashSet<>(events).stream().sorted(Comparator.comparingInt(TVShowEvent::getPopularity)).limit(50).forEach(event -> {
                         final LoadedPreUpcomingEvent loadedPreUpcomingEvent = loadedShows.get(event);
-                        putLoadedPreUpcomingEvent(loadedPreUpcomingEvent);
-                        final String identifier = loadedPreUpcomingEvent.getIdentifier();
-                        putUpcomingEvent(identifier, event);
+                        if(loadedPreUpcomingEvent != null) {
+                            putLoadedPreUpcomingEvent(loadedPreUpcomingEvent);
+                            final String identifier = loadedPreUpcomingEvent.getIdentifier();
+                            putUpcomingEvent(identifier, event);
+                        }
                     });
                 }
             }
