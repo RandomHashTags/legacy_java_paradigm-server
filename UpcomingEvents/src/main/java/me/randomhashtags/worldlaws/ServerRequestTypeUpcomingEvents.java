@@ -167,7 +167,8 @@ public enum ServerRequestTypeUpcomingEvents implements ServerRequestType {
 
     private void refreshData() {
         Holidays.INSTANCE.refreshNearHolidays();
-        refreshEventsFromThisWeek(false);
+        final JSONObjectTranslatable json = refreshEventsFromThisWeek(false);
+        CACHE_JSONS.put(ServerRequestTypeUpcomingEvents.WEEKLY_EVENTS, json);
         final String serverName = "UpcomingEvents";
         UpcomingEvents.INSTANCE.autoRefreshHome(serverName, System.currentTimeMillis(), serverName, APIVersion.getLatest());
     }

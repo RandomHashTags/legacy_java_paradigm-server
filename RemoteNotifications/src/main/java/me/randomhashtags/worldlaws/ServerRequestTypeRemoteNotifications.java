@@ -7,6 +7,7 @@ import me.randomhashtags.worldlaws.notifications.RemoteNotification;
 import me.randomhashtags.worldlaws.notifications.RemoteNotificationCategory;
 import me.randomhashtags.worldlaws.request.ServerRequestType;
 import me.randomhashtags.worldlaws.request.WLHttpHandler;
+import me.randomhashtags.worldlaws.settings.ResponseVersions;
 import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONObject;
@@ -71,6 +72,7 @@ public enum ServerRequestTypeRemoteNotifications implements ServerRequestType {
     }
     private JSONObjectTranslatable getCategories() {
         final JSONObjectTranslatable json = new JSONObjectTranslatable();
+        json.put("version", ResponseVersions.REMOTE_NOTIFICATIONS.getValue());
         for(RemoteNotificationCategory category : RemoteNotificationCategory.values()) {
             json.put(category.getID(), category.toJSONObject());
         }

@@ -207,7 +207,6 @@ public enum TargetServer implements RestAPI, DataValues {
                             targetJSON.put(key, string.substring(key.length() + 2));
                         }
                     }
-
                     if(targetJSON != null) {
                         postData.putAll(targetJSON.toMap());
                     }
@@ -220,9 +219,9 @@ public enum TargetServer implements RestAPI, DataValues {
         return null;
     }
     public static TargetServer valueOfInput(String string) {
-        for(Map.Entry<String, TargetServer> entry : BACKEND_IDS.entrySet()) {
-            if(entry.getKey().equalsIgnoreCase(string)) {
-                return entry.getValue();
+        for(TargetServer server : TargetServer.values()) {
+            if(server.name().equalsIgnoreCase(string) || server.getBackendID().equalsIgnoreCase(string)) {
+                return server;
             }
         }
         return null;

@@ -98,7 +98,8 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
 
 
     default JSONObjectTranslatable autoRefreshHome(String simpleName, long started, String serverName, APIVersion version) {
-        final JSONObjectTranslatable string = refreshHome(version, Settings.Server.getUUID(), "***REMOVED***", version.name());
+        final String serverUUID = Settings.Server.getUUID();
+        final JSONObjectTranslatable string = refreshHome(version, serverUUID, "***REMOVED***" + serverUUID, version.name());
         WLLogger.logInfo(simpleName + " - auto updated \"" + serverName + "\"'s home response (took " + WLUtilities.getElapsedTime(started) + ")");
         return string;
     }
