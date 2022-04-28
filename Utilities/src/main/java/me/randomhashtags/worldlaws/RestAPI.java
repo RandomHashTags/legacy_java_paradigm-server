@@ -69,12 +69,17 @@ public interface RestAPI {
     }
     default JSONArray requestJSONArray(String url, LinkedHashMap<String, String> headers, LinkedHashMap<String, String> query) {
         final String string = requestStatic(url, headers, query);
-        if(string != null && string.startsWith("[") && string.endsWith("]")) {
+        if(string != null) {
             try {
                 return new JSONArray(string);
             } catch (Exception e) {
                 final String stackTrace = WLUtilities.getThrowableStackTrace(e);
-                WLUtilities.saveLoggedError("JSONException", "string=" + string + "\n\n" + stackTrace);
+                final String value = "failed to parse JSONObject from url \"" + url + "\" with string\n" +
+                        "\"" + string + "\"\n\n" +
+                        "headers=" + (headers != null ? headers.toString() : "null") + "\n" +
+                        "query=" + (query != null ? query.toString() : "null") + "\n" +
+                        "stackTrace=\n" + stackTrace;
+                WLUtilities.saveLoggedError("JSONException", value);
             }
         }
         return null;
@@ -91,7 +96,7 @@ public interface RestAPI {
     }
     static JSONObject requestStaticJSONObject(String url, LinkedHashMap<String, String> headers, LinkedHashMap<String, String> query) {
         final String string = requestStatic(url, headers, query);
-        if(string != null && string.startsWith("{") && string.endsWith("}")) {
+        if(string != null) {
             try {
                 return new JSONObject(string);
             } catch (Exception e) {

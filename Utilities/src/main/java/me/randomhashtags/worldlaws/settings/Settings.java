@@ -379,6 +379,37 @@ public enum Settings {
             return getListString(array);
         }
 
+        public enum YouTube {
+            ;
+
+            private static JSONObject getYouTubeJSON() {
+                return getOrDefaultJSONObject(getServerValuesJSON(), "youtube", new JSONObject());
+            }
+
+            public static boolean isSupportedMovieUploader(String uploader) {
+                return isSupported(uploader, getSupportedMovieUploaders());
+            }
+            public static boolean isSupportedVideoGameUploader(String uploader) {
+                return isSupported(uploader, getSupportedVideoGameUploaders());
+            }
+            private static boolean isSupported(String input, List<String> list) {
+                for(String string : list) {
+                    if(string.equalsIgnoreCase(input)) {
+                        return true;
+                    }
+                }
+                return false;
+            }
+            private static List<String> getSupportedMovieUploaders() {
+                final JSONArray array = getOrDefaultJSONArray(getYouTubeJSON(), "supported_movie_uploaders", new JSONArray());
+                return getListString(array);
+            }
+            private static List<String> getSupportedVideoGameUploaders() {
+                final JSONArray array = getOrDefaultJSONArray(getYouTubeJSON(), "supported_video_game_uploaders", new JSONArray());
+                return getListString(array);
+            }
+        }
+
         public enum UpcomingEvents {
             ;
 

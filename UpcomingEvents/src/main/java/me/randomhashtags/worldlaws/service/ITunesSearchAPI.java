@@ -6,17 +6,21 @@ import me.randomhashtags.worldlaws.WLUtilities;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
+import java.net.URLEncoder;
+import java.nio.charset.StandardCharsets;
 import java.util.LinkedHashMap;
 
 public interface ITunesSearchAPI extends RestAPI {
     private JSONObject search(String term, String media, String entity) {
         final String url = "https://itunes.apple.com/search";
-        final LinkedHashMap<String, String> headers = new LinkedHashMap<>(), query = new LinkedHashMap<>();
-        query.put("term", term.replace(" ", "+"));
+        final LinkedHashMap<String, String> headers = new LinkedHashMap<>(GET_CONTENT_HEADERS), query = new LinkedHashMap<>();
+        term = URLEncoder.encode(term, StandardCharsets.UTF_8);
+        query.put("term", term);
         query.put("country", "US");
-        query.put("limit", "200");
+        query.put("limit", "50");
         query.put("media", media);
         query.put("entity", entity);
+        query.put("explicit", "yes");
         return requestJSONObject(url, headers, query);
     }
 

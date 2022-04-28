@@ -226,6 +226,7 @@ public final class WikipediaDocument {
         final Elements children = targetElement.children();
         final Elements uls = children.select("ul");
         final EventSources sources = new EventSources();
+        final List<String> supportedSources = Settings.ServerValues.getWikipediaSupportedExternalLinkSources();
         new CompletableFutures<Element>().stream(uls, lastList -> {
             final Elements elements = lastList.select("li");
             for(Element list : elements) {
@@ -245,7 +246,6 @@ public final class WikipediaDocument {
                             if(totalLinks >= 2) {
                                 final String targetText = hrefs.get(1).text();
                                 final String targetTextLowercase = targetText.toLowerCase();
-                                final List<String> supportedSources = Settings.ServerValues.getWikipediaSupportedExternalLinkSources();
                                 if(supportedSources.contains(targetTextLowercase)) {
                                     siteName = targetText + ": " + href.text();
                                 }

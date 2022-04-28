@@ -4,7 +4,10 @@ import me.randomhashtags.worldlaws.*;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
+import java.net.URLEncoder;
+import java.nio.charset.StandardCharsets;
 import java.util.Base64;
+import java.util.Collection;
 import java.util.HashSet;
 import java.util.LinkedHashMap;
 
@@ -55,7 +58,7 @@ public interface SpotifyService extends QuotaHandler, RestAPI, DataValues {
         query.put("market", "US");
         return requestJSONObject(url, headers, query);
     }
-    default JSONObject getSpotifyAlbum(HashSet<String> artists, String album) {
+    default JSONObject getSpotifyAlbum(Collection<String> artists, String album) {
         final long started = System.currentTimeMillis();
         album = LocalServer.fixUnescapeValues(album);
         final JSONObject json = tryRequesting(album);
@@ -79,14 +82,15 @@ public interface SpotifyService extends QuotaHandler, RestAPI, DataValues {
             final LinkedHashMap<String, String> headers = new LinkedHashMap<>(GET_CONTENT_HEADERS);
             headers.put("Authorization", accessToken);
             final LinkedHashMap<String, String> query = new LinkedHashMap<>();
-            query.put("q", album.replace(" ", "%20"));
+            album = URLEncoder.encode(album, StandardCharsets.UTF_8);
+            query.put("q", album);
             query.put("limit", "50");
             query.put("type", "album");
             json = requestJSONObject(url, headers, query);
         }
         return json;
     }
-    private JSONObject getAlbumFromItems(String album, HashSet<String> artists, JSONArray itemsArray) {
+    private JSONObject getAlbumFromItems(String album, Collection<String> artists, JSONArray itemsArray) {
         // TODO: support accents on letters in the album or artist name
         album = album.toLowerCase();
         for(Object obj : itemsArray) {
@@ -126,7 +130,7 @@ public interface SpotifyService extends QuotaHandler, RestAPI, DataValues {
         }
         return null;
     }
-    private boolean hasArtist(HashSet<String> artists, String artist) {
+    private boolean hasArtist(Collection<String> artists, String artist) {
         final HashSet<String> lowercaseArtists = new HashSet<>();
         for(String targetArtist : artists) {
             lowercaseArtists.add(LocalServer.fixUnescapeValues(targetArtist.toLowerCase()));

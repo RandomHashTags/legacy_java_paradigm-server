@@ -4,9 +4,10 @@ import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.ServerRequestType;
 import me.randomhashtags.worldlaws.request.WLHttpHandler;
-import me.randomhashtags.worldlaws.service.wikipedia.WikipediaService;
+import me.randomhashtags.worldlaws.service.YouTubeService;
+import org.json.JSONArray;
 
-public final class UpcomingEvents implements WLServer {
+public final class UpcomingEvents implements WLServer, YouTubeService {
     public static final UpcomingEvents INSTANCE = new UpcomingEvents();
 
     public static void main(String[] args) {
@@ -24,7 +25,9 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void test() {
-        WikipediaService.getWikipediaPage("2022_in_sports_by_month");
+        final long started = System.currentTimeMillis();
+        final JSONArray json = getVideosJSONArray(YouTubeVideoType.VIDEO_GAME, "Cricket 22");
+        WLLogger.logInfo("UpcomingEvents;test;array=" + (json != null ? json.toString() : "null") + ";took " + WLUtilities.getElapsedTime(started));
     }
 
     @Override
