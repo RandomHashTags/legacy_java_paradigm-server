@@ -5,7 +5,7 @@ import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.service.NewCountryService;
 import me.randomhashtags.worldlaws.service.WikipediaCountryService;
-import me.randomhashtags.worldlaws.service.WikipediaService;
+import me.randomhashtags.worldlaws.service.wikipedia.WikipediaService;
 import me.randomhashtags.worldlaws.settings.ResponseVersions;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONArray;

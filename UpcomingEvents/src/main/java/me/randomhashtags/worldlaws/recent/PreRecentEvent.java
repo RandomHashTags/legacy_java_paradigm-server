@@ -4,21 +4,21 @@ import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
-import me.randomhashtags.worldlaws.notifications.RemoteNotificationCategory;
+import me.randomhashtags.worldlaws.notifications.RemoteNotificationSubcategory;
 
 import java.util.Objects;
 
 public class PreRecentEvent {
-    protected final RemoteNotificationCategory category;
+    protected final RemoteNotificationSubcategory category;
     protected final EventDate date;
     protected final String title, description, imageURL;
     protected final EventSources sources;
     protected final JSONObjectTranslatable customValues;
 
-    public PreRecentEvent(RemoteNotificationCategory category, EventDate date, String title, String description, String imageURL, EventSources sources) {
+    public PreRecentEvent(RemoteNotificationSubcategory category, EventDate date, String title, String description, String imageURL, EventSources sources) {
         this(category, date, title, description, imageURL, sources, null);
     }
-    public PreRecentEvent(RemoteNotificationCategory category, EventDate date, String title, String description, String imageURL, EventSources sources, JSONObjectTranslatable customValues) {
+    public PreRecentEvent(RemoteNotificationSubcategory category, EventDate date, String title, String description, String imageURL, EventSources sources, JSONObjectTranslatable customValues) {
         this.category = category;
         this.date = date;
         this.title = LocalServer.fixEscapeValues(title);
@@ -31,7 +31,7 @@ public class PreRecentEvent {
     public boolean areEqual(PreRecentEvent right) {
         return date.equals(right.date) && Objects.equals(title, right.title) && Objects.equals(description, right.description);
     }
-    public RemoteNotificationCategory getRemoteNotificationCategory() {
+    public RemoteNotificationSubcategory getRemoteNotificationCategory() {
         return category;
     }
     public String getIdentifier() {

@@ -3,7 +3,7 @@ package me.randomhashtags.worldlaws.observances;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
-import me.randomhashtags.worldlaws.service.WikipediaDocument;
+import me.randomhashtags.worldlaws.service.wikipedia.WikipediaDocument;
 import me.randomhashtags.worldlaws.settings.ResponseVersions;
 import org.json.JSONArray;
 import org.json.JSONObject;

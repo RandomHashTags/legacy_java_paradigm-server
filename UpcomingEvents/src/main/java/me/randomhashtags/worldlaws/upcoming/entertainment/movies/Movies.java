@@ -3,7 +3,7 @@ package me.randomhashtags.worldlaws.upcoming.entertainment.movies;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.service.IMDbService;
-import me.randomhashtags.worldlaws.service.WikipediaDocument;
+import me.randomhashtags.worldlaws.service.wikipedia.WikipediaDocument;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;

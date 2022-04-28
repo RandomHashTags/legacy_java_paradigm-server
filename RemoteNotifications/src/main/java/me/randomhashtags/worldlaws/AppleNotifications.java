@@ -2,57 +2,48 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.notifications.RemoteNotification;
 import me.randomhashtags.worldlaws.notifications.RemoteNotificationCategory;
+import me.randomhashtags.worldlaws.notifications.RemoteNotificationSubcategory;
 import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
-import org.json.JSONArray;
 import org.json.JSONObject;
 
-import java.util.*;
+import java.util.Base64;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.LinkedHashMap;
 
-public enum AppleNotifications implements DeviceTokenController {
+public enum AppleNotifications implements RemoteNotificationDeviceTokenController {
     // https://developer.apple.com/documentation/usernotifications/setting_up_a_remote_notification_server
     // https://developer.apple.com/documentation/usernotifications/setting_up_a_remote_notification_server/establishing_a_token-based_connection_to_apns
     INSTANCE;
 
-    private final HashMap<RemoteNotificationCategory, HashSet<String>> deviceTokens;
+    private final HashMap<RemoteNotificationSubcategory, HashSet<String>> deviceTokens;
     private String connectionToken;
 
     AppleNotifications() {
         deviceTokens = new HashMap<>();
-        final Folder folder = Folder.DEVICE_TOKENS;
-        final String folderName = folder.getFolderName().replace("%type%", "apple");
-        for(RemoteNotificationCategory category : RemoteNotificationCategory.values()) {
-            deviceTokens.put(category, new HashSet<>());
-            final String fileName = category.name();
-            folder.setCustomFolderName(fileName, folderName);
-            final JSONArray array = Jsonable.getStaticFileJSONArray(folder, fileName);
-            if(array != null && !array.isEmpty()) {
-                final HashSet<String> tokens = new HashSet<>();
-                for(Object obj : array) {
-                    tokens.add((String) obj);
-                }
-                deviceTokens.put(category, tokens);
-            }
-            folder.removeCustomFolderName(fileName);
-        }
+        insertDeviceTokens(deviceTokens);
     }
 
     @Override
-    public void save() {
-        final Folder folder = Folder.DEVICE_TOKENS;
-        final String folderName = folder.getFolderName().replace("%type%", "apple");
-        for(Map.Entry<RemoteNotificationCategory, HashSet<String>> entry : deviceTokens.entrySet()) {
-            final String fileName = entry.getKey().name();
-            final HashSet<String> tokens = entry.getValue();
-            folder.setCustomFolderName(fileName, folderName);
-            Jsonable.setFileJSONArray(folder, fileName, new JSONArray(tokens));
-        }
+    public RemoteNotificationCategory getCategory() {
+        return RemoteNotificationCategory.APPLE;
+    }
+
+    @Override
+    public DeviceTokenType getDeviceTokenType() {
+        return DeviceTokenType.APPLE;
+    }
+
+    @Override
+    public HashMap<RemoteNotificationSubcategory, HashSet<String>> getDeviceTokens() {
+        return deviceTokens;
     }
 
     public void tryUpdatingToken() {
         final Folder folder = Folder.DEVICE_TOKENS;
         final String fileName = "connectionToken";
-        folder.setCustomFolderName(fileName, folder.getFolderName().replace("%type%", "apple"));
+        folder.setCustomFolderName(fileName, getCategoryFolderName());
         final JSONObject json = getJSONObject(Folder.DEVICE_TOKENS, fileName, new CompletionHandler() {
             @Override
             public JSONObject loadJSONObject() {
@@ -66,21 +57,6 @@ public enum AppleNotifications implements DeviceTokenController {
             token = generateConnectionToken(json.getLong("iat"));
         }
         connectionToken = Base64.getUrlEncoder().encodeToString(token.getBytes());
-    }
-
-    @Override
-    public void register(RemoteNotificationCategory category, String deviceToken) {
-        deviceTokens.get(category).add(deviceToken);
-    }
-
-    @Override
-    public void unregister(RemoteNotificationCategory category, String deviceToken) {
-        deviceTokens.get(category).remove(deviceToken);
-    }
-
-    @Override
-    public boolean isRegistered(RemoteNotificationCategory category, String deviceToken) {
-        return deviceTokens.containsKey(category) && deviceTokens.get(category).contains(deviceToken);
     }
 
     private String refreshConnectionToken() {
@@ -110,7 +86,7 @@ public enum AppleNotifications implements DeviceTokenController {
     public void sendNotification(RemoteNotification notification) {
         final long started = System.currentTimeMillis();
         final String uuid = notification.getUUID();
-        final RemoteNotificationCategory category = notification.getCategory();
+        final RemoteNotificationSubcategory category = notification.getSubCategory();
         if(!deviceTokens.get(category).isEmpty()) {
             final HashSet<String> tokens = deviceTokens.get(category);
             final JSONObject aps = new JSONObject();

@@ -2,7 +2,7 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.notifications.RemoteNotification;
-import me.randomhashtags.worldlaws.notifications.RemoteNotificationCategory;
+import me.randomhashtags.worldlaws.notifications.RemoteNotificationSubcategory;
 import me.randomhashtags.worldlaws.recent.PreRecentEvent;
 import me.randomhashtags.worldlaws.recent.RecentEventController;
 import me.randomhashtags.worldlaws.recent.RecentEventType;
@@ -57,8 +57,8 @@ public enum RecentEvents {
         });
         if(!newEvents.isEmpty()) {
             new CompletableFutures<PreRecentEvent>().stream(newEvents, event -> {
-                final RemoteNotificationCategory category = event.getRemoteNotificationCategory();
-                new RemoteNotification(category, false, category.getTitle(), event.getTitle(), event.getDescription());
+                final RemoteNotificationSubcategory category = event.getRemoteNotificationCategory();
+                new RemoteNotification(category, false, category.getName(), event.getTitle(), event.getDescription());
             });
             RemoteNotification.pushPending();
         }

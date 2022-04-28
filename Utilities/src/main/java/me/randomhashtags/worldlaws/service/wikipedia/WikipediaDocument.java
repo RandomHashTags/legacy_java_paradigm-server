@@ -1,4 +1,4 @@
-package me.randomhashtags.worldlaws.service;
+package me.randomhashtags.worldlaws.service.wikipedia;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.settings.Settings;

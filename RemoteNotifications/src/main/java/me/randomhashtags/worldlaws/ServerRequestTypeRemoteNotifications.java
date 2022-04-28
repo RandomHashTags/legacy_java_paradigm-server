@@ -5,6 +5,7 @@ import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.locale.JSONTranslatable;
 import me.randomhashtags.worldlaws.notifications.RemoteNotification;
 import me.randomhashtags.worldlaws.notifications.RemoteNotificationCategory;
+import me.randomhashtags.worldlaws.notifications.RemoteNotificationSubcategory;
 import me.randomhashtags.worldlaws.request.ServerRequestType;
 import me.randomhashtags.worldlaws.request.WLHttpHandler;
 import me.randomhashtags.worldlaws.settings.ResponseVersions;
@@ -45,21 +46,11 @@ public enum ServerRequestTypeRemoteNotifications implements ServerRequestType {
                     }
                     return null;
                 case REGISTER:
-                    switch (values[0]) {
-                        case "apple": return handleDeviceToken(AppleNotifications.INSTANCE, values, true);
-                        case "google": return null;
-                        default: return null;
-                    }
+                    return handleDeviceToken(values, true);
                 case UNREGISTER:
-                    switch (values[0]) {
-                        case "apple": return handleDeviceToken(AppleNotifications.INSTANCE, values, false);
-                        default: return null;
-                    }
+                    return handleDeviceToken(values, false);
                 case GET_REGISTERED:
-                    switch (values[0]) {
-                        case "apple": return getRegisteredCategories(AppleNotifications.INSTANCE, values);
-                        default: return null;
-                    }
+                    return getAllRegisteredSubcategories(values);
                 case DELETE:
                     switch (values[0]) {
                         case "apple": return delete(AppleNotifications.INSTANCE, values);
@@ -70,45 +61,87 @@ public enum ServerRequestTypeRemoteNotifications implements ServerRequestType {
             }
         };
     }
-    private JSONObjectTranslatable getCategories() {
+    public static JSONObjectTranslatable getCategories() {
         final JSONObjectTranslatable json = new JSONObjectTranslatable();
         json.put("version", ResponseVersions.REMOTE_NOTIFICATIONS.getValue());
         for(RemoteNotificationCategory category : RemoteNotificationCategory.values()) {
-            json.put(category.getID(), category.toJSONObject());
+            final RemoteNotificationSubcategory[] subcategories = category.getSubcategories();
+            if(subcategories != null) {
+                final JSONObjectTranslatable categoryJSON = new JSONObjectTranslatable("subcategories");
+                categoryJSON.put("name", category.getName());
+                final JSONObjectTranslatable subcategoriesJSON = new JSONObjectTranslatable();
+                for(RemoteNotificationSubcategory subcategory : subcategories) {
+                    final String id = subcategory.getID();
+                    subcategoriesJSON.put(id, subcategory.toJSONObject());
+                    subcategoriesJSON.addTranslatedKey(id);
+                }
+                categoryJSON.put("subcategories", subcategoriesJSON);
+                final String id = category.getID();
+                json.put(id, categoryJSON);
+                json.addTranslatedKey(id);
+            }
         }
         return json;
     }
 
-    private JSONTranslatable handleDeviceToken(DeviceTokenController controller, String[] values, boolean register) {
-        final String token = values[2];
-        final RemoteNotificationCategory category = RemoteNotificationCategory.valueOfString(values[1]);
-        if(category != null) {
-            if(register) {
-                controller.register(category, token);
-            } else {
-                controller.unregister(category, token);
+    private JSONTranslatable handleDeviceToken(String[] values, boolean register) {
+        final DeviceTokenType tokenType = DeviceTokenType.valueOfString(values[0]);
+        if(tokenType != null) {
+            final RemoteNotificationDeviceTokenController controller = tokenType.getController();
+            final RemoteNotificationCategory category = RemoteNotificationCategory.valueOfString(values[1]);
+            if(controller != null && category != null) {
+                final RemoteNotificationSubcategory subcategory = category.valueOfSubcategory(values[2]);
+                if(subcategory != null) {
+                    final String token = values[3];
+                    if(register) {
+                        controller.register(subcategory, token);
+                    } else {
+                        controller.unregister(subcategory, token);
+                    }
+                    final JSONObjectTranslatable json = new JSONObjectTranslatable();
+                    json.put("value", true);
+                    return json;
+                }
             }
-            final JSONObjectTranslatable json = new JSONObjectTranslatable();
-            json.put("value", true);
-            return json;
         }
         return null;
     }
-    private JSONArrayTranslatable getRegisteredCategories(DeviceTokenController controller, String[] values) {
-        final String token = values[2];
-        final JSONArrayTranslatable array = new JSONArrayTranslatable();
-        for(RemoteNotificationCategory category : RemoteNotificationCategory.values()) {
-            final boolean isRegistered = controller.isRegistered(category, token);
-            if(isRegistered) {
-                array.put(category.getID());
+    private JSONObjectTranslatable getAllRegisteredSubcategories(String[] values) {
+        final DeviceTokenType tokenType = DeviceTokenType.valueOfString(values[0]);
+        if(tokenType != null) {
+            final RemoteNotificationDeviceTokenController controller = tokenType.getController();
+            if(controller != null) {
+                final JSONObjectTranslatable json = new JSONObjectTranslatable();
+                final String token = values[2];
+                for(RemoteNotificationCategory category : RemoteNotificationCategory.values()) {
+                    final RemoteNotificationSubcategory[] subcategories = category.getSubcategories();
+                    if(subcategories != null) {
+                        final JSONArrayTranslatable subcategoriesArray = new JSONArrayTranslatable();
+                        for(RemoteNotificationSubcategory subcategory : subcategories) {
+                            final boolean isRegistered = controller.isRegistered(subcategory, token);
+                            if(isRegistered) {
+                                subcategoriesArray.put(subcategory.getID());
+                            }
+                        }
+                        if(!subcategoriesArray.isEmpty()) {
+                            json.put(category.getID(), subcategoriesArray);
+                        }
+                    }
+                }
+                return json;
             }
         }
-        return array;
+        return null;
     }
-    private JSONObjectTranslatable delete(DeviceTokenController controller, String[] values) {
+    private JSONObjectTranslatable delete(RemoteNotificationDeviceTokenController controller, String[] values) {
         final String token = values[2];
         for(RemoteNotificationCategory category : RemoteNotificationCategory.values()) {
-            controller.unregister(category, token);
+            final RemoteNotificationSubcategory[] subcategories = category.getSubcategories();
+            if(subcategories != null) {
+                for(RemoteNotificationSubcategory subcategory : subcategories) {
+                    controller.unregister(subcategory, token);
+                }
+            }
         }
         final JSONObjectTranslatable json = new JSONObjectTranslatable();
         json.put("value", true);

@@ -136,6 +136,9 @@ public enum Settings {
         public static String getUUID() {
             return getOrDefaultString(getServersJSON(), "uuid", "***REMOVED***");
         }
+        public static String getSandboxUUID() {
+            return getOrDefaultString(getServersJSON(), "sandbox_uuid", "***REMOVED***");
+        }
         public static String getRunServersCommand() {
             return getOrDefaultString(getServersJSON(), "runServersCommand", "bash runServers.sh");
         }

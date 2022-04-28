@@ -2,7 +2,7 @@ package me.randomhashtags.worldlaws.upcoming.entertainment;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
-import me.randomhashtags.worldlaws.service.WikipediaDocument;
+import me.randomhashtags.worldlaws.service.wikipedia.WikipediaDocument;
 import me.randomhashtags.worldlaws.settings.ResponseVersions;
 import me.randomhashtags.worldlaws.upcoming.events.PresentationEvent;
 import me.randomhashtags.worldlaws.upcoming.events.PresentationEventType;
@@ -199,7 +199,7 @@ public enum PresentationType implements Jsoupable {
             case GOOGLE_IO: return refreshGoogleIO();
             case MET_GALA: return refreshMetGala();
             case NINTENDO_DIRECT: return refreshNintendoDirect();
-            case TWITCHCON: return refreshTwitchCon();
+            //case TWITCHCON: return refreshTwitchCon(); wikipedia editors broke it
             default: return null;
         }
     }

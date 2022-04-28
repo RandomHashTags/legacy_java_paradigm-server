@@ -3,11 +3,9 @@ package me.randomhashtags.worldlaws;
 import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.ServerRequestType;
 
-import java.util.UUID;
-
 public final class RemoteNotifications implements WLServer {
 
-    private static final DeviceTokenController[] CONTROLLERS = new DeviceTokenController[] {
+    private static final RemoteNotificationDeviceTokenController[] CONTROLLERS = new RemoteNotificationDeviceTokenController[] {
             AppleNotifications.INSTANCE
     };
 
@@ -21,13 +19,12 @@ public final class RemoteNotifications implements WLServer {
     }
 
     private void test() {
-        final UUID uuid = UUID.randomUUID();
-        WLLogger.logInfo("RemoteNotifications;uuid=" + uuid.toString());
+        WLLogger.logInfo("RemoteNotifications;test;string=" + ServerRequestTypeRemoteNotifications.getCategories().toString());
     }
 
     @Override
     public void stop() {
-        for(DeviceTokenController controller : CONTROLLERS) {
+        for(RemoteNotificationDeviceTokenController controller : CONTROLLERS) {
             controller.save();
         }
     }

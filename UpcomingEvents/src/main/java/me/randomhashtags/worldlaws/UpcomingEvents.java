@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.ServerRequestType;
 import me.randomhashtags.worldlaws.request.WLHttpHandler;
+import me.randomhashtags.worldlaws.service.wikipedia.WikipediaService;
 
 public final class UpcomingEvents implements WLServer {
     public static final UpcomingEvents INSTANCE = new UpcomingEvents();
@@ -23,8 +24,7 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void test() {
-        final String platform = "iOS/15.0";
-        //WLLogger.logInfo("UpcomingEvents;test;isValidPlatform=" + WLHttpExchange.isValidPlatform(platform));
+        WikipediaService.getWikipediaPage("2022_in_sports_by_month");
     }
 
     @Override

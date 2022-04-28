@@ -146,7 +146,7 @@ public final class WLHttpExchange extends HttpExchange {
                         final String regex = "[0-9]+\\.?[0-9]?+\\.?[0-9]?";
                         return target.matches(regex);
                     case "***REMOVED***":
-                        return isValidIdentifier(target);
+                        return Settings.Server.getSandboxUUID().equals(target);
                     case "***REMOVED***":
                         return Settings.Server.getUUID().equals(target);
                     default:

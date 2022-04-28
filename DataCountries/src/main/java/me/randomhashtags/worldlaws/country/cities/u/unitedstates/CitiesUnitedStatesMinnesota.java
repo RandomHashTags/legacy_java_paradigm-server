@@ -5,7 +5,7 @@ import me.randomhashtags.worldlaws.country.cities.City;
 import me.randomhashtags.worldlaws.country.cities.CityController;
 import me.randomhashtags.worldlaws.country.subdivisions.u.SubdivisionsUnitedStates;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
-import me.randomhashtags.worldlaws.service.WikipediaDocument;
+import me.randomhashtags.worldlaws.service.wikipedia.WikipediaDocument;
 import org.json.JSONObject;
 
 import java.util.HashSet;

@@ -1,24 +1,16 @@
 package me.randomhashtags.worldlaws.notifications;
 
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
+import me.randomhashtags.worldlaws.notifications.subcategory.RemoteNotificationSubcategoryApple;
+import me.randomhashtags.worldlaws.notifications.subcategory.RemoteNotificationSubcategoryPlayStation;
+import me.randomhashtags.worldlaws.notifications.subcategory.RemoteNotificationSubcategoryVideoGame;
+import me.randomhashtags.worldlaws.notifications.subcategory.RemoteNotificationSubcategoryWeather;
 
 public enum RemoteNotificationCategory {
-    SOFTWARE_UPDATE_APPLE_IOS,
-    SOFTWARE_UPDATE_APPLE_IPADOS,
-    SOFTWARE_UPDATE_APPLE_MACOS,
-    SOFTWARE_UPDATE_APPLE_WATCHOS,
-    SOFTWARE_UPDATE_APPLE_TVOS,
-    SOFTWARE_UPDATE_APPLE_APPLE_TV,
-    SOFTWARE_UPDATE_APPLE_SAFARI,
-    SOFTWARE_UPDATE_APPLE_XCODE,
-    SOFTWARE_UPDATE_APPLE_SECURITY,
-
-    SOFTWARE_UPDATE_CONSOLE_PLAYSTATION_4,
-    SOFTWARE_UPDATE_CONSOLE_PLAYSTATION_5,
-
-    VIDEO_GAME_UPDATE,
-
-    WEATHER_LOCAL_ALERT,
+    APPLE,
+    PLAYSTATION,
+    VIDEO_GAME,
+    WEATHER,
     ;
 
     public static RemoteNotificationCategory valueOfString(String input) {
@@ -34,32 +26,48 @@ public enum RemoteNotificationCategory {
         return name().toLowerCase();
     }
 
-    public String getTitle() {
+    public String getName() {
         switch (this) {
-            case SOFTWARE_UPDATE_APPLE_IOS:
-            case SOFTWARE_UPDATE_APPLE_IPADOS:
-            case SOFTWARE_UPDATE_APPLE_MACOS:
-            case SOFTWARE_UPDATE_APPLE_WATCHOS:
-            case SOFTWARE_UPDATE_APPLE_TVOS:
-            case SOFTWARE_UPDATE_APPLE_APPLE_TV:
-            case SOFTWARE_UPDATE_APPLE_SAFARI:
-            case SOFTWARE_UPDATE_APPLE_XCODE:
-                return "Apple Software Update";
-            case SOFTWARE_UPDATE_CONSOLE_PLAYSTATION_4:
-            case SOFTWARE_UPDATE_CONSOLE_PLAYSTATION_5:
-                return "PlayStation Console Update";
-            case VIDEO_GAME_UPDATE:
-                return "Video Game Update";
-            case WEATHER_LOCAL_ALERT:
-                return "Local Weather Alert";
-            default:
-                return "Unknown";
+            case APPLE: return "Apple";
+            case PLAYSTATION: return "PlayStation";
+            case VIDEO_GAME: return "Video Games";
+            case WEATHER: return "Weather";
+            default: return "Unknown";
         }
+    }
+
+    public RemoteNotificationSubcategory[] getSubcategories() {
+        switch (this) {
+            case APPLE: return RemoteNotificationSubcategoryApple.values();
+            case PLAYSTATION: return RemoteNotificationSubcategoryPlayStation.values();
+            case VIDEO_GAME: return RemoteNotificationSubcategoryVideoGame.values();
+            case WEATHER: return RemoteNotificationSubcategoryWeather.values();
+            default: return null;
+        }
+    }
+    public RemoteNotificationSubcategory valueOfSubcategory(String id) {
+        final RemoteNotificationSubcategory[] subcategories = getSubcategories();
+        if(subcategories != null) {
+            for(RemoteNotificationSubcategory subcategory : subcategories) {
+                if(subcategory.getID().equals(id)) {
+                    return subcategory;
+                }
+            }
+        }
+        return null;
     }
 
     public JSONObjectTranslatable toJSONObject() {
         final JSONObjectTranslatable json = new JSONObjectTranslatable("title");
-        json.put("title", getTitle());
+        json.put("title", getName());
+        final RemoteNotificationSubcategory[] subcategories = getSubcategories();
+        if(subcategories != null) {
+            final JSONObjectTranslatable subcategoriesJSON = new JSONObjectTranslatable();
+            for(RemoteNotificationSubcategory subcategory : subcategories) {
+                subcategoriesJSON.put(subcategory.getID(), subcategory.toJSONObject());
+            }
+            json.put("subcategories", subcategoriesJSON);
+        }
         return json;
     }
 }

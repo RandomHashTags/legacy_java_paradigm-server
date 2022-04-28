@@ -5,7 +5,7 @@ import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
-import me.randomhashtags.worldlaws.notifications.RemoteNotificationCategory;
+import me.randomhashtags.worldlaws.notifications.subcategory.RemoteNotificationSubcategoryApple;
 import me.randomhashtags.worldlaws.recent.PreRecentEvent;
 import me.randomhashtags.worldlaws.recent.RecentEventController;
 import me.randomhashtags.worldlaws.recent.RecentEventType;
@@ -59,25 +59,24 @@ public final class AppleSoftwareUpdates extends RecentEventController {
                                         isMacOS = name.startsWith("***REMOVED***"),
                                         isWatchOS = name.startsWith("***REMOVED***"),
                                         isTVOS = name.startsWith("***REMOVED***"),
-                                        isAppleTV = name.startsWith("Apple TV"),
                                         isSafari = name.startsWith("***REMOVED***"),
                                         isXcode = name.startsWith("***REMOVED***")
                                                 ;
                                 if(isSecurity
                                         || isIOS || isIPadOS || isMacOS || isWatchOS
-                                        || isTVOS || isAppleTV
+                                        || isTVOS
                                         || isSafari
                                         || isXcode
                                 ) {
-                                    final RemoteNotificationCategory category = isSecurity ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_SECURITY
-                                            : isIOS ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_IOS
-                                            : isIPadOS ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_IPADOS
-                                            : isMacOS ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_MACOS
-                                            : isWatchOS ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_WATCHOS
-                                            : isTVOS ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_TVOS
-                                            : isAppleTV ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_APPLE_TV
-                                            : isSafari ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_SAFARI
-                                            : isXcode ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_XCODE
+                                    final RemoteNotificationSubcategoryApple category =
+                                            isSecurity ? RemoteNotificationSubcategoryApple.MACOS_SECURITY_UPDATE
+                                            : isIOS ? RemoteNotificationSubcategoryApple.IOS_UPDATE
+                                            : isIPadOS ? RemoteNotificationSubcategoryApple.IPADOS_UPDATE
+                                            : isMacOS ? RemoteNotificationSubcategoryApple.MACOS_UPDATE
+                                            : isWatchOS ? RemoteNotificationSubcategoryApple.WATCHOS_UPDATE
+                                            : isTVOS ? RemoteNotificationSubcategoryApple.TVOS_UPDATE
+                                            : isSafari ? RemoteNotificationSubcategoryApple.SAFARI_UPDATE
+                                            : isXcode ? RemoteNotificationSubcategoryApple.XCODE_UPDATE
                                             : null;
                                     String description = null;
                                     for(Map.Entry<String, String> map : descriptionValues.entrySet()) {

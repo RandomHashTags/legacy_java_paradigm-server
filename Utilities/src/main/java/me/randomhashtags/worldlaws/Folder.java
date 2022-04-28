@@ -33,7 +33,7 @@ public enum Folder {
     SERVICES_FINANCE_YAHOO_FINANCE_CHARTS("services" + File.separator + "finance" + File.separator + "yahooFinance" + File.separator + "charts"),
 
     DIRECTORY(""),
-    DEVICE_TOKENS("deviceTokens" + File.separator + "%type%"),
+    DEVICE_TOKENS("deviceTokens" + File.separator + "%type%" + File.separator + "%category%"),
     ERRORS("errors" + File.separator + "%errorName%"),
     FEEDBACK_BUG_REPORTS("feedback" + File.separator + "bug reports"),
     FEEDBACK_FEATURE_REQUEST("feedback" + File.separator + "feature request"),
@@ -47,8 +47,8 @@ public enum Folder {
     UPCOMING_EVENTS_IDS("upcoming events" + File.separator + "%year%" + File.separator + "%month%" + File.separator + "%day%" + File.separator + "%type%"),
     UPCOMING_EVENTS_HOLIDAYS_TYPE("upcoming events" + File.separator + "holidays" + File.separator + "%type%"),
     UPCOMING_EVENTS_MOVIES("upcoming events" + File.separator + "movies"),
-    WEATHER_USA_ZONES,
-    WEATHER_USA_OFFICES,
+    WEATHER_COUNTRY_ZONES("weather" + File.separator + "%country%" + File.separator + "zones" + File.separator + "%type%" + File.separator + "%subdivision%"),
+    WEATHER_COUNTRY_OFFICES("weather" + File.separator + "%country%" + File.separator + "offices"),
     ;
 
     private final String folderName;

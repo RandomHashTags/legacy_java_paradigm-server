@@ -4,6 +4,7 @@
   },
   "server": {
     "uuid": "***REMOVED***",
+    "sandbox_uuid": "***REMOVED***",
     "runServersCommand": "bash runServers.sh",
     "serverRebootFrequencyInDays": 3,
     "server_handler_port": 0,

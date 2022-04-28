@@ -13,11 +13,12 @@ import java.util.UUID;
 
 public final class RemoteNotification extends JSONObject implements Jsonable {
 
-    public RemoteNotification(RemoteNotificationCategory category, boolean badge, String title, String subtitle, String body) {
+    public RemoteNotification(RemoteNotificationSubcategory category, boolean badge, String title, String subtitle, String body) {
         super();
         final String uuid = "***REMOVED***";
         put("uuid", uuid);
-        put("category", category.name());
+        put("category", category.getCategory().getID());
+        put("subcategory", category.getID());
         put("badge", badge);
         if(title != null) {
             put("title", title);
@@ -40,7 +41,10 @@ public final class RemoteNotification extends JSONObject implements Jsonable {
         return getString("uuid");
     }
     public RemoteNotificationCategory getCategory() {
-        return RemoteNotificationCategory.valueOf(getString("category"));
+        return RemoteNotificationCategory.valueOfString(getString("category"));
+    }
+    public RemoteNotificationSubcategory getSubCategory() {
+        return getCategory().valueOfSubcategory(getString("subcategory"));
     }
     public boolean hasBadge() {
         return getBoolean("badge");

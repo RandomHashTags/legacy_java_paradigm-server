@@ -4,7 +4,7 @@ import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.Folder;
-import me.randomhashtags.worldlaws.notifications.RemoteNotificationCategory;
+import me.randomhashtags.worldlaws.notifications.subcategory.RemoteNotificationSubcategoryPlayStation;
 import me.randomhashtags.worldlaws.recent.PreRecentEvent;
 import me.randomhashtags.worldlaws.recent.RecentEventController;
 import me.randomhashtags.worldlaws.recent.RecentEventType;
@@ -50,7 +50,7 @@ public final class PlayStation5Updates extends RecentEventController {
                 } else {
                     description.append(paragraphs.get(1).text());
                 }
-                final PreRecentEvent event = new PreRecentEvent(RemoteNotificationCategory.SOFTWARE_UPDATE_CONSOLE_PLAYSTATION_5, date, updateNotesTitle, description.toString(), null, new EventSources(new EventSource("PlayStation Support: PS5 System Software", url)));
+                final PreRecentEvent event = new PreRecentEvent(RemoteNotificationSubcategoryPlayStation.PLAYSTATION_5_SYSTEM_UPDATE, date, updateNotesTitle, description.toString(), null, new EventSources(new EventSource("PlayStation Support: PS5 System Software", url)));
                 updates = new HashSet<>() {{ add(event); }};
             }
         }

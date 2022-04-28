@@ -12,6 +12,7 @@ public final class PreUpcomingEvent {
     private final String customTypeSingularName, id, title, url, tag;
     private final List<String> countries;
     private final JSONObjectTranslatable customValues;
+    private ClientEmoji clientEmoji;
 
     public static PreUpcomingEvent fromUpcomingEventJSON(UpcomingEventType type, String id, JSONObject json) {
         final String title = json.getString("title");
@@ -77,6 +78,12 @@ public final class PreUpcomingEvent {
     public List<String> getCountries() {
         return countries;
     }
+    public ClientEmoji getClientEmoji() {
+        return clientEmoji;
+    }
+    public void setClientEmoji(ClientEmoji clientEmoji) {
+        this.clientEmoji = clientEmoji;
+    }
 
     public Object getCustomValue(String key) {
         return customValues != null ? customValues.opt(key) : null;
@@ -105,6 +112,9 @@ public final class PreUpcomingEvent {
         json.put("title", title);
         if(tag != null && !tag.equals(title)) {
             json.put("tag", getTag());
+        }
+        if(clientEmoji != null) {
+            json.put("clientEmoji", clientEmoji.getIdentifier());
         }
         if(customTypeSingularName != null) {
             json.put("customTypeSingularName", customTypeSingularName);

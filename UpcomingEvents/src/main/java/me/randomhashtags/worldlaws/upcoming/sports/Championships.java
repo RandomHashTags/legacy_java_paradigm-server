@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.upcoming.sports;
 
 import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.service.WikipediaDocument;
+import me.randomhashtags.worldlaws.service.wikipedia.WikipediaDocument;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
@@ -131,14 +131,18 @@ public final class Championships extends UpcomingEventController { // https://en
                         final String id = getEventDateIdentifier(eventDate.getDateString(), event);
                         final String suffix = ", " + (usages == 0 ? "BEGINS TODAY" : startingLocalDate.equals(endingLocalDate) ? "ENDS TODAY" : "CONTINUED");
                         final String tag = sport + suffix;
+                        final ClientEmoji clientEmoji = ClientEmoji.valueOfString(sport);
                         final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, event, eventURL, tag, countries);
+                        preUpcomingEvent.setClientEmoji(clientEmoji);
                         putPreUpcomingEvent(id, preUpcomingEvent);
                         startingLocalDate = startingLocalDate.plusDays(1);
                         usages += 1;
                     }
                 } else {
                     final String id = getEventDateIdentifier(startingDateString, event);
+                    final ClientEmoji clientEmoji = ClientEmoji.valueOfString(sport);
                     final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, event, eventURL, sport, countries);
+                    preUpcomingEvent.setClientEmoji(clientEmoji);
                     putPreUpcomingEvent(id, preUpcomingEvent);
                 }
             }

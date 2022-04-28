@@ -6,7 +6,7 @@ import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.history.CountryHistoryEra;
 import me.randomhashtags.worldlaws.history.CountryHistorySection;
 import me.randomhashtags.worldlaws.history.ICountryHistory;
-import me.randomhashtags.worldlaws.service.WikipediaDocument;
+import me.randomhashtags.worldlaws.service.wikipedia.WikipediaDocument;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
