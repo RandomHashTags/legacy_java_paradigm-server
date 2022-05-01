@@ -5,7 +5,10 @@ import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.ServerRequestType;
 import me.randomhashtags.worldlaws.request.WLHttpHandler;
 import me.randomhashtags.worldlaws.service.YouTubeService;
-import org.json.JSONArray;
+import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
+import me.randomhashtags.worldlaws.upcoming.science.WikipediaTodaysFeaturedPicture;
+
+import java.util.Map;
 
 public final class UpcomingEvents implements WLServer, YouTubeService {
     public static final UpcomingEvents INSTANCE = new UpcomingEvents();
@@ -26,8 +29,12 @@ public final class UpcomingEvents implements WLServer, YouTubeService {
 
     private void test() {
         final long started = System.currentTimeMillis();
-        final JSONArray json = getVideosJSONArray(YouTubeVideoType.VIDEO_GAME, "Cricket 22");
-        WLLogger.logInfo("UpcomingEvents;test;array=" + (json != null ? json.toString() : "null") + ";took " + WLUtilities.getElapsedTime(started));
+        final WikipediaTodaysFeaturedPicture wikipedia = new WikipediaTodaysFeaturedPicture();
+        wikipedia.refresh();
+        for(Map.Entry<String, UpcomingEvent> entry : wikipedia.getUpcomingEvents().entrySet()) {
+            WLLogger.logInfo("UpcomingEvents;test;entry.key=" + entry.getKey() + ";entry.value=" + entry.getValue().toString());
+        }
+        WLLogger.logInfo("UpcomingEvents;took " + WLUtilities.getElapsedTime(started));
     }
 
     @Override

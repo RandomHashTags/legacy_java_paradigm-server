@@ -55,7 +55,7 @@ public abstract class UpcomingEvent extends JSONObjectTranslatable implements Js
     private void setClientKeysToBeRemoved() {
         setRemovedClientKeys("eventDate");
     }
-    protected void insertProperties() {
+    public void insertProperties() {
         final JSONObjectTranslatable properties = getPropertiesJSONObject();
         if(properties != null && !properties.isEmpty()) {
             put("properties", properties);

@@ -15,7 +15,7 @@ public enum RemoteNotificationCategory {
 
     public static RemoteNotificationCategory valueOfString(String input) {
         for(RemoteNotificationCategory category : RemoteNotificationCategory.values()) {
-            if(category.name().equalsIgnoreCase(input)) {
+            if(category.getID().equalsIgnoreCase(input)) {
                 return category;
             }
         }
@@ -49,7 +49,7 @@ public enum RemoteNotificationCategory {
         final RemoteNotificationSubcategory[] subcategories = getSubcategories();
         if(subcategories != null) {
             for(RemoteNotificationSubcategory subcategory : subcategories) {
-                if(subcategory.getID().equals(id)) {
+                if(subcategory.getID().equalsIgnoreCase(id)) {
                     return subcategory;
                 }
             }
@@ -58,13 +58,15 @@ public enum RemoteNotificationCategory {
     }
 
     public JSONObjectTranslatable toJSONObject() {
-        final JSONObjectTranslatable json = new JSONObjectTranslatable("title");
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("title", "subcategories");
         json.put("title", getName());
         final RemoteNotificationSubcategory[] subcategories = getSubcategories();
         if(subcategories != null) {
             final JSONObjectTranslatable subcategoriesJSON = new JSONObjectTranslatable();
             for(RemoteNotificationSubcategory subcategory : subcategories) {
-                subcategoriesJSON.put(subcategory.getID(), subcategory.toJSONObject());
+                final String id = subcategory.getID();
+                subcategoriesJSON.put(id, subcategory.toJSONObject());
+                subcategoriesJSON.addTranslatedKey(id);
             }
             json.put("subcategories", subcategoriesJSON);
         }

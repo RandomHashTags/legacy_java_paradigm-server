@@ -16,7 +16,6 @@ public final class VideoGameEvent extends UpcomingEvent {
         final JSONObject properties = json.getJSONObject("properties");
         platforms = properties.getString(UpcomingEventValue.VIDEO_GAME_PLATFORMS.getKey());
         genres = properties.getString(UpcomingEventValue.VIDEO_GAME_GENRES.getKey());
-        insertProperties();
     }
     public VideoGameEvent(EventDate date, String title, String description, String coverArtURL, String platforms, String genres, JSONArray youtubeVideoIDs, EventSources sources) {
         super(date, title, description, coverArtURL, null, youtubeVideoIDs, sources);

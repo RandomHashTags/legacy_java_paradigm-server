@@ -16,7 +16,6 @@ public final class APODEvent extends UpcomingEvent {
         final JSONObject properties = json.optJSONObject("properties", new JSONObject());
         copyright = properties.optString(UpcomingEventValue.ASTRONOMY_PICTURE_OF_THE_DAY_COPYRIGHT.getKey(), null);
         videoURL = properties.optString(UpcomingEventValue.ASTRONOMY_PICTURE_OF_THE_DAY_VIDEO_URL.getKey(), null);
-        insertProperties();
     }
     public APODEvent(EventDate date, String title, String description, String imageURL, String copyright, String videoURL, EventSources sources) {
         super(date, title, description, imageURL, null, null, sources);

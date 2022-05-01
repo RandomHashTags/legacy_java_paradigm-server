@@ -15,7 +15,6 @@ public class VideoGameRelease extends UpcomingEvent {
         super(json);
         final JSONObject properties = json.getJSONObject("properties");
         genres = properties.getJSONArray("genres");
-        insertProperties();
     }
     public VideoGameRelease(EventDate date, String title, String description, String imageURL, JSONArray genres, EventSources sources) {
         super(date, title, description, imageURL, null, null, sources);

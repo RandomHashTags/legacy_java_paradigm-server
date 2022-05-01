@@ -152,6 +152,9 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
             } else {
                 final JSONObject json = new JSONObject(string);
                 event = parseUpcomingEvent(json);
+                if(event != null) {
+                    event.insertProperties();
+                }
             }
             if(event != null) {
                 final LoadedPreUpcomingEvent value = toLoadedPreUpcomingEvent(identifier, event);

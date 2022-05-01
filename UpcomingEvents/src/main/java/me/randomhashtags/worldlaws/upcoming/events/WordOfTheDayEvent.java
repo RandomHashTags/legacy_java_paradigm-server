@@ -17,7 +17,6 @@ public final class WordOfTheDayEvent extends UpcomingEvent {
         pronunciationURL = properties.optString(UpcomingEventValue.WORD_OF_THE_DAY_PRONUNCIATION_URL.getKey(), null);
         type = properties.getString(UpcomingEventValue.WORD_OF_THE_DAY_TYPE.getKey());
         syllables = properties.getString(UpcomingEventValue.WORD_OF_THE_DAY_SYLLABLES.getKey());
-        insertProperties();
     }
     public WordOfTheDayEvent(EventDate date, String title, String description, String imageURL, String pronunciationURL, String type, String syllables, EventSources sources) {
         super(date, title, description, imageURL, null, null, sources);

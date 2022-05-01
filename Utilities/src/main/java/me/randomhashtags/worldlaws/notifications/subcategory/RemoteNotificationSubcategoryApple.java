@@ -14,15 +14,6 @@ public enum RemoteNotificationSubcategoryApple implements RemoteNotificationSubc
     XCODE_UPDATE,
     ;
 
-    public static RemoteNotificationSubcategoryApple valueOfString(String input) {
-        for(RemoteNotificationSubcategoryApple category : RemoteNotificationSubcategoryApple.values()) {
-            if(category.name().equalsIgnoreCase(input)) {
-                return category;
-            }
-        }
-        return null;
-    }
-
     @Override
     public RemoteNotificationCategory getCategory() {
         return RemoteNotificationCategory.APPLE;

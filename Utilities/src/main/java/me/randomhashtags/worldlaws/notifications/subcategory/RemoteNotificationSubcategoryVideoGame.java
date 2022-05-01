@@ -7,15 +7,6 @@ public enum RemoteNotificationSubcategoryVideoGame implements RemoteNotification
     VIDEO_GAME_UPDATE,
     ;
 
-    public static RemoteNotificationSubcategoryVideoGame valueOfString(String input) {
-        for(RemoteNotificationSubcategoryVideoGame category : RemoteNotificationSubcategoryVideoGame.values()) {
-            if(category.name().equalsIgnoreCase(input)) {
-                return category;
-            }
-        }
-        return null;
-    }
-
     @Override
     public RemoteNotificationCategory getCategory() {
         return RemoteNotificationCategory.VIDEO_GAME;

@@ -155,6 +155,7 @@ public enum ServerRequestTypeRemoteNotifications implements ServerRequestType {
             case UNREGISTER:
             case IS_REGISTERED:
             case GET_REGISTERED:
+            case DELETE:
                 return true;
             default:
                 return false;

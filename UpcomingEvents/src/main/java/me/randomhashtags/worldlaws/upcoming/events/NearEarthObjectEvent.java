@@ -21,7 +21,6 @@ public class NearEarthObjectEvent extends UpcomingEvent {
         estimatedDiameterMin = properties.getFloat(UpcomingEventValue.NEAR_EARTH_OBJECT_ESTIMATED_DIAMETER_MIN.getKey());
         estimatedDiameterMax = properties.getFloat(UpcomingEventValue.NEAR_EARTH_OBJECT_ESTIMATED_DIAMETER_MAX.getKey());
         relativeVelocity = properties.getString(UpcomingEventValue.NEAR_EARTH_OBJECT_RELATIVE_VELOCITY.getKey());
-        insertProperties();
     }
     public NearEarthObjectEvent(EventDate date, String name, long closeApproachEpoch, boolean potentiallyHazardous, float estimatedDiameterMin, float estimatedDiameterMax, String relativeVelocity, EventSources sources) {
         super(date, "NEO: " + name, "Near earth object description??", null, null, null, sources);

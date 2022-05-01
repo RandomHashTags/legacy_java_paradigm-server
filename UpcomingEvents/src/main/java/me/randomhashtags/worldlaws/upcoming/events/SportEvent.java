@@ -15,7 +15,6 @@ public final class SportEvent extends UpcomingEvent {
         super(json);
         final JSONObject properties = json.getJSONObject("properties");
         venue = properties.getString("venue");
-        insertProperties();
     }
     public SportEvent(EventDate date, String event, String description, String location, String posterURL, String venue, EventSources sources) {
         super(date, event, description, posterURL, location, null, sources);

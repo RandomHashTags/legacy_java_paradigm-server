@@ -20,7 +20,6 @@ public final class MovieEvent extends UpcomingEvent {
         ratings = properties.optString("ratings", null);
         imdbInfo = properties.optJSONObject("imdbInfo");
         productionCompanies = properties.getJSONArray("productionCompanies");
-        insertProperties();
     }
     public MovieEvent(EventDate date, String title, String description, String posterURL, JSONArray productionCompanies, String releaseInfo, JSONObject imdbInfo, String ratings, JSONArray youtubeVideoIDs, EventSources sources) {
         super(date, title, description, posterURL, null, youtubeVideoIDs, sources);

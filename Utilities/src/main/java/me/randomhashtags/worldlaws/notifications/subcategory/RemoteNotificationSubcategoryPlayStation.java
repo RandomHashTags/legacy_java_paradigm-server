@@ -8,15 +8,6 @@ public enum RemoteNotificationSubcategoryPlayStation implements RemoteNotificati
     PLAYSTATION_5_SYSTEM_UPDATE,
     ;
 
-    public static RemoteNotificationSubcategoryPlayStation valueOfString(String input) {
-        for(RemoteNotificationSubcategoryPlayStation category : RemoteNotificationSubcategoryPlayStation.values()) {
-            if(category.name().equalsIgnoreCase(input)) {
-                return category;
-            }
-        }
-        return null;
-    }
-
     @Override
     public RemoteNotificationCategory getCategory() {
         return RemoteNotificationCategory.PLAYSTATION;

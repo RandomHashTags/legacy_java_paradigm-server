@@ -17,7 +17,6 @@ public final class PresentationEvent extends UpcomingEvent {
         tag = properties.getString("tag");
         final JSONObject externalLinksJSON = properties.optJSONObject("externalLinks", null);
         externalLinks = externalLinksJSON != null ? new EventSources(externalLinksJSON) : null;
-        insertProperties();
     }
     public PresentationEvent(EventDate date, String title, String description, String imageURL, String location, String tag, EventSources externalLinks) {
         super(date, title, description, imageURL, location, null, null);

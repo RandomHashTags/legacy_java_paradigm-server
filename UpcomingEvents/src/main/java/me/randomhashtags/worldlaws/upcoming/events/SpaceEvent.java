@@ -16,7 +16,6 @@ public final class SpaceEvent extends UpcomingEvent {
         final JSONObject properties = json.optJSONObject("properties", new JSONObject());
         newsURL = properties.optString(UpcomingEventValue.SPACE_EVENT_NEWS_URL.getKey(), null);
         videoURL = properties.optString(UpcomingEventValue.SPACE_EVENT_VIDEO_URL.getKey(), null);
-        insertProperties();
     }
     public SpaceEvent(EventDate date, String title, String description, String imageURL, String location, String newsURL, String videoURL, EventSources sources) {
         super(date, title, description, imageURL, location, null, sources);

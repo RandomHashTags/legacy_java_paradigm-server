@@ -15,7 +15,6 @@ public final class MLBEvent extends UpcomingEvent {
         final JSONObject properties = json.getJSONObject("properties");
         awayTeam = MLBTeam.parse(properties.getJSONObject(UpcomingEventValue.MLB_TEAM_AWAY.getKey()));
         homeTeam = MLBTeam.parse(properties.getJSONObject(UpcomingEventValue.MLB_TEAM_HOME.getKey()));
-        insertProperties();
     }
     public MLBEvent(EventDate date, String event, MLBTeam awayTeam, MLBTeam homeTeam, String location, EventSources sources) {
         super(date, event, null, null, location, null, sources);

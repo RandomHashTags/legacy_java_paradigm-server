@@ -7,15 +7,6 @@ public enum RemoteNotificationSubcategoryWeather implements RemoteNotificationSu
     LOCAL_ALERT,
     ;
 
-    public static RemoteNotificationSubcategoryWeather valueOfString(String input) {
-        for(RemoteNotificationSubcategoryWeather category : RemoteNotificationSubcategoryWeather.values()) {
-            if(category.name().equalsIgnoreCase(input)) {
-                return category;
-            }
-        }
-        return null;
-    }
-
     @Override
     public RemoteNotificationCategory getCategory() {
         return RemoteNotificationCategory.WEATHER;

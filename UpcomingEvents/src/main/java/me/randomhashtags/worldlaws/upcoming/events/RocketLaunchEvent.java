@@ -30,7 +30,6 @@ public final class RocketLaunchEvent extends UpcomingEvent {
         } else {
             mission = null;
         }
-        insertProperties();
     }
     public RocketLaunchEvent(EventDate date, String name, String status, String location, boolean exactDay, boolean exactTime, int probability, String rocketImageURL, RocketLaunchMission mission, String windowStart, String windowEnd, EventSources sources) {
         super(date, name, null, rocketImageURL, location, null, sources);

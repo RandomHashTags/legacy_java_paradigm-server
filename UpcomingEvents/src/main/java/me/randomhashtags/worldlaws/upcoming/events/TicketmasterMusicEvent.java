@@ -29,7 +29,6 @@ public final class TicketmasterMusicEvent extends UpcomingEvent {
             final TicketmasterVenue venue = new TicketmasterVenue(venueJSON);
             venues.add(venue);
         }
-        insertProperties();
     }
     public TicketmasterMusicEvent(EventDate date, String title, String description, String imageURL, JSONObject ticketLimit, JSONObject priceRange, String seatMapURL, List<TicketmasterVenue> venues, EventSources sources) {
         super(date, title, description, imageURL, null, null, sources);

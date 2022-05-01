@@ -17,7 +17,6 @@ public final class JokeOfTheDayEvent extends UpcomingEvent {
         copyright = properties.getString(UpcomingEventValue.JOKE_OF_THE_DAY_COPYRIGHT.getKey());
         question = properties.getString(UpcomingEventValue.JOKE_OF_THE_DAY_QUESTION.getKey());
         answer = properties.getString(UpcomingEventValue.JOKE_OF_THE_DAY_ANSWER.getKey());
-        insertProperties();
     }
     public JokeOfTheDayEvent(EventDate date, String title, String description, String imageURL, String copyright, String question, String answer, EventSources sources) {
         super(date, title, description, imageURL, null, null, sources);

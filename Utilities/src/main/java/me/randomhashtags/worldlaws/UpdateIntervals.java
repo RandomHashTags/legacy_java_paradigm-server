@@ -25,6 +25,11 @@ public enum UpdateIntervals {
         public static final long RECENT_ACTIVITY = TimeUnit.HOURS.toMillis(3);
     }
 
+    public enum RemoteNotifications {
+        ;
+        public static final long SAVE_DEVICE_TOKENS = TimeUnit.HOURS.toMillis(1);
+    }
+
     public enum Services {
         ;
         public static final long HOME = TimeUnit.HOURS.toMillis(1);

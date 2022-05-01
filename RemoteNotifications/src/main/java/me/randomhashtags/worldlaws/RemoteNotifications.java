@@ -24,6 +24,10 @@ public final class RemoteNotifications implements WLServer {
 
     @Override
     public void stop() {
+        saveDeviceTokens();
+    }
+
+    private void saveDeviceTokens() {
         for(RemoteNotificationDeviceTokenController controller : CONTROLLERS) {
             controller.save();
         }
@@ -39,6 +43,12 @@ public final class RemoteNotifications implements WLServer {
         return new ServerRequest[] {
                 new ServerRequest(ServerRequestTypeRemoteNotifications.CATEGORIES)
         };
+    }
+
+    @Override
+    public long getHomeResponseUpdateInterval() {
+        registerFixedTimer(UpdateIntervals.RemoteNotifications.SAVE_DEVICE_TOKENS, this::saveDeviceTokens);
+        return 0;
     }
 
     @Override

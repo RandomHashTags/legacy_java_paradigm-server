@@ -15,11 +15,6 @@ import org.json.JSONObject;
 
 import java.time.LocalDate;
 import java.time.Month;
-import java.util.Collection;
-import java.util.Comparator;
-import java.util.HashSet;
-import java.util.Map;
-import java.util.concurrent.ConcurrentHashMap;
 
 public final class TVShows extends LoadedUpcomingEventController {
 
@@ -41,8 +36,6 @@ public final class TVShows extends LoadedUpcomingEventController {
             final int max = array.length();
             if(max > 0) {
                 final LocalDate nextWeek = LocalDate.now().plusWeeks(1);
-                final ConcurrentHashMap<String, Collection<TVShowEvent>> shows = new ConcurrentHashMap<>();
-                final ConcurrentHashMap<TVShowEvent, LoadedPreUpcomingEvent> loadedShows = new ConcurrentHashMap<>();
                 new CompletableFutures<JSONObject>().stream(array, json -> {
                     final int season = json.getInt("season");
                     final JSONObject showJSON = json.getJSONObject("_embedded").getJSONObject("show");
@@ -52,7 +45,6 @@ public final class TVShows extends LoadedUpcomingEventController {
                         final EventDate eventDate = new EventDate(Month.of(airMonth), airDay, airYear);
                         if(eventDate.getLocalDate().isBefore(nextWeek)) {
                             final String dateString = eventDate.getDateString();
-                            shows.putIfAbsent(dateString, new HashSet<>());
                             final int popularity = showJSON.getInt("weight");
 
                             final String episodeName = json.getString("name");
@@ -92,7 +84,6 @@ public final class TVShows extends LoadedUpcomingEventController {
                             }
 
                             final TVShowEvent tvShowEvent = new TVShowEvent(eventDate, showTitle, null, imageURL, null, popularity, language, countryCode, officialSite, network, runtimeMinutes, season, episode, episodeName, episodeSummary, genres, sources);
-                            shows.get(dateString).add(tvShowEvent);
 
                             JSONObjectTranslatable customValues = null;
                             if(popularity > 0) {
@@ -100,21 +91,11 @@ public final class TVShows extends LoadedUpcomingEventController {
                                 customValues.put("popularity", popularity);
                             }
                             final LoadedPreUpcomingEvent loadedPreUpcomingEvent = tvShowEvent.toPreUpcomingEventJSON(eventType, identifier, tag, null, customValues);
-                            loadedShows.put(tvShowEvent, loadedPreUpcomingEvent);
+                            putLoadedPreUpcomingEvent(loadedPreUpcomingEvent);
+                            putUpcomingEvent(identifier, tvShowEvent);
                         }
                     }
                 });
-                for(Map.Entry<String, Collection<TVShowEvent>> entry : new ConcurrentHashMap<>(shows).entrySet()) {
-                    final Collection<TVShowEvent> events = entry.getValue();
-                    new HashSet<>(events).stream().sorted(Comparator.comparingInt(TVShowEvent::getPopularity)).limit(50).forEach(event -> {
-                        final LoadedPreUpcomingEvent loadedPreUpcomingEvent = loadedShows.get(event);
-                        if(loadedPreUpcomingEvent != null) {
-                            putLoadedPreUpcomingEvent(loadedPreUpcomingEvent);
-                            final String identifier = loadedPreUpcomingEvent.getIdentifier();
-                            putUpcomingEvent(identifier, event);
-                        }
-                    });
-                }
             }
         }
     }

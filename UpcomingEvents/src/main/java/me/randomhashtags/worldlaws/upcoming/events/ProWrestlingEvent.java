@@ -15,7 +15,6 @@ public class ProWrestlingEvent extends UpcomingEvent {
         final JSONObject properties = json.getJSONObject("properties");
         mainEvent = properties.getString(UpcomingEventValue.WRESTLING_MAIN_EVENT.getKey());
         notes = properties.getString(UpcomingEventValue.WRESTLING_NOTES.getKey());
-        insertProperties();
     }
     public ProWrestlingEvent(EventDate date, String title, String description, String imageURL, String location, String mainEvent, String notes, EventSources sources) {
         super(date, title, description, imageURL, location, null, sources);

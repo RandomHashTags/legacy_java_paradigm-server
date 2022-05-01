@@ -354,6 +354,11 @@ public enum UpcomingEventType {
                         UpcomingEventValue.ROCKET_LAUNCH_PROBABILITY
                 );
 
+            case SPOTIFY_NEW_MUSIC_FRIDAY:
+                return collectValues(
+                        UpcomingEventValue.SPOTIFY_NEW_MUSIC_FRIDAY_TRACKS
+                );
+
             case TICKETMASTER_MUSIC_EVENT:
                 return collectValues(
                         UpcomingEventValue.TICKETMASTER_MUSIC_SEAT_MAP_URL,

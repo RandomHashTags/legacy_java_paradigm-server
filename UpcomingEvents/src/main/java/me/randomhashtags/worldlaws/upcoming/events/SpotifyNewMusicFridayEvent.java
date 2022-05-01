@@ -23,7 +23,6 @@ public final class SpotifyNewMusicFridayEvent extends UpcomingEvent {
             final SpotifyTrack track = new SpotifyTrack(trackJSON);
             tracks.put(track);
         }
-        insertProperties();
     }
     public SpotifyNewMusicFridayEvent(EventDate date, String title, String description, String imageURL, JSONArrayTranslatable tracks, EventSources sources) {
         super(date, title, description, imageURL, null, null, sources);

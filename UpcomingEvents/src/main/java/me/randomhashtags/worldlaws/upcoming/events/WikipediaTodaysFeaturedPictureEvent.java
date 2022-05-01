@@ -12,10 +12,15 @@ public class WikipediaTodaysFeaturedPictureEvent extends UpcomingEvent {
 
     public WikipediaTodaysFeaturedPictureEvent(JSONObject json) {
         super(json);
+        final JSONObject propertiesJSON = json.optJSONObject("properties", null);
+        if(propertiesJSON != null && propertiesJSON.has("externalSources")) {
+            externalSources = new EventSources(propertiesJSON.getJSONObject("externalSources"));
+        }
     }
     public WikipediaTodaysFeaturedPictureEvent(EventDate date, String title, String description, String imageURL, EventSources sources, EventSources externalSources) {
         super(date, title, description, imageURL, null, null, sources);
         this.externalSources = externalSources;
+        insertProperties();
     }
 
     @Override
@@ -26,7 +31,7 @@ public class WikipediaTodaysFeaturedPictureEvent extends UpcomingEvent {
     @Override
     public JSONObjectTranslatable getPropertiesJSONObject() {
         final JSONObjectTranslatable json = new JSONObjectTranslatable();
-        if(externalSources != null) {
+        if(externalSources != null && !externalSources.isEmpty()) {
             json.put("externalSources", externalSources.toJSONObject());
         }
         return json;
