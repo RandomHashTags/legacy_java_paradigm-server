@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws.service;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.service.wikipedia.WikipediaDocument;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.nodes.Element;
@@ -12,6 +13,9 @@ import java.time.Month;
 import java.util.*;
 
 public class WikipediaEvent extends JSONObject {
+
+    private JSONArray images;
+
     public WikipediaEvent(String description, EventSources externalLinks, EventSources sources) {
         put("description", description);
         if(externalLinks != null) {
@@ -20,6 +24,37 @@ public class WikipediaEvent extends JSONObject {
         if(!sources.isEmpty()) {
             put("sources", sources.toJSONObject());
         }
+    }
+
+    public JSONArray getImages(int amountToLoad) {
+        if(images == null) {
+            final JSONObject externalLinksJSON = optJSONObject("externalLinks", null);
+            if(externalLinksJSON != null) {
+                images = new JSONArray();
+                final EventSources externalLinks = new EventSources(externalLinksJSON);
+                int amountLoaded = 0;
+                final String wikipediaKey = "https://en.wikipedia.org/wiki/";
+                for(EventSource source : externalLinks) {
+                    final String url = source.getHomepageURL();
+                    if(url.startsWith(wikipediaKey)) {
+                        final WikipediaDocument doc = new WikipediaDocument(url);
+                        final List<String> docImages = doc.getImages();
+                        if(!docImages.isEmpty()) {
+                            final String first = docImages.get(0);
+                            images.put(first);
+                            amountLoaded += 1;
+                            if(amountLoaded == amountToLoad) {
+                                break;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        if(images != null && !images.isEmpty()) {
+            put("images", images);
+        }
+        return images;
     }
 
     public final void updateMentionedCountries(WLCountry parentCountry) {

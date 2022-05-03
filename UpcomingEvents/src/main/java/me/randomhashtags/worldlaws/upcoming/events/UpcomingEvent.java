@@ -84,13 +84,15 @@ public abstract class UpcomingEvent extends JSONObjectTranslatable implements Js
     public abstract JSONObjectTranslatable getPropertiesJSONObject();
 
     public LoadedPreUpcomingEvent toPreUpcomingEventJSON(UpcomingEventType type, String id, String tag) {
-        return toPreUpcomingEventJSON(type, id, tag, null, null);
+        return toPreUpcomingEventJSON(type, id, tag, null);
+    }
+    public LoadedPreUpcomingEvent toPreUpcomingEventJSON(UpcomingEventType type, String id, String tag, List<String> countries) {
+        return toPreUpcomingEventJSON(type, id, tag, countries, null);
     }
     public LoadedPreUpcomingEvent toPreUpcomingEventJSON(UpcomingEventType type, String id, String tag, List<String> countries, JSONObjectTranslatable customValues) {
         final String title = getTitle(), imageURL = optString("imageURL", null);
         return new PreUpcomingEvent(customTypeSingularName, id, title, null, tag, countries, customValues).toLoadedPreUpcomingEventWithImageURL(type, imageURL);
     }
-
 
     @Override
     public HashSet<String> getTranslatedKeys() {

@@ -122,10 +122,10 @@ public final class PreUpcomingEvent {
         if(imageURL != null) {
             json.put("imageURL", optimizeImageURL(type, imageURL));
         }
-        if(countries != null) {
+        if(countries != null && !countries.isEmpty()) {
             json.put("countries", getCountriesArray());
         }
-        if(customValues != null) {
+        if(customValues != null && !customValues.isEmpty()) {
             json.put("customValues", customValues);
         }
         return new LoadedPreUpcomingEvent(id, json);

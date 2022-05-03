@@ -23,6 +23,7 @@ public enum UpcomingEventValueType {
     TICKETMASTER_VENUES,
     TIMESTAMP,
     VIDEO_URL,
+    WIKIPEDIA_EVENTS,
     ;
 
     public static final UpcomingEventValueType DEFAULT = UpcomingEventValueType.STRING;

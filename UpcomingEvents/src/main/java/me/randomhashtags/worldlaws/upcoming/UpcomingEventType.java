@@ -149,6 +149,7 @@ public enum UpcomingEventType {
             case MOVIE:
                 return "https://m.media-amazon.com/images/";
             case MUSIC_ALBUM:
+            case SCIENCE_YEAR_REVIEW:
             case SPORT_CHAMPIONSHIPS:
             case SPORT_UFC:
             case SPORT_PROFESSIONAL_WRESTLING:
@@ -312,6 +313,11 @@ public enum UpcomingEventType {
                         UpcomingEventValue.MUSIC_ALBUM_DETAILS_SPOTIFY,
                         UpcomingEventValue.MUSIC_ALBUM_DETAILS_ITUNES,
                         UpcomingEventValue.MUSIC_ALBUM_ARTIST
+                );
+
+            case SCIENCE_YEAR_REVIEW:
+                return collectValues(
+                        UpcomingEventValue.SCIENCE_YEAR_REVIEW_YEARS
                 );
 
             case SPACE_EVENT:

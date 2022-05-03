@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.upcoming.events;
 
 import me.randomhashtags.worldlaws.country.Location;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import org.json.JSONObject;
 
 public final class TicketmasterVenue {
@@ -9,15 +10,15 @@ public final class TicketmasterVenue {
 
     public TicketmasterVenue(JSONObject json) {
         name = json.getString("name");
-        imageURL = json.getString("imageURL");
+        imageURL = json.optString("imageURL", null);
         countryCode = json.getString("countryCode");
         subdivisionName = json.optString("subdivisionName", null);
         cityName = json.getString("cityName");
         location = json.has("location") ? new Location(json.getJSONArray("location")) : null;
         generalRule = json.optString("generalRule", null);
         childRule = json.optString("childRule", null);
-        parkingDetail = json.getString("parkingDetail");
-        accessibleSeatingInfo = json.getString("accessibleSeatingInfo");
+        parkingDetail = json.optString("parkingDetail", null);
+        accessibleSeatingInfo = json.optString("accessibleSeatingInfo", null);
     }
     public TicketmasterVenue(String name, String imageURL, Location location, String countryCode, String subdivisionName, String cityName, String generalRule, String childRule, String parkingDetail, String accessibleSeatingInfo) {
         this.name = name;
@@ -35,9 +36,11 @@ public final class TicketmasterVenue {
     public String getName() {
         return name;
     }
-    public JSONObject toJSONObject() {
-        final JSONObject json = new JSONObject();
-        json.put("imageURL", imageURL);
+    public JSONObjectTranslatable toJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("generalRule", "childRule", "parkingDetail", "accessibleSeatingInfo");
+        if(imageURL != null) {
+            json.put("imageURL", imageURL);
+        }
         json.put("countryCode", countryCode);
         if(subdivisionName != null) {
             json.put("subdivisionName", subdivisionName);
@@ -52,8 +55,12 @@ public final class TicketmasterVenue {
         if(childRule != null) {
             json.put("childRule", childRule);
         }
-        json.put("parkingDetail", parkingDetail);
-        json.put("accessibleSeatingInfo", accessibleSeatingInfo);
+        if(parkingDetail != null) {
+            json.put("parkingDetail", parkingDetail);
+        }
+        if(accessibleSeatingInfo != null) {
+            json.put("accessibleSeatingInfo", accessibleSeatingInfo);
+        }
         return json;
     }
 }

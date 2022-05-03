@@ -162,6 +162,12 @@ public enum UpcomingEventValue {
         putValueType(UpcomingEventValueType.PLACEHOLDER);
     }}),
 
+    SCIENCE_YEAR_REVIEW_YEARS(new UpcomingEventValueMap() {{
+        putCategory(UpcomingEventValueCategory.SCIENCE_YEAR_REVIEW_DETAILS);
+        putKey("years");
+        putValueType(UpcomingEventValueType.WIKIPEDIA_EVENTS);
+    }}),
+
     SPACE_EVENT_NEWS_URL(new UpcomingEventValueMap() {{
         putCategory(UpcomingEventValueCategory.SPACE_EVENT_DETAILS);
         putKey("newsURL");
@@ -169,6 +175,7 @@ public enum UpcomingEventValue {
     SPACE_EVENT_VIDEO_URL(new UpcomingEventValueMap() {{
         putCategory(UpcomingEventValueCategory.SPACE_EVENT_DETAILS);
         putKey("videoURL");
+        putValueType(UpcomingEventValueType.VIDEO_URL);
     }}),
 
     SPOTIFY_NEW_MUSIC_FRIDAY_TRACKS(new UpcomingEventValueMap() {{

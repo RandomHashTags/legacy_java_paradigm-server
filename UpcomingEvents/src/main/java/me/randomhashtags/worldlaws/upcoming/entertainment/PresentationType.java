@@ -472,7 +472,7 @@ public enum PresentationType implements Jsoupable {
         return events;
     }
     private List<PresentationEvent> refreshMetGala() {
-        final String title = "Met Gala", location = "Fifth Avenue, Manhattan, New York City, New York, United States", imageURL = null;
+        final String title = "Met Gala", location = "Fifth Avenue, Manhattan, New York City, New York, United States", imageURL = "https://upload.wikimedia.org/wikipedia/commons/3/30/The_MET.jpg";
         final WikipediaDocument doc = new WikipediaDocument(url);
         final String description = doc.getDescription();
         final EventSources externalLinks = doc.getExternalLinks();

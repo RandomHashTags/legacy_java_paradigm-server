@@ -32,6 +32,10 @@ public final class EventSource {
     public String getSiteName(boolean fixed) {
         return fixed ? fixedSiteName : siteName;
     }
+    public String getHomepageURL() {
+        return homepageURL;
+    }
+
     public JSONObjectTranslatable toJSONObject(boolean withSiteName) {
         final JSONObjectTranslatable json = new JSONObjectTranslatable();
         if(withSiteName) {

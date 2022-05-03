@@ -17,8 +17,8 @@ public enum WeatherUSA implements WeatherController {
     INSTANCE;
 
     private final String zonePrefix;
-    private final HashMap<String, WeatherZone> zones;
-    private final HashMap<String, JSONObject> forecastOffices;
+    private final ConcurrentHashMap<String, WeatherZone> zones;
+    private final ConcurrentHashMap<String, JSONObject> forecastOffices;
     private JSONObjectTranslatable previousWeatherAlerts;
     private HashMap<String, JSONObjectTranslatable> alertIDs, eventPreAlerts, territoryEvents;
     private HashMap<String, HashMap<String, JSONObjectTranslatable>> territoryPreAlerts;
@@ -26,8 +26,8 @@ public enum WeatherUSA implements WeatherController {
 
     WeatherUSA() {
         zonePrefix = "https://api\\.weather\\.gov/zones/";
-        zones = new HashMap<>();
-        forecastOffices = new HashMap<>();
+        zones = new ConcurrentHashMap<>();
+        forecastOffices = new ConcurrentHashMap<>();
     }
 
     @Override
@@ -263,7 +263,6 @@ public enum WeatherUSA implements WeatherController {
     private WeatherZone getWeatherZone(String zoneID) {
         final JSONObject json = getOrLoadWeatherZone(zoneID);
         if(json != null) {
-            final WLCountry unitedStates = getCountry();
             final String nameSuffix = zoneID.startsWith("county") ? " County" : null;
             if(json.has("geometry") && json.has("properties")) {
                 final JSONObject geometryJSON = json.getJSONObject("geometry"), properties = json.getJSONObject("properties");
@@ -274,6 +273,7 @@ public enum WeatherUSA implements WeatherController {
                     final JSONObject addressJSON = officeJSON.optJSONObject("address", null);
                     stateString = addressJSON != null ? addressJSON.optString("addressRegion", null) : null;
                 }
+                final WLCountry unitedStates = getCountry();
                 SovereignStateSubdivision subdivision = unitedStates.valueOfSovereignStateSubdivision(stateString);
                 if(subdivision == null) {
                     subdivision = unitedStates.valueOfSovereignStateSubdivision(zoneID.substring(0, 2));

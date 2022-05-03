@@ -198,7 +198,7 @@ public final class WikipediaDocument {
                                 if(siteName != null) {
                                     siteName = siteName.replace("\"", "");
                                 }
-                                WLLogger.logInfo("WikipediaDocument;getReferences;italicElement == null;identifier=" + identifier + ";number=" + number + ";values[1]=" + values[1] + ";siteName=" + siteName);
+                                //WLLogger.logInfo("WikipediaDocument;getReferences;italicElement == null;identifier=" + identifier + ";number=" + number + ";values[1]=" + values[1] + ";siteName=" + siteName);
                             } else {
                                 siteName = values[1];
                             }

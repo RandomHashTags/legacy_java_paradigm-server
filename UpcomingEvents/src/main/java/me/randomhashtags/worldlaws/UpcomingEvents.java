@@ -5,10 +5,6 @@ import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.ServerRequestType;
 import me.randomhashtags.worldlaws.request.WLHttpHandler;
 import me.randomhashtags.worldlaws.service.YouTubeService;
-import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
-import me.randomhashtags.worldlaws.upcoming.science.WikipediaTodaysFeaturedPicture;
-
-import java.util.Map;
 
 public final class UpcomingEvents implements WLServer, YouTubeService {
     public static final UpcomingEvents INSTANCE = new UpcomingEvents();
@@ -29,11 +25,9 @@ public final class UpcomingEvents implements WLServer, YouTubeService {
 
     private void test() {
         final long started = System.currentTimeMillis();
-        final WikipediaTodaysFeaturedPicture wikipedia = new WikipediaTodaysFeaturedPicture();
-        wikipedia.refresh();
-        for(Map.Entry<String, UpcomingEvent> entry : wikipedia.getUpcomingEvents().entrySet()) {
-            WLLogger.logInfo("UpcomingEvents;test;entry.key=" + entry.getKey() + ";entry.value=" + entry.getValue().toString());
-        }
+        final JSONObjectTranslatable json = ServerRequestTypeUpcomingEvents.WEEKLY_EVENTS.getTypeJSON();
+        WLLogger.logInfo("UpcomingEvents;test;json=" + (json != null ? json.toString() : "null"));
+        WLLogger.logInfo("UpcomingEvents;test;event=" + ServerRequestTypeUpcomingEvents.getUpcomingEvent("upcomingevents/science_year_review/5-2022-6.Today_in_Science").toString());
         WLLogger.logInfo("UpcomingEvents;took " + WLUtilities.getElapsedTime(started));
     }
 

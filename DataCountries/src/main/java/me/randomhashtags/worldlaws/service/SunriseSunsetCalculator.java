@@ -9,6 +9,7 @@ import java.time.temporal.JulianFields;
 public enum SunriseSunsetCalculator {
     // https://en.wikipedia.org/wiki/Sunrise_equation
     // https://en.wikipedia.org/wiki/Julian_day#Julian_date_calculation
+    // https://gml.noaa.gov/grad/solcalc/
     ;
 
     private static double toDegree(double radians) {
@@ -20,7 +21,7 @@ public enum SunriseSunsetCalculator {
     }
 
     public static void test() {
-        final double longitude = -98.583, latitude = 39.833;
+        final double longitude = -92.75, latitude = 44.02;
         final long julianDay = getCurrentJulianDay(), elevationInFeet = 0;
         final double sunrise = getJulianSunrise(julianDay, longitude, latitude, elevationInFeet);
         final double sunset = getJulianSunset(julianDay, longitude, latitude, elevationInFeet);
@@ -32,7 +33,7 @@ public enum SunriseSunsetCalculator {
 
     public static long getCurrentJulianDay() {
         //return (long) (getJulianDate() - 2451545.0 + getFractionalJulianDay());
-        return LocalDate.now().getLong(JulianFields.JULIAN_DAY);
+        return LocalDate.now().plusDays(1).getLong(JulianFields.JULIAN_DAY);
     }
     private static long getJulianDate() {
         final LocalDate now = LocalDate.now();

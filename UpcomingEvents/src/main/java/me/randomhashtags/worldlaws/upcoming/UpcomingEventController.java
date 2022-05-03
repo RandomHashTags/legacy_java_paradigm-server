@@ -3,7 +3,6 @@ package me.randomhashtags.worldlaws.upcoming;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
-import me.randomhashtags.worldlaws.recent.ScienceYearReview;
 import me.randomhashtags.worldlaws.service.YouTubeService;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.upcoming.entertainment.TVShows;
@@ -207,7 +206,7 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
     }
 
     public void putUpcomingEvent(String identifier, UpcomingEvent value) {
-        if(this instanceof TVShows || this instanceof ScienceYearReview) {
+        if(this instanceof TVShows) {
         } else {
             final String todayDateString = EventDate.getDateString(LocalDate.now()) + ".";
             if(identifier.startsWith(todayDateString)) {

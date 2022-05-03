@@ -12,7 +12,10 @@ import java.util.LinkedHashMap;
 public interface WikipediaService extends RestAPI, Jsonable, Jsoupable {
 
     static String getPictureThumbnailImageURL(Element img) {
-        return img.attr("src").replaceAll("/[0-9]+px-", "/%quality%px-");
+        return img.attr("src")
+                .replaceAll("/[0-9]+px-", "/%quality%px-")
+                .replaceAll("/lossy-page1-[0-9]+px-", "/lossy-page1-%quality%px-")
+                ;
     }
 
     default WikipediaDocument getWikipediaDocument(String url) {

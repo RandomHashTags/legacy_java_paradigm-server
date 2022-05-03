@@ -114,19 +114,22 @@ public enum ServerRequestTypeUpcomingEvents implements ServerRequestType {
     public static WLHttpHandler getDefaultHandler() {
         return httpExchange -> {
             final String path = httpExchange.getPath();
-            final String[] values = httpExchange.getPathValues();
-            final String key = values[1];
-            final UpcomingEventController controller = valueOfEventType(key);
-            if(controller != null) {
-                return controller.getUpcomingEvent(path.substring(values[0].length() + key.length() + 2));
-            } else {
-                WLLogger.logError("ServerRequestTypeUpcomingEvents", "getDefaultHandler - failed to get controller using key \"" + key + "\" with path \"" + path + "\"!");
-            }
-            return null;
+            return getUpcomingEvent(path);
         };
     }
+    public static JSONObjectTranslatable getUpcomingEvent(String path) {
+        final String[] values = path.split("/");
+        final String key = values[1];
+        final UpcomingEventController controller = valueOfEventType(key);
+        if(controller != null) {
+            return controller.getUpcomingEvent(path.substring(values[0].length() + key.length() + 2));
+        } else {
+            WLLogger.logError("ServerRequestTypeUpcomingEvents", "getUpcomingEvent - failed to get controller using key \"" + key + "\" with path \"" + path + "\"!");
+        }
+        return null;
+    }
 
-    private JSONObjectTranslatable getTypeJSON() {
+    JSONObjectTranslatable getTypeJSON() {
         if(!CACHE_JSONS.containsKey(this)) {
             JSONObjectTranslatable json = null;
             switch (this) {
