@@ -61,6 +61,15 @@ public class JSONObjectTranslatable extends JSONObject implements JSONTranslatab
         }
     }
 
+    public void append(JSONObjectTranslatable json) {
+        if(json != null) {
+            for(String key : json.keySet()) {
+                put(key, json.get(key));
+            }
+            addTranslatedKeys(json.getTranslatedKeys());
+        }
+    }
+
     @Override
     public void setTranslatedKeys(String...keys) {
         this.translatedKeys = new HashSet<>(Arrays.asList(keys));

@@ -59,18 +59,22 @@ public enum Holidays {
         WLLogger.logInfo("NewHolidays - refreshed near holidays (took " + WLUtilities.getElapsedTime(started) + ")");
     }
     private void insertHolidays(JSONObjectTranslatable json, HashMap<String, HashMap<String, PreHoliday>> holidays) {
-        for(Map.Entry<String, HashMap<String, PreHoliday>> map : holidays.entrySet()) {
-            final String dateString = map.getKey();
+        for(Map.Entry<String, HashMap<String, PreHoliday>> entry : holidays.entrySet()) {
+            final String dateString = entry.getKey();
             final JSONObjectTranslatable holidaysJSON = new JSONObjectTranslatable();
-            for(Map.Entry<String, PreHoliday> preHolidayMap : map.getValue().entrySet()) {
+            for(Map.Entry<String, PreHoliday> preHolidayMap : entry.getValue().entrySet()) {
                 final PreHoliday preHoliday = preHolidayMap.getValue();
                 final String identifier = preHoliday.getIdentifier();
                 preHoliday.insertCountries();
                 holidaysJSON.put(identifier, preHoliday);
                 holidaysJSON.addTranslatedKey(identifier);
             }
-            json.put(dateString, holidaysJSON);
-            json.addTranslatedKey(dateString);
+            if(json.has(dateString)) {
+                json.append(holidaysJSON);
+            } else {
+                json.put(dateString, holidaysJSON);
+                json.addTranslatedKey(dateString);
+            }
         }
     }
 

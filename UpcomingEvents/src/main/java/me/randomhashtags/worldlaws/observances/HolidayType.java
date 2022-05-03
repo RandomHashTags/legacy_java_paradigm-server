@@ -84,7 +84,7 @@ public enum HolidayType {
         if(holidays != null) {
             for(Holiday holiday : holidays) {
                 final JSONObjectTranslatable json = holiday.getJSONObjectTranslatable();
-                if(json != null && json.has("identifier") && json.getString("identifier").equals(identifier)) {
+                if(json != null && json.optString("identifier", "").equals(identifier)) {
                     return holiday;
                 }
             }
@@ -113,7 +113,7 @@ public enum HolidayType {
             }
 
             final Collection<WLCountry> countries = this == COUNTRIES ? Arrays.asList(WLCountry.values()) : null;
-
+            final WLCountry unCountry = this == UNITED_NATIONS ? WLCountry.UNITED_STATES : getCelebratingCountry();
             for(Holiday holiday : holidays) {
                 for(int year : years) {
                     if(countries != null) {
@@ -121,7 +121,7 @@ public enum HolidayType {
                             insertNearHolidays(country, holiday, startingDate, endingDate, year, list);
                         }
                     } else {
-                        insertNearHolidays(null, holiday, startingDate, endingDate, year, list);
+                        insertNearHolidays(unCountry, holiday, startingDate, endingDate, year, list);
                     }
                 }
             }
@@ -151,7 +151,9 @@ public enum HolidayType {
                 final String name = holiday.getName();
                 final HolidayType type = holiday.getType();
                 preHolidays.putIfAbsent(name, new PreHoliday(holiday.getIdentifier(), name, type, emoji, celebrators));
-                preHolidays.get(name).addCountry(country);
+                if(type != UNITED_NATIONS) {
+                    preHolidays.get(name).addCountry(country);
+                }
             }
         }
     }
