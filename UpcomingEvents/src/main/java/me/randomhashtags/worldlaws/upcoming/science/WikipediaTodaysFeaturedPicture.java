@@ -26,7 +26,7 @@ public final class WikipediaTodaysFeaturedPicture extends LoadedUpcomingEventCon
         final String url = "https://en.wikipedia.org/wiki/Main_Page";
         final Document doc = getDocument(url);
         if(doc != null) {
-            final String title = "Wikipedia: Today's featured picture";
+            final String title = "Wikipedia: Today's Featured Picture";
             final Elements bg = doc.select("div.MainPageBG");
             for(Element element : bg) {
                 final Element headlineElement = element.selectFirst("span.mw-headline");

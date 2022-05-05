@@ -77,7 +77,7 @@ public final class WLServerSocket {
         final KeyStore store = KeyStore.getInstance("JKS");
         final char[] password = Settings.Server.Https.Keystore.getPassword().toCharArray();
 
-        final String keystoreFileName = Settings.Server.Https.Keystore.getFileName() + ".keystore";
+        final String keystoreFileName = Settings.Server.Https.Keystore.getFileName();
         final FileInputStream file = new FileInputStream(keystoreFileName);
         store.load(file, password);
 

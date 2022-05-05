@@ -30,9 +30,9 @@ public final class WLHttpExchange extends HttpExchange {
         this.exchange = exchange;
     }
 
-    public String getIPAddress() {
-        final InetSocketAddress local = exchange.getLocalAddress(), remote = exchange.getRemoteAddress();
-        return (local != null ? local : remote).getAddress().toString();
+    public String getIPAddress(boolean remote) {
+        final InetSocketAddress address = (remote ? exchange.getRemoteAddress() : exchange.getLocalAddress());
+        return address != null ? address.getAddress().toString() : "null";
     }
 
     public RequestMethod getActualRequestMethod() {
@@ -203,6 +203,7 @@ public final class WLHttpExchange extends HttpExchange {
             }
             actualRequestBody = builder.toString();
             try {
+                in.close();
                 inputStream.close();
             } catch (Exception e) {
                 WLUtilities.saveException(e);

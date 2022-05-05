@@ -135,6 +135,8 @@ public final class ServerHandler implements UserServer {
         map.put("rebootservers", ServerStatuses::rebootServers);
         map.put("update", ServerStatuses::tryUpdatingServersIfAvailable);
         map.put("generatecertificates", CertbotHandler::generateCertificates);
+        map.put("importcertificates", CertbotHandler::importCertificates);
+        map.put("renewcertificates", CertbotHandler::renewCertificates);
         return map;
     }
 

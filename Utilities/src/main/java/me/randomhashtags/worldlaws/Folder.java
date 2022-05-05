@@ -88,13 +88,13 @@ public enum Folder {
         return folderName;
     }
     private String getCurrentFolderName(String id) {
-        final String currentFolder = Jsonable.USER_DIR;
+        final String currentFolder = Jsonable.CURRENT_FOLDER;
         final String folderName = getCurrentTargetFolderName(id);
         return currentFolder + folderName;
     }
 
     public String getFullFolderPath(String id) {
-        final String currentFolder = Jsonable.USER_DIR;
+        final String currentFolder = Jsonable.CURRENT_FOLDER;
         return currentFolder + getFolderPath(id);
     }
     public String getFolderPath(String id) {
@@ -138,6 +138,6 @@ public enum Folder {
                 paths.add(file.toPath());
             }
         }
-        return paths.isEmpty() ? null : paths;
+        return paths;
     }
 }

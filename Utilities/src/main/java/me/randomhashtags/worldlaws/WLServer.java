@@ -25,42 +25,6 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
     default WLHttpHandler getDefaultHandler() {
         return null;
     }
-    /*default WLHttpHandler getServerHandler() {
-        return httpExchange -> {
-            final String fullRequest = httpExchange.getPath(), identifier = httpExchange.getIdentifier();
-            final String[] values = fullRequest.split("/");
-            final APIVersion version = httpExchange.getAPIVersion();
-            final Language clientLanguage = httpExchange.getLanguage();
-            final LanguageTranslator translator = httpExchange.getLanguageType();
-            final JSONObject json;
-            if(values.length >= 2) {
-                switch (values[1]) {
-                    case "home":
-                        final JSONObjectTranslatable response = getHomeResponse(version);
-                        json = WLUtilities.translateJSON(response, translator, clientLanguage);
-                        return json;
-                    case "stop":
-                        if(identifier.equals(Settings.Server.getUUID())) {
-                            getLocalServer().stop();
-                            return "1";
-                        } else {
-                            return null;
-                        }
-                    default:
-                        final LocalServer localServer = getLocalServer();
-                        localServer.madeRequest(identifier, fullRequest);
-                        final String targetType = httpExchange.getTargetRequestType();
-                        final ServerRequestType type = localServer.parseRequestType(targetType);
-                        final ServerRequest request = new ServerRequest(type, httpExchange.getShortPath());
-                        request.setHeaders(headers);
-                        final JSONTranslatable serverJSON = getServerResponse(version, identifier, request);
-                        json = WLUtilities.translateJSON(serverJSON, translator, clientLanguage);
-                        return json != null ? json.toString() : null;
-                }
-            }
-            return null;
-        };
-    }*/
 
     default LocalServer getLocalServer() {
         final TargetServer server = getServer();

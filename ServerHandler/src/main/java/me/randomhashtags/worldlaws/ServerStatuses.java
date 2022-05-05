@@ -77,7 +77,7 @@ public enum ServerStatuses {
         final long started = System.currentTimeMillis();
         final Folder sourceFolder = Folder.UPDATES, updatedFilesFolder = Folder.UPDATES_FILES;
         final HashSet<Path> files = updatedFilesFolder.getAllFilePaths(null);
-        final boolean updatesAreAvailable = files != null;
+        final boolean updatesAreAvailable = !files.isEmpty();
         if(updatesAreAvailable) {
             ServerHandler.startMaintenanceMode("Servers are updating, and should be back up in a few minutes :)");
             shutdownServers();

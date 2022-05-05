@@ -134,7 +134,7 @@ public enum ServerRequestTypeRemoteNotifications implements ServerRequestType {
         return null;
     }
     private JSONObjectTranslatable delete(RemoteNotificationDeviceTokenController controller, String[] values) {
-        final String token = values[2];
+        final String token = values[1];
         for(RemoteNotificationCategory category : RemoteNotificationCategory.values()) {
             final RemoteNotificationSubcategory[] subcategories = category.getSubcategories();
             if(subcategories != null) {
@@ -173,7 +173,7 @@ public enum ServerRequestTypeRemoteNotifications implements ServerRequestType {
         folder.setCustomFolderName("recentRemoteNotifications", folderFileName);
         final HashSet<Path> files = folder.getAllFilePaths("recentRemoteNotifications");
         int amount = 0;
-        if(files != null) {
+        if(!files.isEmpty()) {
             amount = files.size();
             final HashSet<RemoteNotification> notifications = new HashSet<>();
             for(Path path : files) {

@@ -103,15 +103,18 @@ public final class LocalServer implements UserServer, DataValues, RestAPI {
         uniqueRequests.clear();
     }
 
+    public HttpServer getServer() {
+        return server;
+    }
     private void setupHttpServer(int port) {
         try {
             server = HttpServer.create(new InetSocketAddress(port), 0);
             createServerContexts();
-            final ServerRequestType[] requestTypes = getRequestTypes();
             final WLHttpHandler defaultHandler = wlserver.getDefaultHandler();
             if(defaultHandler != null) {
                 server.createContext("/", defaultHandler);
             }
+            final ServerRequestType[] requestTypes = getRequestTypes();
             if(requestTypes != null) {
                 final APIVersion[] apiVersions = APIVersion.values();
                 final HashMap<APIVersion, List<ServerRequestType>> conditionals = new HashMap<>();

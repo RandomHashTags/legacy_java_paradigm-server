@@ -188,13 +188,6 @@ public enum Settings {
                 }
             }
 
-            public enum P12 {
-                ;
-                public static String getFileName() {
-                    return getOrDefaultString(getHttpsP12JSON(), "fileName", "***REMOVED***");
-                }
-            }
-
         }
 
 

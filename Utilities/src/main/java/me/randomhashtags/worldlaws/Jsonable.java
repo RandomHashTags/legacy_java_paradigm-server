@@ -12,7 +12,7 @@ import java.util.concurrent.CompletableFuture;
 import java.util.stream.Collectors;
 
 public interface Jsonable {
-    String USER_DIR = System.getProperty("user.dir") + File.separator;
+    String CURRENT_FOLDER = System.getProperty("user.dir") + File.separator;
 
     static String getFilePath(Folder folder, String fileName, String extension) {
         return folder.getFullFolderPath(fileName) + File.separator + fileName + "." + extension;

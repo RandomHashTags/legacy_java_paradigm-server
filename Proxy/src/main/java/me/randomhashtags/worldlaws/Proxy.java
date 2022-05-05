@@ -72,7 +72,7 @@ public final class Proxy implements WLServer {
     }*/
     private String getProxyClientResponse(WLHttpExchange headers) {
         final long started = System.currentTimeMillis();
-        final String ip = headers.getIPAddress(), platform = headers.getPlatform(), identifier = headers.getIdentifier();
+        final String ip = headers.getIPAddress(true), platform = headers.getPlatform(), identifier = headers.getIdentifier();
         final String prefix = "[" + platform + ", " + identifier + "] " + ip + " - ";
         final String path = headers.getPath();
         final String targetServer = path.split("/")[1];

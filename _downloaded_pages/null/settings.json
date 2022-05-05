@@ -24,11 +24,8 @@
         "email": "***REMOVED***"
       },
       "keystore": {
-        "fileName": "paradigmKeystore",
+        "fileName": "***REMOVED***",
         "password": "***REMOVED***"
-      },
-      "p12": {
-        "fileName": "***REMOVED***"
       },
       "domains": [
         "***REMOVED***",
@@ -47,6 +44,9 @@
         "port": 0
       },
       "feedback": {
+        "port": 0
+      },
+      "file_transfer": {
         "port": 0
       },
       "laws": {
