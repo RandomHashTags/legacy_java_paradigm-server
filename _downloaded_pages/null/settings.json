@@ -17,6 +17,9 @@
       "upcoming_events",
       "weather"
     ],
+    "allowed_localhost_connections": [
+      "192.168.1.58"
+    ],
     "https": {
       "enabled": true,
       "certbot": {
@@ -44,9 +47,6 @@
         "port": 0
       },
       "feedback": {
-        "port": 0
-      },
-      "file_transfer": {
         "port": 0
       },
       "laws": {

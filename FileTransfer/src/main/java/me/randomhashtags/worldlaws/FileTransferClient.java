@@ -18,8 +18,8 @@ public final class FileTransferClient implements RestAPI {
 
     private static void sendLocalToServer() {
         final long started = System.currentTimeMillis();
-        final int port = TargetServer.FILE_TRANSFER.getPort();
-        final String localIP = "http://" + (true ? "localhost" : "localhost");
+        final int port = Settings.Server.getServerHandlerPort();
+        final String localIP = "http://" + (false ? "localhost" : "localhost") + "/transfer_files";
         final String localURL = localIP + port;
 
         final HashSet<File> filesToSend = new HashSet<>() {{

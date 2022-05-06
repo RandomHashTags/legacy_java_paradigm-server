@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws;
 
 import com.sun.net.httpserver.HttpServer;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.locale.JSONTranslatable;
 import me.randomhashtags.worldlaws.request.WLHttpExchange;
 import me.randomhashtags.worldlaws.request.WLHttpHandler;
@@ -10,7 +11,10 @@ import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
+import java.io.File;
 import java.net.InetSocketAddress;
+import java.nio.file.Files;
+import java.nio.file.Path;
 import java.time.LocalDateTime;
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
@@ -97,6 +101,9 @@ public final class ServerHandler implements UserServer {
 
     private void connectClients(boolean https) {
         WLLogger.logInfo("ServerHandler - Listening for http" + (https ? "s" : "") + " clients on port " + server.getAddress().getPort() + "...");
+
+        server.createContext("/transfer_files", getFileTransferHandler());
+
         server.createContext("/", new WLHttpHandler() {
             @Override
             public JSONTranslatable getResponse(WLHttpExchange httpExchange) {
@@ -210,6 +217,50 @@ public final class ServerHandler implements UserServer {
         for(TargetServer server : TargetServer.values()) {
             server.updateAddressDetails();
         }
+    }
+
+    private WLHttpHandler getFileTransferHandler() {
+        return httpExchange -> {
+            final JSONObject requestBody = httpExchange.getRequestBodyJSON();
+            boolean completedSuccessfully = false;
+            int amountOfFiles = 0;
+            if(requestBody != null && requestBody.has("files")) {
+                final JSONArray array = requestBody.getJSONArray("files");
+                amountOfFiles = array.length();
+                final Folder updateFilesFolder = Folder.UPDATES_FILES;
+                for(Path path : updateFilesFolder.getAllFilePaths(null)) {
+                    try {
+                        Files.delete(path);
+                    } catch (Exception e) {
+                        WLUtilities.saveException(e);
+                    }
+                }
+                final String folder = updateFilesFolder.getFullFolderPath(null) + File.separator;
+                for(Object fileObj : array) {
+                    final JSONObject fileJSON = (JSONObject) fileObj;
+                    final String fileName = fileJSON.getString("name");
+                    final int contentLength = fileJSON.getInt("contentLength");
+                    final byte[] contentBytes = new byte[contentLength];
+                    try {
+                        final JSONArray contentBytesArray = fileJSON.getJSONArray("contentBytes");
+                        int i = 0;
+                        for(Object obj : contentBytesArray) {
+                            final Integer bite = (Integer) obj;
+                            contentBytes[i] = bite.byteValue();
+                            i += 1;
+                        }
+                        Files.write(Path.of(folder + fileName), contentBytes);
+                        completedSuccessfully = true;
+                    } catch (Exception e) {
+                        WLUtilities.saveException(e);
+                    }
+                }
+            }
+            WLLogger.logInfo("ServerHandler - " + (completedSuccessfully ? "successfully received" : "failed to receive") + " " + amountOfFiles + " file" + (amountOfFiles > 1 ? "s" : ""));
+            final JSONObjectTranslatable json = new JSONObjectTranslatable();
+            json.put("completed", completedSuccessfully);
+            return json;
+        };
     }
 
     private String getHomeResponse(APIVersion version, Collection<String> query) {

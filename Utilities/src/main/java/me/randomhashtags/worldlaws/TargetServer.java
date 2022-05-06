@@ -15,7 +15,6 @@ public enum TargetServer implements RestAPI, DataValues {
     COUNTRIES,
     ENVIRONMENT,
     FEEDBACK,
-    FILE_TRANSFER,
     LAWS,
     NEWS,
     PREMIUM,
@@ -62,7 +61,6 @@ public enum TargetServer implements RestAPI, DataValues {
             case COUNTRIES: return 0;
             case ENVIRONMENT: return 0;
             case FEEDBACK: return 0;
-            case FILE_TRANSFER: return 0;
             case LAWS: return 0;
             case NEWS: return 0;
             case SCIENCE: return 0;

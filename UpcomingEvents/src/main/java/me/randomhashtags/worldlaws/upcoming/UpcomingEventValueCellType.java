@@ -8,6 +8,7 @@ public enum UpcomingEventValueCellType {
     LABEL_HEADER,
 
     PRODUCTION_COMPANIES,
+    SPOTIFY_TRACKS,
     TICKETMASTER_VENUE,
     VIDEO_URL,
     ;

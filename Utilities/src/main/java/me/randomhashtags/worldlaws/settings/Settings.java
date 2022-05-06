@@ -126,9 +126,6 @@ public enum Settings {
         private static JSONObject getHttpsKeystoreJSON() {
             return getOrDefaultJSONObject(getHttpsJSON(), "keystore", new JSONObject());
         }
-        private static JSONObject getHttpsP12JSON() {
-            return getOrDefaultJSONObject(getHttpsJSON(), "p12", new JSONObject());
-        }
         private static JSONObject getServerJSON(TargetServer server) {
             return getOrDefaultJSONObject(getServersJSON(), server.getBackendID(), new JSONObject());
         }
@@ -156,6 +153,10 @@ public enum Settings {
         }
         public static List<String> getSupportedHomeRequestServers() {
             final JSONArray array = getOrDefaultJSONArray(getServersJSON(), "supported_home_request_servers", new JSONArray(Arrays.asList("countries", "remote_notifications", "services", "upcoming_events", "weather")));
+            return getListString(array);
+        }
+        public static List<String> getAllowedLocalhostConnections() {
+            final JSONArray array = getOrDefaultJSONArray(getServersJSON(), "allowed_localhost_connections", new JSONArray());
             return getListString(array);
         }
 

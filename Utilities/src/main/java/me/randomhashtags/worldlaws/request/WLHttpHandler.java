@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.request;
 
 import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;
+import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.locale.JSONArrayTranslatable;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
@@ -12,21 +13,24 @@ import org.json.JSONObject;
 import java.io.OutputStream;
 import java.net.HttpURLConnection;
 import java.nio.charset.StandardCharsets;
+import java.util.List;
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.TimeUnit;
 
 public interface WLHttpHandler extends HttpHandler {
 
     boolean PRODUCTION_MODE = Settings.DataValues.isProductionMode();
+    List<String> ALLOWED_LOCALHOST_CONNECTIONS = Settings.Server.getAllowedLocalhostConnections();
 
     @Override
     default void handle(HttpExchange httpExchange) {
         final WLHttpExchange exchange = new WLHttpExchange(httpExchange);
-        final String host = exchange.getHeader("Host", "null"), domain = "***REMOVED***";
-        final boolean isLocal = host.startsWith("localhost:") && exchange.getIPAddress(false).equals("/127.0.0.1");
+        final String host = exchange.getHeader("Host", "null"), domain = "***REMOVED***", localIP = exchange.getIPAddress(false);
+        final boolean isLocal = host.startsWith("localhost:") && (localIP.equals("/127.0.0.1") || ALLOWED_LOCALHOST_CONNECTIONS.contains(localIP));
         final boolean isWebsite = host.equals(domain);
         final boolean isAPI = host.equals("api." + domain);
         final boolean isSandbox = host.equals("sandbox." + domain);
+        WLLogger.logInfo("WLHttpHandler;handle;host=" + host + ";identifier=" + exchange.getIdentifier() + ";platform=" + exchange.getPlatform() + ";path=" + exchange.getPath() + ";localAddress=" + localIP + ";remoteAddress=" + exchange.getIPAddress(true));
         CompletableFuture.runAsync(() -> {
             if(isLocal || isAPI) {
                 handleAPIExchange(exchange);

@@ -303,9 +303,10 @@ public enum UpcomingEventType {
 
             case MOVIE:
                 return collectValues(
-                        UpcomingEventValue.MUSIC_ALBUM_ARTIST,
-                        UpcomingEventValue.MUSIC_ALBUM_DETAILS_SPOTIFY,
-                        UpcomingEventValue.MUSIC_ALBUM_DETAILS_ITUNES
+                        UpcomingEventValue.MOVIE_IMDB_INFO,
+                        UpcomingEventValue.MOVIE_RELEASE_INFO,
+                        UpcomingEventValue.MOVIE_RATINGS,
+                        UpcomingEventValue.MOVIE_PRODUCTION_COMPANIES
                 );
 
             case MUSIC_ALBUM:

@@ -182,6 +182,7 @@ public enum UpcomingEventValue {
         putCategory(UpcomingEventValueCategory.SPOTIFY_NEW_MUSIC_FRIDAY_TRACKS);
         putKey("tracks");
         putValueType(UpcomingEventValueType.SPOTIFY_TRACKS);
+        putCellType(UpcomingEventValueCellType.SPOTIFY_TRACKS);
     }}),
 
     TICKETMASTER_MUSIC_SEAT_MAP_URL(new UpcomingEventValueMap() {{
