@@ -142,8 +142,11 @@ public enum Settings {
         public static int getServerRebootFrequencyInDays() {
             return getOrDefaultInt(getServersJSON(), "serverRebootFrequencyInDays", 3);
         }
-        public static int getServerHandlerPort() {
-            return getOrDefaultInt(getServersJSON(), "server_handler_port", 0);
+        public static String getProxyLocalAddress() {
+            return getOrDefaultString(getServersJSON(), "proxy_local_address", "localhost");
+        }
+        public static int getProxyPort() {
+            return getOrDefaultInt(getServersJSON(), "proxy_port", 0);
         }
         public static String getDefaultAddress() {
             return getOrDefaultString(getServersJSON(), "default_address", "http://localhost");
@@ -153,10 +156,6 @@ public enum Settings {
         }
         public static List<String> getSupportedHomeRequestServers() {
             final JSONArray array = getOrDefaultJSONArray(getServersJSON(), "supported_home_request_servers", new JSONArray(Arrays.asList("countries", "remote_notifications", "services", "upcoming_events", "weather")));
-            return getListString(array);
-        }
-        public static List<String> getAllowedLocalhostConnections() {
-            final JSONArray array = getOrDefaultJSONArray(getServersJSON(), "allowed_localhost_connections", new JSONArray());
             return getListString(array);
         }
 

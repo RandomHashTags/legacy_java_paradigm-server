@@ -44,6 +44,7 @@ public final class ScienceYearReview extends LoadedUpcomingEventController {
         }
 
         final JSONObject pastJSON = getTodayEventsFromThePastJSON(dates.toArray(new LocalDate[dates.size()]));
+        int amount = 0;
         for(LocalDate date : dates) {
             final String dateString = EventDate.getDateString(date), title = "Today in Science";
             final String identifier = getEventDateIdentifier(dateString, title);
@@ -73,10 +74,10 @@ public final class ScienceYearReview extends LoadedUpcomingEventController {
                     final String year = "" + Integer.parseInt(pastDateValues[1]);
                     json.put(year, array);
                     json.addTranslatedKey(year);
+                    amount += array.length();
                 }
             }
             final ScienceYearReviewEvent event = new ScienceYearReviewEvent(EventDate.valueOfDateString(dateString), title, null, imageURL, json);
-            final int amount = json.keySet().size();
             putLoadedPreUpcomingEvent(event.toPreUpcomingEventJSON(type, identifier, amount + " Event" + (amount > 1 ? "s" : ""), mentionedCountries));
             putUpcomingEvent(identifier, event);
         }

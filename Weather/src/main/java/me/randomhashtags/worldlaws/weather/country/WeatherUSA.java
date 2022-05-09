@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.Location;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.locale.JSONArrayTranslatable;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.weather.*;
@@ -53,6 +54,27 @@ public enum WeatherUSA implements WeatherController {
     @Override
     public HashMap<String, HashMap<String, JSONObjectTranslatable>> getSubdivisionPreAlerts() {
         return territoryPreAlerts;
+    }
+
+    @Override
+    public JSONArrayTranslatable getEventTypes() {
+        final String countryBackendID = getCountry().getBackendID();
+        final Folder folder = Folder.WEATHER_COUNTRY;
+        final String fileName = "eventTypes";
+        folder.setCustomFolderName(fileName, folder.getFolderName().replace("%country%", countryBackendID));
+        final JSONArrayTranslatable array = new JSONArrayTranslatable();
+        final JSONArray local = getLocalFileJSONArray(folder, fileName);
+        if(local != null) {
+            array.putAll(local);
+        } else {
+            final String url = "https://api.weather.gov/alerts/types";
+            final JSONObject json = requestJSONObject(url);
+            if(json != null && json.has("eventTypes")) {
+                final JSONArray eventTypesArray = json.getJSONArray("eventTypes");
+                array.putAll(eventTypesArray);
+            }
+        }
+        return array;
     }
 
     @Override

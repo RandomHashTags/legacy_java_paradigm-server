@@ -2,7 +2,6 @@ package me.randomhashtags.worldlaws.request;
 
 import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;
-import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.locale.JSONArrayTranslatable;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
@@ -13,32 +12,18 @@ import org.json.JSONObject;
 import java.io.OutputStream;
 import java.net.HttpURLConnection;
 import java.nio.charset.StandardCharsets;
-import java.util.List;
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.TimeUnit;
 
 public interface WLHttpHandler extends HttpHandler {
 
     boolean PRODUCTION_MODE = Settings.DataValues.isProductionMode();
-    List<String> ALLOWED_LOCALHOST_CONNECTIONS = Settings.Server.getAllowedLocalhostConnections();
 
     @Override
     default void handle(HttpExchange httpExchange) {
         final WLHttpExchange exchange = new WLHttpExchange(httpExchange);
-        final String host = exchange.getHeader("Host", "null"), domain = "***REMOVED***", localIP = exchange.getIPAddress(false);
-        final boolean isLocal = host.startsWith("localhost:") && (localIP.equals("/127.0.0.1") || ALLOWED_LOCALHOST_CONNECTIONS.contains(localIP));
-        final boolean isWebsite = host.equals(domain);
-        final boolean isAPI = host.equals("api." + domain);
-        final boolean isSandbox = host.equals("sandbox." + domain);
-        WLLogger.logInfo("WLHttpHandler;handle;host=" + host + ";identifier=" + exchange.getIdentifier() + ";platform=" + exchange.getPlatform() + ";path=" + exchange.getPath() + ";localAddress=" + localIP + ";remoteAddress=" + exchange.getIPAddress(true));
         CompletableFuture.runAsync(() -> {
-            if(isLocal || isAPI) {
-                handleAPIExchange(exchange);
-            } else if(isWebsite) {
-                handleHTMLExchange(exchange);
-            } else {
-                handleErrorExchange(exchange);
-            }
+            handleWLHttpExchange(exchange);
         }).orTimeout(1, TimeUnit.MINUTES).exceptionally(throwable -> {
             WLUtilities.saveException(throwable);
             return null;
@@ -47,7 +32,20 @@ public interface WLHttpHandler extends HttpHandler {
         });
     }
 
-    private void handleAPIExchange(WLHttpExchange exchange) {
+    default void handleWLHttpExchange(WLHttpExchange exchange) {
+        handleAPIExchange(exchange);
+    }
+
+    private void closeExchange(WLHttpExchange exchange) {
+        try {
+            final OutputStream out = exchange.getResponseBody();
+            out.close();
+        } catch (Exception ignored) {
+        }
+        exchange.close();
+    }
+
+    default void handleAPIExchange(WLHttpExchange exchange) {
         final boolean validRequest = exchange.isValidRequest();
         int status = HttpURLConnection.HTTP_FORBIDDEN;
         String string;
@@ -67,18 +65,12 @@ public interface WLHttpHandler extends HttpHandler {
         if(string == null) {
             string = WLUtilities.SERVER_EMPTY_JSON_RESPONSE;
         }
-        write(exchange, status, string, "application/json");
+        write(exchange, status, string, WLContentType.JSON);
     }
-    private void handleHTMLExchange(WLHttpExchange exchange) {
-        write(exchange, HttpURLConnection.HTTP_OK, "<html><body><p>test Paradigm html response</p></body></html>", "text/html");
-    }
-    private void handleErrorExchange(WLHttpExchange exchange) {
-        write(exchange, HttpURLConnection.HTTP_FORBIDDEN, "<html></html>", "text/html");
-    }
-    private void write(WLHttpExchange exchange, int status, String value, String contentType) {
+    default void write(WLHttpExchange exchange, int status, String value, WLContentType contentType) {
         final byte[] bytes = value.getBytes(StandardCharsets.UTF_8);
         try {
-            exchange.getResponseHeaders().set("Content-Type", contentType);
+            exchange.getResponseHeaders().set("Content-Type", contentType.getIdentifier());
             exchange.sendResponseHeaders(status, bytes.length);
         } catch (Exception ignored) {
         }
@@ -86,15 +78,6 @@ public interface WLHttpHandler extends HttpHandler {
             exchange.getResponseBody().write(bytes);
         } catch (Exception ignored) {
         }
-    }
-
-    private void closeExchange(WLHttpExchange exchange) {
-        try {
-            final OutputStream out = exchange.getResponseBody();
-            out.close();
-        } catch (Exception ignored) {
-        }
-        exchange.close();
     }
 
     JSONTranslatable getResponse(WLHttpExchange httpExchange);

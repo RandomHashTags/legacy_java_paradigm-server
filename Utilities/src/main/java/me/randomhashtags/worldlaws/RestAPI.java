@@ -4,6 +4,7 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 import javax.net.ssl.SSLContext;
+import java.io.File;
 import java.net.ConnectException;
 import java.net.URI;
 import java.net.URLEncoder;
@@ -18,6 +19,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.CompletionException;
+import java.util.concurrent.TimeUnit;
 
 public interface RestAPI {
     String USER_AGENT = "(Project Paradigm - Java Application/11, ***REMOVED***)";
@@ -29,7 +31,7 @@ public interface RestAPI {
     HttpClient CLIENT = getClient();
     HashMap<String, JSONArray> RESPONSE_TIMES = new HashMap<>();
     private static Duration getConnectionTimeout() {
-        return Duration.ofSeconds(15);
+        return Duration.ofSeconds(20);
     }
 
     private static HttpClient getClient() {
@@ -183,8 +185,10 @@ public interface RestAPI {
             RESPONSE_TIMES.putIfAbsent(finalURL, new JSONArray());
         }
         final HttpRequest request = requestBuilder.build();
-        final CompletableFuture<HttpResponse<String>> bruh = CLIENT.sendAsync(request, HttpResponse.BodyHandlers.ofString());
-        final String string = bruh.thenApply(HttpResponse::body).exceptionally(throwable -> {
+        final int multiplier = isLocal ? 3 : 1;
+        final CompletableFuture<String> bruh = CLIENT.sendAsync(request, HttpResponse.BodyHandlers.ofString())
+                .orTimeout(15*multiplier, TimeUnit.SECONDS)
+                .thenApply(HttpResponse::body).exceptionally(throwable -> {
             final Exception e = throwable instanceof Exception ? (Exception) throwable : null;
             if(e != null) {
                 if(isLocal && (e instanceof CompletionException || e instanceof ConnectException)) {
@@ -199,7 +203,15 @@ public interface RestAPI {
                     "stackTrace=\n" + WLUtilities.getThrowableStackTrace(throwable);
             WLUtilities.saveLoggedError("RestAPI", value);
             return null;
-        }).join();
+        });
+        String string;
+        try {
+            string = bruh.get(15 * multiplier, TimeUnit.SECONDS);
+        } catch (Exception e) {
+            string = null;
+            final String errorName = e.getClass().getSimpleName();
+            WLUtilities.saveLoggedError("RestAPI" + File.separator + errorName, WLUtilities.getThrowableStackTrace(e));
+        }
         if(!isLocal) {
             RESPONSE_TIMES.get(finalURL).put(WLUtilities.getElapsedTime(started));
         }

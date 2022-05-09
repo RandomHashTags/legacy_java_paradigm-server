@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.weather.country;
 
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.locale.JSONArrayTranslatable;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.weather.WeatherController;
 import org.jsoup.nodes.Document;
@@ -33,6 +34,11 @@ public enum WeatherAU implements WeatherController {
 
     @Override
     public HashMap<String, HashMap<String, JSONObjectTranslatable>> getSubdivisionPreAlerts() {
+        return null;
+    }
+
+    @Override
+    public JSONArrayTranslatable getEventTypes() {
         return null;
     }
 

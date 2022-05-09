@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.weather.country;
 
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.locale.JSONArrayTranslatable;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.weather.WeatherAlert;
 import me.randomhashtags.worldlaws.weather.WeatherController;
@@ -45,6 +46,11 @@ public enum WeatherCA implements WeatherController {
     @Override
     public HashMap<String, HashMap<String, JSONObjectTranslatable>> getSubdivisionPreAlerts() {
         return territoryPreAlerts;
+    }
+
+    @Override
+    public JSONArrayTranslatable getEventTypes() {
+        return null;
     }
 
     @Override

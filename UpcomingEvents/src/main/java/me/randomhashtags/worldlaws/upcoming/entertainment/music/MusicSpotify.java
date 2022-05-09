@@ -60,8 +60,10 @@ public final class MusicSpotify extends LoadedUpcomingEventController implements
                         int maxWidth = 0;
                         for(Object imageObj : albumImages) {
                             final JSONObject imageJSON = (JSONObject) imageObj;
-                            if(imageJSON.getInt("width") > maxWidth) {
+                            final int width = imageJSON.getInt("width");
+                            if(width > maxWidth) {
                                 trackImageURL = imageJSON.getString("url");
+                                maxWidth = width;
                             }
                         }
                         final JSONArray artistsArray = trackJSON.getJSONArray("artists");

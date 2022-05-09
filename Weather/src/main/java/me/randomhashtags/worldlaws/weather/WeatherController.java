@@ -5,6 +5,7 @@ import me.randomhashtags.worldlaws.Jsonable;
 import me.randomhashtags.worldlaws.Jsoupable;
 import me.randomhashtags.worldlaws.RestAPI;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.locale.JSONArrayTranslatable;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import org.json.JSONArray;
 
@@ -21,6 +22,7 @@ public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
     HashMap<String, JSONObjectTranslatable> getSubdivisionEvents();
     HashMap<String, HashMap<String, JSONObjectTranslatable>> getSubdivisionPreAlerts();
 
+    JSONArrayTranslatable getEventTypes();
     JSONObjectTranslatable refresh();
 
     default void putEventPreAlerts(HashMap<String, JSONObjectTranslatable> eventPreAlerts, ConcurrentHashMap<String, HashSet<WeatherPreAlert>> hashmap) {

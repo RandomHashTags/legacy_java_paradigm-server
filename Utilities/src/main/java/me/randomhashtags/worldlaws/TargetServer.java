@@ -15,10 +15,10 @@ public enum TargetServer implements RestAPI, DataValues {
     COUNTRIES,
     ENVIRONMENT,
     FEEDBACK,
+    FILE_TRANSFER,
     LAWS,
     NEWS,
     PREMIUM,
-    PROXY,
     REMOTE_NOTIFICATIONS,
     SCIENCE,
     SERVICES,
@@ -57,10 +57,10 @@ public enum TargetServer implements RestAPI, DataValues {
     }
     public int getDefaultPort() {
         switch (this) {
-            case PROXY: return 0;
             case COUNTRIES: return 0;
             case ENVIRONMENT: return 0;
             case FEEDBACK: return 0;
+            case FILE_TRANSFER: return 0;
             case LAWS: return 0;
             case NEWS: return 0;
             case SCIENCE: return 0;
@@ -93,7 +93,6 @@ public enum TargetServer implements RestAPI, DataValues {
     public boolean recordsStatistics() {
         if(isRealServer()) {
             switch (this) {
-                case PROXY:
                 case REMOTE_NOTIFICATIONS:
                     return false;
                 default:

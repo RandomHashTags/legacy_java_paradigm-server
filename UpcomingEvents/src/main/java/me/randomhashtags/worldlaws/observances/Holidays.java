@@ -70,7 +70,7 @@ public enum Holidays {
                 holidaysJSON.addTranslatedKey(identifier);
             }
             if(json.has(dateString)) {
-                json.append(holidaysJSON);
+                json.getJSONObjectTranslatable(dateString).append(holidaysJSON);
             } else {
                 json.put(dateString, holidaysJSON);
                 json.addTranslatedKey(dateString);

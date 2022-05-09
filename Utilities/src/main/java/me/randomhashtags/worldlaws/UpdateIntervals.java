@@ -8,7 +8,7 @@ public enum UpdateIntervals {
     public static final long SAVE_STATISTICS = TimeUnit.HOURS.toMillis(1);
     public static final long REFRESH_SETTINGS = TimeUnit.HOURS.toMillis(6);
 
-    public enum ServerHandler {
+    public enum Proxy {
         ;
         public static final long PING = TimeUnit.MINUTES.toMillis(10);
         public static final long HOME = TimeUnit.MINUTES.toMillis(10);

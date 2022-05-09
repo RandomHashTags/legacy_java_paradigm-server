@@ -15,8 +15,8 @@ public final class MusicAlbumEvent extends UpcomingEvent {
         super(json);
         final JSONObject properties = json.getJSONObject("properties");
         artist = properties.getString(UpcomingEventValue.MUSIC_ALBUM_ARTIST.getKey());
-        spotifyDetails = properties.getJSONObject(UpcomingEventValue.MUSIC_ALBUM_DETAILS_SPOTIFY.getKey());
-        itunesDetails = properties.getJSONObject(UpcomingEventValue.MUSIC_ALBUM_DETAILS_ITUNES.getKey());
+        spotifyDetails = properties.optJSONObject(UpcomingEventValue.MUSIC_ALBUM_DETAILS_SPOTIFY.getKey(), null);
+        itunesDetails = properties.optJSONObject(UpcomingEventValue.MUSIC_ALBUM_DETAILS_ITUNES.getKey(), null);
     }
     public MusicAlbumEvent(EventDate date, String artist, String album, String albumImageURL, String description, JSONObject spotifyDetails, JSONObject itunesDetails, EventSources sources) {
         super(date, album, description, albumImageURL, null, null, sources);

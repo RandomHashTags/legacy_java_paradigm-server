@@ -14,7 +14,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 
-public enum ServerStatuses {
+public enum ProxyServerStatuses {
     ;
 
     public static void shutdownServers() {
@@ -42,12 +42,12 @@ public enum ServerStatuses {
     public static void rebootServers() {
         final boolean updated = updateServersIfAvailable();
         if(!updated) {
-            ServerHandler.startMaintenanceMode("Servers are rebooting, and should be back up in a few minutes :)");
+            Proxy.startMaintenanceMode("Servers are rebooting, and should be back up in a few minutes :)");
             rebootServersWithHomeResponse();
         } else {
             spinUpServersWithHomeResponse();
         }
-        ServerHandler.endMaintenanceMode();
+        Proxy.endMaintenanceMode();
     }
     private static void rebootServersWithHomeResponse() {
         shutdownServers();
@@ -61,14 +61,14 @@ public enum ServerStatuses {
         } catch (Exception e) {
             WLUtilities.saveException(e);
         }
-        final String string = ServerHandler.updateHomeResponse();
+        final String string = Proxy.updateHomeResponse();
     }
 
     public static void tryUpdatingServersIfAvailable() {
         final boolean updated = updateServersIfAvailable();
         if(updated) {
             spinUpServersWithHomeResponse();
-            ServerHandler.endMaintenanceMode();
+            Proxy.endMaintenanceMode();
         } else {
             WLLogger.logInfo("Proxy - no server updates available");
         }
@@ -79,7 +79,7 @@ public enum ServerStatuses {
         final HashSet<Path> files = updatedFilesFolder.getAllFilePaths(null);
         final boolean updatesAreAvailable = !files.isEmpty();
         if(updatesAreAvailable) {
-            ServerHandler.startMaintenanceMode("Servers are updating, and should be back up in a few minutes :)");
+            Proxy.startMaintenanceMode("Servers are updating, and should be back up in a few minutes :)");
             shutdownServers();
 
             final JSONObject updateJSON = Jsonable.getStaticLocalFileJSONObject(Folder.UPDATES, "update");

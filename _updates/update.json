@@ -9,24 +9,27 @@
       "": {
         "jar": [
           "Countries",
-          "Environment",
-          "Feedback",
-          "Health",
+          "FileTransfer",
           "Laws",
-          "News",
           "***REMOVED***",
           "Proxy",
           "RemoteNotifications",
-          "Science",
+          "ServerHandler",
           "Services",
-          "Stories",
-          "Technology",
           "UpcomingEvents",
           "Weather"
         ],
         "sh": [
           "runAllServers",
           "runServers"
+        ]
+      },
+      "_html": {
+        "html": [
+          "index",
+          "contact",
+          "privacyPolicy",
+          "transparency"
         ]
       },
       "_downloaded_pages/null": {
