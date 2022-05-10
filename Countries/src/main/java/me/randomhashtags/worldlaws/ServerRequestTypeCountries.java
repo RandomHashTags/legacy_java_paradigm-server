@@ -92,20 +92,23 @@ public enum ServerRequestTypeCountries implements ServerRequestType {
         json.setFolder(folder);
         json.setFileName(fileName);
         final JSONObject local = Jsonable.getStaticLocalFileJSONObject(folder, fileName);
-        if(local != null) {
-            json = JSONObjectTranslatable.parse(local, folder, fileName, services, title -> {
-                final JSONObjectTranslatable filterJSON = new JSONObjectTranslatable("title");
-                filterJSON.put("title", title);
-                return filterJSON;
-            });
-        } else {
+        final int responseVersion = ResponseVersions.COUNTRY_FILTERS.getValue();
+        if(local == null || local.optInt("response_version", 0) < responseVersion) {
             for(String title : services) {
                 final JSONObjectTranslatable filterJSON = new JSONObjectTranslatable("title");
                 filterJSON.put("title", title);
                 json.put(title, filterJSON);
                 json.addTranslatedKey(title);
             }
+            json.put("response_version", responseVersion);
             Jsonable.setFileJSONObject(folder, fileName, json);
+        } else {
+            json = JSONObjectTranslatable.parse(local, folder, fileName, services, title -> {
+                final JSONObjectTranslatable filterJSON = new JSONObjectTranslatable("title");
+                filterJSON.put("title", title);
+                return filterJSON;
+            });
+            json.put("response_version", responseVersion);
         }
         CACHE_FILTERS = json;
         return json;

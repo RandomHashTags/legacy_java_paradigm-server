@@ -56,9 +56,9 @@ public final class Countries implements WLServer {
 
     private void test() {
         loadServices();
-        final ServerRequest request = new ServerRequest(ServerRequestTypeCountries.INFORMATION, "unitedstates");
-        final JSONTranslatable json = makeLocalRequest(APIVersion.v1, request);
-        WLLogger.logInfo("Countries;test1;string=" + (json != null ? json.toString() : "null"));
+        final ServerRequest request = new ServerRequest(ServerRequestTypeCountries.FILTERS);
+        final JSONTranslatable json = ServerRequestTypeCountries.FILTERS.getHandler(APIVersion.v1).getResponse(null);
+        WLLogger.logInfo("Countries;test;string=" + (json != null ? json.toString() : "null"));
         /*
         final NewCountryService service = WikipediaFeaturedPictures.INSTANCE;
         //for(CountryValueService service : CountryValues.values()) {

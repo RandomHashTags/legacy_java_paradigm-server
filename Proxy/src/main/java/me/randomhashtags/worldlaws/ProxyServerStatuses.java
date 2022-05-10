@@ -119,12 +119,12 @@ public enum ProxyServerStatuses {
                 final String filePath = fileFolders.get(fullFileName).replace("/", separator);
                 final String fileName = fullFileName.split("\\.")[0];
                 sourceFolder.setCustomFolderName(fileName, filePath);
-                updatedFilesFolder.setCustomFolderName(fileName, filePath);
+                updatedFilesFolder.setCustomFolderName(fileName, null);
                 final String oldURI = sourceFolder.getFullFolderPath(fileName) + separator + fullFileName, newURI = updatedFilesFolder.getFullFolderPath(fileName) + separator + fullFileName;
                 final Path sourcePath = Paths.get(newURI), targetPath = Paths.get(oldURI);
                 try {
-                    if(Files.exists(sourcePath)) {
-                        Files.delete(sourcePath);
+                    if(Files.exists(targetPath)) {
+                        Files.delete(targetPath);
                     }
                     Files.move(sourcePath, targetPath);
                     updated += 1;
@@ -135,6 +135,6 @@ public enum ProxyServerStatuses {
                 updatedFilesFolder.removeCustomFolderName(fileName);
             }
         }
-        WLLogger.logInfo("Proxy - updated " + updated + " file(s) (took " + WLUtilities.getElapsedTime(started) + ")");
+        WLLogger.logInfo("Proxy - updated " + updated + " file" + (updated > 1 ? "s" : "") + " (took " + WLUtilities.getElapsedTime(started) + ")");
     }
 }
