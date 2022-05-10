@@ -41,7 +41,7 @@ public enum ServerRequestTypeRemoteNotifications implements ServerRequestType {
                     return getCategories();
 
                 case PUSH_PENDING:
-                    if(httpExchange.getIdentifier().equals(Settings.Server.getUUID())) {
+                    if(Settings.Server.getUUID().equals(httpExchange.getIdentifier())) {
                         pushPending();
                     }
                     return null;

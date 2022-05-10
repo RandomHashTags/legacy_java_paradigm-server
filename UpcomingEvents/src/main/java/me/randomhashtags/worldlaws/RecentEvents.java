@@ -57,8 +57,8 @@ public enum RecentEvents {
         });
         if(!newEvents.isEmpty()) {
             new CompletableFutures<PreRecentEvent>().stream(newEvents, event -> {
-                final RemoteNotificationSubcategory category = event.getRemoteNotificationCategory();
-                new RemoteNotification(category, false, category.getName(), event.getTitle(), event.getDescription());
+                final RemoteNotificationSubcategory subcategory = event.getRemoteNotificationSubcategory();
+                new RemoteNotification(subcategory, false, event.getTitle(), event.getDescription(), null);
             });
             RemoteNotification.pushPending();
         }

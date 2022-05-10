@@ -194,11 +194,19 @@ public interface Country extends SovereignState {
         final ConcurrentHashMap<SovereignStateInformationType, HashMap<SovereignStateInfo, JSONObjectTranslatable>> values = new ConcurrentHashMap<>();
         final WLCountry[] neighbors = country.getNeighbors();
         if(neighbors != null) {
-            final JSONArray neighborsArray = new JSONArray();
+            final JSONArray array = new JSONArray();
             for(WLCountry neighborCountry : neighbors) {
-                neighborsArray.put(neighborCountry.getBackendID());
+                array.put(neighborCountry.getBackendID());
             }
-            json.put(SovereignStateInformationType.NEIGHBORS.getName(), neighborsArray);
+            json.put(SovereignStateInformationType.NEIGHBORS.getName(), array);
+        }
+        final WLCurrency[] currencies = country.getCurrencies();
+        if(currencies != null) {
+            final JSONArray array = new JSONArray();
+            for(WLCurrency currency : currencies) {
+                array.put(currency.name());
+            }
+            json.put(SovereignStateInformationType.CURRENCIES.getName(), array);
         }
 
         final AtomicReference<JSONObjectTranslatable> availabilitiesResult = new AtomicReference<>();

@@ -16,7 +16,7 @@ public interface DataValues extends Jsonable {
     default JSONObject getJSONDataValue(JSONDataValue value) {
         final String identifier = value.getIdentifier();
         final JSONObject dataValuesJSON = getDataValuesJSON();
-        return dataValuesJSON.has(identifier) ? dataValuesJSON.getJSONObject(identifier) : new JSONObject();
+        return dataValuesJSON.optJSONObject(identifier, new JSONObject());
     }
     default void setJSONDataValue(JSONDataValue value, JSONObject json) {
         final Folder folder = Folder.OTHER;

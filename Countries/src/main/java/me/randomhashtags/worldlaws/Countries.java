@@ -178,6 +178,7 @@ public final class Countries implements WLServer {
     public ServerRequest[] getHomeRequests() {
         return new ServerRequest[] {
                 new ServerRequest(ServerRequestTypeCountries.COUNTRIES),
+                new ServerRequest(ServerRequestTypeCountries.CURRENCIES),
                 new ServerRequest(ServerRequestTypeCountries.FILTERS),
         };
     }

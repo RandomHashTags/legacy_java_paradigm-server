@@ -147,7 +147,7 @@ public final class EventDate {
         return getDateString(date.getYear(), date.getDayOfMonth(), date.getMonth());
     }
     public static String getDateString(int year, int day, Month month) {
-        return month.getValue() + "-" + year + "-" + day;
+        return month.getValue() + "-" + year + "-" + (day < 10 ? "0" + day : day);
     }
 
     @Override

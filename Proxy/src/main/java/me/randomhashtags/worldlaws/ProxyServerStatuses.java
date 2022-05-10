@@ -119,17 +119,13 @@ public enum ProxyServerStatuses {
                 final String filePath = fileFolders.get(fullFileName).replace("/", separator);
                 final String fileName = fullFileName.split("\\.")[0];
                 sourceFolder.setCustomFolderName(fileName, filePath);
-                updatedFilesFolder.setCustomFolderName(fileName, null);
-                final File newFile = updatedFilesFolder.literalFileExists(fullFileName);
-                if(newFile != null) {
-                    final File oldFile = sourceFolder.literalFileExists(fileName, fullFileName);
-                    if(oldFile != null) {
-                        final boolean deleted = oldFile.delete();
-                    }
-                }
+                updatedFilesFolder.setCustomFolderName(fileName, filePath);
                 final String oldURI = sourceFolder.getFullFolderPath(fileName) + separator + fullFileName, newURI = updatedFilesFolder.getFullFolderPath(fileName) + separator + fullFileName;
                 final Path sourcePath = Paths.get(newURI), targetPath = Paths.get(oldURI);
                 try {
+                    if(Files.exists(sourcePath)) {
+                        Files.delete(sourcePath);
+                    }
                     Files.move(sourcePath, targetPath);
                     updated += 1;
                 } catch (Exception e) {

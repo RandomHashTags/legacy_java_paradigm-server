@@ -1,10 +1,13 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.country.WLCurrency;
 import me.randomhashtags.worldlaws.info.rankings.CountryRankingServices;
+import me.randomhashtags.worldlaws.locale.JSONArrayTranslatable;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.request.ServerRequestType;
 import me.randomhashtags.worldlaws.request.WLHttpHandler;
 import me.randomhashtags.worldlaws.service.CurrencyExchange;
+import me.randomhashtags.worldlaws.settings.ResponseVersions;
 import org.json.JSONObject;
 
 import java.util.HashMap;
@@ -16,10 +19,11 @@ public enum ServerRequestTypeCountries implements ServerRequestType {
     FILTERS,
     INFORMATION,
     RANKED,
+    CURRENCIES,
     CURRENCY_EXCHANGE,
     ;
 
-    private static JSONObjectTranslatable CACHE_FILTERS;
+    private static JSONObjectTranslatable CACHE_CURRENCIES, CACHE_FILTERS;
 
     @Override
     public WLHttpHandler getHandler(APIVersion version) {
@@ -38,6 +42,8 @@ public enum ServerRequestTypeCountries implements ServerRequestType {
         switch (this) {
             case COUNTRIES:
                 return httpExchange -> Countries.INSTANCE.getCountries(version);
+            case CURRENCIES:
+                return httpExchange -> getCurrencies();
             case CURRENCY_EXCHANGE:
                 return httpExchange -> {
                     final HashMap<String, String> query = httpExchange.getQuery();
@@ -60,7 +66,20 @@ public enum ServerRequestTypeCountries implements ServerRequestType {
         }
     }
 
-
+    private JSONObjectTranslatable getCurrencies() {
+        if(CACHE_CURRENCIES != null) {
+            return CACHE_CURRENCIES;
+        }
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("currencies");
+        json.put("response_version", ResponseVersions.COUNTRY_CURRENCIES.getValue());
+        final JSONArrayTranslatable array = new JSONArrayTranslatable();
+        for(WLCurrency currency : WLCurrency.values()) {
+            array.put(currency.toJSONObject());
+        }
+        json.put("currencies", array);
+        CACHE_CURRENCIES = json;
+        return json;
+    }
     private JSONObjectTranslatable getFilters() {
         if(CACHE_FILTERS != null) {
             return CACHE_FILTERS;

@@ -40,6 +40,19 @@ public final class WeatherAlertTime {
         }
     }
 
+    public long getSent() {
+        return sent;
+    }
+    public long getEffective() {
+        return effective;
+    }
+    public long getExpires() {
+        return expires;
+    }
+    public long getEnds() {
+        return ends;
+    }
+
     public JSONObjectTranslatable toJSONObject() {
         final JSONObjectTranslatable json = new JSONObjectTranslatable();
         if(ends != 0) {

@@ -116,4 +116,12 @@ public final class WikipediaCountryService implements NewCountryService {
             new EventSource("Wikipedia: " + country.getShortName(), wikipediaURL)
         );
     }
+
+    @Override
+    public EventSources getResources(SovereignStateSubdivision subdivision) {
+        final String wikipediaURL = subdivision.getWikipediaURL();
+        return new EventSources(
+                new EventSource("Wikipedia: " + subdivision.getName(), wikipediaURL)
+        );
+    }
 }

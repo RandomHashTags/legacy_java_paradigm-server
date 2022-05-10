@@ -8,17 +8,22 @@ import org.json.JSONObject;
 
 public class WikipediaTodaysFeaturedPictureEvent extends UpcomingEvent {
 
+    private String videoURL;
     private EventSources externalSources;
 
     public WikipediaTodaysFeaturedPictureEvent(JSONObject json) {
         super(json);
         final JSONObject propertiesJSON = json.optJSONObject("properties", null);
-        if(propertiesJSON != null && propertiesJSON.has("externalSources")) {
-            externalSources = new EventSources(propertiesJSON.getJSONObject("externalSources"));
+        if(propertiesJSON != null) {
+            videoURL = propertiesJSON.optString("videoURL", null);
+            if(propertiesJSON.has("externalSources")) {
+                externalSources = new EventSources(propertiesJSON.getJSONObject("externalSources"));
+            }
         }
     }
-    public WikipediaTodaysFeaturedPictureEvent(EventDate date, String title, String description, String imageURL, EventSources sources, EventSources externalSources) {
+    public WikipediaTodaysFeaturedPictureEvent(EventDate date, String title, String description, String imageURL, String videoURL, EventSources sources, EventSources externalSources) {
         super(date, title, description, imageURL, null, null, sources);
+        this.videoURL = videoURL;
         this.externalSources = externalSources;
         insertProperties();
     }
@@ -31,6 +36,9 @@ public class WikipediaTodaysFeaturedPictureEvent extends UpcomingEvent {
     @Override
     public JSONObjectTranslatable getPropertiesJSONObject() {
         final JSONObjectTranslatable json = new JSONObjectTranslatable();
+        if(videoURL != null) {
+            json.put("videoURL", videoURL);
+        }
         if(externalSources != null && !externalSources.isEmpty()) {
             json.put("externalSources", externalSources.toJSONObject());
         }

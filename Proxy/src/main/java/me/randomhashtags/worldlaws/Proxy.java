@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws;
 
 import com.sun.net.httpserver.HttpServer;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.locale.JSONTranslatable;
 import me.randomhashtags.worldlaws.request.WLHttpExchange;
 import me.randomhashtags.worldlaws.settings.ResponseVersions;
@@ -171,10 +172,10 @@ public final class Proxy implements UserServer {
         return PING_RESPONSE;
     }
     private static void updatePingResponse() {
-        final JSONObject json = new JSONObject();
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("maintenance");
 
         if(MAINTENANCE_MODE) {
-            final JSONObject maintenanceJSON = new JSONObject();
+            final JSONObjectTranslatable maintenanceJSON = new JSONObjectTranslatable("msg");
             maintenanceJSON.put("msg", MAINTENANCE_MESSAGE);
             maintenanceJSON.put("started", MAINTENANCE_STARTED);
             json.put("maintenance", maintenanceJSON);

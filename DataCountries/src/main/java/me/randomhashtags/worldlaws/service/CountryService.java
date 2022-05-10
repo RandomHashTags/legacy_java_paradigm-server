@@ -31,7 +31,7 @@ public interface CountryService extends SovereignStateService {
         String string = null;
         if(COUNTRY_SERVICE_JSON_VALUES.containsKey(info)) {
             final JSONObjectTranslatable cachedJSON = COUNTRY_SERVICE_JSON_VALUES.get(info);
-            final JSONObjectTranslatable json = cachedJSON.has(countryBackendID) ? cachedJSON.getJSONObjectTranslatable(countryBackendID) : null;
+            final JSONObjectTranslatable json = cachedJSON.optJSONObjectTranslatable(countryBackendID, null);
             if(json != null) {
                 insertValuesIntoCountryValueJSONObject(json);
                 string = json.toString();
@@ -43,7 +43,7 @@ public interface CountryService extends SovereignStateService {
             if(exists) {
                 final JSONObjectTranslatable json = (JSONObjectTranslatable) object;
                 COUNTRY_SERVICE_JSON_VALUES.put(info, json);
-                final JSONObjectTranslatable targetJSON = json.has(countryBackendID) ? json.getJSONObjectTranslatable(countryBackendID) : null;
+                final JSONObjectTranslatable targetJSON = json.optJSONObjectTranslatable(countryBackendID, null);
                 if(targetJSON != null) {
                     insertValuesIntoCountryValueJSONObject(targetJSON);
                     string = targetJSON.toString();

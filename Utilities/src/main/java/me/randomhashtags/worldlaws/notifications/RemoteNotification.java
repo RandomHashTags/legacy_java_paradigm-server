@@ -13,21 +13,24 @@ import java.util.UUID;
 
 public final class RemoteNotification extends JSONObject implements Jsonable {
 
-    public RemoteNotification(RemoteNotificationSubcategory category, boolean badge, String title, String subtitle, String body) {
+    public RemoteNotification(RemoteNotificationSubcategory subcategory, boolean badge, String subtitle, String body, String openNotificationPath) {
         super();
         final String uuid = "***REMOVED***";
         put("uuid", uuid);
-        put("category", category.getCategory().getID());
-        put("subcategory", category.getID());
-        put("badge", badge);
-        if(title != null) {
-            put("title", title);
-        }
+        put("category", subcategory.getCategory().getID());
+        put("subcategory", subcategory.getID());
+        put("title", subcategory.getName());
         if(subtitle != null) {
             put("subtitle", subtitle);
         }
         if(body != null) {
             put("body", body);
+        }
+        if(badge) {
+            put("badge", true);
+        }
+        if(openNotificationPath != null) {
+            put("openNotificationPath", openNotificationPath);
         }
         save();
     }
@@ -43,29 +46,37 @@ public final class RemoteNotification extends JSONObject implements Jsonable {
     public RemoteNotificationCategory getCategory() {
         return RemoteNotificationCategory.valueOfString(getString("category"));
     }
-    public RemoteNotificationSubcategory getSubCategory() {
+    public RemoteNotificationSubcategory getSubcategory() {
         return getCategory().valueOfSubcategory(getString("subcategory"));
     }
     public boolean hasBadge() {
-        return getBoolean("badge");
-    }
-    public String getTitle() {
-        return getString("title");
+        return optBoolean("badge", false);
     }
     public String getSubtitle() {
-        return getString("subtitle");
+        return optString("subtitle", null);
     }
     public String getBody() {
-        return getString("body");
+        return optString("body", null);
+    }
+    public String getOpenNotificationPath() {
+        return optString("openNotificationPath", null);
     }
 
     private void save() {
         final LocalDate now = LocalDate.now();
         final int year = now.getYear(), day = now.getDayOfMonth();
         final Month month = now.getMonth();
-        final String uuid = getString("uuid");
+        final String uuid = getUUID();
         final Folder folder = Folder.REMOTE_NOTIFICATIONS;
-        final String fileName = folder.getFolderName().replace("%year%", Integer.toString(year)).replace("%month%", month.name()).replace("%day%", Integer.toString(day));
+        final RemoteNotificationCategory category = getCategory();
+        final RemoteNotificationSubcategory subcategory = getSubcategory();
+        final String fileName = folder.getFolderName()
+                .replace("%year%", Integer.toString(year))
+                .replace("%month%", month.name())
+                .replace("%day%", Integer.toString(day))
+                .replace("%category%", category.getID())
+                .replace("%subcategory%", subcategory.getID())
+                ;
         folder.setCustomFolderName(uuid, fileName);
         setFileJSON(folder, uuid, toString());
     }
@@ -73,6 +84,6 @@ public final class RemoteNotification extends JSONObject implements Jsonable {
     public static void pushPending() {
         final String identifier = Settings.Server.getUUID();
         final APIVersion apiVersion = APIVersion.v1;
-        final String string = TargetServer.REMOTE_NOTIFICATIONS.sendResponse(identifier, "***REMOVED***", apiVersion.name(), apiVersion, "push_pending", true);
+        final String string = TargetServer.REMOTE_NOTIFICATIONS.sendResponse(identifier, "***REMOVED***" + identifier, apiVersion.name(), apiVersion, "push_pending", true);
     }
 }

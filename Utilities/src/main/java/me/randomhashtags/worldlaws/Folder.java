@@ -39,7 +39,7 @@ public enum Folder {
     FEEDBACK_FEATURE_REQUEST("feedback" + File.separator + "feature request"),
     LOGS("logs" + File.separator + "%year%" + File.separator + "%month%" + File.separator + "%day%" + File.separator + "%type%" + File.separator + "%server%"),
     OTHER(null),
-    REMOTE_NOTIFICATIONS("remoteNotifications" + File.separator + "%year%" + File.separator + "%month%" + File.separator + "%day%"),
+    REMOTE_NOTIFICATIONS("remoteNotifications" + File.separator + "%year%" + File.separator + "%month%" + File.separator + "%day%" + File.separator + "%category%" + File.separator + "%subcategory%"),
     UPDATES("_updates"),
     UPDATES_FILES("_updates" + File.separator + "files"),
 

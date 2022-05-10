@@ -1,6 +1,6 @@
 package me.randomhashtags.worldlaws.country;
 
-import org.json.JSONObject;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 
 public enum WLCurrency {
     AED("United Arab Emirates Dirham"),
@@ -236,7 +236,7 @@ public enum WLCurrency {
         this(name, 2);
     }
     WLCurrency(boolean official, String name) {
-        this(true, name, 2);
+        this(official, name, 2);
     }
 
     WLCurrency(String name, int decimalPoints) {
@@ -248,17 +248,16 @@ public enum WLCurrency {
         this.decimalPoints = decimalPoints;
     }
 
-    public JSONObject toJSONObject() {
-        final JSONObject json = new JSONObject();
-        final JSONObject detailsJSON = new JSONObject();
-        detailsJSON.put("name", name);
+    public JSONObjectTranslatable toJSONObject() {
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("name");
+        json.put("identifier", name());
+        json.put("name", name);
         if(!official) {
-            detailsJSON.put("isOfficial", false);
+            json.put("official", false);
         }
         if(decimalPoints != 2) {
-            detailsJSON.put("decimalPoints", decimalPoints);
+            json.put("decimalPoints", decimalPoints);
         }
-        json.put(name(), detailsJSON);
         return json;
     }
 }

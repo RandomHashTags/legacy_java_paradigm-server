@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.RestAPI;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.service.wikipedia.WikipediaDocument;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONArray;
@@ -20,8 +21,8 @@ public enum CountryYearReview implements RestAPI {
     INSTANCE;
 
     public JSONObject getTodayEventsFromThePastJSON(WLCountry country, LocalDate...dates) {
-        final JSONObject json = new JSONObject();
-        final List<Integer> years = Arrays.asList(2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010);
+        final JSONObjectTranslatable json = new JSONObjectTranslatable();
+        final List<Integer> years = Arrays.asList(2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010);
         new CompletableFutures<Integer>().stream(years, targetYear -> {
             final JSONObject datesJSON = getCountryEventsJSON(targetYear, country);
             if(datesJSON != null) {
@@ -35,7 +36,7 @@ public enum CountryYearReview implements RestAPI {
         });
         return json;
     }
-    public JSONObject getCountryEventsJSON(int year, WLCountry country) {
+    public JSONObjectTranslatable getCountryEventsJSON(int year, WLCountry country) {
         final String countryName = (country.getShortNamePrefix() + country.getShortName()).replace(" ", "_");
         final String identifier = "CountryYearReview,countryName=" + countryName + ",year=" + year;
         final String url = "https://en.wikipedia.org/wiki/" + year + "_in_" + countryName;
@@ -45,7 +46,7 @@ public enum CountryYearReview implements RestAPI {
         final Elements dayElements = elements.select("ul li");
         if(!dayElements.isEmpty()) {
             final HashMap<String, EventSource> references = doc.getReferences(identifier);
-            final JSONObject json = new JSONObject();
+            final JSONObjectTranslatable json = new JSONObjectTranslatable();
             final HashMap<EventDate, List<WikipediaEvent>> map = WikipediaEvent.parseMonthEvents(identifier, year, country, dayElements, references);
             for(Map.Entry<EventDate, List<WikipediaEvent>> entry : map.entrySet()) {
                 final EventDate date = entry.getKey();

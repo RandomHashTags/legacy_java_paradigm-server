@@ -3,6 +3,8 @@ package me.randomhashtags.worldlaws.settings;
 public enum ResponseVersions {
 
     COUNTRIES,
+    COUNTRY_CURRENCIES,
+    COUNTRY_FILTERS,
     COUNTRY_INFORMATION,
     SUBDIVISION_INFORMATION,
     MOVIE_PRODUCTION_COMPANIES,
@@ -34,8 +36,12 @@ public enum ResponseVersions {
         switch (this) {
             case COUNTRIES:
                 return 14;
+            case COUNTRY_CURRENCIES:
+                return 1;
+            case COUNTRY_FILTERS:
+                return 1;
             case COUNTRY_INFORMATION:
-                return 2;
+                return 3;
             case SUBDIVISION_INFORMATION:
                 return 2;
 
@@ -46,7 +52,7 @@ public enum ResponseVersions {
             case PRESENTATIONS:
                 return 2;
             case REMOTE_NOTIFICATIONS:
-                return 2;
+                return 3;
             case UPCOMING_EVENT_TYPES:
                 return 11;
             case VIDEO_GAMES:

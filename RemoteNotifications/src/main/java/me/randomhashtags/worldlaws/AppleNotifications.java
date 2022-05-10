@@ -86,7 +86,7 @@ public enum AppleNotifications implements RemoteNotificationDeviceTokenControlle
     public void sendNotification(RemoteNotification notification) {
         final long started = System.currentTimeMillis();
         final String uuid = notification.getUUID();
-        final RemoteNotificationSubcategory category = notification.getSubCategory();
+        final RemoteNotificationSubcategory category = notification.getSubcategory();
         if(!deviceTokens.get(category).isEmpty()) {
             final HashSet<String> tokens = deviceTokens.get(category);
             final JSONObject aps = new JSONObject();
@@ -94,8 +94,14 @@ public enum AppleNotifications implements RemoteNotificationDeviceTokenControlle
             aps.put("badge", notification.hasBadge() ? 1 : 0);
             aps.put("sound", "default");
             aps.put("category", notification.getCategory().name());
+
             final LinkedHashMap<String, Object> postData = new LinkedHashMap<>();
             postData.put("aps", aps);
+            postData.put("subcategory", notification.getSubcategory().getName());
+            final String openNotificationPath = notification.getOpenNotificationPath();
+            if(openNotificationPath != null) {
+                postData.put("openNotificationPath", openNotificationPath);
+            }
 
             final HashMap<String, String> primaryHeaders = new HashMap<>();
             primaryHeaders.put("authorization", "bearer " + connectionToken);

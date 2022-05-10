@@ -29,13 +29,13 @@ public final class AstronomyPictureOfTheDay extends LoadedUpcomingEventControlle
             final EventSources sources = new EventSources(
                     new EventSource("NASA: Astronomy Picture of the Day", "https://apod.nasa.gov")
             );
-            final String copyright = json.has("copyright") ? json.getString("copyright") : null,
-                    description = json.getString("explanation"),
+            final String copyright = json.optString("copyright", null),
+                    explanation = json.getString("explanation"),
                     title = json.getString("title"),
                     targetDate = json.getString("date")
             ;
 
-            final String imageURL = json.has("hdurl") ? json.getString("hdurl") : null;
+            final String imageURL = json.optString("hdurl", null);
             final String videoURL = json.getString("media_type").equals("video") ? json.getString("url") : null;
 
             final String[] targetDateValues = targetDate.split("-");
@@ -44,7 +44,7 @@ public final class AstronomyPictureOfTheDay extends LoadedUpcomingEventControlle
             final LocalDate date = LocalDate.of(year, month, day);
             final EventDate eventDate = new EventDate(date);
 
-            final APODEvent event = new APODEvent(eventDate, title, description, imageURL, copyright, videoURL, sources);
+            final APODEvent event = new APODEvent(eventDate, title, explanation, imageURL, copyright, videoURL, sources);
             final String identifier = getEventDateIdentifier(eventDate.getDateString(), title);
             putLoadedPreUpcomingEvent(event.toPreUpcomingEventJSON(type, identifier, copyright != null ? "Copyright: " + copyright : null));
             putUpcomingEvent(identifier, event);

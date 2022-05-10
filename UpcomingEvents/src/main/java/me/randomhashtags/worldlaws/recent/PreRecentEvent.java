@@ -9,17 +9,17 @@ import me.randomhashtags.worldlaws.notifications.RemoteNotificationSubcategory;
 import java.util.Objects;
 
 public class PreRecentEvent {
-    protected final RemoteNotificationSubcategory category;
+    protected final RemoteNotificationSubcategory subcategory;
     protected final EventDate date;
     protected final String title, description, imageURL;
     protected final EventSources sources;
     protected final JSONObjectTranslatable customValues;
 
-    public PreRecentEvent(RemoteNotificationSubcategory category, EventDate date, String title, String description, String imageURL, EventSources sources) {
-        this(category, date, title, description, imageURL, sources, null);
+    public PreRecentEvent(RemoteNotificationSubcategory subcategory, EventDate date, String title, String description, String imageURL, EventSources sources) {
+        this(subcategory, date, title, description, imageURL, sources, null);
     }
-    public PreRecentEvent(RemoteNotificationSubcategory category, EventDate date, String title, String description, String imageURL, EventSources sources, JSONObjectTranslatable customValues) {
-        this.category = category;
+    public PreRecentEvent(RemoteNotificationSubcategory subcategory, EventDate date, String title, String description, String imageURL, EventSources sources, JSONObjectTranslatable customValues) {
+        this.subcategory = subcategory;
         this.date = date;
         this.title = LocalServer.fixEscapeValues(title);
         this.description = description;
@@ -31,8 +31,8 @@ public class PreRecentEvent {
     public boolean areEqual(PreRecentEvent right) {
         return date.equals(right.date) && Objects.equals(title, right.title) && Objects.equals(description, right.description);
     }
-    public RemoteNotificationSubcategory getRemoteNotificationCategory() {
-        return category;
+    public RemoteNotificationSubcategory getRemoteNotificationSubcategory() {
+        return subcategory;
     }
     public String getIdentifier() {
         return title;

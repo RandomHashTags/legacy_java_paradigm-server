@@ -6,6 +6,9 @@ import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.locale.JSONArrayTranslatable;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
+import me.randomhashtags.worldlaws.notifications.RemoteNotification;
+import me.randomhashtags.worldlaws.notifications.RemoteNotificationSubcategory;
+import me.randomhashtags.worldlaws.notifications.subcategory.RemoteNotificationSubcategoryWeather;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.weather.*;
 import org.json.JSONArray;
@@ -13,6 +16,7 @@ import org.json.JSONObject;
 
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
+import java.util.concurrent.TimeUnit;
 
 public enum WeatherUSA implements WeatherController {
     INSTANCE;
@@ -71,6 +75,7 @@ public enum WeatherUSA implements WeatherController {
             final JSONObject json = requestJSONObject(url);
             if(json != null && json.has("eventTypes")) {
                 final JSONArray eventTypesArray = json.getJSONArray("eventTypes");
+                eventTypesArray.put("All Alerts");
                 array.putAll(eventTypesArray);
             }
         }
@@ -79,6 +84,7 @@ public enum WeatherUSA implements WeatherController {
 
     @Override
     public JSONObjectTranslatable refresh() {
+        final long now = System.currentTimeMillis();
         final String url = "https://api.weather.gov/alerts/active?status=actual";
         final JSONObject json = requestJSONObject(url);
         if(json != null && json.opt("features") instanceof JSONArray) {
@@ -98,7 +104,7 @@ public enum WeatherUSA implements WeatherController {
                     zoneIDs.addAll(targetZoneIDs);
                 });
                 processZones(zoneIDs);
-                previousWeatherAlerts = processAlerts(array);
+                previousWeatherAlerts = processAlerts(now, array);
             }
         }
         return previousWeatherAlerts;
@@ -158,11 +164,14 @@ public enum WeatherUSA implements WeatherController {
             WLLogger.logInfo("WeatherUSA - loaded" + suffix + " (took " + WLUtilities.getElapsedTime(started) + ")");
         }
     }
-    private JSONObjectTranslatable processAlerts(JSONArray array) {
+    private JSONObjectTranslatable processAlerts(long now, JSONArray array) {
         final ConcurrentHashMap<String, Integer> eventsMap = new ConcurrentHashMap<>();
         final ConcurrentHashMap<String, HashSet<WeatherPreAlert>> eventPreAlertsMap = new ConcurrentHashMap<>();
         final ConcurrentHashMap<String, ConcurrentHashMap<String, WeatherEvent>> subdivisionEventsMap = new ConcurrentHashMap<>();
         final ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<WeatherPreAlert>>> territoryPreAlertsMap = new ConcurrentHashMap<>();
+
+        final ConcurrentHashMap<String, HashSet<String>> remoteNotificationZoneAlerts = new ConcurrentHashMap<>();
+        final long remoteNotificationThreshold = TimeUnit.MINUTES.toMillis(10);
 
         new CompletableFutures<JSONObject>().stream(array, json -> {
             final String id = json.getString("id").split("/alerts/")[1];
@@ -179,6 +188,7 @@ public enum WeatherUSA implements WeatherController {
             final String expires = properties.getString("expires");
             final String ends = properties.optString("ends", null);
             final WeatherAlertTime time = new WeatherAlertTime(sent, effective, expires, ends);
+            final boolean sendsRemoteNotification = now - time.getSent() < remoteNotificationThreshold;
 
             final int defcon = getSeverityDEFCON(severity);
             eventsMap.putIfAbsent(event, defcon);
@@ -190,6 +200,10 @@ public enum WeatherUSA implements WeatherController {
                 final WeatherZone zone = getWeatherZone(zoneID);
                 if(zone != null) {
                     zones.add(zone);
+                    if(sendsRemoteNotification) {
+                        remoteNotificationZoneAlerts.putIfAbsent(zoneID, new HashSet<>());
+                        remoteNotificationZoneAlerts.get(zoneID).add(event + "|" + id);
+                    }
                 }
             }
 
@@ -222,6 +236,22 @@ public enum WeatherUSA implements WeatherController {
         putEventPreAlerts(eventPreAlerts, eventPreAlertsMap);
         putSubdivisionEvents(territoryEvents, subdivisionEventsMap);
         putSubdivisionPreAlerts(territoryPreAlerts, territoryPreAlertsMap);
+
+        if(!remoteNotificationZoneAlerts.isEmpty()) {
+            final String countryBackendID = getCountry().getBackendID();
+            final String pathPrefix = APIVersion.getLatest().name() + "/weather/alerts/country/" + countryBackendID + "/id/";
+            final RemoteNotificationSubcategory subcategory = RemoteNotificationSubcategoryWeather.LOCAL_ALERT;
+            new CompletableFutures<Map.Entry<String, HashSet<String>>>().stream(remoteNotificationZoneAlerts.entrySet(), entry -> {
+                final String zoneID = entry.getKey();
+                final HashSet<String> events = entry.getValue();
+                for(String string : events) {
+                    final String[] values = string.split("\\|");
+                    final String event = values[0], id = values[1];
+                    new RemoteNotification(subcategory, false, event, "Was just issued for zone \"" + zoneID + "\"", pathPrefix + id);
+                }
+            });
+            RemoteNotification.pushPending();
+        }
         return getEventsJSON(eventsMap);
     }
 

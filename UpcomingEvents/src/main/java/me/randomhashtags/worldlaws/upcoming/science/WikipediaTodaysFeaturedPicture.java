@@ -32,7 +32,20 @@ public final class WikipediaTodaysFeaturedPicture extends LoadedUpcomingEventCon
                 final Element headlineElement = element.selectFirst("span.mw-headline");
                 if(headlineElement != null && headlineElement.hasAttr("id") && headlineElement.attr("id").equals("Today's_featured_picture")) {
                     final Element imageElement = element.selectFirst("a.image img");
-                    String imageURL = imageElement != null ? "https:" + imageElement.attr("src") : null;
+                    String imageURL = imageElement != null ? "https:" + imageElement.attr("src") : null, videoURL = null;
+                    if(imageURL == null) {
+                        final Element playerElement = element.selectFirst("span.mw-tmh-player");
+                        if(playerElement != null) {
+                            final Element videoElement = playerElement.selectFirst("video");
+                            if(videoElement != null) {
+                                final String posterURL = videoElement.attr("poster");
+                                imageURL = "https:" + posterURL;
+                                final String[] values = posterURL.split("/");
+                                final String last = values[values.length-1];
+                                videoURL = "https:" + posterURL.split("/" + last)[0].replace("/thumb/", "/");
+                            }
+                        }
+                    }
                     if(imageURL != null) {
                         final String[] values = imageURL.split("/");
                         final String lastValue = values[values.length-1];
@@ -69,7 +82,7 @@ public final class WikipediaTodaysFeaturedPicture extends LoadedUpcomingEventCon
                     final EventSources sources = new EventSources(
                             new EventSource("Wikipedia: Main Page", url)
                     );
-                    final WikipediaTodaysFeaturedPictureEvent event = new WikipediaTodaysFeaturedPictureEvent(date, title, description.toString(), imageURL, sources, externalSources);
+                    final WikipediaTodaysFeaturedPictureEvent event = new WikipediaTodaysFeaturedPictureEvent(date, title, description.toString(), imageURL, videoURL, sources, externalSources);
                     putLoadedPreUpcomingEvent(event.toPreUpcomingEventJSON(getType(), identifier, photographCredit));
                     putUpcomingEvent(identifier, event);
                     break;
