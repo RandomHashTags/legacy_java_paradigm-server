@@ -6,25 +6,31 @@ import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import org.json.JSONObject;
 
+import java.util.HashMap;
+
 public class WikipediaTodaysFeaturedPictureEvent extends UpcomingEvent {
 
     private String videoURL;
-    private EventSources externalSources;
+    private HashMap<String, String> hyperlinks;
 
     public WikipediaTodaysFeaturedPictureEvent(JSONObject json) {
         super(json);
         final JSONObject propertiesJSON = json.optJSONObject("properties", null);
         if(propertiesJSON != null) {
             videoURL = propertiesJSON.optString("videoURL", null);
-            if(propertiesJSON.has("externalSources")) {
-                externalSources = new EventSources(propertiesJSON.getJSONObject("externalSources"));
+            if(propertiesJSON.has("hyperlinks")) {
+                hyperlinks = new HashMap<>();
+                final JSONObject hyperlinksJSON = propertiesJSON.getJSONObject("hyperlinks");
+                for(String key : hyperlinksJSON.keySet()) {
+                    hyperlinksJSON.put(key, hyperlinksJSON.getString(key));
+                }
             }
         }
     }
-    public WikipediaTodaysFeaturedPictureEvent(EventDate date, String title, String description, String imageURL, String videoURL, EventSources sources, EventSources externalSources) {
+    public WikipediaTodaysFeaturedPictureEvent(EventDate date, String title, String description, String imageURL, String videoURL, EventSources sources, HashMap<String, String> hyperlinks) {
         super(date, title, description, imageURL, null, null, sources);
         this.videoURL = videoURL;
-        this.externalSources = externalSources;
+        this.hyperlinks = hyperlinks;
         insertProperties();
     }
 
@@ -39,8 +45,9 @@ public class WikipediaTodaysFeaturedPictureEvent extends UpcomingEvent {
         if(videoURL != null) {
             json.put("videoURL", videoURL);
         }
-        if(externalSources != null && !externalSources.isEmpty()) {
-            json.put("externalSources", externalSources.toJSONObject());
+        if(hyperlinks != null && !hyperlinks.isEmpty()) {
+            final JSONObject hyperlinksJSON = new JSONObject(hyperlinks);
+            json.put("hyperlinks", hyperlinksJSON);
         }
         return json;
     }

@@ -185,9 +185,9 @@ public interface RestAPI {
             RESPONSE_TIMES.putIfAbsent(finalURL, new JSONArray());
         }
         final HttpRequest request = requestBuilder.build();
-        final int multiplier = isLocal ? 3 : 1;
+        final int timeoutSeconds = isLocal ? 15 : 30;
         final CompletableFuture<String> bruh = CLIENT.sendAsync(request, HttpResponse.BodyHandlers.ofString())
-                .orTimeout(15*multiplier, TimeUnit.SECONDS)
+                .orTimeout(timeoutSeconds, TimeUnit.SECONDS)
                 .thenApply(HttpResponse::body).exceptionally(throwable -> {
             final Exception e = throwable instanceof Exception ? (Exception) throwable : null;
             if(e != null) {
@@ -206,7 +206,7 @@ public interface RestAPI {
         });
         String string;
         try {
-            string = bruh.get(15 * multiplier, TimeUnit.SECONDS);
+            string = bruh.get(timeoutSeconds, TimeUnit.SECONDS);
         } catch (Exception e) {
             string = null;
             final String errorName = e.getClass().getSimpleName();

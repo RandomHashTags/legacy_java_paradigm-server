@@ -14,6 +14,7 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.time.LocalDate;
+import java.util.HashMap;
 
 public final class WikipediaTodaysFeaturedPicture extends LoadedUpcomingEventController {
     @Override
@@ -55,14 +56,14 @@ public final class WikipediaTodaysFeaturedPicture extends LoadedUpcomingEventCon
 
                     final StringBuilder description = new StringBuilder();
                     boolean isFirst = true;
-                    final EventSources externalSources = new EventSources();
+                    final HashMap<String, String> hyperlinks = new HashMap<>();
                     final Elements paragraphs = element.selectFirst("table").select("tbody tr td p");
                     for(Element paragraphElement : paragraphs) {
                         description.append(isFirst ? "" : "\n").append(paragraphElement.text());
                         isFirst = false;
-                        final EventSources links = WikipediaEvent.getExternalLinks(paragraphElement);
+                        final HashMap<String, String> links = WikipediaEvent.getWikipediaHyperlinks(paragraphElement);
                         if(links != null) {
-                            externalSources.addAll(links);
+                            hyperlinks.putAll(links);
                         }
                     }
 
@@ -82,7 +83,7 @@ public final class WikipediaTodaysFeaturedPicture extends LoadedUpcomingEventCon
                     final EventSources sources = new EventSources(
                             new EventSource("Wikipedia: Main Page", url)
                     );
-                    final WikipediaTodaysFeaturedPictureEvent event = new WikipediaTodaysFeaturedPictureEvent(date, title, description.toString(), imageURL, videoURL, sources, externalSources);
+                    final WikipediaTodaysFeaturedPictureEvent event = new WikipediaTodaysFeaturedPictureEvent(date, title, description.toString(), imageURL, videoURL, sources, hyperlinks);
                     putLoadedPreUpcomingEvent(event.toPreUpcomingEventJSON(getType(), identifier, photographCredit));
                     putUpcomingEvent(identifier, event);
                     break;

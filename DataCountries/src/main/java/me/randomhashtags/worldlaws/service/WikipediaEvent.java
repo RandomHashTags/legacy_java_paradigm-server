@@ -16,10 +16,11 @@ public class WikipediaEvent extends JSONObject {
 
     private JSONArray images;
 
-    public WikipediaEvent(String description, EventSources externalLinks, EventSources sources) {
+    public WikipediaEvent(String description, HashMap<String, String> hyperlinks, EventSources sources) {
         put("description", description);
-        if(externalLinks != null) {
-            put("externalLinks", externalLinks.toJSONObject());
+        if(hyperlinks != null) {
+            final JSONObject hyperlinksJSON = new JSONObject(hyperlinks);
+            put("hyperlinks", hyperlinksJSON);
         }
         if(!sources.isEmpty()) {
             put("sources", sources.toJSONObject());
@@ -182,8 +183,9 @@ public class WikipediaEvent extends JSONObject {
             final Elements targetElements = (thirdList != null ? thirdList : innerList).select("li");
             for(Element element : targetElements) {
                 final String text = LocalServer.removeWikipediaReferences(element.text());
-                final EventSources externalLinks = getExternalLinks(element), sources = getSources(references, element);
-                final WikipediaEvent event = new WikipediaEvent(text, externalLinks, sources);
+                final HashMap<String, String> hyperlinks = getWikipediaHyperlinks(element);
+                final EventSources sources = getSources(references, element);
+                final WikipediaEvent event = new WikipediaEvent(text, hyperlinks, sources);
                 events.add(event);
             }
         } else {
@@ -194,8 +196,9 @@ public class WikipediaEvent extends JSONObject {
                     final int length = targetDateString.length() + 3;
                     if(text.length() - length > 0) {
                         text = text.substring(length);
-                        final EventSources externalLinks = getExternalLinks(listElement), sources = getSources(references, listElement);
-                        final WikipediaEvent event = new WikipediaEvent(text, externalLinks, sources);
+                        final HashMap<String, String> hyperlinks = getWikipediaHyperlinks(listElement);
+                        final EventSources sources = getSources(references, listElement);
+                        final WikipediaEvent event = new WikipediaEvent(text, hyperlinks, sources);
                         events.add(event);
                     } else {
                         WLLogger.logWarning("WikipediaEvent - parseEvents;identifier=" + identifier + ";text=" + text);
@@ -207,19 +210,17 @@ public class WikipediaEvent extends JSONObject {
         }
         return events;
     }
-    public static EventSources getExternalLinks(Element element) {
-        final EventSources sources = new EventSources();
+    public static HashMap<String, String> getWikipediaHyperlinks(Element element) {
+        final HashMap<String, String> hyperlinks = new HashMap<>();
         final Elements links = element.select("a[href]");
         links.removeIf(test -> test.attr("href").startsWith("#cite_note-"));
         final String wikipediaDomain = "https://en.wikipedia.org";
         for(Element href : links) {
             final String text = href.attr("href");
-            final String[] values = text.split("/");
             final String homepageURL = text.startsWith("http") ? text : wikipediaDomain + text;
-            final EventSource source = new EventSource("Wikipedia: " + values[values.length-1].replace("_", " "), homepageURL);
-            sources.add(source);
+            hyperlinks.put(text, homepageURL);
         }
-        return sources.isEmpty() ? null : sources;
+        return hyperlinks.isEmpty() ? null : hyperlinks;
     }
     private static EventSources getSources(HashMap<String, EventSource> references, Element element) {
         final EventSources sources = new EventSources();
