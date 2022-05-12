@@ -11,6 +11,7 @@ import me.randomhashtags.worldlaws.request.WLHttpHandler;
 import me.randomhashtags.worldlaws.settings.ResponseVersions;
 import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
+import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.nio.file.Files;
@@ -24,7 +25,7 @@ import java.util.HashSet;
 public enum ServerRequestTypeRemoteNotifications implements ServerRequestType {
     CATEGORIES,
 
-    PUSH_PENDING,
+    PUSH,
     REGISTER,
     UNREGISTER,
     IS_REGISTERED,
@@ -40,9 +41,9 @@ public enum ServerRequestTypeRemoteNotifications implements ServerRequestType {
                 case CATEGORIES:
                     return getCategories();
 
-                case PUSH_PENDING:
-                    if(Settings.Server.getUUID().equals(httpExchange.getIdentifier())) {
-                        pushPending();
+                case PUSH:
+                    if(httpExchange.getActualRequestMethod() == RequestMethod.POST && Settings.Server.getUUID().equals(httpExchange.getIdentifier())) {
+                        return push(httpExchange.getRequestBodyJSON());
                     }
                     return null;
                 case REGISTER:
@@ -94,7 +95,11 @@ public enum ServerRequestTypeRemoteNotifications implements ServerRequestType {
                 if(subcategory != null) {
                     final String token = values[3];
                     if(register) {
-                        controller.register(subcategory, token);
+                        if(values.length == 4) {
+                            controller.register(subcategory, token);
+                        } else {
+                            controller.register(subcategory, token, values[4]);
+                        }
                     } else {
                         controller.unregister(subcategory, token);
                     }
@@ -163,12 +168,28 @@ public enum ServerRequestTypeRemoteNotifications implements ServerRequestType {
     }
 
 
+    private JSONObjectTranslatable push(JSONObject requestBody) {
+        boolean succeeded = false;
+        if(requestBody != null && requestBody.has("remote_notifications")) {
+            succeeded = true;
+            final JSONArray array = requestBody.getJSONArray("remote_notifications");
+            final HashSet<RemoteNotification> notifications = new HashSet<>();
+            for(Object obj : array) {
+                final JSONObject json = (JSONObject) obj;
+                final RemoteNotification notification = new RemoteNotification(json);
+                //notification.save();
+            }
+        }
+        final JSONObjectTranslatable json = new JSONObjectTranslatable();
+        json.put("value", succeeded);
+        return json;
+    }
     private void pushPending() {
         final Instant nowInstant = Instant.now();
         final LocalDate now = LocalDate.now();
         final int year = now.getYear(), day = now.getDayOfMonth();
         final Month month = now.getMonth();
-        final Folder folder = Folder.REMOTE_NOTIFICATIONS;
+        final Folder folder = Folder.REMOTE_NOTIFICATIONS_CATEGORY_SUBCATEGORY;
         final String folderFileName = folder.getFolderName().replace("%year%", Integer.toString(year)).replace("%month%", month.name()).replace("%day%", Integer.toString(day));
         folder.setCustomFolderName("recentRemoteNotifications", folderFileName);
         final HashSet<Path> files = folder.getAllFilePaths("recentRemoteNotifications");
@@ -180,7 +201,7 @@ public enum ServerRequestTypeRemoteNotifications implements ServerRequestType {
                 final String fileName = path.getFileName().toString();
                 try {
                     final BasicFileAttributes attributes = Files.readAttributes(path, BasicFileAttributes.class);
-                    if(attributes.creationTime().toInstant().plusSeconds(60).isAfter(nowInstant)) {
+                    if(attributes.creationTime().toInstant().plusSeconds(30).isAfter(nowInstant)) {
                         final JSONObject json = getJSONObject(folder, fileName, null);
                         if(json != null) {
                             final RemoteNotification notification = new RemoteNotification(json);

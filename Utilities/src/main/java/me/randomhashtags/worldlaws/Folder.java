@@ -39,7 +39,8 @@ public enum Folder {
     FEEDBACK_FEATURE_REQUEST("feedback" + File.separator + "feature request"),
     LOGS("logs" + File.separator + "%year%" + File.separator + "%month%" + File.separator + "%day%" + File.separator + "%type%" + File.separator + "%server%"),
     OTHER(null),
-    REMOTE_NOTIFICATIONS("remoteNotifications" + File.separator + "%year%" + File.separator + "%month%" + File.separator + "%day%" + File.separator + "%category%" + File.separator + "%subcategory%"),
+    REMOTE_NOTIFICATIONS("remoteNotifications" + File.separator + "%year%" + File.separator + "%month%" + File.separator + "%day%"),
+    REMOTE_NOTIFICATIONS_CATEGORY_SUBCATEGORY("remoteNotifications" + File.separator + "%year%" + File.separator + "%month%" + File.separator + "%day%" + File.separator + "%category%" + File.separator + "%subcategory%"),
     UPDATES("_updates"),
     UPDATES_FILES("_updates" + File.separator + "files"),
 
@@ -111,6 +112,7 @@ public enum Folder {
             case FEEDBACK_FEATURE_REQUEST:
             case LOGS:
             case REMOTE_NOTIFICATIONS:
+            case REMOTE_NOTIFICATIONS_CATEGORY_SUBCATEGORY:
             case ERRORS:
                 return "_" + folderName;
             default:

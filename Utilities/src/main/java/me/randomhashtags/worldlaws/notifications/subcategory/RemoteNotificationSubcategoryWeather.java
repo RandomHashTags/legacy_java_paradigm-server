@@ -26,6 +26,14 @@ public enum RemoteNotificationSubcategoryWeather implements RemoteNotificationSu
     }
 
     @Override
+    public boolean isConditional() {
+        switch (this) {
+            case LOCAL_ALERT: return true;
+            default: return false;
+        }
+    }
+
+    @Override
     public JSONObjectTranslatable getAllValues() {
         switch (this) {
             case LOCAL_ALERT:

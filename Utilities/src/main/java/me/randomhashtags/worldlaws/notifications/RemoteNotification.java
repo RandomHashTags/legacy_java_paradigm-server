@@ -5,10 +5,13 @@ import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.Jsonable;
 import me.randomhashtags.worldlaws.TargetServer;
 import me.randomhashtags.worldlaws.settings.Settings;
+import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.time.LocalDate;
 import java.time.Month;
+import java.util.Collection;
+import java.util.LinkedHashMap;
 import java.util.UUID;
 
 public final class RemoteNotification extends JSONObject implements Jsonable {
@@ -32,7 +35,6 @@ public final class RemoteNotification extends JSONObject implements Jsonable {
         if(openNotificationPath != null) {
             put("openNotificationPath", openNotificationPath);
         }
-        save();
     }
     public RemoteNotification(JSONObject json) {
         for(String key : json.keySet()) {
@@ -62,12 +64,12 @@ public final class RemoteNotification extends JSONObject implements Jsonable {
         return optString("openNotificationPath", null);
     }
 
-    private void save() {
+    public void save() {
         final LocalDate now = LocalDate.now();
         final int year = now.getYear(), day = now.getDayOfMonth();
         final Month month = now.getMonth();
         final String uuid = getUUID();
-        final Folder folder = Folder.REMOTE_NOTIFICATIONS;
+        final Folder folder = Folder.REMOTE_NOTIFICATIONS_CATEGORY_SUBCATEGORY;
         final RemoteNotificationCategory category = getCategory();
         final RemoteNotificationSubcategory subcategory = getSubcategory();
         final String fileName = folder.getFolderName()
@@ -85,5 +87,11 @@ public final class RemoteNotification extends JSONObject implements Jsonable {
         final String identifier = Settings.Server.getUUID();
         final APIVersion apiVersion = APIVersion.v1;
         final String string = TargetServer.REMOTE_NOTIFICATIONS.sendResponse(identifier, "***REMOVED***" + identifier, apiVersion.name(), apiVersion, "push_pending", true);
+    }
+    public static void push(Collection<RemoteNotification> notifications) {
+        final LinkedHashMap<String, Object> postData = new LinkedHashMap<>();
+        final JSONArray array = new JSONArray(notifications);
+        postData.put("remote_notifications", array);
+        final JSONObject json = TargetServer.REMOTE_NOTIFICATIONS.postResponse("push", postData);
     }
 }

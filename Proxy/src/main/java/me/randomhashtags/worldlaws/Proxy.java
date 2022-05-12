@@ -211,18 +211,18 @@ public final class Proxy implements UserServer {
         MAINTENANCE_STARTED = System.currentTimeMillis();
         MAINTENANCE_MODE = true;
         MAINTENANCE_MESSAGE = reason;
-        WLLogger.logInfo("ServerHandler - started maintenance mode");
+        WLLogger.logInfo("Proxy - started maintenance mode");
     }
     public static void endMaintenanceMode() {
         if(!MAINTENANCE_MODE) {
             return;
         }
-        updatePingResponse();
-        updateDetails();
-
-        WLLogger.logInfo("ServerHandler - ended maintenance mode (active for " + WLUtilities.getElapsedTime(MAINTENANCE_STARTED) + ")");
         MAINTENANCE_MODE = false;
         MAINTENANCE_MESSAGE = null;
+        updatePingResponse();
+        updateDetails();
+        WLLogger.logInfo("Proxy - ended maintenance mode (active for " + WLUtilities.getElapsedTime(MAINTENANCE_STARTED) + ")");
+
         MAINTENANCE_STARTED = 0;
     }
     private static void updateDetails() {

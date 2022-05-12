@@ -9,6 +9,9 @@ public interface RemoteNotificationSubcategory extends Jsonable, RestAPI {
 
     RemoteNotificationCategory getCategory();
     String getName();
+    default boolean isConditional() {
+        return false;
+    }
     default JSONObjectTranslatable getAllValues() {
         return null;
     }

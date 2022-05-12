@@ -452,7 +452,7 @@ public enum PresentationType implements Jsoupable {
         return events;
     }
     private List<PresentationEvent> refreshGoogleIO() {
-        final String title = "Google I/O", location = "California, United States", imageURL = null;
+        final String title = "Google I/O", location = "California, United States", imageURL = "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_IO_logo.svg";
         final WikipediaDocument doc = new WikipediaDocument(url);
         final String description = doc.getDescription();
         final EventSources externalLinks = doc.getExternalLinks();

@@ -150,6 +150,14 @@ public enum TargetServer implements RestAPI, DataValues {
                 return request(targetURL, headers, null);
         }
     }
+    public JSONObject postResponse(String path, LinkedHashMap<String, Object> postData) {
+        final LinkedHashMap<String, String> headers = new LinkedHashMap<>();
+        final String serverUUID = Settings.Server.getUUID();
+        headers.put("***REMOVED***", serverUUID);
+        headers.put("***REMOVED***", "***REMOVED***" + serverUUID);
+        headers.put("***REMOVED***", "-1");
+        return postJSONObject(path, postData, true, headers);
+    }
 
     private String getCombinedResponse(WLHttpExchange headers) {
         final String[] values = headers.getShortPath().split("&&");
