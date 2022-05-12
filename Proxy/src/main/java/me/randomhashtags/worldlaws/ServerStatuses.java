@@ -42,12 +42,12 @@ public enum ServerStatuses {
     public static void rebootServers() {
         final boolean updated = updateServersIfAvailable();
         if(!updated) {
-            ServerHandler.startMaintenanceMode("Servers are rebooting, and should be back up in a few minutes :)");
+            Proxy.startMaintenanceMode("Servers are rebooting, and should be back up in a few minutes :)");
             rebootServersWithHomeResponse();
         } else {
             spinUpServersWithHomeResponse();
         }
-        ServerHandler.endMaintenanceMode();
+        Proxy.endMaintenanceMode();
     }
     private static void rebootServersWithHomeResponse() {
         shutdownServers();
@@ -61,14 +61,14 @@ public enum ServerStatuses {
         } catch (Exception e) {
             WLUtilities.saveException(e);
         }
-        final String string = ServerHandler.updateHomeResponse();
+        final String string = Proxy.updateHomeResponse();
     }
 
     public static void tryUpdatingServersIfAvailable() {
         final boolean updated = updateServersIfAvailable();
         if(updated) {
             spinUpServersWithHomeResponse();
-            ServerHandler.endMaintenanceMode();
+            Proxy.endMaintenanceMode();
         } else {
             WLLogger.logInfo("Proxy - no server updates available");
         }
@@ -79,7 +79,7 @@ public enum ServerStatuses {
         final HashSet<Path> files = updatedFilesFolder.getAllFilePaths(null);
         final boolean updatesAreAvailable = !files.isEmpty();
         if(updatesAreAvailable) {
-            ServerHandler.startMaintenanceMode("Servers are updating, and should be back up in a few minutes :)");
+            Proxy.startMaintenanceMode("Servers are updating, and should be back up in a few minutes :)");
             shutdownServers();
 
             final JSONObject updateJSON = Jsonable.getStaticLocalFileJSONObject(Folder.UPDATES, "update");
@@ -120,16 +120,12 @@ public enum ServerStatuses {
                 final String fileName = fullFileName.split("\\.")[0];
                 sourceFolder.setCustomFolderName(fileName, filePath);
                 updatedFilesFolder.setCustomFolderName(fileName, null);
-                final File newFile = updatedFilesFolder.literalFileExists(fullFileName);
-                if(newFile != null) {
-                    final File oldFile = sourceFolder.literalFileExists(fileName, fullFileName);
-                    if(oldFile != null) {
-                        final boolean deleted = oldFile.delete();
-                    }
-                }
                 final String oldURI = sourceFolder.getFullFolderPath(fileName) + separator + fullFileName, newURI = updatedFilesFolder.getFullFolderPath(fileName) + separator + fullFileName;
                 final Path sourcePath = Paths.get(newURI), targetPath = Paths.get(oldURI);
                 try {
+                    if(Files.exists(targetPath)) {
+                        Files.delete(targetPath);
+                    }
                     Files.move(sourcePath, targetPath);
                     updated += 1;
                 } catch (Exception e) {
@@ -139,6 +135,6 @@ public enum ServerStatuses {
                 updatedFilesFolder.removeCustomFolderName(fileName);
             }
         }
-        WLLogger.logInfo("Proxy - updated " + updated + " file(s) (took " + WLUtilities.getElapsedTime(started) + ")");
+        WLLogger.logInfo("Proxy - updated " + updated + " file" + (updated > 1 ? "s" : "") + " (took " + WLUtilities.getElapsedTime(started) + ")");
     }
 }

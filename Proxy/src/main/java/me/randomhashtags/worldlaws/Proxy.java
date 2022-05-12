@@ -49,12 +49,12 @@ public final class Proxy implements UserServer {
         final long rebootFrequency = Settings.Server.getServerRebootFrequencyInDays();
         final long rebootInterval = TimeUnit.DAYS.toMillis(rebootFrequency);
         final LocalDateTime rebootStartingDate = now.plusDays(rebootFrequency).withHour(0).withMinute(0).withSecond(5);
-        final Timer rebootTimer = WLUtilities.getTimer(rebootStartingDate, rebootInterval, ProxyServerStatuses::rebootServers);
+        final Timer rebootTimer = WLUtilities.getTimer(rebootStartingDate, rebootInterval, ServerStatuses::rebootServers);
         timers.add(rebootTimer);
 
         final long updateServersInterval = TimeUnit.DAYS.toMillis(1);
         final LocalDateTime updateServersStartingDay = now.plusDays(1).withHour(0).withMinute(0).withSecond(1);
-        final Timer updateServersTimer = WLUtilities.getTimer(updateServersStartingDay, updateServersInterval, ProxyServerStatuses::tryUpdatingServersIfAvailable);
+        final Timer updateServersTimer = WLUtilities.getTimer(updateServersStartingDay, updateServersInterval, ServerStatuses::tryUpdatingServersIfAvailable);
         timers.add(updateServersTimer);
 
         setupServer();
@@ -151,10 +151,10 @@ public final class Proxy implements UserServer {
         final HashMap<String, Runnable> map = new HashMap<>();
         map.put("startmaintenance", () -> startMaintenanceMode("Manual updates in progress, please wait a few minutes :)"));
         map.put("endmaintenance", Proxy::endMaintenanceMode);
-        map.put("shutdown", ProxyServerStatuses::shutdownServers);
-        map.put("spinup", ProxyServerStatuses::spinUpServers);
-        map.put("rebootservers", ProxyServerStatuses::rebootServers);
-        map.put("update", ProxyServerStatuses::tryUpdatingServersIfAvailable);
+        map.put("shutdown", ServerStatuses::shutdownServers);
+        map.put("spinup", ServerStatuses::spinUpServers);
+        map.put("rebootservers", ServerStatuses::rebootServers);
+        map.put("update", ServerStatuses::tryUpdatingServersIfAvailable);
         map.put("generatecertificates", CertbotHandler::generateCertificates);
         map.put("importcertificates", CertbotHandler::importCertificates);
         map.put("renewcertificates", CertbotHandler::renewCertificates);

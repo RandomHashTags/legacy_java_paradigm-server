@@ -14,13 +14,9 @@ import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.attribute.BasicFileAttributes;
-import java.time.Instant;
-import java.time.LocalDate;
-import java.time.Month;
+import java.util.HashMap;
 import java.util.HashSet;
+import java.util.Map;
 
 public enum ServerRequestTypeRemoteNotifications implements ServerRequestType {
     CATEGORIES,
@@ -98,7 +94,8 @@ public enum ServerRequestTypeRemoteNotifications implements ServerRequestType {
                         if(values.length == 4) {
                             controller.register(subcategory, token);
                         } else {
-                            controller.register(subcategory, token, values[4]);
+                            final String conditionalValue = values[4].replace(" ", "_");
+                            controller.register(subcategory, token, conditionalValue);
                         }
                     } else {
                         controller.unregister(subcategory, token);
@@ -169,53 +166,43 @@ public enum ServerRequestTypeRemoteNotifications implements ServerRequestType {
 
 
     private JSONObjectTranslatable push(JSONObject requestBody) {
-        boolean succeeded = false;
         if(requestBody != null && requestBody.has("remote_notifications")) {
-            succeeded = true;
             final JSONArray array = requestBody.getJSONArray("remote_notifications");
-            final HashSet<RemoteNotification> notifications = new HashSet<>();
+            final HashSet<RemoteNotification> parsedNotifications = new HashSet<>();
             for(Object obj : array) {
                 final JSONObject json = (JSONObject) obj;
                 final RemoteNotification notification = new RemoteNotification(json);
-                //notification.save();
+                parsedNotifications.add(notification);
             }
-        }
-        final JSONObjectTranslatable json = new JSONObjectTranslatable();
-        json.put("value", succeeded);
-        return json;
-    }
-    private void pushPending() {
-        final Instant nowInstant = Instant.now();
-        final LocalDate now = LocalDate.now();
-        final int year = now.getYear(), day = now.getDayOfMonth();
-        final Month month = now.getMonth();
-        final Folder folder = Folder.REMOTE_NOTIFICATIONS_CATEGORY_SUBCATEGORY;
-        final String folderFileName = folder.getFolderName().replace("%year%", Integer.toString(year)).replace("%month%", month.name()).replace("%day%", Integer.toString(day));
-        folder.setCustomFolderName("recentRemoteNotifications", folderFileName);
-        final HashSet<Path> files = folder.getAllFilePaths("recentRemoteNotifications");
-        int amount = 0;
-        if(!files.isEmpty()) {
-            amount = files.size();
-            final HashSet<RemoteNotification> notifications = new HashSet<>();
-            for(Path path : files) {
-                final String fileName = path.getFileName().toString();
-                try {
-                    final BasicFileAttributes attributes = Files.readAttributes(path, BasicFileAttributes.class);
-                    if(attributes.creationTime().toInstant().plusSeconds(30).isAfter(nowInstant)) {
-                        final JSONObject json = getJSONObject(folder, fileName, null);
-                        if(json != null) {
-                            final RemoteNotification notification = new RemoteNotification(json);
-                            notifications.add(notification);
+            final HashMap<RemoteNotificationDeviceTokenController, HashSet<RemoteNotification>> sendableNotifications = new HashMap<>();
+            for(DeviceTokenType tokenType : DeviceTokenType.values()) {
+                final RemoteNotificationDeviceTokenController controller = tokenType.getController();
+                if(controller != null) {
+                    controller.update();
+                    final HashSet<RemoteNotification> sendable = new HashSet<>();
+                    for(RemoteNotification notification : parsedNotifications) {
+                        if(controller.shouldSendNotification(notification)) {
+                            notification.save();
+                            sendable.add(notification);
                         }
                     }
-                } catch (Exception e) {
-                    WLUtilities.saveException(e);
+                    if(!sendable.isEmpty()) {
+                        sendableNotifications.put(controller, sendable);
+                    }
                 }
             }
-            final AppleNotifications apple = AppleNotifications.INSTANCE;
-            apple.tryUpdatingToken();
-            new CompletableFutures<RemoteNotification>().stream(notifications, apple::sendNotification);
+
+            final int amount = sendableNotifications.size();
+            if(amount > 0) {
+                WLLogger.logInfo("RemoteNotifications - sending " + amount + " remote notification" + (amount > 1 ? "s" : ""));
+                for(Map.Entry<RemoteNotificationDeviceTokenController, HashSet<RemoteNotification>> entry : sendableNotifications.entrySet()) {
+                    final RemoteNotificationDeviceTokenController controller = entry.getKey();
+                    final HashSet<RemoteNotification> sendable = entry.getValue();
+                    new CompletableFutures<RemoteNotification>().stream(sendable, controller::sendNotification);
+                }
+                return new JSONObjectTranslatable();
+            }
         }
-        WLLogger.logInfo("RemoteNotifications - sending " + amount + " remote notification" + (amount > 1 ? "s" : ""));
+        return null;
     }
 }

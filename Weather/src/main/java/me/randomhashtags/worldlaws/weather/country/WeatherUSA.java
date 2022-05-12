@@ -241,16 +241,18 @@ public enum WeatherUSA implements WeatherController {
             final String countryBackendID = getCountry().getBackendID();
             final String pathPrefix = APIVersion.getLatest().name() + "/weather/alerts/country/" + countryBackendID + "/id/";
             final RemoteNotificationSubcategory subcategory = RemoteNotificationSubcategoryWeather.LOCAL_ALERT;
-            new CompletableFutures<Map.Entry<String, HashSet<String>>>().stream(remoteNotificationZoneAlerts.entrySet(), entry -> {
+            final HashSet<RemoteNotification> notifications = new HashSet<>();
+            for(Map.Entry<String, HashSet<String>> entry : remoteNotificationZoneAlerts.entrySet()) {
                 final String zoneID = entry.getKey();
                 final HashSet<String> events = entry.getValue();
                 for(String string : events) {
                     final String[] values = string.split("\\|");
                     final String event = values[0], id = values[1];
-                    new RemoteNotification(subcategory, false, event, "Was just issued for zone \"" + zoneID + "\"", pathPrefix + id);
+                    final RemoteNotification notification = new RemoteNotification(subcategory, false, event, "Was just issued for local zone \"" + zoneID + "\"", pathPrefix + id, zoneID);
+                    notifications.add(notification);
                 }
-            });
-            RemoteNotification.pushPending();
+            }
+            RemoteNotification.push("WeatherUSA", notifications);
         }
         return getEventsJSON(eventsMap);
     }

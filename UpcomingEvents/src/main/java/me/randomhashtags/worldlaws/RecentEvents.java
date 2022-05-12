@@ -56,11 +56,13 @@ public enum RecentEvents {
             }
         });
         if(!newEvents.isEmpty()) {
-            new CompletableFutures<PreRecentEvent>().stream(newEvents, event -> {
+            final HashSet<RemoteNotification> notifications = new HashSet<>();
+            for(PreRecentEvent event : newEvents) {
                 final RemoteNotificationSubcategory subcategory = event.getRemoteNotificationSubcategory();
-                new RemoteNotification(subcategory, false, event.getTitle(), event.getDescription(), null);
-            });
-            RemoteNotification.pushPending();
+                final RemoteNotification notification = new RemoteNotification(subcategory, false, event.getTitle(), event.getDescription(), null);
+                notifications.add(notification);
+            }
+            RemoteNotification.push("RecentEvents", notifications);
         }
         return completeHandler(started, allValues);
     }

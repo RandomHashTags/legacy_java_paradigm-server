@@ -19,6 +19,5 @@ include 'CountryData'
 include 'DataCountries'
 include 'DataLaws'
 include 'Science'
-include 'ServerHandler'
 include 'FileTransfer'
 

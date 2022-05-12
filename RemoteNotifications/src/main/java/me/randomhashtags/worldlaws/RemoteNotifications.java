@@ -30,6 +30,7 @@ public final class RemoteNotifications implements WLServer {
     private void saveDeviceTokens() {
         for(RemoteNotificationDeviceTokenController controller : CONTROLLERS) {
             controller.save();
+            controller.saveConditional();
         }
     }
 

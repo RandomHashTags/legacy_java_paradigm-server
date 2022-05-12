@@ -1,10 +1,9 @@
 package me.randomhashtags.worldlaws.notifications;
 
-import me.randomhashtags.worldlaws.APIVersion;
 import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.Jsonable;
 import me.randomhashtags.worldlaws.TargetServer;
-import me.randomhashtags.worldlaws.settings.Settings;
+import me.randomhashtags.worldlaws.WLLogger;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -16,7 +15,12 @@ import java.util.UUID;
 
 public final class RemoteNotification extends JSONObject implements Jsonable {
 
+    private boolean didSave = false;
+
     public RemoteNotification(RemoteNotificationSubcategory subcategory, boolean badge, String subtitle, String body, String openNotificationPath) {
+        this(subcategory, badge, subtitle, body, openNotificationPath, null);
+    }
+    public RemoteNotification(RemoteNotificationSubcategory subcategory, boolean badge, String subtitle, String body, String openNotificationPath, String conditionalValue) {
         super();
         final String uuid = "***REMOVED***";
         put("uuid", uuid);
@@ -34,6 +38,9 @@ public final class RemoteNotification extends JSONObject implements Jsonable {
         }
         if(openNotificationPath != null) {
             put("openNotificationPath", openNotificationPath);
+        }
+        if(conditionalValue != null) {
+            put("conditionalValue", conditionalValue);
         }
     }
     public RemoteNotification(JSONObject json) {
@@ -63,35 +70,38 @@ public final class RemoteNotification extends JSONObject implements Jsonable {
     public String getOpenNotificationPath() {
         return optString("openNotificationPath", null);
     }
+    public String getConditionalValue() {
+        return optString("conditionalValue", null);
+    }
 
     public void save() {
-        final LocalDate now = LocalDate.now();
-        final int year = now.getYear(), day = now.getDayOfMonth();
-        final Month month = now.getMonth();
-        final String uuid = getUUID();
-        final Folder folder = Folder.REMOTE_NOTIFICATIONS_CATEGORY_SUBCATEGORY;
-        final RemoteNotificationCategory category = getCategory();
-        final RemoteNotificationSubcategory subcategory = getSubcategory();
-        final String fileName = folder.getFolderName()
-                .replace("%year%", Integer.toString(year))
-                .replace("%month%", month.name())
-                .replace("%day%", Integer.toString(day))
-                .replace("%category%", category.getID())
-                .replace("%subcategory%", subcategory.getID())
-                ;
-        folder.setCustomFolderName(uuid, fileName);
-        setFileJSON(folder, uuid, toString());
+        if(!didSave) {
+            didSave = true;
+            final LocalDate now = LocalDate.now();
+            final int year = now.getYear(), day = now.getDayOfMonth();
+            final Month month = now.getMonth();
+            final String uuid = getUUID();
+            final Folder folder = Folder.REMOTE_NOTIFICATIONS_CATEGORY_SUBCATEGORY;
+            final RemoteNotificationCategory category = getCategory();
+            final RemoteNotificationSubcategory subcategory = getSubcategory();
+            final String fileName = folder.getFolderName()
+                    .replace("%year%", Integer.toString(year))
+                    .replace("%month%", month.name())
+                    .replace("%day%", Integer.toString(day))
+                    .replace("%category%", category.getID())
+                    .replace("%subcategory%", subcategory.getID())
+                    ;
+            folder.setCustomFolderName(uuid, fileName);
+            setFileJSON(folder, uuid, toString());
+        }
     }
 
-    public static void pushPending() {
-        final String identifier = Settings.Server.getUUID();
-        final APIVersion apiVersion = APIVersion.v1;
-        final String string = TargetServer.REMOTE_NOTIFICATIONS.sendResponse(identifier, "***REMOVED***" + identifier, apiVersion.name(), apiVersion, "push_pending", true);
-    }
-    public static void push(Collection<RemoteNotification> notifications) {
+    public static void push(String classSimpleName, Collection<RemoteNotification> notifications) {
         final LinkedHashMap<String, Object> postData = new LinkedHashMap<>();
         final JSONArray array = new JSONArray(notifications);
         postData.put("remote_notifications", array);
         final JSONObject json = TargetServer.REMOTE_NOTIFICATIONS.postResponse("push", postData);
+        final boolean success = json != null;
+        WLLogger.logInfo("RemoteNotification - " + (success ? "successfully sent" : "failed to send") + " " + notifications.size() + " remote notifications from \"" + classSimpleName + "\"");
     }
 }
