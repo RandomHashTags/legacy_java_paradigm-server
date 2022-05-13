@@ -31,7 +31,7 @@ public interface RestAPI {
     HttpClient CLIENT = getClient();
     HashMap<String, JSONArray> RESPONSE_TIMES = new HashMap<>();
     private static Duration getConnectionTimeout() {
-        return Duration.ofSeconds(20);
+        return Duration.ofSeconds(30);
     }
 
     private static HttpClient getClient() {
@@ -185,7 +185,7 @@ public interface RestAPI {
             RESPONSE_TIMES.putIfAbsent(finalURL, new JSONArray());
         }
         final HttpRequest request = requestBuilder.build();
-        final int timeoutSeconds = isLocal ? 15 : 30;
+        final int timeoutSeconds = 30;
         final CompletableFuture<String> bruh = CLIENT.sendAsync(request, HttpResponse.BodyHandlers.ofString())
                 .orTimeout(timeoutSeconds, TimeUnit.SECONDS)
                 .thenApply(HttpResponse::body).exceptionally(throwable -> {

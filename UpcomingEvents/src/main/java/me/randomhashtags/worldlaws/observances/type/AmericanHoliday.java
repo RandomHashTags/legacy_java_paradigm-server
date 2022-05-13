@@ -95,7 +95,7 @@ public enum AmericanHoliday implements Holiday {
             case ABRAHAM_LINCOLNS_BIRTHDAY: return new EventDate(Month.FEBRUARY, 12, year);
             case CHILD_HEALTH_DAY: return EventDate.getFirst(DayOfWeek.MONDAY, Month.OCTOBER, year);
             //case GOLD_STAR_MOTHERS_AND_FAMILYS_DAY: return getLast(DayOfWeek.SUNDAY, Month.SEPTEMBER, year);
-            case HARRIET_TUBMAN_DAY: return UnitedNationHoliday.INTERNATIONAL_WOMENS_DAY.getDate(country, year).plusDays(2);
+            case HARRIET_TUBMAN_DAY: return new EventDate(Month.MARCH, 10, year);
             case HELEN_KELLER_DAY: return new EventDate(Month.JUNE, 27, year);
             case JUNETEENTH: return new EventDate(Month.JUNE, 19, year);
             case LABOR_DAY: return EventDate.getFirst(DayOfWeek.MONDAY, Month.SEPTEMBER, year);

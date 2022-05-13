@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.request.ServerRequestType;
 import me.randomhashtags.worldlaws.request.WLHttpHandler;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -23,6 +24,7 @@ public final class FileTransferServer implements WLServer {
     @Override
     public WLHttpHandler getDefaultHandler() {
         return httpExchange -> {
+            final long started = System.currentTimeMillis();
             final JSONObject requestBody = httpExchange.getRequestBodyJSON();
             boolean completedSuccessfully = false;
             int amountOfFiles = 0;
@@ -38,8 +40,7 @@ public final class FileTransferServer implements WLServer {
                     }
                 }
                 final String folder = updateFilesFolder.getFullFolderPath(null) + File.separator;
-                for(Object fileObj : array) {
-                    final JSONObject fileJSON = (JSONObject) fileObj;
+                new CompletableFutures<JSONObject>().stream(array, fileJSON -> {
                     final String fileName = fileJSON.getString("name");
                     try {
                         final JSONArray contentBytesArray = fileJSON.getJSONArray("contentBytes");
@@ -49,13 +50,13 @@ public final class FileTransferServer implements WLServer {
                             contentBytes[i] = (byte) contentBytesArray.getInt(i);
                         }
                         Files.write(Path.of(folder + fileName), contentBytes);
-                        completedSuccessfully = true;
                     } catch (Exception e) {
                         WLUtilities.saveException(e);
                     }
-                }
+                });
+                completedSuccessfully = true;
             }
-            WLLogger.logInfo("FileTransferServer - " + (completedSuccessfully ? "successfully received" : "failed to receive") + " " + amountOfFiles + " file" + (amountOfFiles > 1 ? "s" : ""));
+            WLLogger.logInfo("FileTransferServer - " + (completedSuccessfully ? "successfully received" : "failed to receive") + " " + amountOfFiles + " file" + (amountOfFiles > 1 ? "s" : "") + " (took " + WLUtilities.getElapsedTime(started) + ")");
             final JSONObjectTranslatable json = new JSONObjectTranslatable();
             json.put("completed", completedSuccessfully);
             return json;

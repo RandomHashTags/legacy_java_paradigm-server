@@ -156,7 +156,8 @@ public enum TargetServer implements RestAPI, DataValues {
         headers.put("***REMOVED***", serverUUID);
         headers.put("***REMOVED***", "***REMOVED***" + serverUUID);
         headers.put("***REMOVED***", "-1");
-        return postJSONObject(path, postData, true, headers);
+        final String serverURL = getIpAddress() + "/" + path;
+        return postJSONObject(serverURL, postData, true, headers);
     }
 
     private String getCombinedResponse(WLHttpExchange headers) {

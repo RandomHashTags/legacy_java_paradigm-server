@@ -78,7 +78,7 @@ public final class FileTransferClient implements RestAPI {
         final HashSet<File> filesToSend = new HashSet<>();
         final String artifactPrefix = "/Users/randomhashtags/IdeaProjects/World Laws/out/artifacts" + File.separator;
         final HashSet<String> servers = new HashSet<>() {{
-            add("ServerHandler");
+            add("Proxy");
         }};
         for(TargetServer server : TargetServer.values()) {
             final String serverName = server.getName();
