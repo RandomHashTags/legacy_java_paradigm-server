@@ -56,9 +56,11 @@ public interface Country extends SovereignState {
             String unStatus = null, sovereigntyDispute = null, flagEmoji = null, isoAlpha2 = null, isoAlpha3 = null;
             int currentGovernmentAdministration = -1;
             SovereignStateSubdivision[] subdivisions = null;
+            WLCurrency[] currencies = null;
             if(wlcountry != null) {
                 officialNames = wlcountry.getOfficialNames();
                 aliases = wlcountry.getAliases();
+                currencies = wlcountry.getCurrencies();
                 timezones = wlcountry.getTimeZones();
                 flagEmoji = wlcountry.getFlagEmoji();
                 unStatus = wlcountry.getUNStatus();
@@ -85,6 +87,13 @@ public interface Country extends SovereignState {
             }
             if(isoAlpha3 != null) {
                 json.put("isoAlpha3", isoAlpha3);
+            }
+            if(currencies != null) {
+                final JSONArray array = new JSONArray();
+                for(WLCurrency currency : currencies) {
+                    array.put(currency.name());
+                }
+                json.put("currencies", array);
             }
             if(unStatus != null) {
                 json.put("unStatus", unStatus);
@@ -199,14 +208,6 @@ public interface Country extends SovereignState {
                 array.put(neighborCountry.getBackendID());
             }
             json.put(SovereignStateInformationType.NEIGHBORS.getName(), array);
-        }
-        final WLCurrency[] currencies = country.getCurrencies();
-        if(currencies != null) {
-            final JSONArray array = new JSONArray();
-            for(WLCurrency currency : currencies) {
-                array.put(currency.name());
-            }
-            json.put(SovereignStateInformationType.CURRENCIES.getName(), array);
         }
 
         final AtomicReference<JSONObjectTranslatable> availabilitiesResult = new AtomicReference<>();

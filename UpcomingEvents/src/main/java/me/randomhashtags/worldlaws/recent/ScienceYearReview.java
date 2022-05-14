@@ -56,14 +56,14 @@ public final class ScienceYearReview extends LoadedUpcomingEventController {
                 if(pastDateString.startsWith(dateValues[0] + "-") && pastDateString.endsWith("-" + dateValues[2])) {
                     final String[] pastDateValues = pastDateString.split("-");
                     final JSONArray array = pastJSON.getJSONArray(pastDateString);
-                    if(imageURL == null) {
-                        final JSONObject first = array.getJSONObject(0);
-                        if(first.has("images")) {
-                            imageURL = first.getJSONArray("images").getString(0);
-                        }
-                    }
                     for(Object obj : array) {
                         final JSONObject eventJSON = (JSONObject) obj;
+                        if(imageURL == null) {
+                            final JSONArray imagesArray = eventJSON.optJSONArray("images");
+                            if(imagesArray != null) {
+                                imageURL = imagesArray.getString(0);
+                            }
+                        }
                         final JSONObject mentionedSovereignStatesJSON = eventJSON.optJSONObject("mentionedSovereignStates", null);
                         if(mentionedSovereignStatesJSON != null) {
                             final Set<String> keys = new HashSet<>(mentionedSovereignStatesJSON.keySet());

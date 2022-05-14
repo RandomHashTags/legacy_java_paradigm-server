@@ -3,7 +3,6 @@ package me.randomhashtags.worldlaws.notifications;
 import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.Jsonable;
 import me.randomhashtags.worldlaws.TargetServer;
-import me.randomhashtags.worldlaws.WLLogger;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -96,12 +95,11 @@ public final class RemoteNotification extends JSONObject implements Jsonable {
         }
     }
 
-    public static void push(String classSimpleName, Collection<RemoteNotification> notifications) {
+    public static void push(Collection<RemoteNotification> notifications) {
         final LinkedHashMap<String, Object> postData = new LinkedHashMap<>();
         final JSONArray array = new JSONArray(notifications);
         postData.put("remote_notifications", array);
         final JSONObject json = TargetServer.REMOTE_NOTIFICATIONS.postResponse("push", postData);
         final boolean success = json != null;
-        WLLogger.logInfo("RemoteNotification - " + (success ? "successfully sent" : "failed to send") + " " + notifications.size() + " remote notifications from \"" + classSimpleName + "\"");
     }
 }

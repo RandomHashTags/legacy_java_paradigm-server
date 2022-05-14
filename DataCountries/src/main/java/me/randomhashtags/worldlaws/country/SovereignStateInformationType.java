@@ -18,7 +18,6 @@ public enum SovereignStateInformationType {
     SERVICES_NONSTATIC,
     SINGLE_VALUES,
 
-    CURRENCIES,
     NEIGHBORS,
     ;
 
@@ -31,8 +30,6 @@ public enum SovereignStateInformationType {
     }
     public boolean isArray(boolean isCountry) {
         switch (this) {
-            case CURRENCIES:
-                return true;
             case NEIGHBORS:
                 return isCountry;
             default:

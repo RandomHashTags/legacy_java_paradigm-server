@@ -30,6 +30,9 @@ public interface NewCountryService extends WLService {
     SovereignStateInformationType getInformationType();
     SovereignStateInfo getInfo();
 
+    default boolean doesSaveLoadedData() {
+        return true;
+    }
     default EventSources getResources(WLCountry country) {
         return null;
     }
@@ -58,7 +61,7 @@ public interface NewCountryService extends WLService {
                     json = loadData(subdivision);
                 }
             }
-            if(json != null) {
+            if(json != null && doesSaveLoadedData()) {
                 setFileJSON(folder, fileName, json.toString());
             }
         } else {

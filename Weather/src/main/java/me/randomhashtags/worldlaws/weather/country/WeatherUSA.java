@@ -252,7 +252,7 @@ public enum WeatherUSA implements WeatherController {
                     notifications.add(notification);
                 }
             }
-            RemoteNotification.push("WeatherUSA", notifications);
+            RemoteNotification.push(notifications);
         }
         return getEventsJSON(eventsMap);
     }

@@ -62,7 +62,7 @@ public enum RecentEvents {
                 final RemoteNotification notification = new RemoteNotification(subcategory, false, event.getTitle(), event.getDescription(), null);
                 notifications.add(notification);
             }
-            RemoteNotification.push("RecentEvents", notifications);
+            RemoteNotification.push(notifications);
         }
         return completeHandler(started, allValues);
     }

@@ -18,11 +18,11 @@ public class WikipediaTodaysFeaturedPictureEvent extends UpcomingEvent {
         final JSONObject propertiesJSON = json.optJSONObject("properties", null);
         if(propertiesJSON != null) {
             videoURL = propertiesJSON.optString("videoURL", null);
-            if(propertiesJSON.has("hyperlinks")) {
+            final JSONObject hyperlinksJSON = propertiesJSON.optJSONObject("hyperlinks", null);
+            if(hyperlinksJSON != null) {
                 hyperlinks = new HashMap<>();
-                final JSONObject hyperlinksJSON = propertiesJSON.getJSONObject("hyperlinks");
                 for(String key : hyperlinksJSON.keySet()) {
-                    hyperlinksJSON.put(key, hyperlinksJSON.getString(key));
+                    hyperlinks.put(key, hyperlinksJSON.getString(key));
                 }
             }
         }
