@@ -102,40 +102,99 @@ public enum UpcomingEventType {
                     return 1;
                 case PRESENTATION:
                     return 2;
-                case SPORT_MLB:
-                    return 4;
-                case ASTRONOMY_PICTURE_OF_THE_DAY:
-                case SCIENCE_YEAR_REVIEW:
-                case WIKIPEDIA_TODAYS_FEATURED_PICTURE:
-                case WORD_OF_THE_DAY:
-                    return 5;
-                case SPORT_CHAMPIONSHIPS:
-                case TICKETMASTER_MUSIC_EVENT:
-                    return 6;
-                case TV_SHOW:
-                    return 7;
-                default:
+
+                case MOVIE:
                     return 3;
+                case VIDEO_GAME:
+                    return 4;
+                case SPACE_EVENT:
+                    return 5;
+                case SPACE_NEAR_EARTH_OBJECT:
+                    return 6;
+                case SPACE_ROCKET_LAUNCH:
+                    return 7;
+                case MUSIC_ALBUM:
+                    return 8;
+
+                case SPORT_PROFESSIONAL_WRESTLING:
+                    return 9;
+                case SPORT_UFC:
+                    return 10;
+
+                case SPORT_MLB:
+                    return 11;
+                case SPORT_NFL:
+                    return 12;
+
+                case ASTRONOMY_PICTURE_OF_THE_DAY:
+                    return 13;
+                case SCIENCE_YEAR_REVIEW:
+                    return 14;
+                case WIKIPEDIA_TODAYS_FEATURED_PICTURE:
+                    return 15;
+                case WORD_OF_THE_DAY:
+                    return 16;
+                case JOKE_OF_THE_DAY:
+                    return 17;
+
+                case SPORT_CHAMPIONSHIPS:
+                    return 18;
+                case TICKETMASTER_MUSIC_EVENT:
+                    return 19;
+                case TV_SHOW:
+                    return 20;
+
+                default:
+                    return 100;
             }
         } else {
             switch (this) {
                 case ASTRONOMY_PICTURE_OF_THE_DAY:
-                case WIKIPEDIA_TODAYS_FEATURED_PICTURE:
-                case WORD_OF_THE_DAY:
                     return 1;
-                case SPOTIFY_NEW_MUSIC_FRIDAY:
+                case WIKIPEDIA_TODAYS_FEATURED_PICTURE:
                     return 2;
-                case PRESENTATION:
+                case WORD_OF_THE_DAY:
                     return 3;
-                case SCIENCE_YEAR_REVIEW:
+                case JOKE_OF_THE_DAY:
                     return 4;
-                case SPORT_CHAMPIONSHIPS:
-                case TICKETMASTER_MUSIC_EVENT:
-                    return 6;
-                case TV_SHOW:
-                    return 7;
-                default:
+                case SPOTIFY_NEW_MUSIC_FRIDAY:
                     return 5;
+                case PRESENTATION:
+                    return 6;
+                case SCIENCE_YEAR_REVIEW:
+                    return 7;
+
+                case SPORT_MLB:
+                    return 8;
+                case SPORT_NFL:
+                    return 9;
+                case SPORT_PROFESSIONAL_WRESTLING:
+                    return 10;
+                case SPORT_UFC:
+                    return 11;
+
+                case MOVIE:
+                    return 12;
+                case VIDEO_GAME:
+                    return 13;
+                case SPACE_EVENT:
+                    return 14;
+                case SPACE_NEAR_EARTH_OBJECT:
+                    return 15;
+                case SPACE_ROCKET_LAUNCH:
+                    return 16;
+                case MUSIC_ALBUM:
+                    return 17;
+
+                case SPORT_CHAMPIONSHIPS:
+                    return 18;
+                case TICKETMASTER_MUSIC_EVENT:
+                    return 19;
+                case TV_SHOW:
+                    return 20;
+
+                default:
+                    return 100;
             }
         }
     }
