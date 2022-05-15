@@ -18,9 +18,10 @@ import java.util.List;
 
 public enum PresentationType implements Jsoupable {
     APPLE_EVENT(
-            getNames("Apple Event", "WWDC"),
+            getNames("Apple Event", "World Wide Developers Conference (WWDC)"),
             "https://www.apple.com/apple-events/",
-            PresentationEventType.PRESENTATION
+            PresentationEventType.PRESENTATION,
+            "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg"
     ),
 
     /*ACADEMY_AWARDS(
@@ -31,17 +32,21 @@ public enum PresentationType implements Jsoupable {
     BLIZZCON(
             "BlizzCon",
             "https://en.wikipedia.org/wiki/BlizzCon",
-            PresentationEventType.CONVENTION_GAMING)
+            PresentationEventType.CONVENTION_GAMING,
+            "https://upload.wikimedia.org/wikipedia/en/5/51/BlizzCon_logo.svg"
+    )
     ,
     COACHELLA(
             "Coachella",
             "https://en.wikipedia.org/wiki/Coachella_Valley_Music_and_Arts_Festival",
-            PresentationEventType.FESTIVAL_MUSIC
+            PresentationEventType.FESTIVAL_MUSIC,
+            "https://upload.wikimedia.org/wikipedia/commons/2/28/Coachella18W1-18_%2842058161311%29.jpg"
     ),
     E3(
             "E3",
             "https://en.wikipedia.org/wiki/E3",
-            PresentationEventType.EXPO_GAMING
+            PresentationEventType.EXPO_GAMING,
+            "https://upload.wikimedia.org/wikipedia/commons/7/76/E3_Logo.svg"
     ),
     /*EGX(
             "EGX",
@@ -56,7 +61,8 @@ public enum PresentationType implements Jsoupable {
     GAME_DEVELOPERS_CONFERENCE(
             "Game Developers Conference",
             "https://en.wikipedia.org/wiki/Game_Developers_Conference",
-            PresentationEventType.CONFERENCE
+            PresentationEventType.CONFERENCE,
+            "https://upload.wikimedia.org/wikipedia/commons/2/27/Game_Developers_Conference_logo.svg"
     ),
     /*GAMESCOM(
             "Gamescom",
@@ -66,7 +72,8 @@ public enum PresentationType implements Jsoupable {
     GOLDEN_GLOBE_AWARDS(
             "Golden Globe Awards",
             "https://en.wikipedia.org/wiki/List_of_Golden_Globe_Awards_ceremonies",
-            PresentationEventType.AWARD_CEREMONY
+            PresentationEventType.AWARD_CEREMONY,
+            "https://upload.wikimedia.org/wikipedia/en/0/09/Golden_Globe_Trophy.jpg"
     ),
     /*
     GOLDEN_JOYSTICK_AWARDS(
@@ -77,7 +84,8 @@ public enum PresentationType implements Jsoupable {
     GOOGLE_IO(
             "Google I/O",
             "https://en.wikipedia.org/wiki/Google_I/O",
-            PresentationEventType.CONFERENCE_DEVELOPER
+            PresentationEventType.CONFERENCE_DEVELOPER,
+            "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_IO_logo.svg"
     ),
     /*
     LOLLAPALOOZA(
@@ -88,7 +96,8 @@ public enum PresentationType implements Jsoupable {
     MET_GALA(
             "Met Gala",
             "https://en.wikipedia.org/wiki/Met_Gala",
-            PresentationEventType.EXHIBIT_FASHION
+            PresentationEventType.EXHIBIT_FASHION,
+            "https://upload.wikimedia.org/wikipedia/commons/3/30/The_MET.jpg"
     ),
     /*MINECON(
             "Minecon",
@@ -98,7 +107,8 @@ public enum PresentationType implements Jsoupable {
     NINTENDO_DIRECT(
             "Nintendo Direct",
             "https://en.wikipedia.org/wiki/Nintendo_Direct",
-            PresentationEventType.PRESENTATION
+            PresentationEventType.PRESENTATION,
+            "https://upload.wikimedia.org/wikipedia/commons/0/0f/Nintendo_Direct_logo.svg"
     ),
     /*PAX(
             "PAX",
@@ -128,7 +138,8 @@ public enum PresentationType implements Jsoupable {
     TWITCHCON(
             "TwitchCon",
             "https://en.wikipedia.org/wiki/TwitchCon",
-            PresentationEventType.CONVENTION_GAMING
+            PresentationEventType.CONVENTION_GAMING,
+            "https://upload.wikimedia.org/wikipedia/en/d/d4/Twitchcon_logo.svg"
     ),
     /*TWITCH_RIVALS(
             "Twitch Rivals",
@@ -143,27 +154,38 @@ public enum PresentationType implements Jsoupable {
 
 
     private final String[] names;
-    private final String url;
+    private final String url, defaultImageURL;
     private final PresentationEventType type;
 
     PresentationType(String name, String url, PresentationEventType type) {
         this(new String[] { name }, url, type);
     }
     PresentationType(String[] names, String url, PresentationEventType type) {
+        this(names, url, type, null);
+    }
+    PresentationType(String name, String url, PresentationEventType type, String defaultImageURL) {
+        this(new String[] { name }, url, type, defaultImageURL);
+    }
+    PresentationType(String[] names, String url, PresentationEventType type, String defaultImageURL) {
         this.names = names;
         this.url = url;
         this.type = type;
+        this.defaultImageURL = defaultImageURL;
     }
 
-    public static JSONObjectTranslatable getTypesJSON() { // TODO: save to file
+    public static JSONObjectTranslatable getTypesJSON() {
         final JSONObjectTranslatable json = new JSONObjectTranslatable("types");
         json.put("version", ResponseVersions.PRESENTATIONS.getValue());
 
         final JSONObjectTranslatable typesJSON = new JSONObjectTranslatable();
         for(PresentationType type : values()) {
+            final String defaultImageURL = type.defaultImageURL;
             final JSONObjectTranslatable typeJSON = new JSONObjectTranslatable("names", "type");
             typeJSON.put("names", new JSONArray(type.names));
             typeJSON.put("type", type.type.getName());
+            if(defaultImageURL != null) {
+                typeJSON.put("defaultImageURL", defaultImageURL);
+            }
             final String typeID = type.name().toLowerCase();
             typesJSON.put(typeID, typeJSON);
         }
@@ -203,6 +225,7 @@ public enum PresentationType implements Jsoupable {
             default: return null;
         }
     }
+
     private EventSources getSources() {
         final EventSources sources = new EventSources();
         switch (this) {
@@ -314,7 +337,7 @@ public enum PresentationType implements Jsoupable {
         return events;
     }
     private List<PresentationEvent> refreshBlizzCon() {
-        final String title = "BlizzCon", location = "Anaheim, California, United States", imageURL = null;
+        final String title = "BlizzCon", location = "Anaheim, California, United States";
         final WikipediaDocument doc = new WikipediaDocument(url);
         final String description = doc.getDescription();
         final EventSources externalLinks = doc.getExternalLinks();
@@ -326,7 +349,7 @@ public enum PresentationType implements Jsoupable {
             final Elements tds = element.select("td");
             final int year = Integer.parseInt(tds.get(0).text());
             final List<EventDate> dates = parseDatesFrom(year, tds.get(1).text());
-            iterateDays(dates, events, title, description, imageURL, location, externalLinks);
+            iterateDays(dates, events, title, description, defaultImageURL, location, externalLinks);
         }
         return events;
     }
@@ -343,7 +366,7 @@ public enum PresentationType implements Jsoupable {
             if(docExternalLinks != null) {
                 externalLinks.addAll(docExternalLinks);
             }
-            final String location = "Indio, California, United States", imageURL = "https://upload.wikimedia.org/wikipedia/commons/2/28/Coachella18W1-18_%2842058161311%29.jpg";
+            final String location = "Indio, California, United States";
             final String description = doc.getDescription();
             final Elements elements = table.select("tbody tr");
             elements.removeIf(element -> element.select("td").size() < 7);
@@ -360,13 +383,13 @@ public enum PresentationType implements Jsoupable {
                 } else {
                     dates.addAll(parseDatesFrom(year, datesElement.text()));
                 }
-                iterateDays(dates, events, title, description, imageURL, location, externalLinks);
+                iterateDays(dates, events, title, description, defaultImageURL, location, externalLinks);
             }
         }
         return events;
     }
     private List<PresentationEvent> refreshE3() {
-        final String title = "E3", imageURL = null;
+        final String title = "E3";
         final WikipediaDocument doc = new WikipediaDocument(url);
         final String description = doc.getDescription();
         final EventSources externalLinks = doc.getExternalLinks();
@@ -399,7 +422,7 @@ public enum PresentationType implements Jsoupable {
                     boolean isFirst = true;
                     for(EventDate date : dates) {
                         final String tag = title + ", " + (isFirst ? "BEGINS TODAY" : date.equals(lastDate) ? "ENDS TODAY" : "CONTINUED");
-                        final PresentationEvent event = new PresentationEvent(date, title, description, imageURL, location, tag, externalLinks);
+                        final PresentationEvent event = new PresentationEvent(date, title, description, defaultImageURL, location, tag, externalLinks);
                         events.add(event);
                         isFirst = false;
                     }
@@ -409,7 +432,7 @@ public enum PresentationType implements Jsoupable {
         return events;
     }
     private List<PresentationEvent> refreshGameDevelopersConference() {
-        final String title = "Game Developers Conference", imageURL = "https://upload.wikimedia.org/wikipedia/commons/2/27/Game_Developers_Conference_logo.svg";
+        final String title = "Game Developers Conference";
         final WikipediaDocument doc = new WikipediaDocument(url);
         final String description = doc.getDescription();
         final EventSources externalLinks = doc.getExternalLinks();
@@ -423,7 +446,7 @@ public enum PresentationType implements Jsoupable {
             final String location = tds.get(1).text();
             final String dateValue = LocalServer.removeWikipediaReferences(tds.get(2).text());
             final List<EventDate> dates = parseDatesFrom(year, dateValue);
-            iterateDays(dates, events, title, description, imageURL, location, externalLinks);
+            iterateDays(dates, events, title, description, defaultImageURL, location, externalLinks);
         }
         return events;
     }
@@ -431,7 +454,7 @@ public enum PresentationType implements Jsoupable {
         final String title = "Golden Globe Awards";
         final WikipediaDocument doc = new WikipediaDocument(url);
         final WikipediaDocument page = new WikipediaDocument("https://en.wikipedia.org/wiki/Golden_Globe_Awards");
-        final String description = page.getDescription(), imageURL = null, location = "California, United States";
+        final String description = page.getDescription(), location = "California, United States";
         final EventSources externalLinks = page.getExternalLinks();
         final List<PresentationEvent> events = new ArrayList<>();
         final Elements elements = doc.select("table.wikitable tbody tr");
@@ -445,14 +468,14 @@ public enum PresentationType implements Jsoupable {
                 final int year = Integer.parseInt(dateValues[dateValues.length-1]);
                 final int day = Integer.parseInt(dateArray[1]);
                 final EventDate date = new EventDate(month, day, year);
-                final PresentationEvent event = new PresentationEvent(date, title, description, imageURL, location, null, externalLinks);
+                final PresentationEvent event = new PresentationEvent(date, title, description, defaultImageURL, location, null, externalLinks);
                 events.add(event);
             }
         }
         return events;
     }
     private List<PresentationEvent> refreshGoogleIO() {
-        final String title = "Google I/O", location = "California, United States", imageURL = "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_IO_logo.svg";
+        final String title = "Google I/O", location = "California, United States";
         final WikipediaDocument doc = new WikipediaDocument(url);
         final String description = doc.getDescription();
         final EventSources externalLinks = doc.getExternalLinks();
@@ -466,13 +489,13 @@ public enum PresentationType implements Jsoupable {
             final String targetDate = LocalServer.removeWikipediaReferences(tds.get(1).text());
             if(!targetDate.toLowerCase().contains("cancelled")) {
                 final List<EventDate> dates = parseDatesFrom(year, targetDate);
-                iterateDays(dates, events, title, description, imageURL, location, externalLinks);
+                iterateDays(dates, events, title, description, defaultImageURL, location, externalLinks);
             }
         }
         return events;
     }
     private List<PresentationEvent> refreshMetGala() {
-        final String title = "Met Gala", location = "Fifth Avenue, Manhattan, New York City, New York, United States", imageURL = "https://upload.wikimedia.org/wikipedia/commons/3/30/The_MET.jpg";
+        final String title = "Met Gala", location = "Fifth Avenue, Manhattan, New York City, New York, United States";
         final WikipediaDocument doc = new WikipediaDocument(url);
         final String description = doc.getDescription();
         final EventSources externalLinks = doc.getExternalLinks();
@@ -491,7 +514,7 @@ public enum PresentationType implements Jsoupable {
                 final List<EventDate> dates = parseDatesFrom(year, dateValues[0]);
                 if(dates.size() > 0) {
                     final EventDate date = dates.get(0);
-                    final PresentationEvent event = new PresentationEvent(date, title, description, imageURL, location, null, externalLinks);
+                    final PresentationEvent event = new PresentationEvent(date, title, description, defaultImageURL, location, null, externalLinks);
                     events.add(event);
                 }
             }
@@ -517,7 +540,7 @@ public enum PresentationType implements Jsoupable {
                     final EventDate date = new EventDate(month, day, year);
 
                     final String title = tds.get(0).text(), topic = tds.get(1).text(), imageURL = null, location = null;
-                    final PresentationEvent event = new PresentationEvent(date, title, description, imageURL, location, null, externalLinks);
+                    final PresentationEvent event = new PresentationEvent(date, title, description, defaultImageURL, location, null, externalLinks);
                     events.add(event);
                 }
             }
@@ -532,7 +555,7 @@ public enum PresentationType implements Jsoupable {
         final Elements tables = doc.select("table.wikitable");
         for(int i = 0; i < 2; i++) {
             final String locationSuffix = i == 0 ? ", California, United States" : "";
-            addEventsFromTwitchCon(events, tables.get(i), description, null, externalLinks, locationSuffix);
+            addEventsFromTwitchCon(events, tables.get(i), description, defaultImageURL, externalLinks, locationSuffix);
         }
         return events;
     }
