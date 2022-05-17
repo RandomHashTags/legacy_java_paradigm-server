@@ -232,7 +232,7 @@ public enum NASA_EONET implements WLService {
                 json.put("subdivision", subdivision);
             }
             if(location != null) {
-                json.put("location", location.toJSONArray());
+                json.put("location", location);
             }
             if(description != null) {
                 json.put("description", description);

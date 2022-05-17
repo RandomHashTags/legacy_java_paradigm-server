@@ -24,11 +24,11 @@ public final class WeatherZone {
         return subdivision;
     }
 
-    private JSONArray getGeometryJSON() {
+    private JSONArray getGeometryArray() {
         final JSONArray array = new JSONArray();
         for(Location point : geometry) {
             if(point != null) {
-                array.put(point.toJSONArray());
+                array.put(point);
             }
         }
         return array;
@@ -41,7 +41,7 @@ public final class WeatherZone {
             json.put("nameSuffix", nameSuffix);
         }
         json.put("subdivision", subdivision);
-        json.put("geometry", getGeometryJSON());
+        json.put("geometry", getGeometryArray());
         return json;
     }
 }

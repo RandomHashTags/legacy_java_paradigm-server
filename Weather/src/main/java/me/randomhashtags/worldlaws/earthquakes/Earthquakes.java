@@ -70,7 +70,7 @@ public enum Earthquakes implements RestAPI {
     }
     private String getEarthquakeEventDateString(EventDate date) {
         final int month = date.getMonth().getValue(), day = date.getDay();
-        return date.getYear() + "-" + (month < 10 ? "0" + month : month) + "-" + (day < 10 ? "0" + day : day);
+        return date.getYear() + "-" + (month < 10 ? "0" : "") + month + "-" + (day < 10 ? "0" : "") + day;
     }
 
     public void refresh(boolean isAutoUpdate, boolean isRecent) {
@@ -151,7 +151,7 @@ public enum Earthquakes implements RestAPI {
             final String country = regionValues[1], subdivision = regionValues[2];
 
             final String dateString = date.getDateString();
-            final PreEarthquake preEarthquake = new PreEarthquake(id, place, country, subdivision, location);
+            final PreEarthquake preEarthquake = new PreEarthquake(time, id, place, country, subdivision, location);
             preEarthquakeDates.putIfAbsent(dateString, new ConcurrentHashMap<>());
             preEarthquakeDates.get(dateString).putIfAbsent(magnitude, new HashSet<>());
             preEarthquakeDates.get(dateString).get(magnitude).add(preEarthquake);

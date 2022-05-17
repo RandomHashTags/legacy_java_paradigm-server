@@ -47,7 +47,7 @@ public final class TicketmasterVenue {
         }
         json.put("cityName", cityName);
         if(location != null) {
-            json.put("location", location.toJSONArray());
+            json.put("location", location);
         }
         if(generalRule != null) {
             json.put("generalRule", generalRule);
