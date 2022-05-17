@@ -93,6 +93,11 @@ public final class MLB extends USAUpcomingEventController {
     }
 
     @Override
+    public boolean isExactTime() {
+        return false; // TODO: update
+    }
+
+    @Override
     public UpcomingEvent parseUpcomingEvent(JSONObject json) {
         return new MLBEvent(json);
     }

@@ -10,7 +10,12 @@ repositories {
     mavenCentral()
 }
 
+idea {
+    module {
+        inheritOutputDirs = true
+    }
+}
+
 dependencies {
-    testCompile group: 'junit', name: 'junit', version: '4.12'
-    compile project(':DataLaws')
+    implementation project(':DataLaws')
 }

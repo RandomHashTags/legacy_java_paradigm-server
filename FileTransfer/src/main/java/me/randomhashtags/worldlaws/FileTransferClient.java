@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.settings.Settings;
+import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -62,16 +63,19 @@ public final class FileTransferClient implements RestAPI {
             WLLogger.logInfo("FileTransferClient - " + (success ? "successfully sent" : "failed sending") + " " + amount + " file" + (amount > 1 ? "s" : "") + " (took " + WLUtilities.getElapsedTime(started) + ")");
         }
     }
-    private JSONArray toPostJSONArray(HashSet<File> files) throws Exception {
+    private JSONArray toPostJSONArray(HashSet<File> files) {
         final JSONArray array = new JSONArray();
-        for(File file : files) {
-            final byte[] fileContentBytes = Files.readAllBytes(file.toPath());
-
-            final JSONObject json = new JSONObject();
-            json.put("name", file.getName());
-            json.put("contentBytes", fileContentBytes);
-            array.put(json);
-        }
+        new CompletableFutures<File>().stream(files, file -> {
+            try {
+                final byte[] fileContentBytes = Files.readAllBytes(file.toPath());
+                final JSONObject json = new JSONObject();
+                json.put("name", file.getName());
+                json.put("contentBytes", fileContentBytes);
+                array.put(json);
+            } catch (Exception e) {
+                WLUtilities.saveException(e);
+            }
+        });
         return array;
     }
     private HashSet<File> getServers() {

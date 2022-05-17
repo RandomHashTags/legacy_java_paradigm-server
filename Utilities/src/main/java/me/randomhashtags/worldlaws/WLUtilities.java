@@ -11,14 +11,17 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 
 import javax.net.ssl.*;
-import java.io.*;
-import java.net.Socket;
-import java.net.SocketException;
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.net.URL;
 import java.net.URLConnection;
 import java.security.SecureRandom;
 import java.security.cert.X509Certificate;
 import java.time.*;
+import java.time.format.DateTimeFormatter;
+import java.time.temporal.TemporalAccessor;
 import java.util.Date;
 import java.util.HashSet;
 import java.util.Timer;
@@ -111,21 +114,6 @@ public abstract class WLUtilities {
         return timer;
     }
 
-    public static void writeClientOutput(Socket client, String input) {
-        if(client.isOutputShutdown() || client.isClosed()) {
-            return;
-        }
-        try {
-            final OutputStream outToClient = client.getOutputStream();
-            outToClient.write(input.getBytes(DataValues.ENCODING));
-            outToClient.close();
-            client.close();
-        } catch (SocketException ignored) {
-        } catch (Exception e) {
-            WLUtilities.saveException(e);
-        }
-    }
-
     public static String executeCommand(String command, boolean printToTerminal) {
         try {
             final Runtime runtime = Runtime.getRuntime();
@@ -172,6 +160,24 @@ public abstract class WLUtilities {
             default: return null;
         }
     }
+
+    public static long parseDateFormatToMilliseconds(DateTimeFormatter formatter, String input) {
+        if(input.isEmpty()) {
+            return 0;
+        }
+        try {
+            final TemporalAccessor time = formatter.parse(input);
+            return time.query(Instant::from).toEpochMilli();
+        } catch (Exception e) {
+            final String trace = WLUtilities.getThrowableStackTrace(e);
+            WLUtilities.saveLoggedError("WLUtilities", "failed to parse date format for input \"" + input + "\"!\n\n" + trace);
+            return 0;
+        }
+    }
+    public static long getTodayStartOfDayMilliseconds() {
+        return Instant.now().atZone(ZoneId.of(ZoneOffset.UTC.getId())).withSecond(0).withHour(0).withMinute(0).toEpochSecond() * 1000;
+    }
+
     public static LocalDate getNow() { // TODO: convert all LocalDate.now requests to this method - and convert it to use current UTC system time
         return LocalDate.now();
     }

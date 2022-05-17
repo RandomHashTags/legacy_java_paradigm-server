@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.upcoming.events;
 
-import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
@@ -31,8 +30,8 @@ public final class RocketLaunchEvent extends UpcomingEvent {
             mission = null;
         }
     }
-    public RocketLaunchEvent(EventDate date, String name, String status, String location, boolean exactDay, boolean exactTime, int probability, String rocketImageURL, RocketLaunchMission mission, String windowStart, String windowEnd, EventSources sources) {
-        super(date, name, null, rocketImageURL, location, null, sources);
+    public RocketLaunchEvent(long exactTimeMilliseconds, String name, String status, String location, boolean exactDay, boolean exactTime, int probability, String rocketImageURL, RocketLaunchMission mission, String windowStart, String windowEnd, EventSources sources) {
+        super(exactTimeMilliseconds, name, null, rocketImageURL, location, null, sources);
         this.status = status;
         this.exactDay = exactDay;
         this.exactTime = exactTime;

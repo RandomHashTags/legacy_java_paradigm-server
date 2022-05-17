@@ -16,6 +16,7 @@ public enum UpcomingEventType {
 
     SCIENCE_YEAR_REVIEW,
     SPACE_EVENT,
+    SPACE_LUNAR_ECLIPSE,
     //SPACE_X,
     SPACE_NEAR_EARTH_OBJECT,
     SPACE_ROCKET_LAUNCH,
@@ -98,51 +99,53 @@ public enum UpcomingEventType {
     private int getPriority(boolean widget) {
         if(widget) {
             switch (this) {
-                case SPOTIFY_NEW_MUSIC_FRIDAY:
+                case SPACE_LUNAR_ECLIPSE:
                     return 1;
-                case PRESENTATION:
+                case SPOTIFY_NEW_MUSIC_FRIDAY:
                     return 2;
+                case PRESENTATION:
+                    return 3;
 
                 case MOVIE:
-                    return 3;
-                case VIDEO_GAME:
                     return 4;
-                case SPACE_EVENT:
+                case VIDEO_GAME:
                     return 5;
-                case SPACE_NEAR_EARTH_OBJECT:
+                case SPACE_EVENT:
                     return 6;
-                case SPACE_ROCKET_LAUNCH:
+                case SPACE_NEAR_EARTH_OBJECT:
                     return 7;
-                case MUSIC_ALBUM:
+                case SPACE_ROCKET_LAUNCH:
                     return 8;
+                case MUSIC_ALBUM:
+                    return 9;
 
                 case SPORT_PROFESSIONAL_WRESTLING:
-                    return 9;
-                case SPORT_UFC:
                     return 10;
+                case SPORT_UFC:
+                    return 11;
 
                 case SPORT_MLB:
-                    return 11;
-                case SPORT_NFL:
                     return 12;
+                case SPORT_NFL:
+                    return 13;
 
                 case ASTRONOMY_PICTURE_OF_THE_DAY:
-                    return 13;
-                case SCIENCE_YEAR_REVIEW:
                     return 14;
-                case WIKIPEDIA_TODAYS_FEATURED_PICTURE:
+                case SCIENCE_YEAR_REVIEW:
                     return 15;
-                case WORD_OF_THE_DAY:
+                case WIKIPEDIA_TODAYS_FEATURED_PICTURE:
                     return 16;
-                case JOKE_OF_THE_DAY:
+                case WORD_OF_THE_DAY:
                     return 17;
+                case JOKE_OF_THE_DAY:
+                    return 18;
 
                 case SPORT_CHAMPIONSHIPS:
-                    return 18;
-                case TICKETMASTER_MUSIC_EVENT:
                     return 19;
-                case TV_SHOW:
+                case TICKETMASTER_MUSIC_EVENT:
                     return 20;
+                case TV_SHOW:
+                    return 21;
 
                 default:
                     return 100;
@@ -157,41 +160,45 @@ public enum UpcomingEventType {
                     return 3;
                 case JOKE_OF_THE_DAY:
                     return 4;
-                case SPOTIFY_NEW_MUSIC_FRIDAY:
+
+
+                case SPACE_LUNAR_ECLIPSE:
                     return 5;
-                case PRESENTATION:
+                case SPOTIFY_NEW_MUSIC_FRIDAY:
                     return 6;
-                case SCIENCE_YEAR_REVIEW:
+                case PRESENTATION:
                     return 7;
+                case SCIENCE_YEAR_REVIEW:
+                    return 8;
 
                 case SPORT_MLB:
-                    return 8;
-                case SPORT_NFL:
                     return 9;
-                case SPORT_PROFESSIONAL_WRESTLING:
+                case SPORT_NFL:
                     return 10;
-                case SPORT_UFC:
+                case SPORT_PROFESSIONAL_WRESTLING:
                     return 11;
+                case SPORT_UFC:
+                    return 12;
 
                 case MOVIE:
-                    return 12;
-                case VIDEO_GAME:
                     return 13;
-                case SPACE_EVENT:
+                case VIDEO_GAME:
                     return 14;
-                case SPACE_NEAR_EARTH_OBJECT:
+                case SPACE_EVENT:
                     return 15;
-                case SPACE_ROCKET_LAUNCH:
+                case SPACE_NEAR_EARTH_OBJECT:
                     return 16;
-                case MUSIC_ALBUM:
+                case SPACE_ROCKET_LAUNCH:
                     return 17;
+                case MUSIC_ALBUM:
+                    return 18;
 
                 case SPORT_CHAMPIONSHIPS:
-                    return 18;
-                case TICKETMASTER_MUSIC_EVENT:
                     return 19;
-                case TV_SHOW:
+                case TICKETMASTER_MUSIC_EVENT:
                     return 20;
+                case TV_SHOW:
+                    return 21;
 
                 default:
                     return 100;
@@ -209,6 +216,7 @@ public enum UpcomingEventType {
                 return "https://m.media-amazon.com/images/";
             case MUSIC_ALBUM:
             case SCIENCE_YEAR_REVIEW:
+            case SPACE_LUNAR_ECLIPSE:
             case SPORT_CHAMPIONSHIPS:
             case SPORT_UFC:
             case SPORT_PROFESSIONAL_WRESTLING:
@@ -240,6 +248,7 @@ public enum UpcomingEventType {
 
                 case SCIENCE_YEAR_REVIEW: return "Today in Science";
                 case SPACE_EVENT: return "Space Event";
+                case SPACE_LUNAR_ECLIPSE: return "Lunar Eclipse";
                 case SPACE_NEAR_EARTH_OBJECT: return "Near Earth Object";
                 case SPACE_ROCKET_LAUNCH: return "Rocket Launch";
                 case SPORT_CHAMPIONSHIPS: return "Championship";
@@ -267,6 +276,7 @@ public enum UpcomingEventType {
 
                 case SCIENCE_YEAR_REVIEW: return "Today in Science";
                 case SPACE_EVENT: return "Space Events";
+                case SPACE_LUNAR_ECLIPSE: return "Lunar Eclipses";
                 case SPACE_NEAR_EARTH_OBJECT: return "Near Earth Objects";
                 case SPACE_ROCKET_LAUNCH: return "Rocket Launches";
                 case SPORT_CHAMPIONSHIPS: return "Championships";
@@ -297,6 +307,7 @@ public enum UpcomingEventType {
 
                 case SCIENCE_YEAR_REVIEW: return "See what happened today in the past with Today in Science!";
                 case SPACE_EVENT: return "%title% is scheduled today!";
+                case SPACE_LUNAR_ECLIPSE: return "%title% is happening today!";
                 case SPACE_NEAR_EARTH_OBJECT: return "A near earth object is close by!";
                 case SPACE_ROCKET_LAUNCH: return "%title% is scheduled to take off today!";
                 case SPORT_CHAMPIONSHIPS: return "%title% begins today!";
@@ -324,6 +335,7 @@ public enum UpcomingEventType {
 
                 case SCIENCE_YEAR_REVIEW: return "See what happened today in the past with Today in Science!";
                 case SPACE_EVENT: return "%title% are scheduled today!";
+                case SPACE_LUNAR_ECLIPSE: return "%title% are happening today!";
                 case SPACE_NEAR_EARTH_OBJECT: return "Near earth objects are close by!";
                 case SPACE_ROCKET_LAUNCH: return "%title% are scheduled to take off today!";
                 case SPORT_CHAMPIONSHIPS: return "%title% begins today!";
@@ -386,10 +398,16 @@ public enum UpcomingEventType {
                         UpcomingEventValue.SPACE_EVENT_VIDEO_URL
                 );
 
-            case SPORT_MLB:
+            case SPACE_LUNAR_ECLIPSE:
                 return collectValues(
-                        UpcomingEventValue.MLB_TEAM_AWAY,
-                        UpcomingEventValue.MLB_TEAM_HOME
+                        UpcomingEventValue.SPACE_LUNAR_ECLIPSE_TIME_GREATEST_MILLISECONDS,
+                        UpcomingEventValue.SPACE_LUNAR_ECLIPSE_ORBITAL_NODE,
+                        UpcomingEventValue.SPACE_LUNAR_ECLIPSE_SAROS,
+                        UpcomingEventValue.SPACE_LUNAR_ECLIPSE_GAMMA,
+                        UpcomingEventValue.SPACE_LUNAR_ECLIPSE_MAGNITUDE_PENUMBRA,
+                        UpcomingEventValue.SPACE_LUNAR_ECLIPSE_MAGNITUDE_UMBRA,
+                        UpcomingEventValue.SPACE_LUNAR_ECLIPSE_DURATION_PARTIAL,
+                        UpcomingEventValue.SPACE_LUNAR_ECLIPSE_DURATION_TOTAL
                 );
 
             case SPACE_NEAR_EARTH_OBJECT:
@@ -399,6 +417,12 @@ public enum UpcomingEventType {
                         UpcomingEventValue.NEAR_EARTH_OBJECT_ESTIMATED_DIAMETER_MAX,
                         UpcomingEventValue.NEAR_EARTH_OBJECT_ESTIMATED_DIAMETER_MIN,
                         UpcomingEventValue.NEAR_EARTH_OBJECT_RELATIVE_VELOCITY
+                );
+
+            case SPORT_MLB:
+                return collectValues(
+                        UpcomingEventValue.MLB_TEAM_AWAY,
+                        UpcomingEventValue.MLB_TEAM_HOME
                 );
 
             case SPORT_PROFESSIONAL_WRESTLING:
@@ -450,6 +474,11 @@ public enum UpcomingEventType {
                         UpcomingEventValue.WORD_OF_THE_DAY_SYLLABLES,
                         UpcomingEventValue.WORD_OF_THE_DAY_PRONUNCIATION_URL
                 );
+
+            case PRESENTATION:
+            case SPORT_CHAMPIONSHIPS:
+            case WIKIPEDIA_TODAYS_FEATURED_PICTURE:
+                return null;
 
             default:
                 return null;

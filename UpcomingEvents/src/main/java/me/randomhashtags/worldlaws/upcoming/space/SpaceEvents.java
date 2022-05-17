@@ -1,8 +1,8 @@
 package me.randomhashtags.worldlaws.upcoming.space;
 
-import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
+import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
@@ -11,8 +11,9 @@ import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-import java.time.LocalDate;
-import java.time.Month;
+import java.time.Instant;
+import java.time.format.DateTimeFormatter;
+import java.util.concurrent.TimeUnit;
 
 public final class SpaceEvents extends LoadedUpcomingEventController {
 
@@ -30,16 +31,12 @@ public final class SpaceEvents extends LoadedUpcomingEventController {
             final JSONArray resultsArray = json.getJSONArray("results");
             final int max = resultsArray.length();
             if(max > 0) {
-                final LocalDate endingDate = LocalDate.now().plusWeeks(1);
+                final long endingDate = Instant.now().plusMillis(TimeUnit.DAYS.toMillis(7)).toEpochMilli();
                 final EventSources sources = new EventSources(new EventSource("The Space Devs", "https://thespacedevs.com"));
                 new CompletableFutures<JSONObject>().stream(resultsArray, resultJSON -> {
-                    final String[] dateValues = resultJSON.getString("date").split("T")[0].split("-");
-                    final int year = Integer.parseInt(dateValues[0]), day = Integer.parseInt(dateValues[2]);
-                    final Month month = Month.of(Integer.parseInt(dateValues[1]));
-                    final EventDate eventDate = new EventDate(month, day, year);
-                    if(eventDate.getLocalDate().isBefore(endingDate)) {
-                        final String dateString = eventDate.getDateString();
-
+                    final String dateString = resultJSON.getString("date");
+                    final long exactTimeMilliseconds = WLUtilities.parseDateFormatToMilliseconds(DateTimeFormatter.ISO_INSTANT, dateString);
+                    if(exactTimeMilliseconds < endingDate) {
                         final String title = resultJSON.getString("name");
                         final String description = resultJSON.getString("description");
                         final String location = resultJSON.optString("location", null);
@@ -48,14 +45,19 @@ public final class SpaceEvents extends LoadedUpcomingEventController {
                         final String newsURL = resultJSON.optString("news_url", null);
                         final String videoURL = resultJSON.optString("video_url", null);
 
-                        final String identifier = getEventDateIdentifier(dateString, title);
-                        final SpaceEvent event = new SpaceEvent(eventDate, title, description, imageURL, location, newsURL, videoURL, sources);
+                        final String identifier = getEventDateIdentifier(exactTimeMilliseconds, title);
+                        final SpaceEvent event = new SpaceEvent(exactTimeMilliseconds, title, description, imageURL, location, newsURL, videoURL, sources);
                         putLoadedPreUpcomingEvent(event.toPreUpcomingEventJSON(eventType, identifier, location));
                         putUpcomingEvent(identifier, event);
                     }
                 });
             }
         }
+    }
+
+    @Override
+    public boolean isExactTime() {
+        return true;
     }
 
     @Override

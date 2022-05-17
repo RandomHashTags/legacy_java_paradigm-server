@@ -1,8 +1,8 @@
 package me.randomhashtags.worldlaws.upcoming.space;
 
-import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
+import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
@@ -11,6 +11,8 @@ import me.randomhashtags.worldlaws.upcoming.events.RocketLaunchMission;
 import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
 import org.json.JSONArray;
 import org.json.JSONObject;
+
+import java.time.format.DateTimeFormatter;
 
 public final class RocketLaunches extends LoadedUpcomingEventController {
 
@@ -29,7 +31,10 @@ public final class RocketLaunches extends LoadedUpcomingEventController {
             new CompletableFutures<JSONObject>().stream(launches, launchJSON -> {
                 final JSONObject rocketConfigurationJSON = launchJSON.getJSONObject("rocket").getJSONObject("configuration"), padJSON = launchJSON.getJSONObject("pad");
                 final JSONObject serviceProvider = launchJSON.getJSONObject("launch_service_provider");
-                final String windowStart = launchJSON.getString("window_start"), windowEnd = launchJSON.getString("window_end");
+                final String windowStartString = launchJSON.getString("window_start");
+                final long windowStart = WLUtilities.parseDateFormatToMilliseconds(DateTimeFormatter.ISO_INSTANT, windowStartString);
+                final String windowEnd = launchJSON.getString("window_end");
+
                 final int probability = launchJSON.optInt("probability", -1);
                 final boolean exactDay = launchJSON.getBoolean("tbddate"), exactTime = launchJSON.getBoolean("tbdtime");
                 final String name = launchJSON.getString("name");
@@ -44,13 +49,17 @@ public final class RocketLaunches extends LoadedUpcomingEventController {
                     mission = new RocketLaunchMission(missionName, description, missionType);
                 }
 
-                final EventDate date = new EventDate(windowStart);
-                final String dateString = getEventDateString(date), identifier = getEventDateIdentifier(dateString, name);
-                final RocketLaunchEvent launch = new RocketLaunchEvent(date, name, status, location, exactDay, exactTime, probability, rocketImageURL, mission, windowStart, windowEnd, sources);
+                final String identifier = getEventDateIdentifier(windowStart, name);
+                final RocketLaunchEvent launch = new RocketLaunchEvent(windowStart, name, status, location, exactDay, exactTime, probability, rocketImageURL, mission, windowStartString, windowEnd, sources);
                 putLoadedPreUpcomingEvent(launch.toPreUpcomingEventJSON(eventType, identifier, location));
                 putUpcomingEvent(identifier, launch);
             });
         }
+    }
+
+    @Override
+    public boolean isExactTime() {
+        return true;
     }
 
     @Override

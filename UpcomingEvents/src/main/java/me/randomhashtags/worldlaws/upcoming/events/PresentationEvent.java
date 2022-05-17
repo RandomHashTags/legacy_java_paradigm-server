@@ -9,14 +9,16 @@ import org.json.JSONObject;
 public final class PresentationEvent extends UpcomingEvent {
 
     private final String tag;
-    private final EventSources externalLinks;
+    private EventSources externalLinks;
 
     public PresentationEvent(JSONObject json) {
         super(json);
         final JSONObject properties = json.getJSONObject("properties");
         tag = properties.getString("tag");
         final JSONObject externalLinksJSON = properties.optJSONObject("externalLinks", null);
-        externalLinks = externalLinksJSON != null ? new EventSources(externalLinksJSON) : null;
+        if(externalLinksJSON != null) {
+            externalLinks = new EventSources(externalLinksJSON);
+        }
     }
     public PresentationEvent(EventDate date, String title, String description, String imageURL, String location, String tag, EventSources externalLinks) {
         super(date, title, description, imageURL, location, null, null);

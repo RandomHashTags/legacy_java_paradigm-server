@@ -107,7 +107,7 @@ public enum Settings {
             return getOrDefaultJSONObject(SETTINGS_JSON, "performance", new JSONObject());
         }
         public static int getMaximumParallelThreads() {
-            return getOrDefaultInt(getPerformanceJSON(), "maximum_parallel_threads", 32);
+            return getOrDefaultInt(getPerformanceJSON(), "maximum_parallel_threads", 100);
         }
     }
 

@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.upcoming.events;
 
-import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
@@ -12,8 +11,8 @@ public final class TVShowEvent extends UpcomingEvent {
     private final int popularity, runtimeMinutes, season, episode;
     private final JSONArray genres;
 
-    public TVShowEvent(EventDate date, String title, String description, String imageURL, JSONArray youtubeVideoIDs, int popularity, String language, String countryCode, String officialSite, String network, int runtimeMinutes, int season, int episode, String episodeName, String episodeSummary, JSONArray genres, EventSources sources) {
-        super(date, title, description, imageURL, null, youtubeVideoIDs, sources);
+    public TVShowEvent(long exactTimeMilliseconds, String title, String description, String imageURL, JSONArray youtubeVideoIDs, int popularity, String language, String countryCode, String officialSite, String network, int runtimeMinutes, int season, int episode, String episodeName, String episodeSummary, JSONArray genres, EventSources sources) {
+        super(exactTimeMilliseconds, title, description, imageURL, null, youtubeVideoIDs, sources);
         this.popularity = popularity;
         this.language = language;
         this.countryCode = countryCode;
@@ -38,7 +37,7 @@ public final class TVShowEvent extends UpcomingEvent {
 
     @Override
     public JSONObjectTranslatable getPropertiesJSONObject() {
-        final JSONObjectTranslatable json = new JSONObjectTranslatable();
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("episodeName", "episodeSummary", "genres");
         if(popularity > 0) {
             json.put("popularity", popularity);
         }

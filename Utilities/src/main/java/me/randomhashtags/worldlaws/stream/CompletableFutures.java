@@ -17,7 +17,7 @@ public final class CompletableFutures<T> {
 
     public void stream(Collection<? super T> items, Consumer<? super T> action) {
         final Stream<? super T> a = items.stream();
-        stream(a, action, MAXIMUM_PARALLEL_THREADS);
+        stream(a, action);
     }
 
     public void stream(Iterable<? super T> items, Consumer<? super T> action) {
@@ -26,7 +26,12 @@ public final class CompletableFutures<T> {
     }
     public void stream(Spliterator<? super T> items, Consumer<? super T> action) {
         final Stream<? super T> a = StreamSupport.stream(items, false);
-        stream(a, action, MAXIMUM_PARALLEL_THREADS);
+        stream(a, action);
+    }
+
+    private void stream(Stream<? super T> items, Consumer<? super T> action) {
+        final int threadCount = Math.min((int) items.count(), MAXIMUM_PARALLEL_THREADS);
+        stream(items, action, threadCount);
     }
 
     @SuppressWarnings({ "unchecked", "rawtypes" })

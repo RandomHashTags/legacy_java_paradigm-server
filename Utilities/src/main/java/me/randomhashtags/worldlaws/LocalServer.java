@@ -117,11 +117,15 @@ public final class LocalServer implements UserServer, DataValues, RestAPI {
             final ServerRequestType[] requestTypes = getRequestTypes();
             if(requestTypes != null) {
                 final APIVersion[] apiVersions = APIVersion.values();
+                for(APIVersion apiVersion : apiVersions) {
+                    final String prefix = getContextPrefix(apiVersion);
+                    final WLHttpHandler homeHandler = getHomeHandler(apiVersion);
+                    server.createContext(prefix + "home", homeHandler);
+                }
                 final HashMap<APIVersion, List<ServerRequestType>> conditionals = new HashMap<>();
                 for(ServerRequestType type : requestTypes) {
                     for(APIVersion apiVersion : apiVersions) {
-                        final String prefix = "/" + apiVersion.name() + "/";
-                        server.createContext(prefix + "home", getHomeHandler(apiVersion));
+                        final String prefix = getContextPrefix(apiVersion);
                         if(type.isConditional()) {
                             conditionals.putIfAbsent(apiVersion, new ArrayList<>());
                             conditionals.get(apiVersion).add(type);
@@ -153,6 +157,9 @@ public final class LocalServer implements UserServer, DataValues, RestAPI {
         } catch (Exception e) {
             WLUtilities.saveException(e);
         }
+    }
+    private String getContextPrefix(APIVersion apiVersion) {
+        return "/" + apiVersion.name() + "/";
     }
     private void createServerContexts() {
         server.createContext("/ping", new WLHttpHandler() {

@@ -53,6 +53,7 @@ public enum ServerRequestTypeUpcomingEvents implements ServerRequestType {
                 new MusicSpotify(),
                 //NASANeo.INSTANCE,
                 //NFL.INSTANCE, // problem
+                //new LunarEclipses(),
                 new Presentations(),
                 new ProfessionalWrestling(),
                 new RocketLaunches(),
@@ -198,9 +199,11 @@ public enum ServerRequestTypeUpcomingEvents implements ServerRequestType {
     private JSONObjectTranslatable getEventsFromDates(HashSet<String> dateStrings) {
         final JSONObjectTranslatable json = new JSONObjectTranslatable();
         new CompletableFutures<UpcomingEventController>().stream(CONTROLLERS, controller -> {
+            final String typeIdentifier = controller.getType().name().toLowerCase();
+            final JSONObjectTranslatable controllerJSON = new JSONObjectTranslatable();
+            final JSONObjectTranslatable datesJSON = new JSONObjectTranslatable();
             final ConcurrentHashMap<String, Collection<LoadedPreUpcomingEvent>> eventsFromDates = controller.getEventsFromDates(dateStrings);
             if(eventsFromDates != null) {
-                final JSONObjectTranslatable controllerJSON = new JSONObjectTranslatable();
                 for(Map.Entry<String, Collection<LoadedPreUpcomingEvent>> map : eventsFromDates.entrySet()) {
                     final JSONObjectTranslatable dateStringJSON = new JSONObjectTranslatable();
                     final String dateString = map.getKey();
@@ -210,12 +213,23 @@ public enum ServerRequestTypeUpcomingEvents implements ServerRequestType {
                         dateStringJSON.put(id, event.getJSONObject());
                         dateStringJSON.addTranslatedKey(id);
                     }
-                    controllerJSON.put(dateString, dateStringJSON);
-                    controllerJSON.addTranslatedKey(dateString);
+                    datesJSON.put(dateString, dateStringJSON);
+                    datesJSON.addTranslatedKey(dateString);
                 }
-                final String key = controller.getType().name().toLowerCase();
-                json.put(key, controllerJSON);
-                json.addTranslatedKey(key);
+                controllerJSON.put("dates", datesJSON);
+            }
+
+            final JSONObjectTranslatable exactTimesJSON = new JSONObjectTranslatable();
+            final Collection<LoadedPreUpcomingEvent> exactTimeEvents = controller.getExactTimeEvents();
+            if(exactTimeEvents != null) {
+                for(LoadedPreUpcomingEvent event : exactTimeEvents) {
+                    exactTimesJSON.put(event.getIdentifier(), event.getJSONObject());
+                }
+                controllerJSON.put("exactTimes", exactTimesJSON);
+            }
+            if(!controllerJSON.isEmpty()) {
+                json.put(typeIdentifier, controllerJSON);
+                json.addTranslatedKey(typeIdentifier);
             }
         });
         return json.isEmpty() ? null : json;

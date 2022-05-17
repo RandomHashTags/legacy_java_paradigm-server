@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.upcoming.events;
 
-import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
@@ -17,8 +16,8 @@ public final class SpaceEvent extends UpcomingEvent {
         newsURL = properties.optString(UpcomingEventValue.SPACE_EVENT_NEWS_URL.getKey(), null);
         videoURL = properties.optString(UpcomingEventValue.SPACE_EVENT_VIDEO_URL.getKey(), null);
     }
-    public SpaceEvent(EventDate date, String title, String description, String imageURL, String location, String newsURL, String videoURL, EventSources sources) {
-        super(date, title, description, imageURL, location, null, sources);
+    public SpaceEvent(long exactTimeMilliseconds, String title, String description, String imageURL, String location, String newsURL, String videoURL, EventSources sources) {
+        super(exactTimeMilliseconds, title, description, imageURL, location, null, sources);
         this.newsURL = newsURL;
         this.videoURL = videoURL;
         insertProperties();

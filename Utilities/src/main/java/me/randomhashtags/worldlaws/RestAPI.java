@@ -14,11 +14,11 @@ import java.net.http.HttpResponse;
 import java.nio.charset.StandardCharsets;
 import java.time.Duration;
 import java.time.LocalDate;
-import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.CompletionException;
+import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.TimeUnit;
 
 public interface RestAPI {
@@ -29,7 +29,7 @@ public interface RestAPI {
     }};
 
     HttpClient CLIENT = getClient();
-    HashMap<String, JSONArray> RESPONSE_TIMES = new HashMap<>();
+    ConcurrentHashMap<String, JSONArray> RESPONSE_TIMES = new ConcurrentHashMap<>();
     private static Duration getConnectionTimeout() {
         return Duration.ofSeconds(30);
     }

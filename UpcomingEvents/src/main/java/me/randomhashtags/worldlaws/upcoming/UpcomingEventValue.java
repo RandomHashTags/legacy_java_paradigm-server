@@ -178,6 +178,42 @@ public enum UpcomingEventValue {
         putValueType(UpcomingEventValueType.VIDEO_URL);
     }}),
 
+    SPACE_LUNAR_ECLIPSE_TIME_GREATEST_MILLISECONDS(new UpcomingEventValueMap() {{
+        putCategory(UpcomingEventValueCategory.SPACE_LUNAR_ECLIPSE_DETAILS);
+        putKey("timeGreatestMilliseconds");
+        putValueType(UpcomingEventValueType.TIMESTAMP);
+    }}),
+    SPACE_LUNAR_ECLIPSE_ORBITAL_NODE(new UpcomingEventValueMap() {{
+        putCategory(UpcomingEventValueCategory.SPACE_LUNAR_ECLIPSE_DETAILS);
+        putKey("orbitalNode");
+    }}),
+    SPACE_LUNAR_ECLIPSE_SAROS(new UpcomingEventValueMap() {{
+        putCategory(UpcomingEventValueCategory.SPACE_LUNAR_ECLIPSE_DETAILS);
+        putKey("saros");
+    }}),
+    SPACE_LUNAR_ECLIPSE_GAMMA(new UpcomingEventValueMap() {{
+        putCategory(UpcomingEventValueCategory.SPACE_LUNAR_ECLIPSE_DETAILS);
+        putKey("gamma");
+    }}),
+    SPACE_LUNAR_ECLIPSE_MAGNITUDE_PENUMBRA(new UpcomingEventValueMap() {{
+        putCategory(UpcomingEventValueCategory.SPACE_LUNAR_ECLIPSE_DETAILS);
+        putKey("magnitudePenumbra");
+    }}),
+    SPACE_LUNAR_ECLIPSE_MAGNITUDE_UMBRA(new UpcomingEventValueMap() {{
+        putCategory(UpcomingEventValueCategory.SPACE_LUNAR_ECLIPSE_DETAILS);
+        putKey("magnitudeUmbra");
+    }}),
+    SPACE_LUNAR_ECLIPSE_DURATION_PARTIAL(new UpcomingEventValueMap() {{
+        putCategory(UpcomingEventValueCategory.SPACE_LUNAR_ECLIPSE_DETAILS);
+        putKey("durationPartial");
+        putValueType(UpcomingEventValueType.INT);
+    }}),
+    SPACE_LUNAR_ECLIPSE_DURATION_TOTAL(new UpcomingEventValueMap() {{
+        putCategory(UpcomingEventValueCategory.SPACE_LUNAR_ECLIPSE_DETAILS);
+        putKey("durationTotal");
+        putValueType(UpcomingEventValueType.INT);
+    }}),
+
     SPOTIFY_NEW_MUSIC_FRIDAY_TRACKS(new UpcomingEventValueMap() {{
         putCategory(UpcomingEventValueCategory.SPOTIFY_NEW_MUSIC_FRIDAY_TRACKS);
         putKey("tracks");

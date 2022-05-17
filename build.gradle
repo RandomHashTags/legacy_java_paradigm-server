@@ -10,6 +10,11 @@ repositories {
     mavenCentral()
 }
 
+idea {
+    module {
+        sourceCompatibility = JavaVersion.VERSION_13
+    }
+}
+
 dependencies {
-    testCompile group: 'junit', name: 'junit', version: '4.12'
 }

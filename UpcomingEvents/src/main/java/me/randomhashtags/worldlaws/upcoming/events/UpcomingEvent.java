@@ -12,13 +12,16 @@ import java.util.List;
 
 public abstract class UpcomingEvent extends JSONObjectTranslatable implements Jsoupable {
 
+    private long exactTimeMilliseconds;
     private final EventDate date;
     private String customTypeSingularName;
 
     protected UpcomingEvent(JSONObject json) {
-        final String dateString = json.getString("eventDate");
+        final String dateString = json.optString("eventDate", null);
         this.date = EventDate.valueOfDateString(dateString);
-        put("eventDate", dateString);
+        if(dateString != null) {
+            put("eventDate", dateString);
+        }
         final String[] keys = { "title", "description", "location", "imageURL", "youtubeVideoIDs", "sources" };
         for(String key : keys) {
             if(json.has(key)) {
@@ -33,6 +36,21 @@ public abstract class UpcomingEvent extends JSONObjectTranslatable implements Js
     public UpcomingEvent(EventDate date, String customTypeSingularName, String title, String description, String imageURL, String location, JSONArray youtubeVideoIDs, EventSources sources) {
         this.date = date;
         put("eventDate", date.getDateString());
+        setValues(customTypeSingularName, title, description, imageURL, location, youtubeVideoIDs, sources);
+        setClientKeysToBeRemoved();
+    }
+
+    public UpcomingEvent(long exactTimeMilliseconds, String title, String description, String imageURL, String location, JSONArray youtubeVideoIDs, EventSources sources) {
+        this(exactTimeMilliseconds, null, title, description, imageURL, location, youtubeVideoIDs, sources);
+    }
+    public UpcomingEvent(long exactTimeMilliseconds, String customTypeSingularName, String title, String description, String imageURL, String location, JSONArray youtubeVideoIDs, EventSources sources) {
+        this.exactTimeMilliseconds = exactTimeMilliseconds;
+        put("exactTimeMilliseconds", exactTimeMilliseconds);
+        date = null;
+        setValues(customTypeSingularName, title, description, imageURL, location, youtubeVideoIDs, sources);
+    }
+
+    private void setValues(String customTypeSingularName, String title, String description, String imageURL, String location, JSONArray youtubeVideoIDs, EventSources sources) {
         this.customTypeSingularName = customTypeSingularName;
         put("title", title);
         if(description != null) {
@@ -50,10 +68,10 @@ public abstract class UpcomingEvent extends JSONObjectTranslatable implements Js
         if(sources != null) {
             put("sources", sources.toJSONObject());
         }
-        setClientKeysToBeRemoved();
     }
+
     private void setClientKeysToBeRemoved() {
-        setRemovedClientKeys("eventDate");
+        setRemovedClientKeys("eventDate", "exactTimeMilliseconds");
     }
     public void insertProperties() {
         final JSONObjectTranslatable properties = getPropertiesJSONObject();
@@ -64,6 +82,13 @@ public abstract class UpcomingEvent extends JSONObjectTranslatable implements Js
 
     public EventDate getDate() {
         return date;
+    }
+    public long getExactTimeMilliseconds() {
+        return exactTimeMilliseconds;
+    }
+    public String getIdentifier() {
+        final String title = getTitle();
+        return date != null ? UpcomingEventController.getEventDateIdentifier(date.getDateString(), title) : UpcomingEventController.getEventDateIdentifier(exactTimeMilliseconds, title);
     }
 
     public String getTitle() {
@@ -110,8 +135,7 @@ public abstract class UpcomingEvent extends JSONObjectTranslatable implements Js
     }
     @Override
     public String getFileName() {
-        final String title = getTitle();
-        final String identifier = UpcomingEventController.getEventDateIdentifier(date.getDateString(), title);
+        final String identifier = getIdentifier();
         return UpcomingEventController.getUpcomingEventFileName(getType(), getFolder(), identifier);
     }
 }

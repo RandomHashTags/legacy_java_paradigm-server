@@ -11,10 +11,10 @@ import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
 import org.json.JSONObject;
 
 import java.io.File;
-import java.time.LocalDate;
-import java.time.Month;
+import java.time.*;
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
+import java.util.concurrent.TimeUnit;
 
 public abstract class UpcomingEventController implements YouTubeService, Jsoupable, DataValues {
     private final ConcurrentHashMap<String, LoadedPreUpcomingEvent> loadedPreUpcomingEvents;
@@ -66,13 +66,23 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
     }
     public abstract void load();
 
+    public boolean isExactTime() {
+        return false;
+    }
+
     public static String getEventDateIdentifier(String dateString, String title) {
+        return parseEventDateIdentifier(dateString, title);
+    }
+    public static String getEventDateIdentifier(long exactTimeMilliseconds, String title) {
+        return parseEventDateIdentifier(exactTimeMilliseconds + "", title);
+    }
+    private static String parseEventDateIdentifier(String key, String title) {
         final String escaped = LocalServer.fixEscapeValues(title);
         final String id = escaped != null ? escaped
                 .replaceAll("\\\\u[A-Fa-f\\d]{4}", "")
                 .replaceAll("[^\\w-]", "_")
                 : null;
-        return dateString + "." + id;
+        return key + "." + id;
     }
     public String getEventDateString(EventDate date) {
         return getEventDateString(date.getYear(), date.getMonth(), date.getDay());
@@ -115,6 +125,32 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
         }
         return map.isEmpty() ? null : map;
     }
+    public Collection<LoadedPreUpcomingEvent> getExactTimeEvents() {
+        final HashSet<String> set = new HashSet<>((!preUpcomingEvents.isEmpty() ? preUpcomingEvents : upcomingEvents).keySet());
+        set.removeIf(id -> {
+            final String key = id.split("\\.")[0];
+            return !key.matches("[0-9]+");
+        });
+        final HashSet<LoadedPreUpcomingEvent> events = new HashSet<>();
+        if(set.size() > 0) {
+            new CompletableFutures<String>().stream(set, identifier -> {
+                final LoadedPreUpcomingEvent event = getLoadedPreUpcomingEvent(identifier);
+                if(event != null) {
+                    events.add(event);
+                }
+            });
+        } else if(!loadedPreUpcomingEvents.isEmpty()) {
+            final HashSet<String> copy = new HashSet<>(loadedPreUpcomingEvents.keySet());
+            copy.removeIf(identifier -> {
+                final String key = identifier.split("\\.")[0];
+                return !key.matches("[0-9]+");
+            });
+            for(String identifier : copy) {
+                events.add(loadedPreUpcomingEvents.get(identifier));
+            }
+        }
+        return events.isEmpty() ? null : events;
+    }
     private LoadedPreUpcomingEvent getLoadedPreUpcomingEvent(String identifier) {
         if(!loadedPreUpcomingEvents.containsKey(identifier)) {
             final JSONObjectTranslatable string = getUpcomingEvent(identifier);
@@ -143,10 +179,7 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
             if(string == null) {
                 event = tryLoadingUpcomingEvent(identifier);
                 if(event != null) {
-                    final String todayEventDateString = EventDate.getDateString(LocalDate.now()) + ".";
-                    if(identifier.startsWith(todayEventDateString)) {
-                        saveUpcomingEventToJSON(identifier, event.toString());
-                    }
+                    trySaving(event);
                 }
             } else {
                 final JSONObject json = new JSONObject(string);
@@ -165,9 +198,20 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
     }
     public static String getUpcomingEventFileName(UpcomingEventType type, Folder folder, String identifier) {
         final String dateString = identifier.split("\\.")[0];
-        final String[] values = dateString.split("-");
-        final String month = Month.of(Integer.parseInt(values[0])).name();
-        final int year = Integer.parseInt(values[1]), day = Integer.parseInt(values[2]);
+        final String month;
+        final int year, day;
+        if(dateString.matches("[0-9]+")) {
+            final ZonedDateTime instant = Instant.ofEpochMilli(Long.parseLong(dateString)).atZone(ZoneId.systemDefault());
+            month = instant.getMonth().name();
+            year = instant.getYear();
+            day = instant.getDayOfMonth();
+        } else {
+            final String[] values = dateString.split("-");
+            month = Month.of(Integer.parseInt(values[0])).name();
+            year = Integer.parseInt(values[1]);
+            day = Integer.parseInt(values[2]);
+        }
+
         final String fileName = identifier.substring(dateString.length()+1);
         final String folderName = folder.getFolderName()
                 .replace("%year%", Integer.toString(year))
@@ -206,14 +250,27 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
     }
 
     public void putUpcomingEvent(String identifier, UpcomingEvent value) {
+        trySaving(value);
+        upcomingEvents.put(identifier, value);
+    }
+
+    private void trySaving(UpcomingEvent event) {
         if(this instanceof TVShows) {
         } else {
-            final String todayDateString = EventDate.getDateString(LocalDate.now()) + ".";
-            if(identifier.startsWith(todayDateString)) {
-                saveUpcomingEventToJSON(identifier, value.toString());
+            final String identifier = event.getIdentifier();
+            if(event.getDate() != null) {
+                final String todayDateString = EventDate.getDateString(LocalDate.now()) + ".";
+                if(identifier.startsWith(todayDateString)) {
+                    saveUpcomingEventToJSON(identifier, event.toString());
+                }
+            } else {
+                final long instant = WLUtilities.getTodayStartOfDayMilliseconds();
+                final long exactTimeMilliseconds = event.getExactTimeMilliseconds();
+                if(exactTimeMilliseconds > instant && exactTimeMilliseconds < instant + TimeUnit.DAYS.toMillis(1)) {
+                    saveUpcomingEventToJSON(identifier, event.toString());
+                }
             }
         }
-        upcomingEvents.put(identifier, value);
     }
 
     public void putLoadedPreUpcomingEvent(LoadedPreUpcomingEvent value) {

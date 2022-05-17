@@ -9,7 +9,7 @@ import org.json.JSONObject;
 import java.util.List;
 
 public final class PreUpcomingEvent {
-    private final String customTypeSingularName, id, title, url, tag;
+    private final String customTypeSingularName, identifier, title, url, tag;
     private final List<String> countries;
     private final JSONObjectTranslatable customValues;
     private ClientEmoji clientEmoji;
@@ -38,18 +38,18 @@ public final class PreUpcomingEvent {
         }
     }
 
-    public PreUpcomingEvent(String id, String title, String url, String tag) {
-        this(id, title, url, tag, null);
+    public PreUpcomingEvent(String identifier, String title, String url, String tag) {
+        this(identifier, title, url, tag, null);
     }
-    public PreUpcomingEvent(String id, String title, String url, String tag, List<String> countries) {
-        this(id, title, url, tag, countries, null);
+    public PreUpcomingEvent(String identifier, String title, String url, String tag, List<String> countries) {
+        this(identifier, title, url, tag, countries, null);
     }
-    public PreUpcomingEvent(String id, String title, String url, String tag, List<String> countries, JSONObjectTranslatable customValues) {
-        this(null, id, title, url, tag, countries, customValues);
+    public PreUpcomingEvent(String identifier, String title, String url, String tag, List<String> countries, JSONObjectTranslatable customValues) {
+        this(null, identifier, title, url, tag, countries, customValues);
     }
-    public PreUpcomingEvent(String customTypeSingularName, String id, String title, String url, String tag, List<String> countries, JSONObjectTranslatable customValues) {
+    public PreUpcomingEvent(String customTypeSingularName, String identifier, String title, String url, String tag, List<String> countries, JSONObjectTranslatable customValues) {
         this.customTypeSingularName = customTypeSingularName;
-        this.id = id;
+        this.identifier = identifier;
         this.title = title;
         this.url = url;
         this.tag = tag;
@@ -58,7 +58,7 @@ public final class PreUpcomingEvent {
     }
 
     public String getDateString() {
-        return id.split("\\.")[0];
+        return identifier.split("\\.")[0];
     }
     public EventDate getEventDate() {
         return EventDate.valueOfDateString(getDateString());
@@ -128,6 +128,6 @@ public final class PreUpcomingEvent {
         if(customValues != null && !customValues.isEmpty()) {
             json.put("customValues", customValues);
         }
-        return new LoadedPreUpcomingEvent(id, json);
+        return new LoadedPreUpcomingEvent(identifier, json);
     }
 }
