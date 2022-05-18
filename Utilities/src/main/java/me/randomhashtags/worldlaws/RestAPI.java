@@ -139,6 +139,36 @@ public interface RestAPI {
         final String string = requestStatic(url, postData, postDataIsJSONObject, headers, null);
         return string != null && string.startsWith("{") && string.endsWith("}") ? new JSONObject(string) : null;
     }
+    static JSONObject postStaticJSONObject(String url, String postData, LinkedHashMap<String, String> headers) {
+        if(headers == null) {
+            headers = new LinkedHashMap<>();
+        }
+        if(!headers.containsKey("User-Agent")) {
+            headers.put("User-Agent", USER_AGENT);
+        }
+        if(!headers.containsKey("Content-Type")) {
+            headers.put("Content-Type", "application/json");
+        }
+        final String string = postStatic(url, postData, headers, null);
+        return string != null && string.startsWith("{") && string.endsWith("}") ? new JSONObject(string) : null;
+    }
+    private static String postStatic(String targetURL, String postData, LinkedHashMap<String, String> headers, LinkedHashMap<String, String> query) {
+        final long started = System.currentTimeMillis();
+        final boolean isLocal = targetURL.startsWith("http://localhost") || targetURL.startsWith("http://192.168");
+
+        final StringBuilder target = new StringBuilder(targetURL);
+        if(query != null) {
+            target.append("?");
+            final String queryString = parseQuery(query, false);
+            target.append(queryString);
+        }
+        targetURL = target.toString();
+
+        final HttpRequest.Builder requestBuilder = HttpRequest.newBuilder().uri(URI.create(targetURL));
+        final HttpRequest.BodyPublisher publisher = HttpRequest.BodyPublishers.ofString(postData);
+        requestBuilder.POST(publisher);
+        return parseRequest(started, isLocal, targetURL, requestBuilder, headers);
+    }
 
     default String request(String targetURL, LinkedHashMap<String, String> headers, LinkedHashMap<String, String> query) {
         return requestStatic(targetURL, headers, query);
@@ -163,14 +193,17 @@ public interface RestAPI {
         targetURL = target.toString();
 
         final HttpRequest.Builder requestBuilder = HttpRequest.newBuilder().uri(URI.create(targetURL));
-        if(!isLocal) {
-            requestBuilder.timeout(getConnectionTimeout());
-        }
         if(postData != null) {
             final HttpRequest.BodyPublisher publisher = parsePostData(postData, postDataIsJSONObject);
             requestBuilder.POST(publisher);
         } else {
             requestBuilder.GET();
+        }
+        return parseRequest(started, isLocal, targetURL, requestBuilder, headers);
+    }
+    private static String parseRequest(long started, boolean isLocal, String targetURL, HttpRequest.Builder requestBuilder, LinkedHashMap<String, String> headers) {
+        if(!isLocal) {
+            requestBuilder.timeout(getConnectionTimeout());
         }
         if(headers != null) {
             for(Map.Entry<String, String> entry : headers.entrySet()) {
@@ -189,21 +222,20 @@ public interface RestAPI {
         final CompletableFuture<String> bruh = CLIENT.sendAsync(request, HttpResponse.BodyHandlers.ofString())
                 .orTimeout(timeoutSeconds, TimeUnit.SECONDS)
                 .thenApply(HttpResponse::body).exceptionally(throwable -> {
-            final Exception e = throwable instanceof Exception ? (Exception) throwable : null;
-            if(e != null) {
-                if(isLocal && (e instanceof CompletionException || e instanceof ConnectException)) {
+                    if(throwable != null) {
+                        if(isLocal && (throwable instanceof CompletionException || throwable instanceof ConnectException)) {
+                            return null;
+                        }
+                    }
+                    if(!isLocal) {
+                        RESPONSE_TIMES.get(finalURL).put("error occurred");
+                    }
+                    final String value = "failed getting response with url \"" + finalURL + "\"\n\n" +
+                            "HttpRequest=" + request.toString() + "\n\n" +
+                            "stackTrace=\n" + WLUtilities.getThrowableStackTrace(throwable);
+                    WLUtilities.saveLoggedError("RestAPI", value);
                     return null;
-                }
-            }
-            if(!isLocal) {
-                RESPONSE_TIMES.get(finalURL).put("error occurred");
-            }
-            final String value = "failed getting response with url \"" + finalURL + "\"\n\n" +
-                    "HttpRequest=" + request.toString() + "\n\n" +
-                    "stackTrace=\n" + WLUtilities.getThrowableStackTrace(throwable);
-            WLUtilities.saveLoggedError("RestAPI", value);
-            return null;
-        });
+                });
         String string;
         try {
             string = bruh.get(timeoutSeconds, TimeUnit.SECONDS);

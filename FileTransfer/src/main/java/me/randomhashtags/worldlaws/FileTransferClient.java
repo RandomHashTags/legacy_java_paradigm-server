@@ -1,15 +1,17 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.filetransfer.TransferredFile;
 import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
-import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.io.File;
 import java.nio.file.Files;
 import java.nio.file.Path;
+import java.util.Arrays;
 import java.util.HashSet;
 import java.util.LinkedHashMap;
+import java.util.concurrent.atomic.AtomicInteger;
 
 public final class FileTransferClient implements RestAPI {
 
@@ -22,7 +24,6 @@ public final class FileTransferClient implements RestAPI {
         final HashSet<File> filesToSend = new HashSet<>() {{
             addAll(getServers());
         }};
-
         final Folder updateFilesFolder = Folder.UPDATES_FILES;
         for(Path path : updateFilesFolder.getAllFilePaths(null)) {
             final String totalPath = path.toAbsolutePath().toString();
@@ -31,52 +32,47 @@ public final class FileTransferClient implements RestAPI {
                 filesToSend.add(file);
             }
         }
-
         final int amount = filesToSend.size();
         if(amount == 0) {
-            WLLogger.logInfo("FileTransferClient - no files to send");
+            WLLogger.logWarning("FileTransferClient - no files to send");
         } else {
-            WLLogger.logInfo("FileTransferClient - sending " + amount + " file" + (amount > 1 ? "s" : ""));
-            final LinkedHashMap<String, Object> postData = new LinkedHashMap<>();
-            try {
-                postData.put("files", toPostJSONArray(filesToSend));
-            } catch (Exception e) {
-                WLUtilities.saveException(e);
-            }
-
-            final String serverUUID = Settings.Server.getUUID();
-            final LinkedHashMap<String, String> headers = new LinkedHashMap<>();
-            headers.put("Content-Type", "application/json");
-            headers.put("***REMOVED***", serverUUID);
-            headers.put("***REMOVED***", "***REMOVED***" + serverUUID);
-            headers.put("***REMOVED***", "1");
-            final int port = TargetServer.FILE_TRANSFER.getPort();
-            final String ip = true ? Settings.Server.getProxyLocalAddress() : "localhost";
-            final String targetURL = "http://" + ip + ":" + port + "/transfer_files";
-            final JSONObject json = RestAPI.postStaticJSONObject(targetURL, postData, true, headers);
-            final boolean success = json != null && json.optBoolean("completed", false);
-            if(success) {
-                for(File file : filesToSend) {
-                    file.delete();
-                }
-            }
-            WLLogger.logInfo("FileTransferClient - " + (success ? "successfully sent" : "failed sending") + " " + amount + " file" + (amount > 1 ? "s" : "") + " (took " + WLUtilities.getElapsedTime(started) + ")");
+            sendFilesToServer(started, filesToSend);
         }
     }
-    private JSONArray toPostJSONArray(HashSet<File> files) {
-        final JSONArray array = new JSONArray();
+    private void sendFilesToServer(long started, HashSet<File> files) {
+        final int amount = files.size();
+        final String serverUUID = Settings.Server.getUUID();
+        final LinkedHashMap<String, String> headers = new LinkedHashMap<>();
+        headers.put("Content-Type", "application/json");
+        headers.put("***REMOVED***", serverUUID);
+        headers.put("***REMOVED***", "***REMOVED***" + serverUUID);
+        headers.put("***REMOVED***", "1");
+        final int port = TargetServer.FILE_TRANSFER.getPort();
+        final String ip = false ? Settings.Server.getProxyLocalAddress() : "localhost";
+        final String targetURL = "http://" + ip + ":" + port + "/transfer_files";
+        WLLogger.logInfo("FileTransferClient - sending " + amount + " file" + (amount > 1 ? "s" : "") + " (took " + WLUtilities.getElapsedTime(started) + ")");
+
+        final AtomicInteger successfulTransfers = new AtomicInteger();
         new CompletableFutures<File>().stream(files, file -> {
             try {
-                final byte[] fileContentBytes = Files.readAllBytes(file.toPath());
-                final JSONObject json = new JSONObject();
-                json.put("name", file.getName());
-                json.put("contentBytes", fileContentBytes);
-                array.put(json);
+                final TransferredFile transferredFile = new TransferredFile(file);
+                final String fileName = transferredFile.getFileName();
+                final int fileNameLength = fileName.length();
+                final StringBuilder builder = new StringBuilder();
+                builder.append(fileNameLength < 10 ? "0" : "").append(fileNameLength);
+                builder.append(fileName);
+                builder.append(Arrays.toString(transferredFile.getBytes()));
+                final JSONObject json = RestAPI.postStaticJSONObject(targetURL, builder.toString(), headers);
+                if(json != null && json.optBoolean("completed", false)) {
+                    successfulTransfers.addAndGet(1);
+                }
             } catch (Exception e) {
                 WLUtilities.saveException(e);
             }
         });
-        return array;
+        final int successfulTransfersTotal = successfulTransfers.get();
+        final boolean successful = successfulTransfersTotal > 0;
+        WLLogger.logInfo("FileTransferClient - " + (successful ? "successfully sent" : "failed to send") + " " + successfulTransfersTotal + " files to server");
     }
     private HashSet<File> getServers() {
         final HashSet<File> filesToSend = new HashSet<>();

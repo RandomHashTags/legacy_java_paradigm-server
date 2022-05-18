@@ -7,15 +7,18 @@ import com.sun.net.httpserver.HttpPrincipal;
 import me.randomhashtags.worldlaws.APIVersion;
 import me.randomhashtags.worldlaws.RequestMethod;
 import me.randomhashtags.worldlaws.WLUtilities;
+import me.randomhashtags.worldlaws.filetransfer.TransferredFile;
 import me.randomhashtags.worldlaws.locale.Language;
 import me.randomhashtags.worldlaws.locale.LanguageTranslator;
 import me.randomhashtags.worldlaws.settings.Settings;
 import org.json.JSONObject;
 
-import java.io.*;
+import java.io.BufferedInputStream;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.OutputStream;
 import java.net.InetSocketAddress;
 import java.net.URI;
-import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.LinkedHashMap;
@@ -204,6 +207,10 @@ public final class WLHttpExchange extends HttpExchange {
             actualRequestBody = builder.toString();
             try {
                 in.close();
+            } catch (Exception e) {
+                WLUtilities.saveException(e);
+            }
+            try {
                 inputStream.close();
             } catch (Exception e) {
                 WLUtilities.saveException(e);
@@ -215,8 +222,22 @@ public final class WLHttpExchange extends HttpExchange {
         final String string = getActualRequestBody();
         return string.startsWith("{") && string.endsWith("}") ? new JSONObject(string) : null;
     }
-    private String readLine(BufferedInputStream in) throws Exception {
-        final InputStreamReader reader = new InputStreamReader(in, StandardCharsets.US_ASCII);
+    public TransferredFile parseTransferredFile() {
+        final InputStream inputStream = getRequestBody();
+        TransferredFile file = null;
+        try {
+            file = new TransferredFile(inputStream);
+        } catch (Exception e) {
+            WLUtilities.saveException(e);
+        }
+        try {
+            inputStream.close();
+        } catch (Exception e) {
+            WLUtilities.saveException(e);
+        }
+        return file;
+    }
+    private String readLine(BufferedInputStream reader) throws Exception {
         final StringBuilder builder = new StringBuilder();
         int c;
         while ((c = reader.read()) >= 0) {

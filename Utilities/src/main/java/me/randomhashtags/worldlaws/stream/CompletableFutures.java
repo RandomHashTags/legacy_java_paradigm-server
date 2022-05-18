@@ -2,35 +2,37 @@ package me.randomhashtags.worldlaws.stream;
 
 import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.settings.Settings;
+import org.json.JSONArray;
 
+import java.util.ArrayList;
 import java.util.Collection;
-import java.util.Spliterator;
+import java.util.List;
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.function.Consumer;
 import java.util.stream.Stream;
-import java.util.stream.StreamSupport;
 
 public final class CompletableFutures<T> {
     private static final int MAXIMUM_PARALLEL_THREADS = Settings.Performance.getMaximumParallelThreads();
 
+    public void stream(JSONArray array, Consumer<? super T> action) {
+        final List<Object> list = new ArrayList<>();
+        for(Object obj : array) {
+            list.add(obj);
+        }
+        stream(list, action);
+    }
     public void stream(Collection<? super T> items, Consumer<? super T> action) {
         final Stream<? super T> a = items.stream();
-        stream(a, action);
+        stream(items.size(), a, action);
     }
 
-    public void stream(Iterable<? super T> items, Consumer<? super T> action) {
-        final Spliterator<? super T> a = items.spliterator();
-        stream(a, action);
-    }
-    public void stream(Spliterator<? super T> items, Consumer<? super T> action) {
-        final Stream<? super T> a = StreamSupport.stream(items, false);
-        stream(a, action);
-    }
-
-    private void stream(Stream<? super T> items, Consumer<? super T> action) {
-        final int threadCount = Math.min((int) items.count(), MAXIMUM_PARALLEL_THREADS);
+    private void stream(int itemsSize, Stream<? super T> items, Consumer<? super T> action) {
+        if(itemsSize <= 0) {
+            itemsSize = 32;
+        }
+        final int threadCount = Math.min(itemsSize, MAXIMUM_PARALLEL_THREADS);
         stream(items, action, threadCount);
     }
 
@@ -44,7 +46,11 @@ public final class CompletableFutures<T> {
             } catch (Exception e) {
                 WLUtilities.saveException(e);
             }
-        }, executor))
+        }, executor)
+                        .exceptionally(throwable -> {
+                            WLUtilities.saveException(throwable);
+                            return null;
+                        }))
                 .toArray(CompletableFuture[]::new);
         CompletableFuture.allOf(futures).join();
         executor.shutdown();

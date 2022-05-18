@@ -75,25 +75,35 @@ public enum ServerStatuses {
     }
     private static boolean updateServersIfAvailable() {
         final long started = System.currentTimeMillis();
-        final Folder sourceFolder = Folder.UPDATES, updatedFilesFolder = Folder.UPDATES_FILES;
-        final HashSet<Path> files = updatedFilesFolder.getAllFilePaths(null);
+        final HashSet<Path> files = Folder.UPDATES_FILES.getAllFilePaths(null);
         final boolean updatesAreAvailable = !files.isEmpty();
         if(updatesAreAvailable) {
             Proxy.startMaintenanceMode("Servers are updating, and should be back up in a few minutes :)");
             shutdownServers();
 
-            final JSONObject updateJSON = Jsonable.getStaticLocalFileJSONObject(Folder.UPDATES, "update");
-            final JSONArray updateNotes = updateJSON.getJSONArray("update notes");
-
-            final JSONObject actions = updateJSON.getJSONObject("actions");
-
-            final JSONObject replace = actions.getJSONObject("replace");
-            final HashMap<String, String> fileFolders = getFileFolders(replace);
-            replaceFiles(files, fileFolders, sourceFolder, updatedFilesFolder);
+            applyUpdate(files);
 
             WLLogger.logInfo("Proxy - updated servers (took " + WLUtilities.getElapsedTime(started) + ")");
         }
         return updatesAreAvailable;
+    }
+    public static void applyUpdate() {
+        final HashSet<Path> files = Folder.UPDATES_FILES.getAllFilePaths(null);
+        final boolean updatesAreAvailable = !files.isEmpty();
+        if(updatesAreAvailable) {
+            applyUpdate(files);
+        }
+    }
+    private static void applyUpdate(HashSet<Path> files) {
+        final Folder sourceFolder = Folder.UPDATES, updatedFilesFolder = Folder.UPDATES_FILES;
+        final JSONObject updateJSON = Jsonable.getStaticLocalFileJSONObject(sourceFolder, "update");
+        final JSONArray updateNotes = updateJSON.getJSONArray("update notes");
+
+        final JSONObject actions = updateJSON.getJSONObject("actions");
+
+        final JSONObject replace = actions.getJSONObject("replace");
+        final HashMap<String, String> fileFolders = getFileFolders(replace);
+        replaceFiles(files, fileFolders, sourceFolder, updatedFilesFolder);
     }
     private static HashMap<String, String> getFileFolders(JSONObject json) {
         final HashMap<String, String> fileFolders = new HashMap<>();
@@ -133,6 +143,8 @@ public enum ServerStatuses {
                 }
                 sourceFolder.removeCustomFolderName(fileName);
                 updatedFilesFolder.removeCustomFolderName(fileName);
+            } else {
+                WLLogger.logWarning("Proxy - failed updating file \"" + fullFileName + "\" for path \"" + path.toAbsolutePath().toString() + "\". Not found in fileFolders!");
             }
         }
         WLLogger.logInfo("Proxy - updated " + updated + " file" + (updated > 1 ? "s" : "") + " (took " + WLUtilities.getElapsedTime(started) + ")");

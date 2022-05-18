@@ -17,7 +17,6 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.TimeUnit;
 
 public final class Proxy implements UserServer {
-
     private static final Proxy INSTANCE = new Proxy();
     private static final HashMap<APIVersion, JSONObject> HOME_JSON = new HashMap<>();
     private static final HashMap<APIVersion, HashMap<Collection<String>, String>> HOME_JSON_QUERIES = new HashMap<>();
@@ -155,6 +154,7 @@ public final class Proxy implements UserServer {
         map.put("spinup", ServerStatuses::spinUpServers);
         map.put("rebootservers", ServerStatuses::rebootServers);
         map.put("update", ServerStatuses::tryUpdatingServersIfAvailable);
+        map.put("applyupdate", ServerStatuses::applyUpdate);
         map.put("generatecertificates", CertbotHandler::generateCertificates);
         map.put("importcertificates", CertbotHandler::importCertificates);
         map.put("renewcertificates", CertbotHandler::renewCertificates);

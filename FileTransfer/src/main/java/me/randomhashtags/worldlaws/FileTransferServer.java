@@ -1,11 +1,9 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.filetransfer.TransferredFile;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.request.ServerRequestType;
 import me.randomhashtags.worldlaws.request.WLHttpHandler;
-import me.randomhashtags.worldlaws.stream.CompletableFutures;
-import org.json.JSONArray;
-import org.json.JSONObject;
 
 import java.io.File;
 import java.nio.file.Files;
@@ -25,40 +23,30 @@ public final class FileTransferServer implements WLServer {
     public WLHttpHandler getDefaultHandler() {
         return httpExchange -> {
             final long started = System.currentTimeMillis();
-            final JSONObject requestBody = httpExchange.getRequestBodyJSON();
-            boolean completedSuccessfully = false;
-            int amountOfFiles = 0;
-            if(requestBody != null && requestBody.has("files")) {
-                final JSONArray array = requestBody.getJSONArray("files");
-                amountOfFiles = array.length();
+            final TransferredFile transferredFile = httpExchange.parseTransferredFile();
+            boolean success = false;
+            if(transferredFile != null) {
+                final String fileName = transferredFile.getFileName();
+                final byte[] contentBytes = transferredFile.getBytes();
                 final Folder updateFilesFolder = Folder.UPDATES_FILES;
-                for(Path path : updateFilesFolder.getAllFilePaths(null)) {
-                    try {
-                        Files.delete(path);
-                    } catch (Exception e) {
-                        WLUtilities.saveException(e);
-                    }
-                }
                 final String folder = updateFilesFolder.getFullFolderPath(null) + File.separator;
-                new CompletableFutures<JSONObject>().stream(array, fileJSON -> {
-                    final String fileName = fileJSON.getString("name");
-                    try {
-                        final JSONArray contentBytesArray = fileJSON.getJSONArray("contentBytes");
-                        final int length = contentBytesArray.length();
-                        final byte[] contentBytes = new byte[length];
-                        for(int i = 0; i < length; i++) {
-                            contentBytes[i] = (byte) contentBytesArray.getInt(i);
-                        }
-                        Files.write(Path.of(folder + fileName), contentBytes);
-                    } catch (Exception e) {
-                        WLUtilities.saveException(e);
+                try {
+                    final Path path = Path.of(folder + fileName);
+                    final boolean hadToDelete = Files.exists(path);
+                    if(hadToDelete) {
+                        Files.delete(path);
                     }
-                });
-                completedSuccessfully = true;
+                    Files.write(path, contentBytes);
+                    success = true;
+                    WLLogger.logInfo("FileTransferServer - successfully " + (hadToDelete ? "replaced" : "downloaded") + " file \"" + fileName + "\" (took " + WLUtilities.getElapsedTime(started) + ")");
+                } catch (Exception e) {
+                    WLUtilities.saveException(e);
+                }
+            } else {
+                WLLogger.logWarning("FileTransferServer - failed to receive file");
             }
-            WLLogger.logInfo("FileTransferServer - " + (completedSuccessfully ? "successfully received" : "failed to receive") + " " + amountOfFiles + " file" + (amountOfFiles > 1 ? "s" : "") + " (took " + WLUtilities.getElapsedTime(started) + ")");
             final JSONObjectTranslatable json = new JSONObjectTranslatable();
-            json.put("completed", completedSuccessfully);
+            json.put("completed", success);
             return json;
         };
     }
