@@ -84,7 +84,7 @@ public final class Movies extends UpcomingEventController implements IMDbService
                         final String wikipageURL = href != null ? "https://en.wikipedia.org" + href.attr("href") : null;
                         if(wikipageURL != null) {
                             final String title = titleElement.text();
-                            final String dateString = getEventDateString(year, month, day), identifier = getEventDateIdentifier(dateString, title);
+                            final String dateString = EventDate.getDateString(year, day, month), identifier = getEventDateIdentifier(dateString, title);
 
                             final JSONArray productionCompanies = new JSONArray(Arrays.asList(rows.get(1).text().split(" / ")));
                             final JSONObjectTranslatable customValues = new JSONObjectTranslatable();

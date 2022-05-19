@@ -70,10 +70,14 @@ public interface RestAPI {
         return requestJSONArray(url, headers, null);
     }
     default JSONArray requestJSONArray(String url, LinkedHashMap<String, String> headers, LinkedHashMap<String, String> query) {
+        final long started = System.currentTimeMillis();
         final String string = requestStatic(url, headers, query);
+        WLLogger.logInfo("RestAPI;requestJSONArray;took " + WLUtilities.getElapsedTime(started));
         if(string != null) {
+            JSONArray array = null;
+            final long test = System.currentTimeMillis();
             try {
-                return new JSONArray(string);
+                array = new JSONArray(string);
             } catch (Exception e) {
                 final String stackTrace = WLUtilities.getThrowableStackTrace(e);
                 final String value = "failed to parse JSONObject from url \"" + url + "\" with string\n" +
@@ -83,6 +87,8 @@ public interface RestAPI {
                         "stackTrace=\n" + stackTrace;
                 WLUtilities.saveLoggedError("JSONException", value);
             }
+            WLLogger.logInfo("RestAPI;requestJSONArray;parsing array took " + WLUtilities.getElapsedTime(test));
+            return array;
         }
         return null;
     }

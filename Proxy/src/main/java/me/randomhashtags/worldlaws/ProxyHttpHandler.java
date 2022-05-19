@@ -45,18 +45,29 @@ public interface ProxyHttpHandler extends WLHttpHandler {
         }
         if(targetPath.isEmpty()) {
             targetPath = "index";
-        }
-        final String target = Jsonable.CURRENT_FOLDER + "_html" + File.separator + targetPath.replace("/", File.separator) + ".html";
-        final Path path = Paths.get(target);
-        final String string;
-        if(Files.exists(path)) {
-            try {
-                string = Files.readString(path);
-            } catch (Exception ignored) {
-                return getHTMLErrorMsg(HttpURLConnection.HTTP_INTERNAL_ERROR);
-            }
         } else {
-            return getHTMLErrorMsg(HttpURLConnection.HTTP_NOT_FOUND);
+            switch (targetPath) {
+                case "index":
+                    targetPath = null;
+                    break;
+                default:
+                    break;
+            }
+        }
+        String string = null;
+        if(targetPath != null) {
+            final String target = Jsonable.CURRENT_FOLDER + "_html" + File.separator + targetPath.replace("/", File.separator) + ".html";
+            final Path path = Paths.get(target);
+            if(Files.exists(path)) {
+                try {
+                    string = Files.readString(path);
+                } catch (Exception ignored) {
+                    string = getHTMLErrorMsg(HttpURLConnection.HTTP_INTERNAL_ERROR);
+                }
+            }
+        }
+        if(string == null) {
+            string = getHTMLErrorMsg(HttpURLConnection.HTTP_NOT_FOUND);
         }
         return string;
     }

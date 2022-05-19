@@ -11,7 +11,6 @@ import java.nio.file.Path;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.LinkedHashMap;
-import java.util.concurrent.atomic.AtomicInteger;
 
 public final class FileTransferClient implements RestAPI {
 
@@ -48,11 +47,11 @@ public final class FileTransferClient implements RestAPI {
         headers.put("***REMOVED***", "***REMOVED***" + serverUUID);
         headers.put("***REMOVED***", "1");
         final int port = TargetServer.FILE_TRANSFER.getPort();
-        final String ip = false ? Settings.Server.getProxyLocalAddress() : "localhost";
+        final String ip = true ? Settings.Server.getProxyLocalAddress() : "localhost";
         final String targetURL = "http://" + ip + ":" + port + "/transfer_files";
         WLLogger.logInfo("FileTransferClient - sending " + amount + " file" + (amount > 1 ? "s" : "") + " (took " + WLUtilities.getElapsedTime(started) + ")");
 
-        final AtomicInteger successfulTransfers = new AtomicInteger();
+        final HashSet<File> successfulTransfers = new HashSet<>();
         new CompletableFutures<File>().stream(files, file -> {
             try {
                 final TransferredFile transferredFile = new TransferredFile(file);
@@ -64,15 +63,22 @@ public final class FileTransferClient implements RestAPI {
                 builder.append(Arrays.toString(transferredFile.getBytes()));
                 final JSONObject json = RestAPI.postStaticJSONObject(targetURL, builder.toString(), headers);
                 if(json != null && json.optBoolean("completed", false)) {
-                    successfulTransfers.addAndGet(1);
+                    successfulTransfers.add(file);
                 }
             } catch (Exception e) {
                 WLUtilities.saveException(e);
             }
         });
-        final int successfulTransfersTotal = successfulTransfers.get();
+        for(File file : successfulTransfers) {
+            try {
+                final boolean success = file.delete();
+            } catch (Exception e) {
+                WLUtilities.saveException(e);
+            }
+        }
+        final int successfulTransfersTotal = successfulTransfers.size();
         final boolean successful = successfulTransfersTotal > 0;
-        WLLogger.logInfo("FileTransferClient - " + (successful ? "successfully sent" : "failed to send") + " " + successfulTransfersTotal + " files to server");
+        WLLogger.logInfo("FileTransferClient - " + (successful ? "successfully sent" : "failed to send") + " " + successfulTransfersTotal + " file" + (successfulTransfersTotal > 1 ? "s" : "") + " to server");
     }
     private HashSet<File> getServers() {
         final HashSet<File> filesToSend = new HashSet<>();

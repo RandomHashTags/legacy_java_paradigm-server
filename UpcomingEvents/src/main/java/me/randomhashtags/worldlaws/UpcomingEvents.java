@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
+import me.randomhashtags.worldlaws.recent.ScienceYearReview;
 import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.ServerRequestType;
 import me.randomhashtags.worldlaws.request.WLHttpHandler;
@@ -25,8 +26,9 @@ public final class UpcomingEvents implements WLServer, YouTubeService {
 
     private void test() {
         final long started = System.currentTimeMillis();
-        final JSONObjectTranslatable test = ServerRequestTypeUpcomingEvents.WEEKLY_EVENTS.getTypeJSON();
-        WLLogger.logInfo("UpcomingEvents;test=" + (test != null ? test.toString() : "null") + ";took " + WLUtilities.getElapsedTime(started));
+        final ScienceYearReview science = new ScienceYearReview();
+        science.refresh();
+        WLLogger.logInfo("UpcomingEvents;test;took " + WLUtilities.getElapsedTime(started));
     }
 
     @Override

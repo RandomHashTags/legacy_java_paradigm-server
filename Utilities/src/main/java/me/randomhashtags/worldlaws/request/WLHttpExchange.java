@@ -13,12 +13,10 @@ import me.randomhashtags.worldlaws.locale.LanguageTranslator;
 import me.randomhashtags.worldlaws.settings.Settings;
 import org.json.JSONObject;
 
-import java.io.BufferedInputStream;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.OutputStream;
+import java.io.*;
 import java.net.InetSocketAddress;
 import java.net.URI;
+import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.LinkedHashMap;
@@ -237,7 +235,8 @@ public final class WLHttpExchange extends HttpExchange {
         }
         return file;
     }
-    private String readLine(BufferedInputStream reader) throws Exception {
+    private String readLine(BufferedInputStream in) throws Exception {
+        final InputStreamReader reader = new InputStreamReader(in, StandardCharsets.US_ASCII);
         final StringBuilder builder = new StringBuilder();
         int c;
         while ((c = reader.read()) >= 0) {

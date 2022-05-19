@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws.upcoming.sports;
 
+import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.PreUpcomingEvent;
@@ -42,7 +43,7 @@ public final class MLB extends USAUpcomingEventController {
                     final String[] values = previousElementString.split(" ");
                     final Month targetMonth = Month.valueOf(values[1].toUpperCase());
                     final int targetDay = Integer.parseInt(values[2]);
-                    final String dateString = getEventDateString(year, targetMonth, targetDay);
+                    final String dateString = EventDate.getDateString(year, targetDay, targetMonth);
                     final Elements matches = dateElement.select("div.ScheduleGamestyle__DesktopScheduleGameWrapper-sc-b76vp3-0");
                     for(Element matchElement : matches) {
                         final Element teamElement = matchElement.selectFirst("div.TeamMatchupLayerstyle__TeamMatchupLayerWrapper-sc-ouprud-0");

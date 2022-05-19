@@ -164,7 +164,7 @@ public enum ServerRequestTypeUpcomingEvents implements ServerRequestType {
     private HashSet<String> getWeeklyEventDateStrings(LocalDate now) {
         final HashSet<String> dates = new HashSet<>();
         for(int i = -1; i < 7; i++) {
-            dates.add(getEventStringForDate(now.plusDays(i)));
+            dates.add(EventDate.getDateString(now.plusDays(i)));
         }
         return dates;
     }
@@ -193,17 +193,14 @@ public enum ServerRequestTypeUpcomingEvents implements ServerRequestType {
         WLLogger.logInfo("UpcomingEvents - " + (registerAutoUpdates ? "" : "auto-") + "refreshed events from this week (took " + WLUtilities.getElapsedTime(started) + ")");
         return json;
     }
-    private String getEventStringForDate(LocalDate date) {
-        return date.getMonthValue() + "-" + date.getYear() + "-" + date.getDayOfMonth();
-    }
     private JSONObjectTranslatable getEventsFromDates(HashSet<String> dateStrings) {
         final JSONObjectTranslatable json = new JSONObjectTranslatable();
         new CompletableFutures<UpcomingEventController>().stream(CONTROLLERS, controller -> {
             final String typeIdentifier = controller.getType().name().toLowerCase();
-            final JSONObjectTranslatable controllerJSON = new JSONObjectTranslatable();
-            final JSONObjectTranslatable datesJSON = new JSONObjectTranslatable();
+            final JSONObjectTranslatable controllerJSON = new JSONObjectTranslatable("dates", "exactTimes");
             final ConcurrentHashMap<String, Collection<LoadedPreUpcomingEvent>> eventsFromDates = controller.getEventsFromDates(dateStrings);
             if(eventsFromDates != null) {
+                final JSONObjectTranslatable datesJSON = new JSONObjectTranslatable();
                 for(Map.Entry<String, Collection<LoadedPreUpcomingEvent>> map : eventsFromDates.entrySet()) {
                     final JSONObjectTranslatable dateStringJSON = new JSONObjectTranslatable();
                     final String dateString = map.getKey();
@@ -219,9 +216,9 @@ public enum ServerRequestTypeUpcomingEvents implements ServerRequestType {
                 controllerJSON.put("dates", datesJSON);
             }
 
-            final JSONObjectTranslatable exactTimesJSON = new JSONObjectTranslatable();
             final Collection<LoadedPreUpcomingEvent> exactTimeEvents = controller.getExactTimeEvents();
             if(exactTimeEvents != null) {
+                final JSONObjectTranslatable exactTimesJSON = new JSONObjectTranslatable();
                 for(LoadedPreUpcomingEvent event : exactTimeEvents) {
                     exactTimesJSON.put(event.getIdentifier(), event.getJSONObject());
                 }

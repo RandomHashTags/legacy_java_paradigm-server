@@ -7,7 +7,7 @@ import me.randomhashtags.worldlaws.upcoming.UpcomingEventValue;
 import org.json.JSONObject;
 
 public final class RocketLaunchEvent extends UpcomingEvent {
-    private final String status, windowStart, windowEnd;
+    private final String status, windowStart, windowEnd, videoURL;
     private final boolean exactDay, exactTime;
     private final int probability;
     private final RocketLaunchMission mission;
@@ -21,6 +21,7 @@ public final class RocketLaunchEvent extends UpcomingEvent {
         exactDay = properties.getBoolean(UpcomingEventValue.ROCKET_LAUNCH_EXACT_DAY.getKey());
         exactTime = properties.getBoolean(UpcomingEventValue.ROCKET_LAUNCH_EXACT_TIME.getKey());
         status = properties.getString(UpcomingEventValue.ROCKET_LAUNCH_STATUS.getKey());
+        videoURL = properties.optString(UpcomingEventValue.ROCKET_LAUNCH_VIDEO_URL.getKey(), null);
         final String missionName = properties.optString(UpcomingEventValue.ROCKET_LAUNCH_MISSION_NAME.getKey(), null);
         final String missionDescription = properties.optString(UpcomingEventValue.ROCKET_LAUNCH_MISSION_DESCRIPTION.getKey(), null);
         final String missionType = properties.optString(UpcomingEventValue.ROCKET_LAUNCH_MISSION_TYPE.getKey(), null);
@@ -30,7 +31,7 @@ public final class RocketLaunchEvent extends UpcomingEvent {
             mission = null;
         }
     }
-    public RocketLaunchEvent(long exactTimeMilliseconds, String name, String status, String location, boolean exactDay, boolean exactTime, int probability, String rocketImageURL, RocketLaunchMission mission, String windowStart, String windowEnd, EventSources sources) {
+    public RocketLaunchEvent(long exactTimeMilliseconds, String name, String status, String location, boolean exactDay, boolean exactTime, int probability, String rocketImageURL, RocketLaunchMission mission, String windowStart, String windowEnd, String videoURL, EventSources sources) {
         super(exactTimeMilliseconds, name, null, rocketImageURL, location, null, sources);
         this.status = status;
         this.exactDay = exactDay;
@@ -39,6 +40,7 @@ public final class RocketLaunchEvent extends UpcomingEvent {
         this.mission = mission;
         this.windowStart = windowStart;
         this.windowEnd = windowEnd;
+        this.videoURL = videoURL;
         insertProperties();
     }
 
@@ -62,6 +64,9 @@ public final class RocketLaunchEvent extends UpcomingEvent {
         json.put(UpcomingEventValue.ROCKET_LAUNCH_EXACT_DAY.getKey(), exactDay);
         json.put(UpcomingEventValue.ROCKET_LAUNCH_EXACT_TIME.getKey(), exactTime);
         json.put(UpcomingEventValue.ROCKET_LAUNCH_STATUS.getKey(), status);
+        if(videoURL != null) {
+            json.put(UpcomingEventValue.ROCKET_LAUNCH_VIDEO_URL.getKey(), videoURL);
+        }
         return json;
     }
 }

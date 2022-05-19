@@ -161,6 +161,11 @@ public enum UpcomingEventValue {
         putKey("probability");
         putValueType(UpcomingEventValueType.PLACEHOLDER);
     }}),
+    ROCKET_LAUNCH_VIDEO_URL(new UpcomingEventValueMap() {{
+        putCategory(UpcomingEventValueCategory.ROCKET_DETAILS);
+        putKey("videoURL");
+        putValueType(UpcomingEventValueType.VIDEO_URL);
+    }}),
 
     SCIENCE_YEAR_REVIEW_YEARS(new UpcomingEventValueMap() {{
         putCategory(UpcomingEventValueCategory.SCIENCE_YEAR_REVIEW_DETAILS);
@@ -281,6 +286,11 @@ public enum UpcomingEventValue {
         putKey("genres");
     }}),
 
+    WORD_OF_THE_DAY_EXAMPLES(new UpcomingEventValueMap() {{
+        putCategory(UpcomingEventValueCategory.WORD_OF_THE_DAY_DETAILS);
+        putKey("examples");
+        putValueType(UpcomingEventValueType.ARRAY_STRING);
+    }}),
     WORD_OF_THE_DAY_PRONUNCIATION_URL(new UpcomingEventValueMap() {{
         putCategory(UpcomingEventValueCategory.WORD_OF_THE_DAY_DETAILS);
         putKey("pronunciationURL");

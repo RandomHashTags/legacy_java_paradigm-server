@@ -119,7 +119,7 @@ public final class VideoGames extends UpcomingEventController {
                             final Elements hrefs = titleElement.select("a[href]");
                             if(!hrefs.isEmpty()) {
                                 final String wikipediaURL = "https://en.wikipedia.org" + hrefs.get(0).attr("href");
-                                final String dateString = getEventDateString(year, month, day);
+                                final String dateString = EventDate.getDateString(year, day, month);
                                 final String id = getEventDateIdentifier(dateString, title);
                                 final StringBuilder builder = new StringBuilder();
                                 boolean isFirst = true;

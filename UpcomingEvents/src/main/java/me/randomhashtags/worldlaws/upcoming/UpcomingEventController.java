@@ -84,12 +84,6 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
                 : null;
         return key + "." + id;
     }
-    public String getEventDateString(EventDate date) {
-        return getEventDateString(date.getYear(), date.getMonth(), date.getDay());
-    }
-    public String getEventDateString(int year, Month month, int day) {
-        return month.getValue() + "-" + year + "-" + day;
-    }
     public ConcurrentHashMap<String, Collection<LoadedPreUpcomingEvent>> getEventsFromDates(HashSet<String> dates) {
         final HashSet<String> set = new HashSet<>((!preUpcomingEvents.isEmpty() ? preUpcomingEvents : upcomingEvents).keySet());
         set.removeIf(id -> {

@@ -29,14 +29,13 @@ public class WikipediaEvent extends JSONObject {
 
     public JSONArray getImages(int amountToLoad) {
         if(images == null) {
-            final JSONObject externalLinksJSON = optJSONObject("externalLinks", null);
-            if(externalLinksJSON != null) {
+            final JSONObject hyperlinksJSON = optJSONObject("hyperlinks", null);
+            if(hyperlinksJSON != null) {
                 images = new JSONArray();
-                final EventSources externalLinks = new EventSources(externalLinksJSON);
                 int amountLoaded = 0;
                 final String wikipediaKey = "https://en.wikipedia.org/wiki/";
-                for(EventSource source : externalLinks) {
-                    final String url = source.getHomepageURL();
+                for(String text : hyperlinksJSON.keySet()) {
+                    final String url = hyperlinksJSON.getString(text);
                     if(url.startsWith(wikipediaKey)) {
                         final WikipediaDocument doc = new WikipediaDocument(url);
                         final List<String> docImages = doc.getImages();
@@ -216,8 +215,9 @@ public class WikipediaEvent extends JSONObject {
         links.removeIf(test -> test.attr("href").startsWith("#cite_note-"));
         final String wikipediaDomain = "https://en.wikipedia.org";
         for(Element href : links) {
-            final String text = href.attr("href");
-            final String homepageURL = text.startsWith("http") ? text : wikipediaDomain + text;
+            final String ahref = href.attr("href");
+            final String text = href.text();
+            final String homepageURL = ahref.startsWith("http") ? ahref : wikipediaDomain + ahref;
             hyperlinks.put(text, homepageURL);
         }
         return hyperlinks.isEmpty() ? null : hyperlinks;

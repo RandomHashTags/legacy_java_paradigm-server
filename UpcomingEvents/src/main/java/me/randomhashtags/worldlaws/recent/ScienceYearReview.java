@@ -51,17 +51,21 @@ public final class ScienceYearReview extends LoadedUpcomingEventController {
             final String[] dateValues = dateString.split("-");
             final JSONObjectTranslatable json = new JSONObjectTranslatable();
             String imageURL = null;
+            int imageURLYear = 0;
             List<String> mentionedCountries = new ArrayList<>();
             for(String pastDateString : pastJSON.keySet()) {
                 if(pastDateString.startsWith(dateValues[0] + "-") && pastDateString.endsWith("-" + dateValues[2])) {
                     final String[] pastDateValues = pastDateString.split("-");
+                    final String yearString = pastDateValues[1];
+                    final int year = Integer.parseInt(yearString);
                     final JSONArray array = pastJSON.getJSONArray(pastDateString);
                     for(Object obj : array) {
                         final JSONObject eventJSON = (JSONObject) obj;
-                        if(imageURL == null) {
+                        if(imageURL == null || year > imageURLYear) {
                             final JSONArray imagesArray = eventJSON.optJSONArray("images");
                             if(imagesArray != null) {
                                 imageURL = imagesArray.getString(0);
+                                imageURLYear = year;
                             }
                         }
                         final JSONObject mentionedSovereignStatesJSON = eventJSON.optJSONObject("mentionedSovereignStates", null);
@@ -71,9 +75,8 @@ public final class ScienceYearReview extends LoadedUpcomingEventController {
                             mentionedCountries.addAll(keys);
                         }
                     }
-                    final String year = "" + Integer.parseInt(pastDateValues[1]);
-                    json.put(year, array);
-                    json.addTranslatedKey(year);
+                    json.put(yearString, array);
+                    json.addTranslatedKey(yearString);
                     amount += array.length();
                 }
             }
@@ -134,7 +137,7 @@ public final class ScienceYearReview extends LoadedUpcomingEventController {
         final List<String> loadImageDateStrings = new ArrayList<>();
         if(loadImageDates != null) {
             for(LocalDate date : loadImageDates) {
-                final String dateString = getEventDateString(year, date.getMonth(), date.getDayOfMonth());
+                final String dateString = EventDate.getDateString(year, date.getDayOfMonth(), date.getMonth());
                 loadImageDateStrings.add(dateString);
             }
         }
@@ -149,9 +152,9 @@ public final class ScienceYearReview extends LoadedUpcomingEventController {
                 }
                 final List<WikipediaEvent> events = entry.getValue();
                 if(loadImageDateStrings.contains(dateString)) {
-                    for(WikipediaEvent event : events) {
+                    new CompletableFutures<WikipediaEvent>().stream(events, event -> {
                         event.getImages(1);
-                    }
+                    });
                 }
                 for(WikipediaEvent event : events) {
                     json.getJSONArray(dateString).put(event);

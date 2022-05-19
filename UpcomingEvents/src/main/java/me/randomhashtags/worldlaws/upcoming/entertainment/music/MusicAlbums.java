@@ -119,7 +119,7 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
                         final String artist = artistElement.text(), album = albumElement.text();
 
                         if(albumURL != null) {
-                            final String dateString = getEventDateString(year, month, day);
+                            final String dateString = EventDate.getDateString(year, day, month);
                             final String id = getEventDateIdentifier(dateString, album);
                             final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, album, albumURL, artist);
                             putPreUpcomingEvent(id, preUpcomingEvent);

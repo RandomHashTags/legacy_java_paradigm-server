@@ -43,7 +43,7 @@ public final class UFC extends USAUpcomingEventController {
                                 if(!hrefs.isEmpty()) {
                                     final String event = eventElement.text(), location = rows.get(rows.size()-2).text();
                                     final String wikipageURL = wikipagePrefix + hrefs.get(0).attr("href");
-                                    final String dateString = getEventDateString(year, month, day), id = getEventDateIdentifier(dateString, event);
+                                    final String dateString = EventDate.getDateString(year, day, month), id = getEventDateIdentifier(dateString, event);
                                     final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, event, wikipageURL, location);
                                     putPreUpcomingEvent(id, preUpcomingEvent);
                                 }

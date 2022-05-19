@@ -5,11 +5,13 @@ import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventValue;
+import org.json.JSONArray;
 import org.json.JSONObject;
 
 public final class WordOfTheDayEvent extends UpcomingEvent {
 
     private final String pronunciationURL, type, syllables;
+    private final JSONArray examples;
 
     public WordOfTheDayEvent(JSONObject json) {
         super(json);
@@ -17,12 +19,14 @@ public final class WordOfTheDayEvent extends UpcomingEvent {
         pronunciationURL = properties.optString(UpcomingEventValue.WORD_OF_THE_DAY_PRONUNCIATION_URL.getKey(), null);
         type = properties.getString(UpcomingEventValue.WORD_OF_THE_DAY_TYPE.getKey());
         syllables = properties.getString(UpcomingEventValue.WORD_OF_THE_DAY_SYLLABLES.getKey());
+        examples = properties.optJSONArray(UpcomingEventValue.WORD_OF_THE_DAY_EXAMPLES.getKey());
     }
-    public WordOfTheDayEvent(EventDate date, String title, String description, String imageURL, String pronunciationURL, String type, String syllables, EventSources sources) {
+    public WordOfTheDayEvent(EventDate date, String title, String description, String imageURL, String pronunciationURL, String type, String syllables, JSONArray examples, EventSources sources) {
         super(date, title, description, imageURL, null, null, sources);
         this.pronunciationURL = pronunciationURL;
         this.type = type;
         this.syllables = syllables;
+        this.examples = examples;
         insertProperties();
     }
 
@@ -39,6 +43,9 @@ public final class WordOfTheDayEvent extends UpcomingEvent {
         }
         json.put(UpcomingEventValue.WORD_OF_THE_DAY_TYPE.getKey(), type);
         json.put(UpcomingEventValue.WORD_OF_THE_DAY_SYLLABLES.getKey(), syllables);
+        if(examples != null && !examples.isEmpty()) {
+            json.put(UpcomingEventValue.WORD_OF_THE_DAY_EXAMPLES.getKey(), examples);
+        }
         return json;
     }
 }
