@@ -5,14 +5,11 @@ import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
 import me.randomhashtags.worldlaws.upcoming.events.WordOfTheDayEvent;
-import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.time.LocalDate;
-import java.util.ArrayList;
-import java.util.List;
 
 public final class WordOfTheDay extends LoadedUpcomingEventController {
 
@@ -69,35 +66,34 @@ public final class WordOfTheDay extends LoadedUpcomingEventController {
             final Elements definitionElements = mainArticle.select("div.lr-cols-area div.left-content div.wod-article-container div.wod-definition-container").get(0).children();
             definitionElements.removeIf(node -> !node.nodeName().equals("p"));
 
-            final List<String> examples = new ArrayList<>();
-            final StringBuilder builder = new StringBuilder();
-            boolean isFirst = true;
+            final StringBuilder descriptionBuilder = new StringBuilder(), examplesBuilder = new StringBuilder();
+            boolean isFirstDescription = true, isFirstExample = true;
             for(Element paragraph : definitionElements) {
                 final String text = paragraph.text();
                 if(text.startsWith("// ")) {
-                    examples.add(text.substring(3));
+                    examplesBuilder.append(isFirstExample ? "" : "\n\n").append(text.substring(3));
+                    isFirstExample = false;
                 } else if(text.equals("See the entry >")) {
                 } else {
-                    builder.append(isFirst ? "" : "\n").append(text);
-                    isFirst = false;
+                    descriptionBuilder.append(isFirstDescription ? "" : "\n").append(text);
+                    isFirstDescription = false;
                 }
             }
-            obj = new WordOfTheDayObj(word, builder.toString(), null, type, syllables, examples);
+            obj = new WordOfTheDayObj(word, descriptionBuilder.toString(), null, type, syllables, examplesBuilder.toString());
         }
         return obj;
     }
 
     private final class WordOfTheDayObj {
-        private final String word, description, pronunciationURL, type, syllables;
-        private final JSONArray examples;
+        private final String word, description, pronunciationURL, type, syllables, examples;
 
-        public WordOfTheDayObj(String word, String description, String pronunciationURL, String type, String syllables, List<String> examples) {
+        public WordOfTheDayObj(String word, String description, String pronunciationURL, String type, String syllables, String examples) {
             this.word = LocalServer.toCorrectCapitalization(word);
             this.description = description;
             this.pronunciationURL = pronunciationURL;
             this.type = type;
             this.syllables = syllables;
-            this.examples = new JSONArray(examples);
+            this.examples = examples;
         }
     }
 }

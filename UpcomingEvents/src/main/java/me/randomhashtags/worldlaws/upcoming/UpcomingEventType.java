@@ -472,6 +472,7 @@ public enum UpcomingEventType {
                 return collectValues(
                         UpcomingEventValue.WORD_OF_THE_DAY_TYPE,
                         UpcomingEventValue.WORD_OF_THE_DAY_SYLLABLES,
+                        UpcomingEventValue.WORD_OF_THE_DAY_EXAMPLES,
                         UpcomingEventValue.WORD_OF_THE_DAY_PRONUNCIATION_URL
                 );
 

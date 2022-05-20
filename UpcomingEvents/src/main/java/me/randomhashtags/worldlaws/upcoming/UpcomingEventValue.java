@@ -289,7 +289,7 @@ public enum UpcomingEventValue {
     WORD_OF_THE_DAY_EXAMPLES(new UpcomingEventValueMap() {{
         putCategory(UpcomingEventValueCategory.WORD_OF_THE_DAY_DETAILS);
         putKey("examples");
-        putValueType(UpcomingEventValueType.ARRAY_STRING);
+        putValuePrefix("Examples:\n\n");
     }}),
     WORD_OF_THE_DAY_PRONUNCIATION_URL(new UpcomingEventValueMap() {{
         putCategory(UpcomingEventValueCategory.WORD_OF_THE_DAY_DETAILS);
