@@ -64,13 +64,15 @@ public enum ServerStatuses {
         final String string = Proxy.updateHomeResponse();
     }
 
-    public static void tryUpdatingServersIfAvailable() {
+    public static boolean tryUpdatingServersIfAvailable() {
         final boolean updated = updateServersIfAvailable();
         if(updated) {
             spinUpServersWithHomeResponse();
             Proxy.endMaintenanceMode();
+            return true;
         } else {
             WLLogger.logInfo("Proxy - no server updates available");
+            return false;
         }
     }
     private static boolean updateServersIfAvailable() {

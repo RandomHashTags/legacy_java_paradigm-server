@@ -1,0 +1,1 @@
+xfce4-terminal --command="java -jar Proxy.jar" --title="Proxy"

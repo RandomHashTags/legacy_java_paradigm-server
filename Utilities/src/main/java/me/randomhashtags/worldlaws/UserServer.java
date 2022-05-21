@@ -1,5 +1,7 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.settings.Settings;
+
 import java.util.HashMap;
 import java.util.Scanner;
 import java.util.concurrent.CompletableFuture;
@@ -8,12 +10,11 @@ import java.util.concurrent.ConcurrentHashMap;
 public interface UserServer {
     ConcurrentHashMap<UserServer, Scanner> INPUT_SCANNERS = new ConcurrentHashMap<>();
 
-    TargetServer getTargetServer();
     void start();
     void stop();
-    default void rebootServer() { // TODO: fix dis | doesn't execute in main thread, which is why it doesn't work
+    default void rebootProxy() {
         stop();
-        start();
+        WLUtilities.executeCommand(Settings.Server.getRebootProxyCommand(), true);
     }
 
     default void listenForUserInput() {
@@ -45,7 +46,7 @@ public interface UserServer {
                 stop();
                 return;
             case "reboot":
-                rebootServer();
+                rebootProxy();
                 return;
             case "execute":
                 WLUtilities.executeCommand(input.substring(key.length()+1), true);

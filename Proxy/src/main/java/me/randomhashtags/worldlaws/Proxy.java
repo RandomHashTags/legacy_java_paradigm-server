@@ -37,11 +37,6 @@ public final class Proxy implements UserServer {
     }
 
     @Override
-    public TargetServer getTargetServer() {
-        return null;
-    }
-
-    @Override
     public void start() {
         final LocalDateTime now = LocalDateTime.now();
 
@@ -53,7 +48,12 @@ public final class Proxy implements UserServer {
 
         final long updateServersInterval = TimeUnit.DAYS.toMillis(1);
         final LocalDateTime updateServersStartingDay = now.plusDays(1).withHour(0).withMinute(0).withSecond(1);
-        final Timer updateServersTimer = WLUtilities.getTimer(updateServersStartingDay, updateServersInterval, ServerStatuses::tryUpdatingServersIfAvailable);
+        final Timer updateServersTimer = WLUtilities.getTimer(updateServersStartingDay, updateServersInterval, () -> {
+            final boolean updated = ServerStatuses.tryUpdatingServersIfAvailable();
+            if(updated) {
+                rebootProxy();
+            }
+        });
         timers.add(updateServersTimer);
 
         setupServer();

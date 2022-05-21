@@ -31,11 +31,6 @@ public final class LocalServer implements UserServer, DataValues, RestAPI {
     }
 
     @Override
-    public TargetServer getTargetServer() {
-        return wlserver.getServer();
-    }
-
-    @Override
     public void start() {
         uniqueRequests = new ConcurrentHashMap<>();
         totalRequests = new ConcurrentHashMap<>();
