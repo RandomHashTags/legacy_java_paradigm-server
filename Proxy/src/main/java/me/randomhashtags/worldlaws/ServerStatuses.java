@@ -13,6 +13,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
+import java.util.concurrent.atomic.AtomicInteger;
 
 public enum ServerStatuses {
     ;
@@ -40,19 +41,11 @@ public enum ServerStatuses {
         WLLogger.logInfo("Proxy - spun up servers (took " + WLUtilities.getElapsedTime(started) + ")");
     }
     public static void rebootServers() {
-        final boolean updated = updateServersIfAvailable();
-        if(!updated) {
-            Proxy.startMaintenanceMode("Servers are rebooting, and should be back up in a few minutes :)");
-            rebootServersWithHomeResponse();
-        } else {
-            spinUpServersWithHomeResponse();
-        }
-        Proxy.endMaintenanceMode();
-    }
-    private static void rebootServersWithHomeResponse() {
+        Proxy.startMaintenanceMode("Servers are rebooting, and should be back up in a few minutes :)");
         shutdownServers();
         Settings.refresh();
         spinUpServersWithHomeResponse();
+        Proxy.endMaintenanceMode();
     }
     private static void spinUpServersWithHomeResponse() {
         spinUpServers();
@@ -63,34 +56,22 @@ public enum ServerStatuses {
         }
         final String string = Proxy.updateHomeResponse();
     }
-
-    public static boolean tryUpdatingServersIfAvailable() {
-        final boolean updated = updateServersIfAvailable();
-        if(updated) {
-            spinUpServersWithHomeResponse();
-            Proxy.endMaintenanceMode();
-            return true;
-        } else {
-            WLLogger.logInfo("Proxy - no server updates available");
-            return false;
-        }
+    public static HashSet<Path> getUpdateFiles() {
+        return Folder.UPDATES_FILES.getAllFilePaths(null);
     }
-    private static boolean updateServersIfAvailable() {
-        final long started = System.currentTimeMillis();
-        final HashSet<Path> files = Folder.UPDATES_FILES.getAllFilePaths(null);
+
+    public static boolean updateServers(long started, HashSet<Path> files) {
         final boolean updatesAreAvailable = !files.isEmpty();
         if(updatesAreAvailable) {
             Proxy.startMaintenanceMode("Servers are updating, and should be back up in a few minutes :)");
             shutdownServers();
-
             applyUpdate(files);
-
             WLLogger.logInfo("Proxy - updated servers (took " + WLUtilities.getElapsedTime(started) + ")");
         }
         return updatesAreAvailable;
     }
     public static void applyUpdate() {
-        final HashSet<Path> files = Folder.UPDATES_FILES.getAllFilePaths(null);
+        final HashSet<Path> files = getUpdateFiles();
         final boolean updatesAreAvailable = !files.isEmpty();
         if(updatesAreAvailable) {
             applyUpdate(files);
@@ -123,13 +104,13 @@ public enum ServerStatuses {
     }
     private static void replaceFiles(HashSet<Path> files, HashMap<String, String> fileFolders, Folder sourceFolder, Folder updatedFilesFolder) {
         final long started = System.currentTimeMillis();
-        int updated = 0;
+        final AtomicInteger updated = new AtomicInteger(0);
         final String separator = File.separator;
-        for(Path path : files) {
+        new CompletableFutures<Path>().stream(files, path -> {
             final String fullFileName = path.getFileName().toString();
             if(fileFolders.containsKey(fullFileName)) {
-                final String filePath = fileFolders.get(fullFileName).replace("/", separator);
                 final String fileName = fullFileName.split("\\.")[0];
+                final String filePath = fileFolders.get(fullFileName).replace("/", separator);
                 sourceFolder.setCustomFolderName(fileName, filePath);
                 updatedFilesFolder.setCustomFolderName(fileName, null);
                 final String oldURI = sourceFolder.getFullFolderPath(fileName) + separator + fullFileName, newURI = updatedFilesFolder.getFullFolderPath(fileName) + separator + fullFileName;
@@ -139,7 +120,7 @@ public enum ServerStatuses {
                         Files.delete(targetPath);
                     }
                     Files.move(sourcePath, targetPath);
-                    updated += 1;
+                    updated.addAndGet(1);
                 } catch (Exception e) {
                     WLUtilities.saveException(e);
                 }
@@ -148,7 +129,8 @@ public enum ServerStatuses {
             } else {
                 WLLogger.logWarning("Proxy - failed updating file \"" + fullFileName + "\" for path \"" + path.toAbsolutePath().toString() + "\". Not found in fileFolders!");
             }
-        }
-        WLLogger.logInfo("Proxy - updated " + updated + " file" + (updated > 1 ? "s" : "") + " (took " + WLUtilities.getElapsedTime(started) + ")");
+        });
+        final int amountUpdated = updated.get();
+        WLLogger.logInfo("Proxy - updated " + amountUpdated + " file" + (amountUpdated > 1 ? "s" : "") + " (took " + WLUtilities.getElapsedTime(started) + ")");
     }
 }

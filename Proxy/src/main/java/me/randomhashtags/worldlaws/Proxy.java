@@ -11,6 +11,7 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.net.InetSocketAddress;
+import java.nio.file.Path;
 import java.time.LocalDateTime;
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
@@ -49,10 +50,7 @@ public final class Proxy implements UserServer {
         final long updateServersInterval = TimeUnit.DAYS.toMillis(1);
         final LocalDateTime updateServersStartingDay = now.plusDays(1).withHour(0).withMinute(0).withSecond(1);
         final Timer updateServersTimer = WLUtilities.getTimer(updateServersStartingDay, updateServersInterval, () -> {
-            final boolean updated = ServerStatuses.tryUpdatingServersIfAvailable();
-            if(updated) {
-                rebootProxy();
-            }
+            updateServers(true);
         });
         timers.add(updateServersTimer);
 
@@ -74,7 +72,6 @@ public final class Proxy implements UserServer {
 
     private void setupServer() {
         listenForUserInput();
-
         final int port = Settings.Server.getProxyPort();
         final boolean https = Settings.DataValues.isProductionMode() && Settings.Server.Https.isEnabled();
         if(https) {
@@ -153,12 +150,28 @@ public final class Proxy implements UserServer {
         map.put("shutdown", ServerStatuses::shutdownServers);
         map.put("spinup", ServerStatuses::spinUpServers);
         map.put("rebootservers", ServerStatuses::rebootServers);
-        map.put("update", ServerStatuses::tryUpdatingServersIfAvailable);
+        map.put("update", () -> updateServers(false));
         map.put("applyupdate", ServerStatuses::applyUpdate);
         map.put("generatecertificates", CertbotHandler::generateCertificates);
         map.put("importcertificates", CertbotHandler::importCertificates);
         map.put("renewcertificates", CertbotHandler::renewCertificates);
         return map;
+    }
+
+    private void updateServers(boolean cancelTimers) {
+        final long started = System.currentTimeMillis();
+        final HashSet<Path> updateFiles = ServerStatuses.getUpdateFiles();
+        if(!updateFiles.isEmpty()) {
+            if(cancelTimers) {
+                for(Timer timer : timers) {
+                    timer.cancel();
+                }
+            }
+            final boolean updated = ServerStatuses.updateServers(started, updateFiles);
+            if(updated) {
+                rebootProxy();
+            }
+        }
     }
 
     private String getPingResponse() {
