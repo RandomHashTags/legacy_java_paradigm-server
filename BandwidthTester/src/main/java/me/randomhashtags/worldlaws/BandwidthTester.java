@@ -1,7 +1,5 @@
 package me.randomhashtags.worldlaws;
 
-import org.json.JSONObject;
-
 import java.util.*;
 import java.util.stream.IntStream;
 
@@ -9,7 +7,10 @@ public final class BandwidthTester implements UserServer, RestAPI {
 
     private static final Random RANDOM = new Random();
     private static final List<String> REQUESTS = Arrays.asList(
-            "home"
+            "/privacyPolicy",
+            "/transparency",
+            "",
+            "/developer"
     );
 
     public static void main(String[] args) {
@@ -17,8 +18,8 @@ public final class BandwidthTester implements UserServer, RestAPI {
     }
 
     private BandwidthTester() {
-        //load();
-        test();
+        load();
+        //test();
     }
 
 
@@ -36,16 +37,8 @@ public final class BandwidthTester implements UserServer, RestAPI {
         WLLogger.logInfo("BandwidthTester;test;json=" + (json != null ? json.toString() : "null"));
     }*/
     private void test() {
-        final LinkedHashMap<String, Object> postData = new LinkedHashMap<>();
-        postData.put("***REMOVED***", "***REMOVED***");
-
-        final LinkedHashMap<String, String> headers = new LinkedHashMap<>();
-        headers.put("***REMOVED***", "***REMOVED***");
-        headers.put("***REMOVED***", "Java");
-        headers.put("***REMOVED***", "-1");
-        headers.put("***REMOVED***", "true");
-        final JSONObject json = postJSONObject("http://localhost:34551/v1/premium/verify/apple/receipt", postData, true, headers);
-        WLLogger.logInfo("BandwidthTester;test;json=" + (json != null ? json.toString() : "null"));
+        final String test = request("https://***REMOVED***", null, null);
+        WLLogger.logInfo("BandwidthTester;test=" + test);
     }
     private void load() {
         INPUT_SCANNERS.put(this, new Scanner(System.in));
@@ -67,8 +60,8 @@ public final class BandwidthTester implements UserServer, RestAPI {
         final Timer timer = new Timer();
         final LinkedHashMap<String, String> headers = new LinkedHashMap<>();
         final String uuid = "***REMOVED***";
-        headers.put("***REMOVED***", uuid);
-        headers.put("***REMOVED***", "BandwidthTester");
+        //headers.put("***REMOVED***", uuid);
+        //headers.put("***REMOVED***", "BandwidthTester");
         timer.scheduleAtFixedRate(new TimerTask() {
             @Override
             public void run() {
@@ -88,7 +81,7 @@ public final class BandwidthTester implements UserServer, RestAPI {
     private void makeRequest(LinkedHashMap<String, String> headers, int number, int max) {
         final long started = System.currentTimeMillis();
         final String target = REQUESTS.get(RANDOM.nextInt(REQUESTS.size()));
-        final JSONObject json = requestJSONObject("http://localhost:0/v1/" + target, headers);
+        final String json = request("https://***REMOVED***" + target, headers, null);
         WLLogger.logInfo("BandwidthTester - completed request #" + number + " out of " + max + " (took " + WLUtilities.getElapsedTime(started) + ")");
     }
 }

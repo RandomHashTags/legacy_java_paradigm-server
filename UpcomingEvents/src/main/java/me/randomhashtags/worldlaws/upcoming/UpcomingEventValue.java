@@ -287,7 +287,7 @@ public enum UpcomingEventValue {
     }}),
 
     WORD_OF_THE_DAY_EXAMPLES(new UpcomingEventValueMap() {{
-        putCategory(UpcomingEventValueCategory.WORD_OF_THE_DAY_DETAILS);
+        putCategory(UpcomingEventValueCategory.WORD_OF_THE_DAY_POST_DETAILS);
         putKey("examples");
         putValuePrefix("Examples:\n\n");
     }}),

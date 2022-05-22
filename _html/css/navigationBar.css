@@ -1,0 +1,34 @@
+ul.navigationBar {
+    margin-top: 60px;
+}
+ul.navigationBar {
+    top: 0;
+    width: 100%;
+    position: fixed;
+    list-style-type: none;
+    margin-top: 0;
+    margin-left: -0.4%;
+    padding: 0;
+    background-color: #333;
+}
+
+ul.navigationBar li {
+    display: inline;
+    float: left;
+}
+
+ul.navigationBar li a {
+    display: block;
+    color: lightgray;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul.navigationBar li a:hover {
+    color: white;
+}
+
+body {
+    margin-top: 60px;
+}

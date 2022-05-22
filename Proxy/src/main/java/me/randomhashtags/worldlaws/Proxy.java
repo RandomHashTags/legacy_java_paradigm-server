@@ -150,6 +150,7 @@ public final class Proxy implements UserServer {
         map.put("shutdown", ServerStatuses::shutdownServers);
         map.put("spinup", ServerStatuses::spinUpServers);
         map.put("rebootservers", ServerStatuses::rebootServers);
+        map.put("reboot", this::rebootProxy);
         map.put("update", () -> updateServers(false));
         map.put("applyupdate", ServerStatuses::applyUpdate);
         map.put("generatecertificates", CertbotHandler::generateCertificates);

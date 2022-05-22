@@ -28,16 +28,17 @@ public interface RestAPI {
         put("User-Agent", USER_AGENT);
     }};
 
-    HttpClient CLIENT = getClient();
     ConcurrentHashMap<String, JSONArray> RESPONSE_TIMES = new ConcurrentHashMap<>();
     private static Duration getConnectionTimeout() {
         return Duration.ofSeconds(30);
     }
 
+    HttpResponse.BodyHandler<String> STRING_BODY_HANDLER = HttpResponse.BodyHandlers.ofString();
+
     private static HttpClient getClient() {
         final HttpClient.Builder client = HttpClient.newBuilder()
                 .version(HttpClient.Version.HTTP_1_1)
-                .followRedirects(HttpClient.Redirect.NORMAL)
+                .followRedirects(HttpClient.Redirect.ALWAYS)
                 .connectTimeout(getConnectionTimeout())
                 ;
         try {
@@ -70,12 +71,9 @@ public interface RestAPI {
         return requestJSONArray(url, headers, null);
     }
     default JSONArray requestJSONArray(String url, LinkedHashMap<String, String> headers, LinkedHashMap<String, String> query) {
-        final long started = System.currentTimeMillis();
         final String string = requestStatic(url, headers, query);
-        WLLogger.logInfo("RestAPI;requestJSONArray;took " + WLUtilities.getElapsedTime(started));
         if(string != null) {
             JSONArray array = null;
-            final long test = System.currentTimeMillis();
             try {
                 array = new JSONArray(string);
             } catch (Exception e) {
@@ -87,7 +85,6 @@ public interface RestAPI {
                         "stackTrace=\n" + stackTrace;
                 WLUtilities.saveLoggedError("JSONException", value);
             }
-            WLLogger.logInfo("RestAPI;requestJSONArray;parsing array took " + WLUtilities.getElapsedTime(test));
             return array;
         }
         return null;
@@ -224,10 +221,12 @@ public interface RestAPI {
             RESPONSE_TIMES.putIfAbsent(finalURL, new JSONArray());
         }
         final HttpRequest request = requestBuilder.build();
-        final int timeoutSeconds = 30;
-        final CompletableFuture<String> bruh = CLIENT.sendAsync(request, HttpResponse.BodyHandlers.ofString())
+        final long timeoutSeconds = getConnectionTimeout().toSeconds();
+        final HttpClient client = getClient();
+        final CompletableFuture<String> bruh = client.sendAsync(request, STRING_BODY_HANDLER)
+                .thenApply(HttpResponse::body)
                 .orTimeout(timeoutSeconds, TimeUnit.SECONDS)
-                .thenApply(HttpResponse::body).exceptionally(throwable -> {
+                .exceptionally(throwable -> {
                     if(throwable != null) {
                         if(isLocal && (throwable instanceof CompletionException || throwable instanceof ConnectException)) {
                             return null;

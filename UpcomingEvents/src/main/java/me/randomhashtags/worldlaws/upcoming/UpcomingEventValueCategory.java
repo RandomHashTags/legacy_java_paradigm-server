@@ -21,6 +21,7 @@ public enum UpcomingEventValueCategory {
     VIDEO_GAME_DETAILS(UpcomingEventValueCategoryPosition.PRE_CONTENT, "Releasing for platforms"),
     VIDEO_GAME_GENRES(UpcomingEventValueCategoryPosition.PRE_CONTENT, "Genres"),
     WORD_OF_THE_DAY_DETAILS(UpcomingEventValueCategoryPosition.ABOVE_DESCRIPTION),
+    WORD_OF_THE_DAY_POST_DETAILS(UpcomingEventValueCategoryPosition.POST_DESCRIPTION),
     WRESTLING_DETAILS("Main Event"),
     ;
 

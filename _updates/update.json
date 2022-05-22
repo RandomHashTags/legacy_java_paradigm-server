@@ -32,6 +32,17 @@
           "transparency"
         ]
       },
+      "_html/css": {
+        "css": [
+          "navigationBar"
+        ]
+      },
+      "_html/obj": {
+        "html": [
+          "footer",
+          "navigationBar"
+        ]
+      },
       "_downloaded_pages/null": {
         "json": [
           "settings",

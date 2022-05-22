@@ -195,6 +195,9 @@ public abstract class WLUtilities {
         saveError("WLUtilities.saveException", errorName, trace);
     }
     public static String getThrowableStackTrace(Throwable throwable) {
+        if(throwable == null) {
+            return "null throwable";
+        }
         String message = throwable.getLocalizedMessage();
         if(message == null) {
             message = throwable.getMessage();
