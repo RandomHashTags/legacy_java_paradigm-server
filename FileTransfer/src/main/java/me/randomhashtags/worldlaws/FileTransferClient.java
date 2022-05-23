@@ -11,6 +11,7 @@ import java.nio.file.Path;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.LinkedHashMap;
+import java.util.concurrent.ConcurrentLinkedQueue;
 
 public final class FileTransferClient implements RestAPI {
 
@@ -49,9 +50,9 @@ public final class FileTransferClient implements RestAPI {
         final int port = TargetServer.FILE_TRANSFER.getPort();
         final String ip = true ? Settings.Server.getProxyLocalAddress() : "localhost";
         final String targetURL = "http://" + ip + ":" + port + "/transfer_files";
-        WLLogger.logInfo("FileTransferClient - sending " + amount + " file" + (amount > 1 ? "s" : "") + " (took " + WLUtilities.getElapsedTime(started) + ")");
+        WLLogger.logInfo("FileTransferClient - sending " + amount + " file" + (amount > 1 ? "s" : ""));
 
-        final HashSet<File> successfulTransfers = new HashSet<>();
+        final ConcurrentLinkedQueue<File> successfulTransfers = new ConcurrentLinkedQueue<>();
         new CompletableFutures<File>().stream(files, file -> {
             try {
                 final TransferredFile transferredFile = new TransferredFile(file);
@@ -78,7 +79,7 @@ public final class FileTransferClient implements RestAPI {
         }
         final int successfulTransfersTotal = successfulTransfers.size();
         final boolean successful = successfulTransfersTotal > 0;
-        WLLogger.logInfo("FileTransferClient - " + (successful ? "successfully sent" : "failed to send") + " " + successfulTransfersTotal + " file" + (successfulTransfersTotal > 1 ? "s" : "") + " to server");
+        WLLogger.logInfo("FileTransferClient - " + (successful ? "successfully sent" : "failed to send") + " " + successfulTransfersTotal + " file" + (successfulTransfersTotal > 1 ? "s" : "") + " to server (took " + WLUtilities.getElapsedTime(started) + ")");
     }
     private HashSet<File> getServers() {
         final HashSet<File> filesToSend = new HashSet<>();

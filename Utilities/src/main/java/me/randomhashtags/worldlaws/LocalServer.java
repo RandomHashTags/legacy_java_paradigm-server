@@ -157,34 +157,40 @@ public final class LocalServer implements UserServer, DataValues, RestAPI {
         return "/" + apiVersion.name() + "/";
     }
     private void createServerContexts() {
-        server.createContext("/ping", new WLHttpHandler() {
-            @Override
-            public JSONTranslatable getResponse(WLHttpExchange httpExchange) {
-                return null;
-            }
-
-            @Override
-            public String getFallbackResponse(WLHttpExchange httpExchange) {
-                return "1";
-            }
-        });
-        server.createContext("/stop", new WLHttpHandler() {
-            @Override
-            public JSONTranslatable getResponse(WLHttpExchange httpExchange) {
-                return null;
-            }
-
-            @Override
-            public String getFallbackResponse(WLHttpExchange httpExchange) {
-                final String identifier = httpExchange.getIdentifier();
-                if(Settings.Server.getUUID().equals(identifier)) {
-                    stop();
-                    return "1";
-                } else {
+        final String[] paths = { "ping", "stop", "refresh" };
+        for(String path : paths) {
+            server.createContext("/" + path, new WLHttpHandler() {
+                @Override
+                public JSONTranslatable getResponse(WLHttpExchange httpExchange) {
                     return null;
                 }
-            }
-        });
+
+                @Override
+                public String getFallbackResponse(WLHttpExchange httpExchange) {
+                    final String identifier = httpExchange.getIdentifier();
+                    switch (path) {
+                        case "ping":
+                            return "1";
+                        case "stop":
+                            if(Settings.Server.getUUID().equals(identifier)) {
+                                stop();
+                                return "1";
+                            } else {
+                                return null;
+                            }
+                        case "refresh":
+                            if(Settings.Server.getUUID().equals(identifier)) {
+                                Settings.refresh();
+                                return "1";
+                            } else {
+                                return null;
+                            }
+                        default:
+                            return null;
+                    }
+                }
+            });
+        }
     }
     private WLHttpHandler getHomeHandler(APIVersion version) {
         return httpExchange -> {

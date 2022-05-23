@@ -264,10 +264,16 @@ public interface Country extends SovereignState {
         }
         return NONSTATIC_INFORMATION_CACHE.get(backendID);
     }
-    default void updateNonStaticInformationIfExists() {
-        if(NONSTATIC_INFORMATION_CACHE.containsKey(getBackendID())) {
+
+    default boolean canUpdateNonStaticInformation() {
+        return NONSTATIC_INFORMATION_CACHE.containsKey(getBackendID());
+    }
+    default boolean updateNonStaticInformationIfExists() {
+        final boolean canUpdate = canUpdateNonStaticInformation();
+        if(canUpdate) {
             updateNonStaticInformation();
         }
+        return canUpdate;
     }
     default JSONObjectTranslatable updateNonStaticInformation() {
         final WLCountry wlcountry = getWLCountry();

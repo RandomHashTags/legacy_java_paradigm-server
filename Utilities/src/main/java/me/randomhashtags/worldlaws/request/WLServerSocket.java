@@ -88,7 +88,7 @@ public final class WLServerSocket {
         final TrustManagerFactory trustFactory = TrustManagerFactory.getInstance(factoryType);
         trustFactory.init(store);
 
-        final SSLContext context = SSLContext.getInstance("TLS");
+        final SSLContext context = SSLContext.getInstance("TLSv1.3");
         context.init(factory.getKeyManagers(), trustFactory.getTrustManagers(), null);
         return context;
     }

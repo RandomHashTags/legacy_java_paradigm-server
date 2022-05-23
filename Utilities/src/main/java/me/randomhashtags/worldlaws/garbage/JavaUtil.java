@@ -17,7 +17,6 @@ public abstract class JavaUtil {
         try {
             final SSLContext context = WLServerSocket.getSSLContext();
             server = HttpsServer.create(new InetSocketAddress(port), 0);
-            server.setExecutor(null);
             server.setHttpsConfigurator(new HttpsConfigurator(context) {
                 @Override
                 public void configure(HttpsParameters params) {

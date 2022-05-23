@@ -5,6 +5,7 @@ import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
+import java.util.Collection;
 import java.util.HashSet;
 
 public class JSONArrayTranslatable extends JSONArray implements JSONTranslatable {
@@ -17,6 +18,9 @@ public class JSONArrayTranslatable extends JSONArray implements JSONTranslatable
     }
     public JSONArrayTranslatable(JSONArray array) {
         super(array);
+    }
+    public JSONArrayTranslatable(Collection<?> collection) {
+        super(collection);
     }
     public JSONArrayTranslatable(String source) {
         super(source);

@@ -1,6 +1,9 @@
 package me.randomhashtags.worldlaws.info.service.nonstatic;
 
-import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.EventSource;
+import me.randomhashtags.worldlaws.EventSources;
+import me.randomhashtags.worldlaws.Folder;
+import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
@@ -18,7 +21,7 @@ public enum CIAServices implements NewCountryServiceNonStatic {
 
     private final HashMap<String, String> nationalAnthems;
     private final HashMap<String, TravelValues> travelValues;
-    private final HashMap<String, HashMap<String, String>> values;
+    private final HashMap<String, HashMap<String, CIAValue>> values;
 
     CIAServices() {
         nationalAnthems = new HashMap<>();
@@ -37,10 +40,14 @@ public enum CIAServices implements NewCountryServiceNonStatic {
         final String identifier = countryBackendID.replace(" ", "").toLowerCase();
         final JSONObjectTranslatable json = new JSONObjectTranslatable();
         final TravelValues travelValues = getTravelValues(country.getShortName());
+        if(travelValues != null) {
+        }
         if(values.containsKey(identifier)) {
-            for(Map.Entry<String, String> map : values.get(identifier).entrySet()) {
-                json.put(map.getKey(), map.getValue());
+            final JSONObjectTranslatable valuesJSON = new JSONObjectTranslatable();
+            for(Map.Entry<String, CIAValue> entry : values.get(identifier).entrySet()) {
+                valuesJSON.put(entry.getKey(), entry.getValue(), true);
             }
+            json.put("values", valuesJSON, true);
         }
         return json;
     }
@@ -56,12 +63,17 @@ public enum CIAServices implements NewCountryServiceNonStatic {
         if(travelValues == null) {
             return null;
         }
-        final String domain = "https://www.cia.gov";
-        return new EventSources(
-                new EventSource("CIA: " + shortName, travelValues.ciaCountryURL),
-                new EventSource("CIA Summary", domain + travelValues.summaryURL),
-                new EventSource("CIA Travel Facts", domain + travelValues.travelFactsURL)
+        final String domain = "https://www.cia.gov", summaryURL = travelValues.summaryURL, travelFactsURL = travelValues.travelFactsURL;
+        final EventSources sources = new EventSources(
+                new EventSource("CIA: " + shortName, travelValues.ciaCountryURL)
         );
+        if(summaryURL != null) {
+            sources.add(new EventSource("CIA Summary", domain + summaryURL));
+        }
+        if(travelFactsURL != null) {
+            sources.add(new EventSource("CIA Travel Facts", domain + travelFactsURL));
+        }
+        return sources;
     }
 
     private TravelValues getTravelValues(String shortName) {
@@ -183,13 +195,21 @@ public enum CIAServices implements NewCountryServiceNonStatic {
                             isFirst = false;
                         }
                     }
-                    final String string = LocalServer.fixEscapeValues(builder.toString());
+                    final String string = builder.toString();
                     if(!string.isEmpty()) {
                         values.putIfAbsent(country, new HashMap<>());
-                        values.get(country).put(keys.get(header), string);
+                        final CIAValue value = new CIAValue(header, string);
+                        values.get(country).put(keys.get(header), value);
                     }
                 }
             }
+        }
+    }
+
+    private final class CIAValue extends JSONObjectTranslatable {
+        public CIAValue(String title, String value) {
+            put("title", title, true);
+            put("value", value, true);
         }
     }
 

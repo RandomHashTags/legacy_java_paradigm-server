@@ -99,13 +99,12 @@ public final class Proxy implements UserServer {
         }
     }
     private void setupHttpsServer(int port) {
-        server = WLUtilities.getHttpsServer(port);
+        server = WLUtilities.getHttpsServer(port);;
     }
 
     private void connectClients(boolean https) {
         WLLogger.logInfo("Proxy - Listening for http" + (https ? "s" : "") + " clients on port " + server.getAddress().getPort() + "...");
-
-        server.createContext("/", new ProxyHttpHandler() {
+        final ProxyHttpHandler proxyHandler = new ProxyHttpHandler() {
             @Override
             public JSONTranslatable getResponse(WLHttpExchange httpExchange) {
                 return null;
@@ -129,7 +128,9 @@ public final class Proxy implements UserServer {
                         }
                 }
             }
-        });
+        };
+        server.createContext("/", proxyHandler);
+        server.setExecutor(null);
         server.start();
     }
 
@@ -161,9 +162,9 @@ public final class Proxy implements UserServer {
         map.put("spinup", ServerStatuses::spinUpServers);
         map.put("rebootservers", ServerStatuses::rebootServers);
         map.put("reboot", this::rebootProxy);
-        map.put("refresh", Settings::refresh);
-        map.put("update", () -> updateServers(false));
-        map.put("applyupdate", ServerStatuses::applyUpdate);
+        map.put("refresh", ServerStatuses::refreshServers);
+        map.put("update", ServerStatuses::applyUpdate);
+        map.put("updateservers", () -> updateServers(false));
         map.put("generatecertificates", CertbotHandler::generateCertificates);
         map.put("importcertificates", CertbotHandler::importCertificates);
         map.put("renewcertificates", CertbotHandler::renewCertificates);

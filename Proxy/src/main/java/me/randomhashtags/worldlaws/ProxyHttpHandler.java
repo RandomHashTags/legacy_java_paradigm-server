@@ -4,15 +4,13 @@ import me.randomhashtags.worldlaws.request.WLContentType;
 import me.randomhashtags.worldlaws.request.WLHttpExchange;
 import me.randomhashtags.worldlaws.request.WLHttpHandler;
 
-import java.io.File;
 import java.net.HttpURLConnection;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
+import java.util.concurrent.ConcurrentHashMap;
 
 public interface ProxyHttpHandler extends WLHttpHandler {
 
     String DOMAIN = "***REMOVED***";
+    ConcurrentHashMap<String, WebsiteResponse> CACHE = new ConcurrentHashMap<>();
 
     @Override
     default void handleWLHttpExchange(WLHttpExchange exchange) {
@@ -32,52 +30,23 @@ public interface ProxyHttpHandler extends WLHttpHandler {
     }
 
     private void handleHTMLExchange(WLHttpExchange exchange, String path) {
-        final String response = getHTMLResponse(path);
-        write(exchange, HttpURLConnection.HTTP_OK, response, WLContentType.HTML);
+        final WebsiteResponse response;
+        if(CACHE.containsKey(path)) {
+            response = CACHE.get(path);
+        } else {
+            response = new WebsiteResponse(path);
+            CACHE.put(path, response);
+        }
+        write(exchange, HttpURLConnection.HTTP_OK, response.getResponse(), response.getContentType());
     }
     private void handleErrorExchange(WLHttpExchange exchange) {
         write(exchange, HttpURLConnection.HTTP_FORBIDDEN, "<!DOCTYPE html><html><body><h1>Error 403. Forbidden.</h1></body></html>", WLContentType.HTML);
     }
-
-    private String getHTMLResponse(String targetPath) {
-        if(targetPath.startsWith("/")) {
-            targetPath = targetPath.substring(1);
-        }
-        if(targetPath.isEmpty()) {
-            targetPath = "index";
-        } else {
-            switch (targetPath) {
-                case "index":
-                    targetPath = null;
-                    break;
-                default:
-                    break;
-            }
-        }
-        String string = null;
-        if(targetPath != null) {
-            final String[] extensions = targetPath.contains(".") && !targetPath.endsWith(".html") ? targetPath.split("\\.") : null;
-            final String extension = extensions != null ? extensions[extensions.length-1] : "html";
-            final String target = Jsonable.CURRENT_FOLDER + "_html" + File.separator + targetPath.replace("/", File.separator) + "." + extension;
-            final Path path = Paths.get(target);
-            if(Files.exists(path)) {
-                try {
-                    string = Files.readString(path);
-                } catch (Exception ignored) {
-                    string = getHTMLErrorMsg(HttpURLConnection.HTTP_INTERNAL_ERROR);
-                }
-            }
-        }
-        if(string == null) {
-            string = getHTMLErrorMsg(HttpURLConnection.HTTP_NOT_FOUND);
-        }
-        return string;
-    }
-    private String getHTMLErrorMsg(int status) {
+    static String getHTMLErrorMsg(int status) {
         final String msg = getHTMLErrorMessage(status);
         return "<html><body><h1>" + msg + "</h1></body></html>";
     }
-    private String getHTMLErrorMessage(int status) {
+    private static String getHTMLErrorMessage(int status) {
         switch (status) {
             case HttpURLConnection.HTTP_NOT_FOUND: return "Error 404. Destination not found.";
             case HttpURLConnection.HTTP_INTERNAL_ERROR: return "Error 500. Something went wrong server-side.";

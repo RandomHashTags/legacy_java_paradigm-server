@@ -9,10 +9,7 @@ import java.io.File;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.List;
+import java.util.*;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public enum ServerStatuses {
@@ -21,18 +18,35 @@ public enum ServerStatuses {
     public static void shutdownServers() {
         final long started = System.currentTimeMillis();
         WLLogger.logInfo("Proxy - shutting down Paradigm Servers...");
+        sendResponseToServers(started, "stop", "shutdown");
+    }
+    public static void shutdownServers(List<TargetServer> servers) {
+        final long started = System.currentTimeMillis();
+        final List<String> names = servers.stream().map(TargetServer::getName).toList();
+        WLLogger.logInfo("Proxy - shutting down Paradigm Servers " + names.toString() + "...");
+        sendResponseToServers(started, "stop", "shutdown");
+    }
+    public static void refreshServers() {
+        final long started = System.currentTimeMillis();
+        Settings.refresh();
+        sendResponseToServers(started, "refresh", "refreshed");
+    }
+    private static void sendResponseToServers(long started, String path, String actionPastTense) {
         final List<TargetServer> servers = Arrays.asList(TargetServer.values());
+        sendResponseToServers(started, servers, path, actionPastTense);
+    }
+    private static void sendResponseToServers(long started, List<TargetServer> servers, String path, String actionPastTense) {
         final APIVersion apiVersion = APIVersion.getLatest();
         final String uuid = Settings.Server.getUUID();
         new CompletableFutures<TargetServer>().stream(servers, server -> {
             if(server.isRealServer()) {
-                final String string = shutdownServer(server, apiVersion, uuid);
+                final String string = sendServerResponse(server, apiVersion, uuid, path);
             }
         });
-        WLLogger.logInfo("Proxy - shutdown Paradigm Servers (took " + WLUtilities.getElapsedTime(started) + ")");
+        WLLogger.logInfo("Proxy - " + actionPastTense + " Paradigm Servers (took " + WLUtilities.getElapsedTime(started) + ")");
     }
-    public static String shutdownServer(TargetServer server, APIVersion version, String uuid) {
-        return server.sendResponse(uuid, "***REMOVED***" + uuid, "***REMOVED***", version, "stop", false);
+    private static String sendServerResponse(TargetServer server, APIVersion version, String uuid, String path) {
+        return server.sendResponse(uuid, "***REMOVED***" + uuid, "***REMOVED***", version, path, false);
     }
     public static void spinUpServers() {
         final long started = System.currentTimeMillis();
@@ -64,9 +78,20 @@ public enum ServerStatuses {
         final boolean updatesAreAvailable = !files.isEmpty();
         if(updatesAreAvailable) {
             Proxy.startMaintenanceMode("Servers are updating, and should be back up in a few minutes :)");
-            shutdownServers();
+            final List<TargetServer> servers = new ArrayList<>();
+            for(Path path : files) {
+                final String fileName = path.getFileName().toString();
+                if(fileName.endsWith(".jar")) {
+                    final TargetServer server = TargetServer.valueOfInput(fileName.split("\\.jar")[0]);
+                    if(server != null) {
+                        servers.add(server);
+                    }
+                }
+            }
+            shutdownServers(servers);
             applyUpdate(files);
-            WLLogger.logInfo("Proxy - updated servers (took " + WLUtilities.getElapsedTime(started) + ")");
+            final int serversUpdated = servers.size();
+            WLLogger.logInfo("Proxy - updated " + serversUpdated + " server" + (serversUpdated > 1 ? "s" : "") + " (took " + WLUtilities.getElapsedTime(started) + ")");
         }
         return updatesAreAvailable;
     }

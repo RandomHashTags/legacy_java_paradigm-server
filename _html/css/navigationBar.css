@@ -11,12 +11,10 @@ ul.navigationBar {
     padding: 0;
     background-color: #333;
 }
-
 ul.navigationBar li {
     display: inline;
     float: left;
 }
-
 ul.navigationBar li a {
     display: block;
     color: lightgray;
@@ -24,11 +22,9 @@ ul.navigationBar li a {
     padding: 14px 16px;
     text-decoration: none;
 }
-
 ul.navigationBar li a:hover {
     color: white;
 }
-
 body {
     margin-top: 60px;
 }

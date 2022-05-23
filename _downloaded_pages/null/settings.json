@@ -5,7 +5,7 @@
   "server": {
     "uuid": "***REMOVED***",
     "sandbox_uuid": "***REMOVED***",
-    "runServersCommand": "bash runServers.sh",
+    "runServersCommand": "bash, runServers.sh",
     "rebootProxyCommand": "bash, rebootProxy.jar",
     "serverRebootFrequencyInDays": 3,
     "proxy_local_address": "localhost",

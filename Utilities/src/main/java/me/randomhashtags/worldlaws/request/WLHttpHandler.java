@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws.request;
 
+import com.sun.net.httpserver.Headers;
 import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;
 import me.randomhashtags.worldlaws.WLUtilities;
@@ -24,25 +25,16 @@ public interface WLHttpHandler extends HttpHandler {
         final WLHttpExchange exchange = new WLHttpExchange(httpExchange);
         CompletableFuture.runAsync(() -> {
             handleWLHttpExchange(exchange);
-        }).orTimeout(1, TimeUnit.MINUTES).exceptionally(throwable -> {
+        }).orTimeout(30, TimeUnit.SECONDS).exceptionally(throwable -> {
             WLUtilities.saveException(throwable);
             return null;
-        }).whenComplete((result, exception) -> {
-            closeExchange(exchange);
+        }).whenComplete((result, error) -> {
+            exchange.close();
         });
     }
 
     default void handleWLHttpExchange(WLHttpExchange exchange) {
         handleAPIExchange(exchange);
-    }
-
-    private void closeExchange(WLHttpExchange exchange) {
-        try {
-            final OutputStream out = exchange.getResponseBody();
-            out.close();
-        } catch (Exception ignored) {
-        }
-        exchange.close();
     }
 
     default void handleAPIExchange(WLHttpExchange exchange) {
@@ -70,13 +62,34 @@ public interface WLHttpHandler extends HttpHandler {
     default void write(WLHttpExchange exchange, int status, String value, WLContentType contentType) {
         final byte[] bytes = value.getBytes(StandardCharsets.UTF_8);
         try {
-            exchange.getResponseHeaders().set("Content-Type", contentType.getIdentifier());
+            final Headers headers = exchange.getResponseHeaders();
+            headers.set("Content-Type", contentType.getIdentifier());
+            headers.set("Strict-Transport-Security", "max-age=31536000; includeSubDomains");
+            headers.set("Connection", "close");
+            switch (contentType) {
+                case HTML:
+                    headers.set("Cache-Control", "public");
+                    break;
+                case CSS:
+                    headers.set("Cache-Control", "max-age=300");
+                    break;
+                default:
+                    break;
+            }
             exchange.sendResponseHeaders(status, bytes.length);
-        } catch (Exception ignored) {
+        } catch (Exception e) {
+            WLUtilities.saveException(e);
+        }
+        final OutputStream out = exchange.getResponseBody();
+        try {
+            out.write(bytes);
+        } catch (Exception e) {
+            WLUtilities.saveException(e);
         }
         try {
-            exchange.getResponseBody().write(bytes);
-        } catch (Exception ignored) {
+            out.close();
+        } catch (Exception e) {
+            WLUtilities.saveException(e);
         }
     }
 

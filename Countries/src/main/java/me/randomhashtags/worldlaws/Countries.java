@@ -31,6 +31,7 @@ import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.concurrent.atomic.AtomicInteger;
 
 // https://en.wikipedia.org/wiki/List_of_sovereign_states
 // https://en.wikipedia.org/wiki/Lists_by_country
@@ -117,8 +118,18 @@ public final class Countries implements WLServer {
 
     private void updateNonStaticInformation() {
         final long started = System.currentTimeMillis();
-        new CompletableFutures<CustomCountry>().stream(countriesMap.values(), Country::updateNonStaticInformationIfExists);
-        WLLogger.logInfo("Countries - refreshed " + countriesMap.size() + " non-static country information (took " + WLUtilities.getElapsedTime(started) + ")");
+        final AtomicInteger countriesUpdated = new AtomicInteger(0);
+        final HashSet<Country> updatableCountries = new HashSet<>(countriesMap.values());
+        updatableCountries.removeIf((country -> !country.canUpdateNonStaticInformation()));
+        if(!updatableCountries.isEmpty()) {
+            new CompletableFutures<CustomCountry>().stream(updatableCountries, country -> {
+                if(country.updateNonStaticInformationIfExists()) {
+                    countriesUpdated.addAndGet(1);
+                }
+            });
+        }
+        final int updatedCountries = countriesUpdated.get();
+        WLLogger.logInfo("Countries - refreshed " + updatedCountries + " non-static country information (took " + WLUtilities.getElapsedTime(started) + ")");
     }
 
     public JSONObjectTranslatable getCountries(APIVersion version) {

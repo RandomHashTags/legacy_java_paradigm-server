@@ -70,6 +70,13 @@ public class JSONObjectTranslatable extends JSONObject implements JSONTranslatab
         }
     }
 
+    public void put(String key, Object value, boolean shouldTranslateValue) {
+        put(key, value);
+        if(shouldTranslateValue) {
+            addTranslatedKey(key);
+        }
+    }
+
     @Override
     public void setTranslatedKeys(String...keys) {
         this.translatedKeys = new HashSet<>(Arrays.asList(keys));

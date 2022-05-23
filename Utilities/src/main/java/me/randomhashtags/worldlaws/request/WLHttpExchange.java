@@ -1,9 +1,7 @@
 package me.randomhashtags.worldlaws.request;
 
 import com.sun.net.httpserver.Headers;
-import com.sun.net.httpserver.HttpContext;
 import com.sun.net.httpserver.HttpExchange;
-import com.sun.net.httpserver.HttpPrincipal;
 import me.randomhashtags.worldlaws.APIVersion;
 import me.randomhashtags.worldlaws.RequestMethod;
 import me.randomhashtags.worldlaws.WLUtilities;
@@ -13,16 +11,18 @@ import me.randomhashtags.worldlaws.locale.LanguageTranslator;
 import me.randomhashtags.worldlaws.settings.Settings;
 import org.json.JSONObject;
 
-import java.io.*;
+import java.io.BufferedInputStream;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.io.OutputStream;
 import java.net.InetSocketAddress;
-import java.net.URI;
 import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.LinkedHashMap;
 import java.util.List;
 
-public final class WLHttpExchange extends HttpExchange {
+public final class WLHttpExchange {
 
     private final HttpExchange exchange;
     private String actualRequestBody;
@@ -37,7 +37,8 @@ public final class WLHttpExchange extends HttpExchange {
     }
 
     public RequestMethod getActualRequestMethod() {
-        switch (getRequestMethod()) {
+        final String requestMethod = exchange.getRequestMethod();
+        switch (requestMethod) {
             case "POST": return RequestMethod.POST;
             case "GET": return RequestMethod.GET;
             default: return null;
@@ -186,7 +187,7 @@ public final class WLHttpExchange extends HttpExchange {
 
     public String getActualRequestBody() {
         if(actualRequestBody == null) {
-            final InputStream inputStream = getRequestBody();
+            final InputStream inputStream = exchange.getRequestBody();
             final BufferedInputStream in = new BufferedInputStream(inputStream);
             final StringBuilder builder = new StringBuilder();
             String line;
@@ -203,16 +204,6 @@ public final class WLHttpExchange extends HttpExchange {
                 WLUtilities.saveException(e);
             }
             actualRequestBody = builder.toString();
-            try {
-                in.close();
-            } catch (Exception e) {
-                WLUtilities.saveException(e);
-            }
-            try {
-                inputStream.close();
-            } catch (Exception e) {
-                WLUtilities.saveException(e);
-            }
         }
         return actualRequestBody;
     }
@@ -221,15 +212,10 @@ public final class WLHttpExchange extends HttpExchange {
         return string.startsWith("{") && string.endsWith("}") ? new JSONObject(string) : null;
     }
     public TransferredFile parseTransferredFile() {
-        final InputStream inputStream = getRequestBody();
+        final InputStream inputStream = exchange.getRequestBody();
         TransferredFile file = null;
         try {
             file = new TransferredFile(inputStream);
-        } catch (Exception e) {
-            WLUtilities.saveException(e);
-        }
-        try {
-            inputStream.close();
         } catch (Exception e) {
             WLUtilities.saveException(e);
         }
@@ -260,88 +246,24 @@ public final class WLHttpExchange extends HttpExchange {
         return builder.toString();
     }
 
-    @Override
-    public Headers getRequestHeaders() {
-        return exchange.getRequestHeaders();
-    }
-
-    @Override
-    public Headers getResponseHeaders() {
-        return exchange.getResponseHeaders();
-    }
-
-    @Override
-    public URI getRequestURI() {
-        return exchange.getRequestURI();
-    }
-
-    @Override
-    public String getRequestMethod() {
-        return exchange.getRequestMethod();
-    }
-
-    @Override
-    public HttpContext getHttpContext() {
-        return exchange.getHttpContext();
-    }
-
-    @Override
     public void close() {
         exchange.close();
     }
-
-    @Override
-    public InputStream getRequestBody() {
-        return exchange.getRequestBody();
+    public Headers getRequestHeaders() {
+        return exchange.getRequestHeaders();
+    }
+    public Headers getResponseHeaders() {
+        return exchange.getResponseHeaders();
+    }
+    public void sendResponseHeaders(int rCode, long responseLength) {
+        try {
+            exchange.sendResponseHeaders(rCode, responseLength);
+        } catch (Exception e) {
+            WLUtilities.saveException(e);
+        }
     }
 
-    @Override
     public OutputStream getResponseBody() {
         return exchange.getResponseBody();
-    }
-
-    @Override
-    public void sendResponseHeaders(int i, long l) throws IOException {
-        exchange.sendResponseHeaders(i, l);
-    }
-
-    @Override
-    public InetSocketAddress getRemoteAddress() {
-        return exchange.getRemoteAddress();
-    }
-
-    @Override
-    public int getResponseCode() {
-        return exchange.getResponseCode();
-    }
-
-    @Override
-    public InetSocketAddress getLocalAddress() {
-        return exchange.getLocalAddress();
-    }
-
-    @Override
-    public String getProtocol() {
-        return exchange.getProtocol();
-    }
-
-    @Override
-    public Object getAttribute(String s) {
-        return exchange.getAttribute(s);
-    }
-
-    @Override
-    public void setAttribute(String s, Object o) {
-        exchange.setAttribute(s, o);
-    }
-
-    @Override
-    public void setStreams(InputStream inputStream, OutputStream outputStream) {
-        exchange.setStreams(inputStream, outputStream);
-    }
-
-    @Override
-    public HttpPrincipal getPrincipal() {
-        return exchange.getPrincipal();
     }
 }
