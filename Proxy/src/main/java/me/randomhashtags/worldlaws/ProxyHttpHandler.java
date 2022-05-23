@@ -56,7 +56,9 @@ public interface ProxyHttpHandler extends WLHttpHandler {
         }
         String string = null;
         if(targetPath != null) {
-            final String target = Jsonable.CURRENT_FOLDER + "_html" + File.separator + targetPath.replace("/", File.separator) + ".html";
+            final String[] extensions = targetPath.contains(".") && !targetPath.endsWith(".html") ? targetPath.split("\\.") : null;
+            final String extension = extensions != null ? extensions[extensions.length-1] : "html";
+            final String target = Jsonable.CURRENT_FOLDER + "_html" + File.separator + targetPath.replace("/", File.separator) + "." + extension;
             final Path path = Paths.get(target);
             if(Files.exists(path)) {
                 try {

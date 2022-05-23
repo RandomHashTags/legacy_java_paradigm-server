@@ -119,6 +119,7 @@ public enum ServerStatuses {
                     if(Files.exists(targetPath)) {
                         Files.delete(targetPath);
                     }
+                    Jsonable.tryCreatingParentFolders(targetPath);
                     Files.move(sourcePath, targetPath);
                     updated.addAndGet(1);
                 } catch (Exception e) {

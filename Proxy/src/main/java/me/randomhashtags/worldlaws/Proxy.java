@@ -16,6 +16,7 @@ import java.time.LocalDateTime;
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.TimeUnit;
+import java.util.concurrent.atomic.AtomicBoolean;
 
 public final class Proxy implements UserServer {
     private static final Proxy INSTANCE = new Proxy();
@@ -28,6 +29,8 @@ public final class Proxy implements UserServer {
 
     private HttpServer server;
     private final HashSet<Timer> timers;
+
+    private AtomicBoolean keepAlive;
 
     public static void main(String[] args) {
         INSTANCE.start();
@@ -55,6 +58,12 @@ public final class Proxy implements UserServer {
         timers.add(updateServersTimer);
 
         setupServer();
+
+        keepAlive = new AtomicBoolean(true);
+        while (keepAlive.get()) {
+            final String input = getUserInput();
+            executeUserInput(input);
+        }
     }
 
     @Override
@@ -67,6 +76,7 @@ public final class Proxy implements UserServer {
         HOME_JSON_QUERIES.clear();
         server.stop(0);
         stopListeningForUserInput();
+        keepAlive.set(false);
         WLLogger.logInfo("Proxy - stopped listening for clients");
     }
 
@@ -151,6 +161,7 @@ public final class Proxy implements UserServer {
         map.put("spinup", ServerStatuses::spinUpServers);
         map.put("rebootservers", ServerStatuses::rebootServers);
         map.put("reboot", this::rebootProxy);
+        map.put("refresh", Settings::refresh);
         map.put("update", () -> updateServers(false));
         map.put("applyupdate", ServerStatuses::applyUpdate);
         map.put("generatecertificates", CertbotHandler::generateCertificates);

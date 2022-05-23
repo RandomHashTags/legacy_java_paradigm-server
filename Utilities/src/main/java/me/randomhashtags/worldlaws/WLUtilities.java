@@ -115,15 +115,15 @@ public abstract class WLUtilities {
     }
 
     public static String executeCommand(String command, boolean printToTerminal) {
+        final Runtime runtime = Runtime.getRuntime();
+        final StringBuilder builder = new StringBuilder();
         try {
-            final Runtime runtime = Runtime.getRuntime();
-            final Process p = runtime.exec(command);
+            final Process p = runtime.exec(command.split(", "));
             p.waitFor();
-
             final BufferedReader reader = new BufferedReader(new InputStreamReader(p.getInputStream()));
 
             String line = "";
-            final StringBuilder builder = new StringBuilder();
+
             while ((line = reader.readLine()) != null) {
                 builder.append(builder.length() == 0 ? "" : "\n").append(line);
                 if(printToTerminal) {
@@ -131,12 +131,11 @@ public abstract class WLUtilities {
                 }
             }
             reader.close();
-            WLLogger.logInfo("WLUtilities - executed command \"" + command + "\"");
-            return builder.toString();
         } catch (Exception e) {
             WLUtilities.saveException(e);
         }
-        return null;
+        WLLogger.logInfo("WLUtilities - executed command \"" + command + "\"");
+        return builder.toString();
     }
 
     public static Month valueOfMonthFromInput(String input) {

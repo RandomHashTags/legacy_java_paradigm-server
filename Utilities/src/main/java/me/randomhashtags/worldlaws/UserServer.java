@@ -4,7 +4,6 @@ import me.randomhashtags.worldlaws.settings.Settings;
 
 import java.util.HashMap;
 import java.util.Scanner;
-import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ConcurrentHashMap;
 
 public interface UserServer {
@@ -13,13 +12,13 @@ public interface UserServer {
     void start();
     void stop();
     default void rebootProxy() {
+        final String command = Settings.Server.getRebootProxyCommand();
         stop();
-        WLUtilities.executeCommand(Settings.Server.getRebootProxyCommand(), true);
+        WLUtilities.executeCommand(command, true);
     }
 
     default void listenForUserInput() {
         INPUT_SCANNERS.put(this, new Scanner(System.in));
-        CompletableFuture.runAsync(() -> executeUserInput(getUserInput()));
     }
     default void stopListeningForUserInput() {
         final Scanner scanner = INPUT_SCANNERS.get(this);
@@ -32,7 +31,7 @@ public interface UserServer {
         final Scanner scanner = INPUT_SCANNERS.get(this);
         return scanner != null && scanner.hasNextLine() ? scanner.nextLine() : null;
     }
-    private void executeUserInput(String input) {
+    default void executeUserInput(String input) {
         if(input == null) {
             return;
         }
@@ -52,15 +51,25 @@ public interface UserServer {
                 WLUtilities.executeCommand(input.substring(key.length()+1), true);
                 break;
             default:
-                final HashMap<String, Runnable> customCommands = getCustomUserCommands();
-                if(customCommands != null && customCommands.containsKey(key)) {
-                    customCommands.get(key).run();
+                final HashMap<String, Runnable> commands = getAllCommands();
+                if(commands.containsKey(key)) {
+                    commands.get(key).run();
                 }
                 break;
         }
         executeUserInput(getUserInput());
     }
 
+    private HashMap<String, Runnable> getAllCommands() {
+        final HashMap<String, Runnable> commands = new HashMap<>() {{
+            put("ping", () -> WLLogger.logInfo("pong!"));
+        }};
+        final HashMap<String, Runnable> customUserCommands = getCustomUserCommands();
+        if(customUserCommands != null) {
+            commands.putAll(customUserCommands);
+        }
+        return commands;
+    }
     default HashMap<String, Runnable> getCustomUserCommands() {
         return null;
     }
