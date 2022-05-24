@@ -71,7 +71,7 @@ public interface WLHttpHandler extends HttpHandler {
                     headers.set("Cache-Control", "public");
                     break;
                 case CSS:
-                    headers.set("Cache-Control", "max-age=300");
+                    headers.set("Cache-Control", "max-age=86400");
                     break;
                 default:
                     break;

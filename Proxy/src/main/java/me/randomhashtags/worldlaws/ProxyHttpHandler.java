@@ -10,7 +10,7 @@ import java.util.concurrent.ConcurrentHashMap;
 public interface ProxyHttpHandler extends WLHttpHandler {
 
     String DOMAIN = "***REMOVED***";
-    ConcurrentHashMap<String, WebsiteResponse> CACHE = new ConcurrentHashMap<>();
+    ConcurrentHashMap<String, WebsiteResponse> WEBSITE_CACHE = new ConcurrentHashMap<>();
 
     @Override
     default void handleWLHttpExchange(WLHttpExchange exchange) {
@@ -31,11 +31,11 @@ public interface ProxyHttpHandler extends WLHttpHandler {
 
     private void handleHTMLExchange(WLHttpExchange exchange, String path) {
         final WebsiteResponse response;
-        if(CACHE.containsKey(path)) {
-            response = CACHE.get(path);
+        if(WEBSITE_CACHE.containsKey(path)) {
+            response = WEBSITE_CACHE.get(path);
         } else {
             response = new WebsiteResponse(path);
-            CACHE.put(path, response);
+            WEBSITE_CACHE.put(path, response);
         }
         write(exchange, HttpURLConnection.HTTP_OK, response.getResponse(), response.getContentType());
     }

@@ -34,7 +34,10 @@
       },
       "_html/css": {
         "css": [
-          "navigationBar"
+          "defaults",
+          "developer",
+          "navigationBar",
+          "privacyPolicy"
         ]
       },
       "_html/obj": {

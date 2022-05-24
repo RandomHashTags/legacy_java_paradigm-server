@@ -10,10 +10,18 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.*;
+import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public enum ServerStatuses {
     ;
+
+    private static void bootServers(Collection<TargetServer> servers) {
+        final String command = "";
+        new CompletableFutures<TargetServer>().stream(servers, server -> {
+            WLUtilities.executeCommand(command, true);
+        });
+    }
 
     public static void shutdownServers() {
         final long started = System.currentTimeMillis();
@@ -28,6 +36,7 @@ public enum ServerStatuses {
     }
     public static void refreshServers() {
         final long started = System.currentTimeMillis();
+        ProxyHttpHandler.WEBSITE_CACHE.clear();
         Settings.refresh();
         sendResponseToServers(started, "refresh", "refreshed");
     }
@@ -74,26 +83,41 @@ public enum ServerStatuses {
         return Folder.UPDATES_FILES.getAllFilePaths(null);
     }
 
-    public static boolean updateServers(long started, HashSet<Path> files) {
-        final boolean updatesAreAvailable = !files.isEmpty();
-        if(updatesAreAvailable) {
+    public static void updateServers(long started, HashSet<Path> files) {
+        if(!files.isEmpty()) {
             Proxy.startMaintenanceMode("Servers are updating, and should be back up in a few minutes :)");
             final List<TargetServer> servers = new ArrayList<>();
+            boolean didUpdatedProxy = false;
             for(Path path : files) {
-                final String fileName = path.getFileName().toString();
-                if(fileName.endsWith(".jar")) {
-                    final TargetServer server = TargetServer.valueOfInput(fileName.split("\\.jar")[0]);
+                final String fullFileName = path.getFileName().toString();
+                if(fullFileName.endsWith(".jar")) {
+                    final String fileName = fullFileName.split("\\.jar")[0];
+                    final TargetServer server = TargetServer.valueOfInput(fileName);
                     if(server != null) {
                         servers.add(server);
+                    } else if(fileName.equals("Proxy")) {
+                        didUpdatedProxy = true;
                     }
                 }
             }
             shutdownServers(servers);
             applyUpdate(files);
             final int serversUpdated = servers.size();
-            WLLogger.logInfo("Proxy - updated " + serversUpdated + " server" + (serversUpdated > 1 ? "s" : "") + " (took " + WLUtilities.getElapsedTime(started) + ")");
+            WLLogger.logInfo("Proxy - updated " + serversUpdated + " server" + (serversUpdated > 1 ? "s" : " - booting them back up") + " (took " + WLUtilities.getElapsedTime(started) + ")");
+            started = System.currentTimeMillis();
+            bootServers(servers);
+            try {
+                Thread.sleep(TimeUnit.SECONDS.toMillis(10));
+            } catch (Exception e) {
+                WLUtilities.saveException(e);
+            }
+            Proxy.updateHomeResponse();
+            Proxy.endMaintenanceMode();
+            WLLogger.logInfo("Proxy - rebooted updated servers and refreshed home response" + (didUpdatedProxy ? ", rebooting Proxy" : "") + " (took " + WLUtilities.getElapsedTime(started) + ")");
+            if(didUpdatedProxy) {
+                Proxy.INSTANCE.rebootProxy();
+            }
         }
-        return updatesAreAvailable;
     }
     public static void applyUpdate() {
         final HashSet<Path> files = getUpdateFiles();

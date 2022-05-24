@@ -19,7 +19,7 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicBoolean;
 
 public final class Proxy implements UserServer {
-    private static final Proxy INSTANCE = new Proxy();
+    protected static final Proxy INSTANCE = new Proxy();
     private static final HashMap<APIVersion, JSONObject> HOME_JSON = new HashMap<>();
     private static final HashMap<APIVersion, HashMap<Collection<String>, String>> HOME_JSON_QUERIES = new HashMap<>();
 
@@ -180,10 +180,7 @@ public final class Proxy implements UserServer {
                     timer.cancel();
                 }
             }
-            final boolean updated = ServerStatuses.updateServers(started, updateFiles);
-            if(updated) {
-                rebootProxy();
-            }
+            ServerStatuses.updateServers(started, updateFiles);
         }
     }
 

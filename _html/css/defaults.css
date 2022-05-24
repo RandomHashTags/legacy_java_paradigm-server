@@ -1,0 +1,19 @@
+body {
+    background-color: whitesmoke;
+    font-size: medium;
+}
+
+div#content {
+    padding-left: 10%;
+    padding-right: 10%;
+    width: 60%;
+    background-color: white;
+    text-align: center;
+}
+
+footer#copyright {
+    padding-left: 0%;
+    padding-right: 0%;
+    width: 100%;
+    text-align: center;
+}
