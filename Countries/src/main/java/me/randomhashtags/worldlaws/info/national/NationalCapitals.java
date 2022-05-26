@@ -37,8 +37,7 @@ public enum NationalCapitals implements CountryNationalService {
             if(!country.isEmpty()) {
                 final String text = tds.size() > 2 ? tds.get(2).text() : null;
                 final CountrySingleValue value = new CountrySingleValue(null, tds.get(0).text(), text, -1);
-                json.put(country, value.toJSONObject());
-                json.addTranslatedKey(country);
+                json.put(country, value.toJSONObject(), true);
             }
         }
         return json;

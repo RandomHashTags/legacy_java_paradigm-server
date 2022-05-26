@@ -34,8 +34,7 @@ public final class APODEvent extends UpcomingEvent {
         final JSONObjectTranslatable json = new JSONObjectTranslatable();
         if(copyright != null) {
             final String key = UpcomingEventValue.ASTRONOMY_PICTURE_OF_THE_DAY_COPYRIGHT.getKey();
-            json.put(key, copyright);
-            json.addTranslatedKey(key);
+            json.put(key, copyright, true);
         }
         if(videoURL != null) {
             json.put(UpcomingEventValue.ASTRONOMY_PICTURE_OF_THE_DAY_VIDEO_URL.getKey(), videoURL);

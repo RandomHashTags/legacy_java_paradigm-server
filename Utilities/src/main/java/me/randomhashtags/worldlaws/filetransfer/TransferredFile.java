@@ -1,7 +1,5 @@
 package me.randomhashtags.worldlaws.filetransfer;
 
-import org.json.JSONArray;
-
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.InputStream;
@@ -30,12 +28,11 @@ public final class TransferredFile {
         fileName = new String(inputStream.readNBytes(fileNameLength));
 
         final byte[] remainingBytes = inputStream.readAllBytes();
-        final String string = new String(remainingBytes);
-        final JSONArray array = new JSONArray(string);
-        final int length = array.length();
+        final String[] array = new String(remainingBytes).replace("[", "").replace("]", "").replace(" ", "").split(",");
+        final int length = array.length;
         final byte[] contentBytes = new byte[length];
         for(int i = 0; i < length; i++) {
-            contentBytes[i] = (byte) array.getInt(i);
+            contentBytes[i] = Byte.parseByte(array[i]);
         }
         bytes = contentBytes;
     }

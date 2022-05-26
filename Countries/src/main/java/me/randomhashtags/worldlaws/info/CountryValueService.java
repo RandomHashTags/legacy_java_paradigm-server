@@ -42,16 +42,14 @@ public interface CountryValueService extends NewCountryServiceCentralData {
         for(String country : json.keySet()) {
             final JSONObject countryJSON = json.getJSONObject(country);
             final CountrySingleValue value = CountrySingleValue.parse(countryJSON);
-            translatable.put(country, value.toJSONObject());
-            translatable.addTranslatedKey(country);
+            translatable.put(country, value.toJSONObject(), true);
         }
         return translatable;
     }
 
     @Override
     default void insertCountryData(JSONObjectTranslatable dataJSON, JSONObjectTranslatable countryJSON) {
-        countryJSON.addTranslatedKey("title");
-        countryJSON.put("title", getInfo().getTitle());
+        countryJSON.put("title", getInfo().getTitle(), true);
         countryJSON.put("sources", getSources().toJSONObject());
         if(!countryJSON.has("yearOfData")) {
             countryJSON.put("yearOfData", getYearOfData());

@@ -37,8 +37,7 @@ public interface CountryRankingService extends NewCountryServiceCentralData {
         for(String country : json.keySet()) {
             final JSONObject countryJSON = json.getJSONObject(country);
             final CountryRankingInfoValue value = CountryRankingInfoValue.parse(countryJSON);
-            translatable.put(country, value.toJSONObject());
-            translatable.addTranslatedKey(country);
+            translatable.put(country, value.toJSONObject(), true);
         }
         return translatable;
     }

@@ -65,8 +65,7 @@ public final class SubdivisionStatute {
         json.put("reference", reference.toJSONObject());
         json.put("subdivisions", getSubdivisionsJSON());
         if(description != null) {
-            json.put("description", description);
-            json.addTranslatedKey("description");
+            json.put("description", description, true);
         }
         return json;
     }

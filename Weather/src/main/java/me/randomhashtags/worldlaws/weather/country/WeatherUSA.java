@@ -257,7 +257,7 @@ public enum WeatherUSA implements WeatherController {
                 for(String string : events) {
                     final String[] values = string.split("\\|");
                     final String event = values[0], id = values[1];
-                    final RemoteNotification notification = new RemoteNotification(subcategory, false, event, "Was just issued for local zone \"" + zoneID + "\"", pathPrefix + id, zoneID);
+                    final RemoteNotification notification = new RemoteNotification(subcategory, false, event, "Was just issued for local zone \"" + zoneID + "\"", pathPrefix + id, countryBackendID + "|" + zoneID);
                     notifications.add(notification);
                 }
             }

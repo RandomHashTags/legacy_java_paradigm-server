@@ -112,8 +112,7 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
         final JSONObjectTranslatable translatable = new JSONObjectTranslatable();
         for(Map.Entry<String, JSONTranslatable> entry : map.entrySet()) {
             final String totalPath = entry.getKey();
-            translatable.put(totalPath, entry.getValue());
-            translatable.addTranslatedKey(totalPath);
+            translatable.put(totalPath, entry.getValue(), true);
         }
         CACHED_HOME_RESPONSES.put(apiVersion, translatable);
         return translatable;

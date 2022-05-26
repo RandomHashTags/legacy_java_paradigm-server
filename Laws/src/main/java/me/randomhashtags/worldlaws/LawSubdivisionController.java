@@ -163,8 +163,7 @@ public abstract class LawSubdivisionController implements Jsoupable {
                 final SubdivisionLegal legal = isIndex ? new SubdivisionStatuteIndex(backendID) : new SubdivisionStatuteChapter(backendID);
                 legal.setTitle(title);
                 final String id = legal.getID();
-                json.put(id, legal.toJSONObject());
-                json.addTranslatedKey(id);
+                json.put(id, legal.toJSONObject(), true);
             }
         }
         return json;

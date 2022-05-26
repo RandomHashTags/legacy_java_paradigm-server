@@ -28,16 +28,14 @@ public final class CountrySingleValue {
     public JSONObjectTranslatable toJSONObject() {
         final JSONObjectTranslatable json = new JSONObjectTranslatable();
         if(notes != null) {
-            json.put("notes", notes);
-            json.addTranslatedKey("notes");
+            json.put("notes", notes, true);
         }
         json.put("value", value);
         if(value != null && !value.startsWith("https")) {
             json.addTranslatedKey("value");
         }
         if(valueDescription != null && !valueDescription.isEmpty()) {
-            json.put("valueDescription", valueDescription);
-            json.addTranslatedKey("valueDescription");
+            json.put("valueDescription", valueDescription, true);
         }
         if(yearOfData != -1) {
             json.put("yearOfData", yearOfData);

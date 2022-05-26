@@ -102,8 +102,7 @@ public enum WeatherAlerts {
                 final String country = controller.getCountry().getBackendID();
                 final JSONObjectTranslatable json = new JSONObjectTranslatable();
                 json.put("source", controller.getSource().toJSONObject(true));
-                json.put("alerts", preAlerts);
-                json.addTranslatedKey("alerts");
+                json.put("alerts", preAlerts, true);
                 values.put(country, json);
             }
         });
@@ -113,8 +112,7 @@ public enum WeatherAlerts {
             json = new JSONObjectTranslatable();
             for(Map.Entry<String, JSONObjectTranslatable> map : values.entrySet()) {
                 final String country = map.getKey();
-                json.put(country, map.getValue());
-                json.addTranslatedKey(country);
+                json.put(country, map.getValue(), true);
             }
         }
         return json;
@@ -159,8 +157,7 @@ public enum WeatherAlerts {
         final JSONObjectTranslatable json = new JSONObjectTranslatable();
         for(Map.Entry<String, JSONObjectTranslatable> map : countries.entrySet()) {
             final String country = map.getKey();
-            json.put(country, map.getValue());
-            json.addTranslatedKey(country);
+            json.put(country, map.getValue(), true);
         }
         allAlertsJSON = json;
     }

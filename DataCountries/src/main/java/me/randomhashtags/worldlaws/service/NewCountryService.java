@@ -17,7 +17,7 @@ import java.util.HashMap;
 import java.util.concurrent.ConcurrentHashMap;
 
 public interface NewCountryService extends WLService {
-    HashMap<SovereignStateInfo, HashMap<String, JSONObjectTranslatable>> DATA_CACHE = new HashMap<>();
+    ConcurrentHashMap<SovereignStateInfo, HashMap<String, JSONObjectTranslatable>> DATA_CACHE = new ConcurrentHashMap<>();
     ConcurrentHashMap<SovereignStateInfo, HashMap<String, JSONObjectTranslatable>> COUNTRY_CACHE = new ConcurrentHashMap<>(), SUBDIVISION_CACHE = new ConcurrentHashMap<>();
 
     Folder getFolder();

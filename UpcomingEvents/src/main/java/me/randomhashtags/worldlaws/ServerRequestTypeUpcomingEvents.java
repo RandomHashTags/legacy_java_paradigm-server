@@ -207,11 +207,9 @@ public enum ServerRequestTypeUpcomingEvents implements ServerRequestType {
                     final Collection<LoadedPreUpcomingEvent> events = map.getValue();
                     for(LoadedPreUpcomingEvent event : events) {
                         final String id = event.getID();
-                        dateStringJSON.put(id, event.getJSONObject());
-                        dateStringJSON.addTranslatedKey(id);
+                        dateStringJSON.put(id, event.getJSONObject(), true);
                     }
-                    datesJSON.put(dateString, dateStringJSON);
-                    datesJSON.addTranslatedKey(dateString);
+                    datesJSON.put(dateString, dateStringJSON, true);
                 }
                 controllerJSON.put("dates", datesJSON);
             }
@@ -225,8 +223,7 @@ public enum ServerRequestTypeUpcomingEvents implements ServerRequestType {
                 controllerJSON.put("exactTimes", exactTimesJSON);
             }
             if(!controllerJSON.isEmpty()) {
-                json.put(typeIdentifier, controllerJSON);
-                json.addTranslatedKey(typeIdentifier);
+                json.put(typeIdentifier, controllerJSON, true);
             }
         });
         return json.isEmpty() ? null : json;

@@ -54,7 +54,7 @@ public enum ResponseVersions {
             case REMOTE_NOTIFICATIONS:
                 return 3;
             case UPCOMING_EVENT_TYPES:
-                return 13;
+                return 14;
             case VIDEO_GAMES:
                 return 1;
 

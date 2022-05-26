@@ -74,8 +74,7 @@ public enum UpcomingEventType {
                 for(UpcomingEventValue value : values) {
                     final String key = value.getKey();
                     categories.add(value.getCategory());
-                    valuesJSON.put(key, value.toJSONObject());
-                    valuesJSON.addTranslatedKey(key);
+                    valuesJSON.put(key, value.toJSONObject(), true);
                 }
                 typeJSON.put("values", valuesJSON);
 
@@ -84,8 +83,7 @@ public enum UpcomingEventType {
                 }
             }
             final String typeID = type.getID();
-            typesJSON.put(typeID, typeJSON);
-            typesJSON.addTranslatedKey(typeID);
+            typesJSON.put(typeID, typeJSON, true);
         }
         json.put("types", typesJSON);
         json.put("categories", categoriesJSON);

@@ -80,8 +80,7 @@ public interface CountryProductionService extends NewCountryService {
         }
         countryJSON.put("maxWorldRank", dataJSON.keySet().size());
         countryJSON.put("valueType", NumberType.INTEGER.name());
-        countryJSON.put("title", getInfo().getTitle());
-        countryJSON.addTranslatedKey("title");
+        countryJSON.put("title", getInfo().getTitle(), true);
 
         final String url = getURL();
         final String siteName = url.split("/wiki/")[1].replace("_", " ");
@@ -97,10 +96,8 @@ public interface CountryProductionService extends NewCountryService {
             final JSONObject valueJSON = json.getJSONObject(country);
             final CountryAgricultureValue value = CountryAgricultureValue.parse(valueJSON);
             final JSONObjectTranslatable test = value.toJSONObject();
-            test.put("title", getInfo().getTitle());
-            test.addTranslatedKey("title");
-            translatable.put(country, test);
-            translatable.addTranslatedKey(country);
+            test.put("title", getInfo().getTitle(), true);
+            translatable.put(country, test, true);
         }
         return translatable;
     }

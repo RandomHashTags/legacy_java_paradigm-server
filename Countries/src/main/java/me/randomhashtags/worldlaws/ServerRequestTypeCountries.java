@@ -97,8 +97,7 @@ public enum ServerRequestTypeCountries implements ServerRequestType {
             for(String title : services) {
                 final JSONObjectTranslatable filterJSON = new JSONObjectTranslatable("title");
                 filterJSON.put("title", title);
-                json.put(title, filterJSON);
-                json.addTranslatedKey(title);
+                json.put(title, filterJSON, true);
             }
             json.put("response_version", responseVersion);
             Jsonable.setFileJSONObject(folder, fileName, json);

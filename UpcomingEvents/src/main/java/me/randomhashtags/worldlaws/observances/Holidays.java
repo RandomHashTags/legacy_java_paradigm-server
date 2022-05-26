@@ -66,14 +66,12 @@ public enum Holidays {
                 final PreHoliday preHoliday = preHolidayMap.getValue();
                 final String identifier = preHoliday.getIdentifier();
                 preHoliday.insertCountries();
-                holidaysJSON.put(identifier, preHoliday);
-                holidaysJSON.addTranslatedKey(identifier);
+                holidaysJSON.put(identifier, preHoliday, true);
             }
             if(json.has(dateString)) {
                 json.getJSONObjectTranslatable(dateString).append(holidaysJSON);
             } else {
-                json.put(dateString, holidaysJSON);
-                json.addTranslatedKey(dateString);
+                json.put(dateString, holidaysJSON, true);
             }
         }
     }

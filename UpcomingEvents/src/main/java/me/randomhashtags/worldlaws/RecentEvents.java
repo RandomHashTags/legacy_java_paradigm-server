@@ -79,14 +79,11 @@ public enum RecentEvents {
                     final JSONObjectTranslatable valuesJSON = new JSONObjectTranslatable();
                     for(PreRecentEvent event : dates.getValue()) {
                         final String identifier = event.getIdentifier();
-                        valuesJSON.put(identifier, event.toJSONObject());
-                        valuesJSON.addTranslatedKey(identifier);
+                        valuesJSON.put(identifier, event.toJSONObject(), true);
                     }
-                    typeJSON.put(dateString, valuesJSON);
-                    typeJSON.addTranslatedKey(dateString);
+                    typeJSON.put(dateString, valuesJSON, true);
                 }
-                json.put(typeID, typeJSON);
-                json.addTranslatedKey(typeID);
+                json.put(typeID, typeJSON, true);
             }
         }
         WLLogger.logInfo("RecentEvents - loaded (took " + WLUtilities.getElapsedTime (started) + ")");

@@ -78,8 +78,7 @@ public enum USCongress implements Jsoupable, Jsonable {
                 json.setFolder(folder);
                 json.setFileName(fileName);
                 for(String key : localJSON.keySet()) {
-                    json.put(key, localJSON.get(key));
-                    json.addTranslatedKey(key);
+                    json.put(key, localJSON.get(key), true);
                 }
             }
 
@@ -118,14 +117,11 @@ public enum USCongress implements Jsoupable, Jsonable {
                 final JSONObjectTranslatable billsJSON = new JSONObjectTranslatable();
                 for(PreCongressBill bill : values) {
                     final String id = bill.getID();
-                    billsJSON.put(id, bill.toJSONObject());
-                    billsJSON.addTranslatedKey(id);
+                    billsJSON.put(id, bill.toJSONObject(), true);
                 }
-                dateStringJSON.put(dateString, billsJSON);
-                dateStringJSON.addTranslatedKey(dateString);
+                dateStringJSON.put(dateString, billsJSON, true);
             }
-            json.put(chamber, dateStringJSON);
-            json.addTranslatedKey(chamber);
+            json.put(chamber, dateStringJSON, true);
         }
         return json;
     }
@@ -206,8 +202,7 @@ public enum USCongress implements Jsoupable, Jsonable {
                 json.setFolder(folder);
                 json.setFileName(fileName);
                 for(String key : localJSON.keySet()) {
-                    json.put(key, localJSON.get(key));
-                    json.addTranslatedKey(key);
+                    json.put(key, localJSON.get(key), true);
                 }
             }
             enactedBills.put(versionInt, json);
@@ -258,14 +253,11 @@ public enum USCongress implements Jsoupable, Jsonable {
                     final HashSet<PreEnactedBill> values = map.getValue();
                     for(PreEnactedBill value : values) {
                         final String id = value.getID();
-                        enactedBillsJSON.put(id, value.toJSONObject());
-                        enactedBillsJSON.addTranslatedKey(id);
+                        enactedBillsJSON.put(id, value.toJSONObject(), true);
                     }
-                    chamberJSON.put(chamber, enactedBillsJSON);
-                    chamberJSON.addTranslatedKey(chamber);
+                    chamberJSON.put(chamber, enactedBillsJSON, true);
                 }
-                json.put(dateString, chamberJSON);
-                json.addTranslatedKey(dateString);
+                json.put(dateString, chamberJSON, true);
             }
             return json;
         } else {

@@ -52,8 +52,7 @@ public final class CountryInfoKey {
     public JSONObjectTranslatable toJSONObject() {
         final JSONObjectTranslatable json = new JSONObjectTranslatable("values");
         if(notes != null && !notes.isEmpty()) {
-            json.put("notes", notes);
-            json.addTranslatedKey("notes");
+            json.put("notes", notes, true);
         }
         if(yearOfData != -1) {
             json.put("yearOfData", yearOfData);

@@ -32,8 +32,7 @@ public final class PreCongressBill {
     public JSONObjectTranslatable toJSONObject() {
         final JSONObjectTranslatable json = new JSONObjectTranslatable("title");
         if(notes != null) {
-            json.put("notes", notes);
-            json.addTranslatedKey("notes");
+            json.put("notes", notes, true);
         }
         json.put("title", title);
         json.put("committees", committees);

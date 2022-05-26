@@ -72,8 +72,7 @@ public enum ServerRequestTypeServices implements ServerRequestType {
             final String[] values = request.split("/");
             final JSONObjectTranslatable string = getStockMarketResponse(version, values);
             if(string != null) {
-                json.put(request, string);
-                json.addTranslatedKey(request);
+                json.put(request, string, true);
             }
         });
         WLLogger.logInfo("Services - loaded stock market home response (took " + WLUtilities.getElapsedTime(started) + ")");

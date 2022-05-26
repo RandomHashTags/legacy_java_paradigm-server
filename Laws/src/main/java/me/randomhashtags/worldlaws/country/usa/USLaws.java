@@ -68,8 +68,7 @@ public final class USLaws extends LawController {
             final JSONObjectTranslatable statusesJSON = new JSONObjectTranslatable();
             for(BillStatus status : getBillStatuses()) {
                 final String id = status.getID();
-                statusesJSON.put(id, status.toJSONObject());
-                statusesJSON.addTranslatedKey(id);
+                statusesJSON.put(id, status.toJSONObject(), true);
             }
             json.put("statuses", statusesJSON);
 

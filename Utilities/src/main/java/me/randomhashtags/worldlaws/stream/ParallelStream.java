@@ -13,10 +13,11 @@ public final class ParallelStream<T> {
     private static final int MAXIMUM_PARALLEL_THREADS = Settings.Performance.getMaximumParallelThreads();
 
     public void stream(Collection<? super T> items, Consumer<? super T> iterator) {
-        stream(items.spliterator(), iterator);
+        stream(items.size(), items.spliterator(), iterator);
     }
-    public void stream(Spliterator<? super T> items, Consumer<? super T> iterator) {
-        final ForkJoinPool pool = new ForkJoinPool(MAXIMUM_PARALLEL_THREADS);
+    private void stream(int size, Spliterator<? super T> items, Consumer<? super T> iterator) {
+        final int threadCount = Math.min(size, MAXIMUM_PARALLEL_THREADS);
+        final ForkJoinPool pool = new ForkJoinPool(threadCount);
         final Consumer<? super T> test = o -> {
             try {
                 iterator.accept(o);

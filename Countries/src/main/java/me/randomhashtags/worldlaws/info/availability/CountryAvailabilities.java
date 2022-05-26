@@ -215,11 +215,9 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
             final JSONObjectTranslatable statusJSON = new JSONObjectTranslatable();
             for(Map.Entry<String, JSONArray> entry : map.getValue().entrySet()) {
                 final String primaryCategory = entry.getKey();
-                statusJSON.put(primaryCategory, entry.getValue());
-                statusJSON.addTranslatedKey(primaryCategory);
+                statusJSON.put(primaryCategory, entry.getValue(), true);
             }
-            translatable.put("" + isAvailable, statusJSON);
-            translatable.addTranslatedKey("" + isAvailable);
+            translatable.put("" + isAvailable, statusJSON, true);
         }
         return translatable;
     }

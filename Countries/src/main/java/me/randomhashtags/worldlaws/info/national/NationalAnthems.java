@@ -56,8 +56,7 @@ public enum NationalAnthems implements CountryNationalService { // https://en.wi
                 for(Map.Entry<String, String> map : countries.entrySet()) {
                     final String country = map.getKey(), audioURL = map.getValue();
                     final CountrySingleValue value = new CountrySingleValue(null, audioURL, null, -1);
-                    json.put(country, value.toJSONObject());
-                    json.addTranslatedKey(country);
+                    json.put(country, value.toJSONObject(), true);
                 }
             }
         }

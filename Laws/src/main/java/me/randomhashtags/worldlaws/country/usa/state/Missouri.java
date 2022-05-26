@@ -65,8 +65,7 @@ public final class Missouri extends LawSubdivisionController {
                         final SubdivisionStatuteChapter stateChapter = new SubdivisionStatuteChapter(chapter);
                         stateChapter.setTitle(title);
                         final String id = stateChapter.getID();
-                        json.put(id, stateChapter.toJSONObject());
-                        json.addTranslatedKey(id);
+                        json.put(id, stateChapter.toJSONObject(), true);
                         chapterIndex++;
                     }
                 }

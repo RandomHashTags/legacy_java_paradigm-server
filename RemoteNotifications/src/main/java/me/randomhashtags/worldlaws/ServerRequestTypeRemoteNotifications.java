@@ -69,13 +69,11 @@ public enum ServerRequestTypeRemoteNotifications implements ServerRequestType {
                 final JSONObjectTranslatable subcategoriesJSON = new JSONObjectTranslatable();
                 for(RemoteNotificationSubcategory subcategory : subcategories) {
                     final String id = subcategory.getID();
-                    subcategoriesJSON.put(id, subcategory.toJSONObject());
-                    subcategoriesJSON.addTranslatedKey(id);
+                    subcategoriesJSON.put(id, subcategory.toJSONObject(), true);
                 }
                 categoryJSON.put("subcategories", subcategoriesJSON);
                 final String id = category.getID();
-                json.put(id, categoryJSON);
-                json.addTranslatedKey(id);
+                json.put(id, categoryJSON, true);
             }
         }
         return json;
@@ -90,15 +88,19 @@ public enum ServerRequestTypeRemoteNotifications implements ServerRequestType {
                 final RemoteNotificationSubcategory subcategory = category.valueOfSubcategory(values[2]);
                 if(subcategory != null) {
                     final String token = values[3];
+                    final boolean isOnlySubcategory = values.length == 4;
                     if(register) {
-                        if(values.length == 4) {
+                        if(isOnlySubcategory) {
                             controller.register(subcategory, token);
                         } else {
-                            final String conditionalValue = values[4].replace(" ", "_");
-                            controller.register(subcategory, token, conditionalValue);
+                            controller.registerConditionalValue(subcategory, token, values[4]);
                         }
                     } else {
-                        controller.unregister(subcategory, token);
+                        if(isOnlySubcategory) {
+                            controller.unregister(subcategory, token);
+                        } else {
+                            controller.unregisterConditionalValue(subcategory, token, values[4]);
+                        }
                     }
                     final JSONObjectTranslatable json = new JSONObjectTranslatable();
                     json.put("value", true);
@@ -178,7 +180,6 @@ public enum ServerRequestTypeRemoteNotifications implements ServerRequestType {
             for(DeviceTokenType tokenType : DeviceTokenType.values()) {
                 final RemoteNotificationDeviceTokenController controller = tokenType.getController();
                 if(controller != null) {
-                    controller.update();
                     final HashSet<RemoteNotification> sendable = new HashSet<>();
                     for(RemoteNotification notification : parsedNotifications) {
                         if(controller.shouldSendNotification(notification)) {
@@ -197,6 +198,7 @@ public enum ServerRequestTypeRemoteNotifications implements ServerRequestType {
                 WLLogger.logInfo("RemoteNotifications - sending " + amount + " remote notification" + (amount > 1 ? "s" : ""));
                 for(Map.Entry<RemoteNotificationDeviceTokenController, HashSet<RemoteNotification>> entry : sendableNotifications.entrySet()) {
                     final RemoteNotificationDeviceTokenController controller = entry.getKey();
+                    controller.update();
                     final HashSet<RemoteNotification> sendable = entry.getValue();
                     new CompletableFutures<RemoteNotification>().stream(sendable, controller::sendNotification);
                 }

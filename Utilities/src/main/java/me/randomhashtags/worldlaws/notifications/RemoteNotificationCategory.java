@@ -65,8 +65,7 @@ public enum RemoteNotificationCategory {
             final JSONObjectTranslatable subcategoriesJSON = new JSONObjectTranslatable();
             for(RemoteNotificationSubcategory subcategory : subcategories) {
                 final String id = subcategory.getID();
-                subcategoriesJSON.put(id, subcategory.toJSONObject());
-                subcategoriesJSON.addTranslatedKey(id);
+                subcategoriesJSON.put(id, subcategory.toJSONObject(), true);
             }
             json.put("subcategories", subcategoriesJSON);
         }

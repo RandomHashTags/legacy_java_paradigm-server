@@ -28,8 +28,7 @@ public final class CountryInfoValue implements Jsoupable {
         final JSONObjectTranslatable json = new JSONObjectTranslatable("title", "value");
         json.put("title", title);
         if(description != null) {
-            json.put("description", description);
-            json.addTranslatedKey("description");
+            json.put("description", description, true);
         }
         json.put("value", value);
         return json;

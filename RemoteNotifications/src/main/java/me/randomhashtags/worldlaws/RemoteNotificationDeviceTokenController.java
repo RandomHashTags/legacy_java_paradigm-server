@@ -6,7 +6,6 @@ import me.randomhashtags.worldlaws.notifications.RemoteNotificationSubcategory;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
 
@@ -14,7 +13,7 @@ public interface RemoteNotificationDeviceTokenController extends RestAPI, Jsonab
     RemoteNotificationCategory getCategory();
     DeviceTokenType getDeviceTokenType();
     Map<RemoteNotificationSubcategory, HashSet<String>> getDeviceTokens();
-    default Map<RemoteNotificationSubcategory, HashMap<String, HashSet<String>>> getConditionalDeviceTokens() {
+    default Map<RemoteNotificationSubcategory, DeviceTokenPairs> getConditionalDeviceTokens() {
         return null;
     }
 
@@ -22,9 +21,15 @@ public interface RemoteNotificationDeviceTokenController extends RestAPI, Jsonab
         if(!subcategory.isConditional()) {
             return null;
         }
-        final Map<RemoteNotificationSubcategory, HashMap<String, HashSet<String>>> map = getConditionalDeviceTokens();
-        if(map != null && !map.isEmpty() && map.containsKey(subcategory) && map.get(subcategory).containsKey(conditionalValue)) {
-            return map.get(subcategory).get(conditionalValue);
+        final Map<RemoteNotificationSubcategory, DeviceTokenPairs> map = getConditionalDeviceTokens();
+        if(map != null && !map.isEmpty() && map.containsKey(subcategory)) {
+            final HashSet<String> tokens = new HashSet<>();
+            for(DeviceTokenPair pair : map.get(subcategory)) {
+                if(pair.getValues().contains(conditionalValue)) {
+                    tokens.add(pair.getDeviceToken());
+                }
+            }
+            return tokens;
         }
         return null;
     }
@@ -56,19 +61,17 @@ public interface RemoteNotificationDeviceTokenController extends RestAPI, Jsonab
     }
     default void saveConditional() {
         final RemoteNotificationCategory category = getCategory();
-        final Map<RemoteNotificationSubcategory, HashMap<String, HashSet<String>>> deviceTokens = getConditionalDeviceTokens();
+        final Map<RemoteNotificationSubcategory, DeviceTokenPairs> deviceTokens = getConditionalDeviceTokens();
         if(category != null && deviceTokens != null) {
             final Folder folder = Folder.DEVICE_TOKENS;
             final String folderName = getCategoryFolderName();
-            for(Map.Entry<RemoteNotificationSubcategory, HashMap<String, HashSet<String>>> entry : deviceTokens.entrySet()) {
+            for(Map.Entry<RemoteNotificationSubcategory, DeviceTokenPairs> entry : deviceTokens.entrySet()) {
                 final RemoteNotificationSubcategory subcategory = entry.getKey();
                 final String fileName = subcategory.name();
-                final HashMap<String, HashSet<String>> conditionalTokens = entry.getValue();
+                final HashSet<DeviceTokenPair> conditionalTokens = entry.getValue();
                 final JSONObject json = new JSONObject();
-                for(Map.Entry<String, HashSet<String>> conditionalToken : conditionalTokens.entrySet()) {
-                    final String conditionalValue = conditionalToken.getKey();
-                    final JSONArray tokens = new JSONArray(conditionalToken.getValue());
-                    json.put(conditionalValue, tokens);
+                for(DeviceTokenPair pair : conditionalTokens) {
+                    json.put(pair.getDeviceToken(), pair.toJSONArray());
                 }
                 folder.setCustomFolderName(fileName, folderName);
                 Jsonable.setFileJSONObject(folder, fileName, json);
@@ -97,7 +100,7 @@ public interface RemoteNotificationDeviceTokenController extends RestAPI, Jsonab
             }
         }
     }
-    default void insertConditionalDeviceTokens(Map<RemoteNotificationSubcategory, HashMap<String, HashSet<String>>> map) {
+    default void insertConditionalDeviceTokens(Map<RemoteNotificationSubcategory, DeviceTokenPairs> map) {
         final RemoteNotificationCategory category = getCategory();
         final RemoteNotificationSubcategory[] subcategories = category != null ? category.getSubcategories() : null;
         if(subcategories != null) {
@@ -105,22 +108,11 @@ public interface RemoteNotificationDeviceTokenController extends RestAPI, Jsonab
             final String folderName = getCategoryFolderName();
             for(RemoteNotificationSubcategory subcategory : subcategories) {
                 if(subcategory.isConditional()) {
-                    map.put(subcategory, new HashMap<>());
                     final String fileName = subcategory.name();
                     folder.setCustomFolderName(fileName, folderName);
                     final JSONObject json = Jsonable.getStaticLocalFileJSONObject(folder, fileName);
                     if(json != null && !json.isEmpty()) {
-                        final HashMap<String, HashSet<String>> tokens = new HashMap<>();
-                        for(Map.Entry<String, Object> entry : json.toMap().entrySet()) {
-                            final String conditionalValue = entry.getKey();
-                            final JSONArray array = (JSONArray) entry.getValue();
-                            final HashSet<String> deviceTokens = new HashSet<>();
-                            for(Object obj : array) {
-                                deviceTokens.add((String) obj);
-                            }
-                            tokens.put(conditionalValue, deviceTokens);
-                        }
-                        map.put(subcategory, tokens);
+                        map.put(subcategory, new DeviceTokenPairs(json));
                     }
                     folder.removeCustomFolderName(fileName);
                 }
@@ -134,12 +126,17 @@ public interface RemoteNotificationDeviceTokenController extends RestAPI, Jsonab
             deviceTokens.get(subcategory).add(deviceToken);
         }
     }
-    default void register(RemoteNotificationSubcategory subcategory, String deviceToken, String conditionalValue) {
-        final Map<RemoteNotificationSubcategory, HashMap<String, HashSet<String>>> deviceTokens = getConditionalDeviceTokens();
+    default void registerConditionalValue(RemoteNotificationSubcategory subcategory, String deviceToken, String conditionalValue) {
+        final Map<RemoteNotificationSubcategory, DeviceTokenPairs> deviceTokens = getConditionalDeviceTokens();
         if(deviceTokens != null) {
-            deviceTokens.putIfAbsent(subcategory, new HashMap<>());
-            deviceTokens.get(subcategory).putIfAbsent(conditionalValue, new HashSet<>());
-            deviceTokens.get(subcategory).get(conditionalValue).add(deviceToken);
+            deviceTokens.putIfAbsent(subcategory, new DeviceTokenPairs());
+            final DeviceTokenPair existing = deviceTokens.get(subcategory).valueOfToken(deviceToken);
+            if(existing != null) {
+                existing.addValue(conditionalValue);
+            } else {
+                final DeviceTokenPair pair = new DeviceTokenPair(deviceToken, conditionalValue);
+                deviceTokens.get(subcategory).add(pair);
+            }
         }
     }
 
@@ -148,20 +145,25 @@ public interface RemoteNotificationDeviceTokenController extends RestAPI, Jsonab
         if(deviceTokens != null && deviceTokens.containsKey(subcategory)) {
             deviceTokens.get(subcategory).remove(deviceToken);
         }
-        final Map<RemoteNotificationSubcategory, HashMap<String, HashSet<String>>> conditionalDeviceTokens = getConditionalDeviceTokens();
+        final Map<RemoteNotificationSubcategory, DeviceTokenPairs> conditionalDeviceTokens = getConditionalDeviceTokens();
         if(conditionalDeviceTokens != null && conditionalDeviceTokens.containsKey(subcategory)) {
-            final HashMap<String, HashSet<String>> hashmap = conditionalDeviceTokens.get(subcategory);
-            for(String conditionalValue : hashmap.keySet()) {
-                hashmap.get(conditionalValue).remove(deviceToken);
+            conditionalDeviceTokens.get(subcategory).removePairWithDeviceToken(deviceToken);
+        }
+    }
+    default void unregisterConditionalValue(RemoteNotificationSubcategory subcategory, String deviceToken, String conditionalValue) {
+        final Map<RemoteNotificationSubcategory, DeviceTokenPairs> conditionalDeviceTokens = getConditionalDeviceTokens();
+        if(conditionalDeviceTokens != null && conditionalDeviceTokens.containsKey(subcategory)) {
+            final DeviceTokenPair pair = conditionalDeviceTokens.get(subcategory).valueOfToken(deviceToken);
+            if(pair != null) {
+                pair.removeValue(conditionalValue);
             }
-            conditionalDeviceTokens.get(subcategory).remove(deviceToken);
         }
     }
     default boolean isRegistered(RemoteNotificationSubcategory subcategory, String deviceToken) {
         final Map<RemoteNotificationSubcategory, HashSet<String>> deviceTokens = getDeviceTokens();
-        final Map<RemoteNotificationSubcategory, HashMap<String, HashSet<String>>> conditionalDeviceTokens = getConditionalDeviceTokens();
+        final Map<RemoteNotificationSubcategory, DeviceTokenPairs> conditionalDeviceTokens = getConditionalDeviceTokens();
         return deviceTokens != null && deviceTokens.containsKey(subcategory) && deviceTokens.get(subcategory).contains(deviceToken)
-                || conditionalDeviceTokens != null && conditionalDeviceTokens.containsKey(subcategory) && conditionalDeviceTokens.get(subcategory).containsKey(deviceToken)
+                || conditionalDeviceTokens != null && conditionalDeviceTokens.containsKey(subcategory) && conditionalDeviceTokens.get(subcategory).valueOfToken(deviceToken) != null
                 ;
     }
     default void update() {

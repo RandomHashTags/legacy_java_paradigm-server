@@ -36,8 +36,7 @@ public interface CountryInfoService extends NewCountryServiceCentralData {
 
     @Override
     default void insertCountryData(JSONObjectTranslatable dataJSON, JSONObjectTranslatable countryJSON) {
-        countryJSON.addTranslatedKey("title");
-        countryJSON.put("title", getInfo().getTitle());
+        countryJSON.put("title", getInfo().getTitle(), true);
         countryJSON.put("sources", getSources().toJSONObject());
     }
 

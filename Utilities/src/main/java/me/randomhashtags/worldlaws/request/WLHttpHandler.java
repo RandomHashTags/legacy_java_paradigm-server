@@ -83,13 +83,11 @@ public interface WLHttpHandler extends HttpHandler {
         final OutputStream out = exchange.getResponseBody();
         try {
             out.write(bytes);
-        } catch (Exception e) {
-            WLUtilities.saveException(e);
+        } catch (Exception ignored) {
         }
         try {
             out.close();
-        } catch (Exception e) {
-            WLUtilities.saveException(e);
+        } catch (Exception ignored) {
         }
     }
 

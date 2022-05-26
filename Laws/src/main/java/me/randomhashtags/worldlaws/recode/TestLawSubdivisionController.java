@@ -143,11 +143,7 @@ public abstract class TestLawSubdivisionController implements Jsoupable, Jsonabl
                 }
             });
             if(localJSON != null) {
-                json = new JSONObjectTranslatable();
-                for(String key : localJSON.keySet()) {
-                    json.put(key, localJSON.get(key));
-                    json.addTranslatedKey(key);
-                }
+                json = JSONObjectTranslatable.copy(localJSON, true);
             }
         }
         return json;

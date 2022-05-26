@@ -26,8 +26,7 @@ public final class WikipediaPicture {
         final JSONObjectTranslatable json = new JSONObjectTranslatable("name");
         json.put("name", name);
         if(title != null) {
-            json.put("title", title);
-            json.addTranslatedKey("title");
+            json.put("title", title, true);
         }
         json.put("imageURL", imageURL);
         return json;

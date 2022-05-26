@@ -266,8 +266,7 @@ public enum CountryRankings implements CountryRankingService {
         final JSONObjectTranslatable json = new JSONObjectTranslatable();
         loadJSONData(json);
         for(String country : json.keySet()) {
-            json.put(country, json.get(country));
-            json.addTranslatedKey(country);
+            json.put(country, json.get(country), true);
         }
         return json;
     }
@@ -283,8 +282,7 @@ public enum CountryRankings implements CountryRankingService {
         if(!countryJSON.has("yearOfData") && yearOfData != -1) {
             countryJSON.put("yearOfData", yearOfData);
         }
-        countryJSON.put("title", getInfo().getTitle());
-        countryJSON.addTranslatedKey("title");
+        countryJSON.put("title", getInfo().getTitle(), true);
         countryJSON.put("maxWorldRank", dataJSON.keySet().size());
 
         final String siteName = url.startsWith("https://en.wikipedia.org/wiki/") ? url.split("/wiki/")[1].replace("_", " ") : getSiteName();

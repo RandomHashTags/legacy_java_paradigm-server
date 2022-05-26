@@ -80,17 +80,13 @@ public enum Elections implements RestAPI, DataValues {
                         final JSONObjectTranslatable territoryJSON = new JSONObjectTranslatable();
                         for(Election election : territoriesMap.getValue()) {
                             final String id = election.getID();
-                            territoryJSON.put(id, election.toJSONObject());
-                            territoryJSON.addTranslatedKey(id);
+                            territoryJSON.put(id, election.toJSONObject(), true);
                         }
-                        countryJSON.put(territory, territoryJSON);
-                        countryJSON.addTranslatedKey(territory);
+                        countryJSON.put(territory, territoryJSON, true);
                     }
-                    dateStringJSON.put(country, countryJSON);
-                    dateStringJSON.addTranslatedKey(country);
+                    dateStringJSON.put(country, countryJSON, true);
                 }
-                json.put(dateString, dateStringJSON);
-                json.addTranslatedKey(dateString);
+                json.put(dateString, dateStringJSON, true);
             }
         }
         WLLogger.logInfo("Elections - refreshed upcoming elections (took " + WLUtilities.getElapsedTime(started) + ")");

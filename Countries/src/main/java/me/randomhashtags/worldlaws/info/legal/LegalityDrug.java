@@ -35,8 +35,7 @@ public interface LegalityDrug extends CountryLegalityService {
             final Elements tds = element.select("td");
             final String country = tds.get(0).text().toLowerCase().split("\\(")[0].replace(" ", "").replace(",", "").split("\\[edit]")[0];
             final CountryInfoKey info = getInfoKey(tds, cultivationTitle);
-            json.put(country, info.toJSONObject());
-            json.addTranslatedKey(country);
+            json.put(country, info.toJSONObject(), true);
         }
         return json;
     }

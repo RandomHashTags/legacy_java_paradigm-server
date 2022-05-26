@@ -40,11 +40,9 @@ public interface CountryNationalService extends NewCountryServiceCentralData {
             final CountrySingleValue value = CountrySingleValue.parse(countryJSON);
             final JSONObjectTranslatable valueJSON = value.toJSONObject();
             if(countryJSON.has("pictures")) {
-                valueJSON.put("pictures", countryJSON.getJSONArray("pictures"));
-                valueJSON.addTranslatedKey("pictures");
+                valueJSON.put("pictures", countryJSON.getJSONArray("pictures"), true);
             }
-            translatable.put(country, valueJSON);
-            translatable.addTranslatedKey(country);
+            translatable.put(country, valueJSON, true);
         }
         return translatable;
     }
@@ -88,8 +86,7 @@ public interface CountryNationalService extends NewCountryServiceCentralData {
                 }
                 final JSONObjectTranslatable countryJSON = new JSONObjectTranslatable("pictures");
                 countryJSON.put("pictures", pictures);
-                json.put(country, countryJSON);
-                json.addTranslatedKey(country);
+                json.put(country, countryJSON, true);
             }
         }
         return json;

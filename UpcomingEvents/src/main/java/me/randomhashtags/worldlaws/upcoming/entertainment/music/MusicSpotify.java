@@ -71,8 +71,7 @@ public final class MusicSpotify extends LoadedUpcomingEventController implements
                         for(Object artistObj : artistsArray) {
                             final JSONObject artistJSON = (JSONObject) artistObj;
                             final String id = artistJSON.getString("id"), name = artistJSON.getString("name");
-                            artists.put(id, name);
-                            artists.addTranslatedKey(id);
+                            artists.put(id, name, true);
                         }
 
                         final String name = trackJSON.getString("name");

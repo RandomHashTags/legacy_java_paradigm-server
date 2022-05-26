@@ -75,8 +75,7 @@ public final class ScienceYearReview extends LoadedUpcomingEventController {
                             mentionedCountries.addAll(keys);
                         }
                     }
-                    json.put(yearString, array);
-                    json.addTranslatedKey(yearString);
+                    json.put(yearString, array, true);
                     amount += array.length();
                 }
             }

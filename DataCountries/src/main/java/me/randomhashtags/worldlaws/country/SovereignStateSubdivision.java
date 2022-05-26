@@ -144,12 +144,10 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
                 final SovereignStateInfo info = entry.getKey();
                 final String id = info.getTitle();
                 final JSONObjectTranslatable result = entry.getValue();
-                informationTypeJSON.put(id, result);
-                informationTypeJSON.addTranslatedKey(id);
+                informationTypeJSON.put(id, result, true);
             }
             final String informationTypeName = informationType.getName();
-            json.put(informationTypeName, informationTypeJSON);
-            json.addTranslatedKey(informationTypeName);
+            json.put(informationTypeName, informationTypeJSON, true);
         }
         if(!resources.isEmpty()) {
             json.put(SovereignStateInformationType.RESOURCES_STATIC.getName(), resources.toJSONObject());

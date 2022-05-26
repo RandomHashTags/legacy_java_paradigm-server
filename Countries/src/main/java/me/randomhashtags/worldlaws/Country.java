@@ -149,9 +149,7 @@ public interface Country extends SovereignState {
             final JSONObjectTranslatable json = getStaticInformation(), nonStaticInfo = getNonStaticInformation();
             if(json != null) {
                 if(nonStaticInfo != null && !nonStaticInfo.isEmpty()) {
-                    final String key = SovereignStateInformationType.SERVICES_NONSTATIC.getName();
-                    json.put(key, nonStaticInfo);
-                    json.addTranslatedKey(key);
+                    json.append(nonStaticInfo);
                 }
                 INFORMATION_CACHE.put(backendID, json);
             }
@@ -176,8 +174,7 @@ public interface Country extends SovereignState {
                     if(obj instanceof JSONObject) {
                         final JSONObject innerJSON = local.getJSONObject(key);
                         final JSONObjectTranslatable innerJSONTranslatable = JSONObjectTranslatable.copy(innerJSON, true);
-                        json.put(key, innerJSONTranslatable);
-                        json.addTranslatedKey(key);
+                        json.put(key, innerJSONTranslatable, true);
                     } else {
                         json.put(key, obj);
                     }
@@ -193,7 +190,7 @@ public interface Country extends SovereignState {
         json.setFolder(folder);
         json.setFileName(country.getBackendID());
 
-        final HashSet<NewCountryService> services = CountryServices.STATIC_SERVICES;
+        final HashSet<NewCountryService> staticServices = CountryServices.STATIC_SERVICES;
         final EventSources resources = new EventSources();
         final String governmentWebsite = country.getGovernmentWebsite();
         if(governmentWebsite != null) {
@@ -211,7 +208,7 @@ public interface Country extends SovereignState {
         }
 
         final AtomicReference<JSONObjectTranslatable> availabilitiesResult = new AtomicReference<>();
-        new CompletableFutures<NewCountryService>().stream(services, service -> {
+        new CompletableFutures<NewCountryService>().stream(staticServices, service -> {
             final JSONObjectTranslatable result = service.getJSONObject(country);
             if(result != null && !result.isEmpty()) {
                 final SovereignStateInformationType type = service.getInformationType();
@@ -246,11 +243,9 @@ public interface Country extends SovereignState {
                 final SovereignStateInfo info = bruh.getKey();
                 final String infoName = info.getTitle();
                 final JSONObjectTranslatable value = bruh.getValue();
-                infoValues.put(infoName, value);
-                infoValues.addTranslatedKey(infoName);
+                infoValues.put(infoName, value, true);
             }
-            json.put(typeName, infoValues);
-            json.addTranslatedKey(typeName);
+            json.put(typeName, infoValues, true);
         }
         json.put("response_version", ResponseVersions.COUNTRY_INFORMATION.getValue());
         json.save();
@@ -278,7 +273,7 @@ public interface Country extends SovereignState {
     default JSONObjectTranslatable updateNonStaticInformation() {
         final WLCountry wlcountry = getWLCountry();
         final String backendID = getBackendID();
-        final JSONObjectTranslatable json = new JSONObjectTranslatable();
+        final JSONObjectTranslatable json = new JSONObjectTranslatable(), servicesJSON = new JSONObjectTranslatable();
         final EventSources resources = new EventSources();
         final HashSet<NewCountryServiceNonStatic> nonStaticServices = CountryServices.NONSTATIC_SERVICES;
         new CompletableFutures<NewCountryServiceNonStatic>().stream(nonStaticServices, service -> {
@@ -290,12 +285,14 @@ public interface Country extends SovereignState {
             if(serviceJSON != null) {
                 final SovereignStateInfo info = service.getInfo();
                 final String title = info.getTitle();
-                json.put(title, serviceJSON);
-                json.addTranslatedKey(title);
+                servicesJSON.put(title, serviceJSON, true);
             }
         });
+        if(!servicesJSON.isEmpty()) {
+            json.put(SovereignStateInformationType.SERVICES_NONSTATIC.getName(), servicesJSON, true);
+        }
         if(!resources.isEmpty()) {
-            json.put(SovereignStateInformationType.RESOURCES_NONSTATIC.getName(), resources.toJSONObject());
+            json.put(SovereignStateInformationType.RESOURCES_NONSTATIC.getName(), resources.toJSONObject(), true);
         }
         NONSTATIC_INFORMATION_CACHE.put(backendID, json);
         INFORMATION_CACHE.remove(backendID);

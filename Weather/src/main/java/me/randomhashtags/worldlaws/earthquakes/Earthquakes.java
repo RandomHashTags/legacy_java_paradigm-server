@@ -113,14 +113,11 @@ public enum Earthquakes implements RestAPI {
                         final HashSet<PreEarthquake> preEarthquakes = map2.getValue();
                         for(PreEarthquake preEarthquake : preEarthquakes) {
                             final String id = preEarthquake.getID();
-                            magnitudeJSON.put(id, preEarthquake.toJSONObject());
-                            magnitudeJSON.addTranslatedKey(id);
+                            magnitudeJSON.put(id, preEarthquake.toJSONObject(), true);
                         }
-                        quakesJSON.put(magnitude, magnitudeJSON);
-                        quakesJSON.addTranslatedKey(magnitude);
+                        quakesJSON.put(magnitude, magnitudeJSON, true);
                     }
-                    json.put(dateString, quakesJSON);
-                    json.addTranslatedKey(dateString);
+                    json.put(dateString, quakesJSON, true);
                 }
             }
         }
@@ -173,8 +170,7 @@ public enum Earthquakes implements RestAPI {
             final JSONObjectTranslatable json = new JSONObjectTranslatable();
             for(PreEarthquake earthquake : territoryEarthquakes) {
                 final String id = earthquake.getID();
-                json.put(id, earthquake.toJSONObject());
-                json.addTranslatedKey(id);
+                json.put(id, earthquake.toJSONObject(), true);
             }
             recentTerritoryEarthquakes.put(territory, json);
             topRecentTerritoryEarthquakes.put(territory, json);

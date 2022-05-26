@@ -249,9 +249,6 @@ public final class WLHttpExchange {
     public void close() {
         exchange.close();
     }
-    public Headers getRequestHeaders() {
-        return exchange.getRequestHeaders();
-    }
     public Headers getResponseHeaders() {
         return exchange.getResponseHeaders();
     }

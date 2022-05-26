@@ -18,7 +18,7 @@ public enum AppleNotifications implements RemoteNotificationDeviceTokenControlle
     INSTANCE;
 
     private final HashMap<RemoteNotificationSubcategory, HashSet<String>> deviceTokens;
-    private final HashMap<RemoteNotificationSubcategory, HashMap<String, HashSet<String>>> conditionalDeviceTokens;
+    private final HashMap<RemoteNotificationSubcategory, DeviceTokenPairs> conditionalDeviceTokens;
     private String connectionToken;
 
     AppleNotifications() {
@@ -44,7 +44,7 @@ public enum AppleNotifications implements RemoteNotificationDeviceTokenControlle
     }
 
     @Override
-    public HashMap<RemoteNotificationSubcategory, HashMap<String, HashSet<String>>> getConditionalDeviceTokens() {
+    public HashMap<RemoteNotificationSubcategory, DeviceTokenPairs> getConditionalDeviceTokens() {
         return conditionalDeviceTokens;
     }
 

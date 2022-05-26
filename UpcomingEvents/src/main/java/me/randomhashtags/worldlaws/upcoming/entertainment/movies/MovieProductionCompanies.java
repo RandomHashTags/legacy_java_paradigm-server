@@ -30,8 +30,7 @@ public enum MovieProductionCompanies {
                 final MovieProductionCompany company = new MovieProductionCompany(name, localCompaniesJSON.getJSONObject(name));
                 return company.toJSONObject();
             });
-            json.put("companies", companiesJSON);
-            json.addTranslatedKey("companies");
+            json.put("companies", companiesJSON, true);
         }
         return json;
     }
@@ -47,8 +46,7 @@ public enum MovieProductionCompanies {
         final JSONObjectTranslatable companiesJSON = new JSONObjectTranslatable();
         for(Map.Entry<String, JSONObjectTranslatable> entry : companies.entrySet()) {
             final String key = entry.getKey();
-            companiesJSON.put(key, entry.getValue());
-            companiesJSON.addTranslatedKey(key);
+            companiesJSON.put(key, entry.getValue(), true);
         }
 
         final JSONObjectTranslatable json = new JSONObjectTranslatable("companies");

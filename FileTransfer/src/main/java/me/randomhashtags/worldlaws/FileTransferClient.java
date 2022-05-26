@@ -40,6 +40,8 @@ public final class FileTransferClient implements RestAPI {
         }
     }
     private void sendFilesToServer(long started, HashSet<File> files) {
+        final boolean sendDirectlyToServer = true;
+
         final int amount = files.size();
         final String serverUUID = Settings.Server.getUUID();
         final LinkedHashMap<String, String> headers = new LinkedHashMap<>();
@@ -48,7 +50,7 @@ public final class FileTransferClient implements RestAPI {
         headers.put("***REMOVED***", "***REMOVED***" + serverUUID);
         headers.put("***REMOVED***", "1");
         final int port = TargetServer.FILE_TRANSFER.getPort();
-        final String ip = true ? Settings.Server.getProxyLocalAddress() : "localhost";
+        final String ip = sendDirectlyToServer ? Settings.Server.getProxyLocalAddress() : "localhost";
         final String targetURL = "http://" + ip + ":" + port + "/transfer_files";
         WLLogger.logInfo("FileTransferClient - sending " + amount + " file" + (amount > 1 ? "s" : ""));
 

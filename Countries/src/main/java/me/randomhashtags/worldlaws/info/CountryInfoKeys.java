@@ -59,8 +59,7 @@ public enum CountryInfoKeys implements CountryInfoService {
         final JSONObjectTranslatable json = new JSONObjectTranslatable();
         loadJSONData(json);
         for(String country : json.keySet()) {
-            json.put(country, json.get(country));
-            json.addTranslatedKey(country);
+            json.put(country, json.get(country), true);
         }
         return json;
     }
@@ -71,8 +70,7 @@ public enum CountryInfoKeys implements CountryInfoService {
         for(String country : json.keySet()) {
             final JSONObject countryJSON = json.getJSONObject(country);
             final CountryInfoKey value = CountryInfoKey.parse(countryJSON);
-            translatable.put(country, value.toJSONObject());
-            translatable.addTranslatedKey(country);
+            translatable.put(country, value.toJSONObject(), true);
         }
         return translatable;
     }

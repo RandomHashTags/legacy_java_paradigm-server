@@ -163,11 +163,9 @@ public enum NASA_EONET implements WLService {
                     final JSONObjectTranslatable eventsJSON = new JSONObjectTranslatable();
                     for(NaturalEvent value : map.getValue()) {
                         final String id = value.id;
-                        eventsJSON.put(id, value.toJSONObject());
-                        eventsJSON.addTranslatedKey(id);
+                        eventsJSON.put(id, value.toJSONObject(), true);
                     }
-                    translatable.put(key, eventsJSON);
-                    translatable.addTranslatedKey(key);
+                    translatable.put(key, eventsJSON, true);
                 }
             }
             cache.put(version, translatable);

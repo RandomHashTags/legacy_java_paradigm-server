@@ -152,8 +152,7 @@ public final class Countries implements WLServer {
                     final CustomCountry customCountry = new CustomCountry(country);
                     final String backendID = customCountry.getBackendID();
                     countriesMap.put(backendID, customCountry);
-                    json.put(backendID, customCountry.getJSONObject());
-                    json.addTranslatedKey(backendID);
+                    json.put(backendID, customCountry.getJSONObject(), true);
                 }
                 return json;
             default:

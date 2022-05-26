@@ -48,11 +48,9 @@ public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
 
                 for(WeatherPreAlert alert : preAlert.getValue()) {
                     final String id = alert.getID();
-                    subdivisionJSON.put(id, alert.toJSONObject());
-                    subdivisionJSON.addTranslatedKey(id);
+                    subdivisionJSON.put(id, alert.toJSONObject(), true);
                 }
-                json.put(subdivision, subdivisionJSON);
-                json.addTranslatedKey(subdivision);
+                json.put(subdivision, subdivisionJSON, true);
             }
             eventPreAlerts.put(event.toLowerCase().replace(" ", ""), json);
         }
@@ -88,8 +86,7 @@ public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
                 final JSONObjectTranslatable json = new JSONObjectTranslatable();
                 for(WeatherPreAlert preAlert : preAlerts) {
                     final String id = preAlert.getID();
-                    json.put(id, preAlert.toJSONObject());
-                    json.addTranslatedKey(id);
+                    json.put(id, preAlert.toJSONObject(), true);
                 }
                 preAlertsMap.put(event, json);
             }
@@ -113,8 +110,7 @@ public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
         for(Map.Entry<Integer, HashSet<String>> map : defcons.entrySet()) {
             final String defcon = Integer.toString(map.getKey());
             final JSONArray array = new JSONArray(map.getValue());
-            json.put(defcon, array);
-            json.addTranslatedKey(defcon);
+            json.put(defcon, array, true);
         }
         return json;
     }
