@@ -13,6 +13,10 @@ public enum DeviceTokenType {
         }
         return null;
     }
+    public static RemoteNotificationDeviceTokenController valueOfStringGetController(String input) {
+        final DeviceTokenType tokenType = valueOfString(input);
+        return tokenType != null ? tokenType.getController() : null;
+    }
 
     public String getID() {
         return name().toLowerCase();

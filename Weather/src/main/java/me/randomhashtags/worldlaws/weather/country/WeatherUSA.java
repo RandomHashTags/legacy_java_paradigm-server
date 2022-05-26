@@ -7,6 +7,7 @@ import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.locale.JSONArrayTranslatable;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.notifications.RemoteNotification;
+import me.randomhashtags.worldlaws.notifications.RemoteNotificationConditionalValue;
 import me.randomhashtags.worldlaws.notifications.RemoteNotificationSubcategory;
 import me.randomhashtags.worldlaws.notifications.subcategory.RemoteNotificationSubcategoryWeather;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
@@ -14,6 +15,9 @@ import me.randomhashtags.worldlaws.weather.*;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.TimeUnit;
@@ -257,7 +261,8 @@ public enum WeatherUSA implements WeatherController {
                 for(String string : events) {
                     final String[] values = string.split("\\|");
                     final String event = values[0], id = values[1];
-                    final RemoteNotification notification = new RemoteNotification(subcategory, false, event, "Was just issued for local zone \"" + zoneID + "\"", pathPrefix + id, countryBackendID + "|" + zoneID);
+                    final RemoteNotificationConditionalValue conditionalValue = new RemoteNotificationConditionalValue(countryBackendID, zoneID, event);
+                    final RemoteNotification notification = new RemoteNotification(subcategory, false, event, "Was just issued for local zone \"" + zoneID + "\"", pathPrefix + id, conditionalValue);
                     notifications.add(notification);
                 }
             }
@@ -305,16 +310,26 @@ public enum WeatherUSA implements WeatherController {
         final Folder folder = Folder.WEATHER_COUNTRY_ZONES;
         final String fileName = zone.substring(2);
         folder.setCustomFolderName(fileName, folder.getFolderName().replace("%country%", countryBackendID).replace("%type%", zoneType).replace("%subdivision%", subdivisionFolder));
-        final JSONObject json = getJSONObject(folder, fileName, handler);
-        folder.removeCustomFolderName(fileName);
-        return json;
+        return getLocalJSON(folder, fileName, handler);
     }
     private JSONObject getLocalOffice(String officeID, CompletionHandler handler) {
         final String countryBackendID = getCountry().getBackendID();
         final Folder folder = Folder.WEATHER_COUNTRY_OFFICES;
         folder.setCustomFolderName(officeID, folder.getFolderName().replace("%country%", countryBackendID));
-        final JSONObject json = getJSONObject(folder, officeID, handler);
-        folder.removeCustomFolderName(officeID);
+        return getLocalJSON(folder, officeID, handler);
+    }
+    private JSONObject getLocalJSON(Folder folder, String identifier, CompletionHandler handler) {
+        final JSONObject json = getJSONObject(folder, identifier, handler);
+        if(json != null && json.optInt("status", 500) == 500) {
+            final String fullFolderPath = folder.getFullFolderPath(identifier);
+            final Path path = Paths.get(fullFolderPath);
+            try {
+                Files.delete(path);
+            } catch (Exception e) {
+                WLUtilities.saveException(e);
+            }
+        }
+        folder.removeCustomFolderName(identifier);
         return json;
     }
 
@@ -323,7 +338,8 @@ public enum WeatherUSA implements WeatherController {
             @Override
             public JSONObject loadJSONObject() {
                 final String url = "https://api.weather.gov/zones/" + zoneID;
-                return requestJSONObject(url);
+                final JSONObject json = requestJSONObject(url);
+                return json != null && json.optInt("status", 500) != 500 ? json : null;
             }
         });
     }

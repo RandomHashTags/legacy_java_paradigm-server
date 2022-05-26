@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.notifications.RemoteNotification;
 import me.randomhashtags.worldlaws.notifications.RemoteNotificationCategory;
+import me.randomhashtags.worldlaws.notifications.RemoteNotificationConditionalValue;
 import me.randomhashtags.worldlaws.notifications.RemoteNotificationSubcategory;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -17,19 +18,31 @@ public interface RemoteNotificationDeviceTokenController extends RestAPI, Jsonab
         return null;
     }
 
-    default HashSet<String> getConditionalDeviceTokensThatContain(RemoteNotificationSubcategory subcategory, String conditionalValue) {
-        if(!subcategory.isConditional()) {
+    default HashSet<String> getConditionalDeviceTokensThatContain(RemoteNotificationSubcategory subcategory, RemoteNotificationConditionalValue conditionalValue) {
+        if(conditionalValue == null || !subcategory.isConditional()) {
             return null;
         }
         final Map<RemoteNotificationSubcategory, DeviceTokenPairs> map = getConditionalDeviceTokens();
         if(map != null && !map.isEmpty() && map.containsKey(subcategory)) {
             final HashSet<String> tokens = new HashSet<>();
+            final String value = conditionalValue.getFormattedValue();
             for(DeviceTokenPair pair : map.get(subcategory)) {
-                if(pair.getValues().contains(conditionalValue)) {
+                if(pair.getValues().contains(value)) {
                     tokens.add(pair.getDeviceToken());
                 }
             }
-            return tokens;
+            return tokens.isEmpty() ? null : tokens;
+        }
+        return null;
+    }
+    default HashSet<String> getConditionalValuesForDeviceToken(RemoteNotificationSubcategory subcategory, String deviceToken) {
+        if(!subcategory.isConditional()) {
+            return null;
+        }
+        final Map<RemoteNotificationSubcategory, DeviceTokenPairs> map = getConditionalDeviceTokens();
+        if(map != null && !map.isEmpty() && map.containsKey(subcategory)) {
+            final DeviceTokenPair pair = map.get(subcategory).valueOfToken(deviceToken);
+            return pair != null ? pair.getValues() : null;
         }
         return null;
     }
@@ -153,9 +166,13 @@ public interface RemoteNotificationDeviceTokenController extends RestAPI, Jsonab
     default void unregisterConditionalValue(RemoteNotificationSubcategory subcategory, String deviceToken, String conditionalValue) {
         final Map<RemoteNotificationSubcategory, DeviceTokenPairs> conditionalDeviceTokens = getConditionalDeviceTokens();
         if(conditionalDeviceTokens != null && conditionalDeviceTokens.containsKey(subcategory)) {
-            final DeviceTokenPair pair = conditionalDeviceTokens.get(subcategory).valueOfToken(deviceToken);
+            final DeviceTokenPairs pairs = conditionalDeviceTokens.get(subcategory);
+            final DeviceTokenPair pair = pairs.valueOfToken(deviceToken);
             if(pair != null) {
                 pair.removeValue(conditionalValue);
+                if(pair.getValues().isEmpty()) {
+                    pairs.remove(pair);
+                }
             }
         }
     }

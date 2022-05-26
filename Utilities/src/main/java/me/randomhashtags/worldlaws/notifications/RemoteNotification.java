@@ -19,7 +19,7 @@ public final class RemoteNotification extends JSONObject implements Jsonable {
     public RemoteNotification(RemoteNotificationSubcategory subcategory, boolean badge, String subtitle, String body, String openNotificationPath) {
         this(subcategory, badge, subtitle, body, openNotificationPath, null);
     }
-    public RemoteNotification(RemoteNotificationSubcategory subcategory, boolean badge, String subtitle, String body, String openNotificationPath, String conditionalValue) {
+    public RemoteNotification(RemoteNotificationSubcategory subcategory, boolean badge, String subtitle, String body, String openNotificationPath, RemoteNotificationConditionalValue conditionalValue) {
         super();
         final String uuid = "***REMOVED***";
         put("uuid", uuid);
@@ -44,7 +44,13 @@ public final class RemoteNotification extends JSONObject implements Jsonable {
     }
     public RemoteNotification(JSONObject json) {
         for(String key : json.keySet()) {
-            json.put(key, json.get(key));
+            final Object obj = json.get(key);
+            if(key.equals("conditionalValue") && obj instanceof JSONObject) {
+                final RemoteNotificationConditionalValue conditionalValue = new RemoteNotificationConditionalValue((JSONObject) obj);
+                json.put(key, conditionalValue);
+            } else {
+                json.put(key, obj);
+            }
         }
     }
 
@@ -69,8 +75,9 @@ public final class RemoteNotification extends JSONObject implements Jsonable {
     public String getOpenNotificationPath() {
         return optString("openNotificationPath", null);
     }
-    public String getConditionalValue() {
-        return optString("conditionalValue", null);
+    public RemoteNotificationConditionalValue getConditionalValue() {
+        final JSONObject json = optJSONObject("conditionalValue", null);
+        return json != null ? (RemoteNotificationConditionalValue) json : null;
     }
 
     public void save() {

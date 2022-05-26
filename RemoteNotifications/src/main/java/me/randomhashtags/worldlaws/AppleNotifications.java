@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.notifications.RemoteNotification;
 import me.randomhashtags.worldlaws.notifications.RemoteNotificationCategory;
+import me.randomhashtags.worldlaws.notifications.RemoteNotificationConditionalValue;
 import me.randomhashtags.worldlaws.notifications.RemoteNotificationSubcategory;
 import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
@@ -95,9 +96,9 @@ public enum AppleNotifications implements RemoteNotificationDeviceTokenControlle
     public boolean shouldSendNotification(RemoteNotification notification) {
         final RemoteNotificationSubcategory subcategory = notification.getSubcategory();
         if(subcategory.isConditional()) {
-            final String conditionalValue = notification.getConditionalValue();
+            final RemoteNotificationConditionalValue conditionalValue = notification.getConditionalValue();
             final HashSet<String> tokens = getConditionalDeviceTokensThatContain(subcategory, conditionalValue);
-            return tokens != null && !tokens.isEmpty();
+            return tokens != null;
         } else {
             return true;
         }
