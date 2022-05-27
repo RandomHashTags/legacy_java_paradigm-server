@@ -16,8 +16,8 @@ public final class SpaceEvent extends UpcomingEvent {
         newsURL = properties.optString(UpcomingEventValue.SPACE_EVENT_NEWS_URL.getKey(), null);
         videoURL = properties.optString(UpcomingEventValue.SPACE_EVENT_VIDEO_URL.getKey(), null);
     }
-    public SpaceEvent(long exactTimeMilliseconds, String title, String description, String imageURL, String location, String newsURL, String videoURL, EventSources sources) {
-        super(exactTimeMilliseconds, title, description, imageURL, location, null, sources);
+    public SpaceEvent(long exactStartMilliseconds, long exactEndMilliseconds, String title, String description, String imageURL, String location, String newsURL, String videoURL, EventSources sources) {
+        super(exactStartMilliseconds, exactEndMilliseconds, title, description, imageURL, location, null, sources);
         this.newsURL = newsURL;
         this.videoURL = videoURL;
         insertProperties();

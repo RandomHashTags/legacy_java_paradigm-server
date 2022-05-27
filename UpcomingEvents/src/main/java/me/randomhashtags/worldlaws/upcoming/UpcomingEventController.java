@@ -259,7 +259,7 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
                 }
             } else {
                 final long instant = WLUtilities.getTodayStartOfDayMilliseconds();
-                final long exactTimeMilliseconds = event.getExactTimeMilliseconds();
+                final long exactTimeMilliseconds = event.getExactStartMilliseconds();
                 if(exactTimeMilliseconds > instant && exactTimeMilliseconds < instant + TimeUnit.DAYS.toMillis(1)) {
                     saveUpcomingEventToJSON(identifier, event.toString());
                 }

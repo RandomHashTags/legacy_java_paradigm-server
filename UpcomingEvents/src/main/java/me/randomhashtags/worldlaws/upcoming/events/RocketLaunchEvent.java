@@ -31,8 +31,8 @@ public final class RocketLaunchEvent extends UpcomingEvent {
             mission = null;
         }
     }
-    public RocketLaunchEvent(long exactTimeMilliseconds, String name, String status, String location, boolean exactDay, boolean exactTime, int probability, String rocketImageURL, RocketLaunchMission mission, String windowStart, String windowEnd, String videoURL, EventSources sources) {
-        super(exactTimeMilliseconds, name, null, rocketImageURL, location, null, sources);
+    public RocketLaunchEvent(long exactStartMilliseconds, long exactEndMilliseconds, String name, String status, String location, boolean exactDay, boolean exactTime, int probability, String rocketImageURL, RocketLaunchMission mission, String windowStart, String windowEnd, String videoURL, EventSources sources) {
+        super(exactStartMilliseconds, exactEndMilliseconds, name, null, rocketImageURL, location, null, sources);
         this.status = status;
         this.exactDay = exactDay;
         this.exactTime = exactTime;

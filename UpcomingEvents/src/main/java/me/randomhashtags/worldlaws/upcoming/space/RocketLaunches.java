@@ -33,7 +33,8 @@ public final class RocketLaunches extends LoadedUpcomingEventController {
                 final JSONObject serviceProvider = launchJSON.getJSONObject("launch_service_provider");
                 final String windowStartString = launchJSON.getString("window_start");
                 final long windowStart = WLUtilities.parseDateFormatToMilliseconds(DateTimeFormatter.ISO_INSTANT, windowStartString);
-                final String windowEnd = launchJSON.getString("window_end");
+                final String windowEndString = launchJSON.getString("window_end");
+                final long windowEnd = WLUtilities.parseDateFormatToMilliseconds(DateTimeFormatter.ISO_INSTANT, windowEndString);
 
                 final JSONArray videoURLsArray = launchJSON.optJSONArray("vidURLs");
                 String videoURL = null;
@@ -63,8 +64,8 @@ public final class RocketLaunches extends LoadedUpcomingEventController {
                 }
 
                 final String identifier = getEventDateIdentifier(windowStart, name);
-                final RocketLaunchEvent launch = new RocketLaunchEvent(windowStart, name, status, location, exactDay, exactTime, probability, rocketImageURL, mission, windowStartString, windowEnd, videoURL, sources);
-                putLoadedPreUpcomingEvent(launch.toPreUpcomingEventJSON(eventType, identifier, location));
+                final RocketLaunchEvent launch = new RocketLaunchEvent(windowStart, windowEnd, name, status, location, exactDay, exactTime, probability, rocketImageURL, mission, windowStartString, windowEndString, videoURL, sources);
+                putLoadedPreUpcomingEvent(launch.toPreUpcomingEventJSON(eventType, identifier, location, windowEnd));
                 putUpcomingEvent(identifier, launch);
             });
         }

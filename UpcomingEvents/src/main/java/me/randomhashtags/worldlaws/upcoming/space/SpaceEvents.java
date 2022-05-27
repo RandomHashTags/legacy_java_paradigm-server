@@ -35,8 +35,9 @@ public final class SpaceEvents extends LoadedUpcomingEventController {
                 final EventSources sources = new EventSources(new EventSource("The Space Devs", "https://thespacedevs.com"));
                 new CompletableFutures<JSONObject>().stream(resultsArray, resultJSON -> {
                     final String dateString = resultJSON.getString("date");
-                    final long exactTimeMilliseconds = WLUtilities.parseDateFormatToMilliseconds(DateTimeFormatter.ISO_INSTANT, dateString);
-                    if(exactTimeMilliseconds < endingDate) {
+                    final long exactStartMilliseconds = WLUtilities.parseDateFormatToMilliseconds(DateTimeFormatter.ISO_INSTANT, dateString);
+                    if(exactStartMilliseconds < endingDate) {
+                        final long exactEndMilliseconds = exactStartMilliseconds + TimeUnit.HOURS.toMillis(1);
                         final String title = resultJSON.getString("name");
                         final String description = resultJSON.getString("description");
                         final String location = resultJSON.optString("location", null);
@@ -45,9 +46,9 @@ public final class SpaceEvents extends LoadedUpcomingEventController {
                         final String newsURL = resultJSON.optString("news_url", null);
                         final String videoURL = resultJSON.optString("video_url", null);
 
-                        final String identifier = getEventDateIdentifier(exactTimeMilliseconds, title);
-                        final SpaceEvent event = new SpaceEvent(exactTimeMilliseconds, title, description, imageURL, location, newsURL, videoURL, sources);
-                        putLoadedPreUpcomingEvent(event.toPreUpcomingEventJSON(eventType, identifier, location));
+                        final String identifier = getEventDateIdentifier(exactStartMilliseconds, title);
+                        final SpaceEvent event = new SpaceEvent(exactStartMilliseconds, exactEndMilliseconds, title, description, imageURL, location, newsURL, videoURL, sources);
+                        putLoadedPreUpcomingEvent(event.toPreUpcomingEventJSON(eventType, identifier, location, exactEndMilliseconds));
                         putUpcomingEvent(identifier, event);
                     }
                 });

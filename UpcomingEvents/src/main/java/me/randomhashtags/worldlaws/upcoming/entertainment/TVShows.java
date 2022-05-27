@@ -42,8 +42,8 @@ public final class TVShows extends LoadedUpcomingEventController {
                     final JSONObject showJSON = json.getJSONObject("_embedded").getJSONObject("show");
                     if(season < 1000 && !showJSON.getString("status").equalsIgnoreCase("ended")) {
                         final String airstamp = json.getString("airstamp");
-                        final long exactTime = WLUtilities.parseDateFormatToMilliseconds(DateTimeFormatter.ISO_OFFSET_DATE_TIME, airstamp);
-                        if(exactTime < nextWeek) {
+                        final long exactStartMilliseconds = WLUtilities.parseDateFormatToMilliseconds(DateTimeFormatter.ISO_OFFSET_DATE_TIME, airstamp);
+                        if(exactStartMilliseconds < nextWeek) {
                             final int popularity = showJSON.getInt("weight");
                             final String episodeName = json.getString("name");
                             final int episode = json.optInt("number", -1);
@@ -60,7 +60,7 @@ public final class TVShows extends LoadedUpcomingEventController {
                             final EventSources sources = new EventSources();
                             sources.add(new EventSource("TVMaze: " + showTitle, showURL));
 
-                            final String identifier = getEventDateIdentifier(exactTime, showID + "_" + tag);
+                            final String identifier = getEventDateIdentifier(exactStartMilliseconds, showID + "_" + tag);
                             final String imageURL = showJSON.has("image") && showJSON.get("image") instanceof JSONObject ? showJSON.getJSONObject("image").getString("original") : null;
 
                             final String episodeSummary = json.optString("summary", null);
@@ -81,7 +81,7 @@ public final class TVShows extends LoadedUpcomingEventController {
                                 sources.add(new EventSource(network + ": " + showTitle, officialSite));
                             }
 
-                            final TVShowEvent tvShowEvent = new TVShowEvent(exactTime, showTitle, null, imageURL, null, popularity, language, countryCode, officialSite, network, runtimeMinutes, season, episode, episodeName, episodeSummary, genres, sources);
+                            final TVShowEvent tvShowEvent = new TVShowEvent(exactStartMilliseconds, showTitle, null, imageURL, null, popularity, language, countryCode, officialSite, network, runtimeMinutes, season, episode, episodeName, episodeSummary, genres, sources);
 
                             JSONObjectTranslatable customValues = null;
                             if(popularity > 0) {
