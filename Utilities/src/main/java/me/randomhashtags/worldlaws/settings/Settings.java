@@ -139,8 +139,8 @@ public enum Settings {
         public static String getRunServersCommand() {
             return getOrDefaultString(getServersJSON(), "runServersCommand", "bash runServers.sh");
         }
-        public static String getRebootProxyCommand() {
-            return getOrDefaultString(getServersJSON(), "rebootProxyCommand", "bash rebootProxy.sh");
+        public static String getBootServerCommand() {
+            return getOrDefaultString(getServersJSON(), "bootServerCommand", "bash, bootServer.sh, %server%");
         }
         public static int getServerRebootFrequencyInDays() {
             return getOrDefaultInt(getServersJSON(), "serverRebootFrequencyInDays", 3);

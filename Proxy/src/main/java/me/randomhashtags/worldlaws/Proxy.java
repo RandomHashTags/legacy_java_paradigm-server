@@ -61,8 +61,11 @@ public final class Proxy implements UserServer {
 
         keepAlive = new AtomicBoolean(true);
         while (keepAlive.get()) {
-            final String input = getUserInput();
-            executeUserInput(input);
+            try {
+                final String input = getUserInput();
+                executeUserInput(input);
+            } catch (Exception ignored) {
+            }
         }
     }
 
@@ -75,8 +78,8 @@ public final class Proxy implements UserServer {
         HOME_JSON.clear();
         HOME_JSON_QUERIES.clear();
         server.stop(0);
-        stopListeningForUserInput();
         keepAlive.set(false);
+        stopListeningForUserInput();
         WLLogger.logInfo("Proxy - stopped listening for clients");
     }
 
@@ -163,7 +166,7 @@ public final class Proxy implements UserServer {
         map.put("rebootservers", ServerStatuses::rebootServers);
         map.put("reboot", this::rebootProxy);
         map.put("refresh", ServerStatuses::refreshServers);
-        map.put("update", ServerStatuses::applyUpdate);
+        map.put("update", ServerStatuses::updateFiles);
         map.put("updateservers", () -> updateServers(false));
         map.put("generatecertificates", CertbotHandler::generateCertificates);
         map.put("importcertificates", CertbotHandler::importCertificates);

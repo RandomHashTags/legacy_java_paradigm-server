@@ -61,25 +61,21 @@ public interface WLHttpHandler extends HttpHandler {
     }
     default void write(WLHttpExchange exchange, int status, String value, WLContentType contentType) {
         final byte[] bytes = value.getBytes(StandardCharsets.UTF_8);
-        try {
-            final Headers headers = exchange.getResponseHeaders();
-            headers.set("Content-Type", contentType.getIdentifier());
-            headers.set("Strict-Transport-Security", "max-age=31536000; includeSubDomains");
-            headers.set("Connection", "close");
-            switch (contentType) {
-                case HTML:
-                    headers.set("Cache-Control", "public");
-                    break;
-                case CSS:
-                    headers.set("Cache-Control", "max-age=86400");
-                    break;
-                default:
-                    break;
-            }
-            exchange.sendResponseHeaders(status, bytes.length);
-        } catch (Exception e) {
-            WLUtilities.saveException(e);
+        final Headers headers = exchange.getResponseHeaders();
+        headers.set("Content-Type", contentType.getIdentifier());
+        headers.set("Strict-Transport-Security", "max-age=31536000; includeSubDomains");
+        headers.set("Connection", "close");
+        switch (contentType) {
+            case HTML:
+                headers.set("Cache-Control", "public");
+                break;
+            case CSS:
+                headers.set("Cache-Control", "max-age=86400");
+                break;
+            default:
+                break;
         }
+        exchange.sendResponseHeaders(status, bytes.length);
         final OutputStream out = exchange.getResponseBody();
         try {
             out.write(bytes);

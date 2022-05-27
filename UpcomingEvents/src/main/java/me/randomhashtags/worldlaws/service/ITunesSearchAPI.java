@@ -14,7 +14,10 @@ public interface ITunesSearchAPI extends RestAPI {
     private JSONObject search(String term, String media, String entity) {
         final String url = "https://itunes.apple.com/search";
         final LinkedHashMap<String, String> headers = new LinkedHashMap<>(GET_CONTENT_HEADERS), query = new LinkedHashMap<>();
-        term = URLEncoder.encode(term, StandardCharsets.UTF_8);
+        term = URLEncoder.encode(term, StandardCharsets.UTF_8)
+                .replace("%21", "!")
+                .replace("%27", "'")
+        ;
         query.put("term", term);
         query.put("country", "US");
         query.put("limit", "50");
@@ -33,23 +36,28 @@ public interface ITunesSearchAPI extends RestAPI {
             for(Object obj : array) {
                 final JSONObject result = (JSONObject) obj;
                 final String artistName = result.getString("artistName"), collectionName = result.getString("collectionName");
-                if(artist.equalsIgnoreCase(artistName) && (collectionName.equalsIgnoreCase(term) || collectionName.toLowerCase().startsWith(termLowercase))) {
-                    result.remove("wrapperType");
-                    result.remove("collectionType");
-                    result.remove("artistId");
-                    result.remove("collectionId");
-                    result.remove("artistName");
-                    result.remove("collectionName");
-                    result.remove("collectionCensoredName");
-                    result.remove("collectionPrice");
-                    result.remove("collectionExplicitness");
-                    result.remove("contentAdvisoryRating");
-                    result.remove("trackCount");
-                    result.remove("copyright");
-                    result.remove("currency");
-                    result.remove("releaseDate");
-                    result.remove("primaryGenreName");
-                    result.remove("country");
+                if(artist.equalsIgnoreCase(artistName) && (collectionName.equalsIgnoreCase(term) || collectionName.toLowerCase().startsWith(termLowercase)) || collectionName.contains(term)) {
+                    final String[] removedKeys = new String[] {
+                            "wrapperType",
+                            "collectionType",
+                            "artistId",
+                            "collectionId",
+                            "artistName",
+                            "collectionName",
+                            "collectionCensoredName",
+                            "collectionPrice",
+                            "collectionExplicitness",
+                            "contentAdvisoryRating",
+                            "trackCount",
+                            "copyright",
+                            "currency",
+                            "releaseDate",
+                            "primaryGenreName",
+                            "country"
+                    };
+                    for(String key : removedKeys) {
+                        result.remove(key);
+                    }
 
                     final String imageURL = result.getString("artworkUrl100").replace("/100x100bb.jpg", "/1000x1000bb.jpg");
                     result.put("imageURL", imageURL);

@@ -6,11 +6,7 @@
     "uuid": "***REMOVED***",
     "sandbox_uuid": "***REMOVED***",
     "runServersCommand": "bash, runServers.sh",
-    "runServerCommand": {
-      "linux": "xfce4-terminal, --title=\"%server%\" --command=\"java -jar %server%.jar\"",
-      "mac": "open, -a, Terminal, "
-    },
-    "rebootProxyCommand": "bash, rebootProxy.sh",
+    "bootServerCommand": "bash, bootServer.sh, %server%",
     "serverRebootFrequencyInDays": 3,
     "proxy_local_address": "localhost",
     "proxy_port": 0,

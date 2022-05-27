@@ -17,9 +17,10 @@ public enum ServerStatuses {
     ;
 
     private static void bootServers(Collection<TargetServer> servers) {
-        final String command = "";
+        final String command = Settings.Server.getBootServerCommand();
         new CompletableFutures<TargetServer>().stream(servers, server -> {
-            WLUtilities.executeCommand(command, true);
+            final String serverCommand = command.replace("%server%", server.getName());
+            WLUtilities.executeCommand(serverCommand, true);
         });
     }
 
@@ -101,7 +102,7 @@ public enum ServerStatuses {
                 }
             }
             shutdownServers(servers);
-            applyUpdate(files);
+            updateFiles(files);
             final int serversUpdated = servers.size();
             WLLogger.logInfo("Proxy - updated " + serversUpdated + " server" + (serversUpdated > 1 ? "s" : " - booting them back up") + " (took " + WLUtilities.getElapsedTime(started) + ")");
             started = System.currentTimeMillis();
@@ -119,14 +120,14 @@ public enum ServerStatuses {
             }
         }
     }
-    public static void applyUpdate() {
+    public static void updateFiles() {
         final HashSet<Path> files = getUpdateFiles();
         final boolean updatesAreAvailable = !files.isEmpty();
         if(updatesAreAvailable) {
-            applyUpdate(files);
+            updateFiles(files);
         }
     }
-    private static void applyUpdate(HashSet<Path> files) {
+    private static void updateFiles(HashSet<Path> files) {
         final Folder sourceFolder = Folder.UPDATES, updatedFilesFolder = Folder.UPDATES_FILES;
         final JSONObject updateJSON = Jsonable.getStaticLocalFileJSONObject(sourceFolder, "update");
         final JSONArray updateNotes = updateJSON.getJSONArray("update notes");

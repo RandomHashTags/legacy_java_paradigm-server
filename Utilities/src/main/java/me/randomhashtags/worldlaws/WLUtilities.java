@@ -15,8 +15,8 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.InputStream;
 import java.io.InputStreamReader;
+import java.net.HttpURLConnection;
 import java.net.URL;
-import java.net.URLConnection;
 import java.security.SecureRandom;
 import java.security.cert.X509Certificate;
 import java.time.*;
@@ -26,6 +26,7 @@ import java.util.Date;
 import java.util.HashSet;
 import java.util.Timer;
 import java.util.TimerTask;
+import java.util.concurrent.TimeUnit;
 
 public abstract class WLUtilities {
     public static final String SERVER_EMPTY_JSON_RESPONSE = "{}";
@@ -63,35 +64,39 @@ public abstract class WLUtilities {
         }
     }
 
-    public static Document getJsoupDocumentFrom(String url) throws Exception {
+    public static String makeRequest(String url) throws Exception {
         final URL link = new URL(url);
-        final URLConnection connection = link.openConnection();
-        connection.setConnectTimeout(10_000);
+        final HttpURLConnection connection = (HttpURLConnection) link.openConnection();
+        connection.setConnectTimeout((int) TimeUnit.SECONDS.toMillis(10));
         connection.setUseCaches(false);
         connection.setDoOutput(true);
         connection.setRequestProperty("User-Agent", RestAPI.USER_AGENT);
-        int responseCode = 200;
+        connection.setRequestMethod(RequestMethod.GET.name());
         if(connection instanceof HttpsURLConnection) {
             final HttpsURLConnection httpsConnection = (HttpsURLConnection) connection;
-            httpsConnection.setRequestMethod(RequestMethod.GET.name());
             httpsConnection.setHostnameVerifier(HttpsURLConnection.getDefaultHostnameVerifier());
-            responseCode = httpsConnection.getResponseCode();
         }
-
+        final int responseCode = connection.getResponseCode();
+        String string = null;
         if(responseCode >= 200 && responseCode < 400) {
-            String line = null;
             final StringBuilder builder = new StringBuilder();
             final InputStream is = connection.getInputStream();
             final BufferedReader reader = new BufferedReader(new InputStreamReader(is));
+            String line = null;
             while((line = reader.readLine()) != null)  {
                 builder.append(line);
             }
             reader.close();
-            return Jsoup.parse(builder.toString());
+            string = builder.toString();
         } else {
-            WLLogger.logError("WLUtilities", "getJsoupDocumentFrom - invalid response code (" + responseCode + ") for url \"" + url + "\"!");
-            return null;
+            WLLogger.logError("WLUtilities", "makeRequest - invalid response code (" + responseCode + ") for url \"" + url + "\"!");
         }
+        connection.disconnect();
+        return string;
+    }
+    public static Document getJsoupDocumentFrom(String url) throws Exception {
+        final String string = makeRequest(url);
+        return string != null ? Jsoup.parse(string) : null;
     }
 
     public static Timer getTimer(LocalDateTime startingDate, long interval, Runnable runnable) {

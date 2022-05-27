@@ -255,8 +255,7 @@ public final class WLHttpExchange {
     public void sendResponseHeaders(int rCode, long responseLength) {
         try {
             exchange.sendResponseHeaders(rCode, responseLength);
-        } catch (Exception e) {
-            WLUtilities.saveException(e);
+        } catch (Exception ignored) {
         }
     }
 

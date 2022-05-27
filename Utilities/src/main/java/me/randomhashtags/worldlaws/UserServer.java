@@ -12,7 +12,7 @@ public interface UserServer {
     void start();
     void stop();
     default void rebootProxy() {
-        final String command = Settings.Server.getRebootProxyCommand();
+        final String command = Settings.Server.getBootServerCommand().replace("%server%", "Proxy");
         stop();
         WLUtilities.executeCommand(command, true);
     }

@@ -321,8 +321,8 @@ public enum WeatherUSA implements WeatherController {
     private JSONObject getLocalJSON(Folder folder, String identifier, CompletionHandler handler) {
         final JSONObject json = getJSONObject(folder, identifier, handler);
         if(json != null && json.optInt("status", 500) == 500) {
-            final String fullFolderPath = folder.getFullFolderPath(identifier);
-            final Path path = Paths.get(fullFolderPath);
+            final String filePath = Jsonable.getFilePath(folder, identifier, "json");
+            final Path path = Paths.get(filePath);
             try {
                 Files.delete(path);
             } catch (Exception e) {

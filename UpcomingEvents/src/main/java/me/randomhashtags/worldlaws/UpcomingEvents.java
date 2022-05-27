@@ -1,13 +1,13 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
-import me.randomhashtags.worldlaws.recent.ScienceYearReview;
 import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.ServerRequestType;
 import me.randomhashtags.worldlaws.request.WLHttpHandler;
-import me.randomhashtags.worldlaws.service.YouTubeService;
+import me.randomhashtags.worldlaws.service.ITunesSearchAPI;
+import org.json.JSONObject;
 
-public final class UpcomingEvents implements WLServer, YouTubeService {
+public final class UpcomingEvents implements WLServer, ITunesSearchAPI {
     public static final UpcomingEvents INSTANCE = new UpcomingEvents();
 
     public static void main(String[] args) {
@@ -26,9 +26,8 @@ public final class UpcomingEvents implements WLServer, YouTubeService {
 
     private void test() {
         final long started = System.currentTimeMillis();
-        final ScienceYearReview science = new ScienceYearReview();
-        science.refresh();
-        WLLogger.logInfo("UpcomingEvents;test;took " + WLUtilities.getElapsedTime(started));
+        final JSONObject json = getITunesAlbum("Help!", "Brandon Lake");
+        WLLogger.logInfo("UpcomingEvents;test;took " + WLUtilities.getElapsedTime(started) + ";json=" + (json != null ? json.toString() : "null"));
     }
 
     @Override

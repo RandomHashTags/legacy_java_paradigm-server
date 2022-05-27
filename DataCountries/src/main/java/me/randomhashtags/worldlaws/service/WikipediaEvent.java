@@ -182,10 +182,12 @@ public class WikipediaEvent extends JSONObject {
             final Elements targetElements = (thirdList != null ? thirdList : innerList).select("li");
             for(Element element : targetElements) {
                 final String text = LocalServer.removeWikipediaReferences(element.text());
-                final HashMap<String, String> hyperlinks = getWikipediaHyperlinks(element);
-                final EventSources sources = getSources(references, element);
-                final WikipediaEvent event = new WikipediaEvent(text, hyperlinks, sources);
-                events.add(event);
+                if(!text.contains(" (b. ") && !text.contains(" (born ")) {
+                    final HashMap<String, String> hyperlinks = getWikipediaHyperlinks(element);
+                    final EventSources sources = getSources(references, element);
+                    final WikipediaEvent event = new WikipediaEvent(text, hyperlinks, sources);
+                    events.add(event);
+                }
             }
         } else {
             String text = LocalServer.removeWikipediaReferences(listElement.text());

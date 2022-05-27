@@ -7,10 +7,10 @@ public final class BandwidthTester implements UserServer, RestAPI {
 
     private static final Random RANDOM = new Random();
     private static final List<String> REQUESTS = Arrays.asList(
-            "/privacyPolicy",
-            "/transparency",
+            "privacyPolicy",
+            "transparency",
             "",
-            "/developer"
+            "developer"
     );
 
     public static void main(String[] args) {
@@ -81,7 +81,11 @@ public final class BandwidthTester implements UserServer, RestAPI {
     private void makeRequest(LinkedHashMap<String, String> headers, int number, int max) {
         final long started = System.currentTimeMillis();
         final String target = REQUESTS.get(RANDOM.nextInt(REQUESTS.size()));
-        final String json = request("https://***REMOVED***" + target, headers, null);
+        try {
+            final String json = WLUtilities.makeRequest("https://***REMOVED***/" + target);
+        } catch (Exception e) {
+            WLUtilities.saveException(e);
+        }
         WLLogger.logInfo("BandwidthTester - completed request #" + number + " out of " + max + " (took " + WLUtilities.getElapsedTime(started) + ")");
     }
 }
