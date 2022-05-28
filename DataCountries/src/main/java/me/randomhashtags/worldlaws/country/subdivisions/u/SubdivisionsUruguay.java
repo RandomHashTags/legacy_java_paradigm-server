@@ -83,6 +83,27 @@ public enum SubdivisionsUruguay implements SovereignStateSubdivision { // https:
 
     @Override
     public String getFlagURL() {
-        return null;
+        switch (this) {
+            case ARTIGAS: return "https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Artigas_Department.svg";
+            case CANELONES: return "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_Canelones_Department.svg";
+            case CERRO_LARGO: return "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Cerro_Largo_Department.svg";
+            case COLONIA: return "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Colonia_Department.svg";
+            case DURAZNO: return "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Durazno_Department.svg";
+            case FLORES: return "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Flores_Department.png";
+            case FLORDIA: return "https://upload.wikimedia.org/wikipedia/commons/7/76/Flag_of_Florida_Department.png";
+            case LAVALLEJA: return "https://upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_Lavalleja_Department.svg";
+            case MALDONADO: return "https://upload.wikimedia.org/wikipedia/commons/5/52/Flag_of_Maldonado_Department.png";
+            case MONTEVIDEO: return "https://upload.wikimedia.org/wikipedia/commons/f/fc/Coat_of_arms_of_Montevideo_Department.svg";
+            case PAYSANDU: return "https://upload.wikimedia.org/wikipedia/commons/2/2a/Flag_of_Paysandú_Department.svg";
+            case RIO_NEGRO: return "https://upload.wikimedia.org/wikipedia/commons/c/c9/Flag_of_Rio_Negro_Department.svg";
+            case RIVERA: return "https://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Rivera_Department.png";
+            case ROCHA: return "https://upload.wikimedia.org/wikipedia/commons/7/7b/Flag_of_Rocha_Department.svg";
+            case SALTO: return "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Salto_Department.svg";
+            case SAN_JOSE: return "https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_San_José_Department.svg";
+            case SORIANO: return "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Soriano_Department.svg";
+            case TACUAREMBO: return "https://upload.wikimedia.org/wikipedia/commons/7/72/Coat_of_arms_of_Tacuarembó_Department.png";
+            case TREINTA_Y_TRES: return "https://upload.wikimedia.org/wikipedia/commons/3/3c/Flag_of_Treinta_y_Tres_Department.svg";
+            default: return null;
+        }
     }
 }

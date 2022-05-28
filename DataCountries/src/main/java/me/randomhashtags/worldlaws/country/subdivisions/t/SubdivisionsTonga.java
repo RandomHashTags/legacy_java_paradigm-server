@@ -46,6 +46,13 @@ public enum SubdivisionsTonga implements SovereignStateSubdivision { // https://
 
     @Override
     public String getFlagURL() {
-        return null;
+        switch (this) {
+            case EUA: return null;
+            case HA_APAI: return null;
+            case NIUA_ISLANDS: return null;
+            case TONGATAPU: return null;
+            case VAVA_U: return null;
+            default: return null;
+        }
     }
 }
