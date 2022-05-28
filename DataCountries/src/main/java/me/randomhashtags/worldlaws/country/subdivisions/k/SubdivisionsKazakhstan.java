@@ -68,9 +68,4 @@ public enum SubdivisionsKazakhstan implements SovereignStateSubdivision { // htt
     public String getFlagURL() {
         return null;
     }
-
-    @Override
-    public String getGovernmentWebsite() {
-        return null;
-    }
 }

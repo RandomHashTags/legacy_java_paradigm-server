@@ -44,9 +44,4 @@ public enum SubdivisionsCostaRica implements SovereignStateSubdivision { // http
     public String getFlagURL() {
         return null;
     }
-
-    @Override
-    public String getGovernmentWebsite() {
-        return null;
-    }
 }

@@ -68,16 +68,6 @@ public enum SubdivisionsCanada implements SovereignStateSubdivision { // https:/
     }
 
     @Override
-    public String getGovernmentWebsite() {
-        switch (this) {
-            case NEW_BRUNSWICK: return "https://www2.gnb.ca";
-            case NEWFOUNDLAND_AND_LABRADOR: return "https://www.gov.nl.ca";
-            case NORTHWEST_TERRITORIES: return "https://www.gov.nt.ca";
-            default: return "https://" + getName().toLowerCase().replace("_", "") + ".ca";
-        }
-    }
-
-    @Override
     public SovereignStateSubdivision[] getNeighbors() {
         switch (this) {
             case ALBERTA:

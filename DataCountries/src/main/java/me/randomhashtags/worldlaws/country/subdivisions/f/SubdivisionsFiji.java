@@ -50,9 +50,4 @@ public enum SubdivisionsFiji implements SovereignStateSubdivision { // https://e
     public String getFlagURL() {
         return null;
     }
-
-    @Override
-    public String getGovernmentWebsite() {
-        return null;
-    }
 }

@@ -87,13 +87,4 @@ public enum SubdivisionsSwitzerland implements SovereignStateSubdivision { // ht
     public String getFlagURL() {
         return null;
     }
-
-    @Override
-    public String getGovernmentWebsite() {
-        switch (this) {
-            case URI: return "https://www.ur.ch";
-            case ZURICH: return "https://www.zh.ch/de.html";
-            default: return null;
-        }
-    }
 }

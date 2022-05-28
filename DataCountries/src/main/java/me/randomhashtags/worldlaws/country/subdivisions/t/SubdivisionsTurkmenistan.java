@@ -56,9 +56,4 @@ public enum SubdivisionsTurkmenistan implements SovereignStateSubdivision { // h
     public String getFlagURL() {
         return null;
     }
-
-    @Override
-    public String getGovernmentWebsite() {
-        return null;
-    }
 }

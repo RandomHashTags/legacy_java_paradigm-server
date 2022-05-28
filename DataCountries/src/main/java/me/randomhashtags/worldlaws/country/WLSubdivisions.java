@@ -30,6 +30,7 @@ import me.randomhashtags.worldlaws.country.subdivisions.h.SubdivisionsHungary;
 import me.randomhashtags.worldlaws.country.subdivisions.i.*;
 import me.randomhashtags.worldlaws.country.subdivisions.j.SubdivisionsJamaica;
 import me.randomhashtags.worldlaws.country.subdivisions.j.SubdivisionsJapan;
+import me.randomhashtags.worldlaws.country.subdivisions.j.SubdivisionsJersey;
 import me.randomhashtags.worldlaws.country.subdivisions.j.SubdivisionsJordan;
 import me.randomhashtags.worldlaws.country.subdivisions.k.SubdivisionsKazakhstan;
 import me.randomhashtags.worldlaws.country.subdivisions.l.SubdivisionsLibya;
@@ -122,6 +123,7 @@ public enum WLSubdivisions {
 
             case JAMAICA: return SubdivisionsJamaica.values();
             case JAPAN: return SubdivisionsJapan.values();
+            case JERSEY: return SubdivisionsJersey.values();
             case JORDAN: return SubdivisionsJordan.values();
 
             case KAZAKHSTAN: return SubdivisionsKazakhstan.values();

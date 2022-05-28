@@ -76,9 +76,4 @@ public enum SubdivisionsNetherlands implements SovereignStateSubdivision { // ht
     public String getFlagURL() {
         return null;
     }
-
-    @Override
-    public String getGovernmentWebsite() {
-        return null;
-    }
 }

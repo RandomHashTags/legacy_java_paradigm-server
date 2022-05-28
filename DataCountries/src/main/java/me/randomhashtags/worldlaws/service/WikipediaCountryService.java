@@ -1,10 +1,7 @@
 package me.randomhashtags.worldlaws.service;
 
 import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.country.SovereignStateInfo;
-import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
-import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
-import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.*;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.service.wikipedia.WikipediaDocument;
 import org.json.JSONObject;
@@ -107,12 +104,18 @@ public final class WikipediaCountryService implements NewCountryService {
             final Element infobox = wikiDoc.getInfobox();
             final JSONObjectTranslatable statistics = new JSONObjectTranslatable();
             if(infobox != null) {
+                /*final String flagURL = getFlagURL(infobox);
+                if(flagURL != null) {
+                    statistics.put("flagURL", flagURL);
+                }*/
                 final Elements trs = infobox.selectFirst("tbody").select("tr");
                 String previousHeaderText = null, previousHeaderIdentifier = null;
                 final HashMap<String, List<String>> allowedStatistics = new HashMap<>() {{
                     put("area", Arrays.asList("total", "land", "water"));
                     put("dimensions", Arrays.asList("length", "width"));
                     put("population", Arrays.asList("total", "density", "median household income"));
+                    put("website", List.of());
+                    put("demonym(s)", List.of());
                 }};
 
                 for(Element tr : trs) {
@@ -134,14 +137,36 @@ public final class WikipediaCountryService implements NewCountryService {
                                 case "lowest_elevation":
                                     final String key = "elevation";
                                     if(!statistics.has(key)) {
-                                        statistics.put(key, new JSONObjectTranslatable());
+                                        statistics.put(key, new JSONObjectTranslatable(), true);
                                     }
                                     statistics.getJSONObjectTranslatable(key).put(headerIdentifier.replace("_elevation", "").replace("elevation", "median"), getStatisticValue(tr));
+                                    break;
+                                case "website":
+                                case "demonym(s)":
+                                    if(!statistics.has(headerIdentifier)) {
+                                        statistics.put(headerIdentifier, new JSONObjectTranslatable(), true);
+                                    }
+                                    final Element td = tr.selectFirst("td.infobox-data");
+                                    if(td != null) {
+                                        switch (headerIdentifier) {
+                                            case "demonym(s)":
+                                                final String string = LocalServer.removeWikipediaReferences(td.text());
+                                                statistics.getJSONObjectTranslatable(headerIdentifier).put("demonym(s)", string);
+                                                break;
+                                            default:
+                                                final Element link = td.selectFirst("a.external");
+                                                if(link != null) {
+                                                    final String href = link.attr("href").replace("http://", "https://");
+                                                    statistics.getJSONObjectTranslatable(headerIdentifier).put("governmentWebsite", href);
+                                                }
+                                                break;
+                                        }
+                                    }
                                     break;
                                 default:
                                     if(previousHeaderIdentifier != null && allowedStatistics.containsKey(previousHeaderIdentifier) && allowedStatistics.get(previousHeaderIdentifier).contains(headerIdentifier)) {
                                         if(!statistics.has(previousHeaderText)) {
-                                            statistics.put(previousHeaderText, new JSONObjectTranslatable());
+                                            statistics.put(previousHeaderText, new JSONObjectTranslatable(), true);
                                         }
                                         statistics.getJSONObjectTranslatable(previousHeaderText).put(headerIdentifier, getStatisticValue(tr));
                                     }
@@ -163,6 +188,36 @@ public final class WikipediaCountryService implements NewCountryService {
             WLLogger.logError(this, "missing paragraph for identifier \"" + identifier + "\"!");
             return null;
         }
+    }
+    private String getFlagURL(Element infoboxElement) {
+        if(infoboxElement != null) {
+            Element test = infoboxElement.selectFirst("td.infobox-image");
+            if(test == null) {
+                infoboxElement.selectFirst("div.ib-settlement-cols-row");
+            }
+
+            if(test != null) {
+                final Elements images = test.select("a.image");
+                if(!images.isEmpty()) {
+                    final String prefix = SovereignState.FLAG_URL_PREFIX;
+                    for(Element imageElement : images) {
+                        final Element image = imageElement.selectFirst("img");
+                        if(image != null) {
+                            final String src = image.attr("src");
+                            if(!src.isEmpty()) {
+                                final String[] values = src.split("/");
+                                String href = "https:" + src.substring(0, src.length() - values[values.length-1].length()).replace("/thumb", "");
+                                if(href.startsWith(prefix)) {
+                                    href = href.substring(prefix.length());
+                                }
+                                return href;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        return null;
     }
     private String getStatisticValue(Element tr) {
         final Element td = tr.selectFirst("td");

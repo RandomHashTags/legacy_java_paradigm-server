@@ -77,13 +77,6 @@ public enum SubdivisionsCuba implements SovereignStateSubdivision { // https://e
     }
 
     @Override
-    public String getGovernmentWebsite() {
-        switch (this) {
-            default: return null;
-        }
-    }
-
-    @Override
     public SovereignStateSubdivision[] getNeighbors() {
         switch (this) {
             default: return null;

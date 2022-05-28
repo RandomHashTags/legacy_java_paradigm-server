@@ -98,9 +98,4 @@ public enum SubdivisionsDominicanRepublic implements SovereignStateSubdivision {
     public String getFlagURL() {
         return null;
     }
-
-    @Override
-    public String getGovernmentWebsite() {
-        return null;
-    }
 }

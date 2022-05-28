@@ -110,9 +110,4 @@ public enum SubdivisionsGuadeloupe implements SovereignStateSubdivision { // htt
     public String getFlagURL() {
         return null;
     }
-
-    @Override
-    public String getGovernmentWebsite() {
-        return null;
-    }
 }

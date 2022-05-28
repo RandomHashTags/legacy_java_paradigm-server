@@ -237,11 +237,8 @@ public enum SubdivisionsAzerbaijan implements SovereignStateSubdivision { // htt
 
     @Override
     public String getFlagURL() {
-        return null;
-    }
-
-    @Override
-    public String getGovernmentWebsite() {
-        return null;
+        switch (this) {
+            default: return null;
+        }
     }
 }

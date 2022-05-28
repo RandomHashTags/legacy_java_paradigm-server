@@ -35,13 +35,13 @@ public enum ResponseVersions {
     public int getValue() {
         switch (this) {
             case COUNTRIES:
-                return 14;
+                return 15;
             case COUNTRY_CURRENCIES:
                 return 1;
             case COUNTRY_FILTERS:
                 return 1;
             case COUNTRY_INFORMATION:
-                return 4;
+                return 5;
             case SUBDIVISION_INFORMATION:
                 return 3;
 

@@ -92,9 +92,4 @@ public enum SubdivisionsNigeria implements SovereignStateSubdivision { // https:
     public String getFlagURL() {
         return null;
     }
-
-    @Override
-    public String getGovernmentWebsite() {
-        return null;
-    }
 }

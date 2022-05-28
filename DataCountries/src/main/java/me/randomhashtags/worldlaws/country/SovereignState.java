@@ -7,6 +7,8 @@ import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import org.json.JSONArray;
 
 public interface SovereignState extends Jsoupable, Jsonable {
+    String FLAG_URL_PREFIX = "https://upload.wikimedia.org/wikipedia/";
+
     default String getBackendID() {
         return getShortName().toLowerCase().replace(" ", "");
     }

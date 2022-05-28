@@ -108,11 +108,8 @@ public enum SubdivisionsAlgeria implements SovereignStateSubdivision { // https:
 
     @Override
     public String getFlagURL() {
-        return null;
-    }
-
-    @Override
-    public String getGovernmentWebsite() {
-        return null;
+        switch (this) {
+            default: return null;
+        }
     }
 }

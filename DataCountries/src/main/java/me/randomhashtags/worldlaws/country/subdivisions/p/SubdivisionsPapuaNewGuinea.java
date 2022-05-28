@@ -102,12 +102,4 @@ public enum SubdivisionsPapuaNewGuinea implements SovereignStateSubdivision { //
     public String getFlagURL() {
         return null;
     }
-
-    @Override
-    public String getGovernmentWebsite() {
-        switch (this) {
-            case NATIONAL_CAPITAL_DISTRICT: return "https://ncdc.gov.pg";
-            default: return null;
-        }
-    }
 }

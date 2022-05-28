@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.country.SovereignState;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.info.CountryInfoKeys;
@@ -57,8 +58,7 @@ public final class Countries implements WLServer {
 
     private void test() {
         loadServices();
-        final ServerRequest request = new ServerRequest(ServerRequestTypeCountries.FILTERS);
-        final JSONTranslatable json = ServerRequestTypeCountries.FILTERS.getHandler(APIVersion.v1).getResponse(null);
+        final JSONTranslatable json = getInformationResponse(APIVersion.v1, new String[] { "unitedstates", "minnesota" });
         WLLogger.logInfo("Countries;test;string=" + (json != null ? json.toString() : "null"));
         /*
         final NewCountryService service = WikipediaFeaturedPictures.INSTANCE;
@@ -145,15 +145,18 @@ public final class Countries implements WLServer {
     private JSONObjectTranslatable loadCountries(APIVersion version) {
         switch (version) {
             case v1:
-                final JSONObjectTranslatable json = new JSONObjectTranslatable();
+                final JSONObjectTranslatable json = new JSONObjectTranslatable("countries");
                 json.put("response_version", ResponseVersions.COUNTRIES.getValue());
+                final JSONObjectTranslatable countriesJSON = new JSONObjectTranslatable();
                 final WLCountry[] countries = WLCountry.values();
                 for(WLCountry country : countries) {
                     final CustomCountry customCountry = new CustomCountry(country);
                     final String backendID = customCountry.getBackendID();
                     countriesMap.put(backendID, customCountry);
-                    json.put(backendID, customCountry.getJSONObject(), true);
+                    countriesJSON.put(backendID, customCountry.getJSONObject(), true);
                 }
+                json.put("countries", countriesJSON);
+                json.put("flagURLPrefix", SovereignState.FLAG_URL_PREFIX);
                 return json;
             default:
                 return null;

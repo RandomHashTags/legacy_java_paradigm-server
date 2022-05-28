@@ -44,9 +44,6 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
     default String getRealName() {
         return null;
     }
-    default String getGovernmentWebsite() {
-        return null;
-    }
     default String getWikipediaURL() {
         final SubdivisionType type = getType();
         final String prefix = getWikipediaURLPrefix(), suffix = (type != null ? type : getDefaultType()).getSingularName();
@@ -109,10 +106,6 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
 
         final JSONObjectTranslatable neighborsJSON = getNeighborsJSON();
         final EventSources resources = new EventSources(), customResources = getCustomResources();
-        final String governmentWebsite = getGovernmentWebsite();
-        if(governmentWebsite != null) {
-            resources.add(new EventSource("Government Website", governmentWebsite));
-        }
         if(customResources != null) {
             resources.addAll(customResources);
         }
@@ -185,7 +178,8 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
     }
 
     default JSONObjectTranslatable toJSONObject() {
-        final String flagURL = getFlagURL(), isoAlpha2 = getISOAlpha2();
+        String flagURL = getFlagURL();
+        final String isoAlpha2 = getISOAlpha2();
         final WLTimeZone[] timezones = getTimeZones();
         final SubdivisionType type = getType();
 
@@ -201,6 +195,9 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
             json.put("timezones", getTimeZonesJSONArray(timezones));
         }
         if(flagURL != null) {
+            if(flagURL.startsWith(FLAG_URL_PREFIX)) {
+                flagURL = flagURL.substring(FLAG_URL_PREFIX.length());
+            }
             json.put("flagURL", flagURL);
         }
         return json;

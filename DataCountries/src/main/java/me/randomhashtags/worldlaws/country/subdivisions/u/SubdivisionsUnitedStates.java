@@ -205,19 +205,68 @@ public enum SubdivisionsUnitedStates implements SovereignStateSubdivision { // h
 
     @Override
     public String getFlagURL() {
-        final String name = name().toLowerCase().replace("_", "-");;
-        return "https://flaglane.com/download/" + name + "-flag/" + name + "-flag-large.png";
-    }
-
-    @Override
-    public String getGovernmentWebsite() {
         switch (this) {
-            case ALASKA:
-            case HAWAII:
-            case TEXAS:
-                return "https://" + name().toLowerCase() + ".gov";
-            default:
-                return "https://" + getISOAlpha2().toLowerCase() + ".gov";
+            case ALABAMA: return "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Alabama.svg";
+            case ALASKA: return "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Alaska.svg";
+            case ARIZONA: return "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arizona.svg";
+            case ARKANSAS: return "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg";
+            case CALIFORNIA: return "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_California.svg";
+            case COLORADO: return "https://upload.wikimedia.org/wikipedia/commons/4/46/Flag_of_Colorado.svg";
+            case CONNECTICUT: return "https://upload.wikimedia.org/wikipedia/commons/9/96/Flag_of_Connecticut.svg";
+            case DELAWARE: return "https://upload.wikimedia.org/wikipedia/commons/c/c6/Flag_of_Delaware.svg";
+            case FLORIDA: return "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Florida.svg";
+            case GEORGIA: return "https://upload.wikimedia.org/wikipedia/commons/5/54/Flag_of_Georgia_%28U.S._state%29.svg";
+            case HAWAII: return "https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Hawaii.svg";
+            case IDAHO: return "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_Idaho.svg";
+            case ILLINOIS: return "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Illinois.svg";
+            case INDIANA: return "https://upload.wikimedia.org/wikipedia/commons/a/ac/Flag_of_Indiana.svg";
+            case IOWA: return "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Iowa.svg";
+            case KANSAS: return "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Kansas.svg";
+            case KENTUCKY: return "https://upload.wikimedia.org/wikipedia/commons/8/8d/Flag_of_Kentucky.svg";
+            case LOUISIANA: return "https://upload.wikimedia.org/wikipedia/commons/e/e0/Flag_of_Louisiana.svg";
+            case MAINE: return "https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_Maine.svg";
+            case MARYLAND: return "https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Maryland.svg";
+            case MASSACHUSETTS: return "https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Massachusetts.svg";
+            case MICHIGAN: return "https://upload.wikimedia.org/wikipedia/commons/b/b5/Flag_of_Michigan.svg";
+            case MINNESOTA: return "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Minnesota.svg";
+            case MISSISSIPPI: return "https://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_Mississippi.svg";
+            case MISSOURI: return "https://upload.wikimedia.org/wikipedia/commons/5/5a/Flag_of_Missouri.svg";
+            case MONTANA: return "https://upload.wikimedia.org/wikipedia/commons/7/7a/State_Flag_of_Montana.svg";
+            case NEBRASKA: return "https://upload.wikimedia.org/wikipedia/commons/4/4d/Flag_of_Nebraska.svg";
+            case NEVADA: return "https://upload.wikimedia.org/wikipedia/commons/f/f1/Flag_of_Nevada.svg";
+            case NEW_HAMPSHIRE: return "https://upload.wikimedia.org/wikipedia/commons/2/28/Flag_of_New_Hampshire.svg";
+            case NEW_JERSEY: return "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_New_Jersey.svg";
+            case NEW_MEXICO: return "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_New_Mexico.svg";
+            case NEW_YORK: return "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_New_York.svg";
+            case NORTH_CAROLINA: return "https://upload.wikimedia.org/wikipedia/commons/b/bb/Flag_of_North_Carolina.svg";
+            case NORTH_DAKOTA: return "https://upload.wikimedia.org/wikipedia/commons/e/ee/Flag_of_North_Dakota.svg";
+            case OHIO: return "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Ohio.svg";
+            case OKLAHOMA: return "https://upload.wikimedia.org/wikipedia/commons/6/6e/Flag_of_Oklahoma.svg";
+            case OREGON: return "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Oregon.svg";
+            case PENNSYLVANIA: return "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Pennsylvania.svg";
+            case RHODE_ISLAND: return "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Rhode_Island.svg";
+            case SOUTH_CAROLINA: return "https://upload.wikimedia.org/wikipedia/commons/6/69/Flag_of_South_Carolina.svg";
+            case SOUTH_DAKOTA: return "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_South_Dakota.svg";
+            case TENNESSEE: return "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Tennessee.svg";
+            case TEXAS: return "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Texas.svg";
+            case UTAH: return "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Utah.svg";
+            case VERMONT: return "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Vermont.svg";
+            case VIRGINIA: return "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Virginia.svg";
+            case WASHINGTON: return "https://upload.wikimedia.org/wikipedia/commons/5/54/Flag_of_Washington.svg";
+            case WEST_VIRGINA: return "https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_West_Virginia.svg";
+            case WISCONSIN: return "https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_Wisconsin.svg";
+            case WYOMING: return "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Wyoming.svg";
+
+            case AMERICAN_SAMOA: return "https://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg";
+            case GUAM: return "https://upload.wikimedia.org/wikipedia/commons/0/07/Flag_of_Guam.svg";
+            case MARSHALL_ISLANDS: return "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_the_Marshall_Islands.svg";
+            case MICRONESIA: return "https://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg";
+            case NORTHERN_MARIANA_ISLANDS: return "https://upload.wikimedia.org/wikipedia/commons/e/e0/Flag_of_the_Northern_Mariana_Islands.svg";
+            case PALAU: return "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg";
+            case PUERTO_RICO: return "https://upload.wikimedia.org/wikipedia/commons/2/28/Flag_of_Puerto_Rico.svg";
+            case UNITED_STATES_VIRGIN_ISLANDS: return "https://upload.wikimedia.org/wikipedia/commons/f/f8/Flag_of_the_United_States_Virgin_Islands.svg";
+            case WASHINGTON_DC: return "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_the_District_of_Columbia.svg";
+            default: return null;
         }
     }
 
