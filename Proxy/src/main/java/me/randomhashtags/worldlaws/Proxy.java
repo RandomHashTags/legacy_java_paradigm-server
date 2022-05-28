@@ -161,8 +161,15 @@ public final class Proxy implements UserServer {
         final HashMap<String, Runnable> map = new HashMap<>();
         map.put("startmaintenance", () -> startMaintenanceMode("Manual updates in progress, please wait a few minutes :)"));
         map.put("endmaintenance", Proxy::endMaintenanceMode);
+
         map.put("shutdown", ServerStatuses::shutdownServers);
         map.put("spinup", ServerStatuses::spinUpServers);
+        for(TargetServer server : TargetServer.values()) {
+            final String serverName = server.getName().toLowerCase();
+            map.put("shutdown_" + serverName, () -> ServerStatuses.shutdownServers(List.of(server)));
+            map.put("spinup_" + serverName, () -> ServerStatuses.bootServers(List.of(server)));
+        }
+
         map.put("rebootservers", ServerStatuses::rebootServers);
         map.put("reboot", this::rebootProxy);
         map.put("refresh", ServerStatuses::refreshServers);

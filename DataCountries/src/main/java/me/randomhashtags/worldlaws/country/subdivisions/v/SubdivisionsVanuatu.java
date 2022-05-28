@@ -37,14 +37,14 @@ public enum SubdivisionsVanuatu implements SovereignStateSubdivision { // https:
     }
 
     @Override
-    public String getFlagURL() {
+    public String getFlagURLWikipediaSVGID() {
         switch (this) {
-            case MALAMPA: return "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Malampa_Province.svg";
-            case PENAMA: return "https://upload.wikimedia.org/wikipedia/commons/a/ac/Flag_of_Penama_Province.svg";
-            case SANMA: return "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Sanma_Province.svg";
-            case SHEFA: return "https://upload.wikimedia.org/wikipedia/commons/d/df/Flag_of_Shefa_Province.svg";
-            case TAFEA: return "https://upload.wikimedia.org/wikipedia/commons/5/55/Tafea_Province_Flag.svg";
-            case TORBA: return "https://upload.wikimedia.org/wikipedia/en/a/af/Flag_of_Torba_%28Vanuatu%29_Province.svg";
+            case MALAMPA: return "d/dd/Flag_of_Malampa_Province.svg";
+            case PENAMA: return "a/ac/Flag_of_Penama_Province.svg";
+            case SANMA: return "d/d0/Flag_of_Sanma_Province.svg";
+            case SHEFA: return "d/df/Flag_of_Shefa_Province.svg";
+            case TAFEA: return "5/55/Tafea_Province_Flag.svg";
+            case TORBA: return "en/a/af/Flag_of_Torba_%28Vanuatu%29_Province.svg";
             default: return null;
         }
     }

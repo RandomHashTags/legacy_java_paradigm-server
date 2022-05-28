@@ -16,7 +16,18 @@ public interface SovereignState extends Jsoupable, Jsonable {
     String getShortName();
     String getName();
     String getISOAlpha2();
-    String getFlagURL();
+    default String getFlagURL() {
+        final String id = getFlagURLWikipediaSVGID();
+        if(id != null) {
+            final String[] values = id.split("/");
+            final String type = id.startsWith("en") ? "en" : "commons";
+            return "https://upload.wikimedia.org/wikipedia/" + type + "/thumb/" + id.replace("en/", "") + "/%quality%px-" + values[values.length-1] + ".png";
+        }
+        return null;
+    }
+    default String getFlagURLWikipediaSVGID() {
+        return null;
+    }
     default WLTimeZone[] getTimeZones() {
         return null;
     }

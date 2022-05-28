@@ -16,7 +16,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 public enum ServerStatuses {
     ;
 
-    private static void bootServers(Collection<TargetServer> servers) {
+    public static void bootServers(Collection<TargetServer> servers) {
         final String command = Settings.Server.getBootServerCommand();
         new CompletableFutures<TargetServer>().stream(servers, server -> {
             final String serverCommand = command.replace("%server%", server.getName());

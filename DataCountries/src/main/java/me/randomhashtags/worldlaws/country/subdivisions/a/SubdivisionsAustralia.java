@@ -87,26 +87,26 @@ public enum SubdivisionsAustralia implements SovereignStateSubdivision { // http
     }
 
     @Override
-    public String getFlagURL() {
+    public String getFlagURLWikipediaSVGID() {
         switch (this) {
-            case NEW_SOUTH_WALES: return "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_New_South_Wales.svg";
-            case QUEENSLAND: return "https://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Queensland.svg";
-            case SOUTH_AUSTRALIA: return "https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_South_Australia.svg";
-            case TASMANIA: return "https://upload.wikimedia.org/wikipedia/commons/4/46/Flag_of_Tasmania.svg";
-            case VICTORIA: return "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Victoria_%28Australia%29.svg";
-            case WESTERN_AUSTRALIA: return "https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_Western_Australia.svg";
+            case NEW_SOUTH_WALES: return "0/00/Flag_of_New_South_Wales.svg";
+            case QUEENSLAND: return "0/04/Flag_of_Queensland.svg";
+            case SOUTH_AUSTRALIA: return "f/fd/Flag_of_South_Australia.svg";
+            case TASMANIA: return "4/46/Flag_of_Tasmania.svg";
+            case VICTORIA: return "0/08/Flag_of_Victoria_%28Australia%29.svg";
+            case WESTERN_AUSTRALIA: return "a/a5/Flag_of_Western_Australia.svg";
 
-            case AUSTRALIAN_CAPITAL_TERRITORY: return "https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_the_Australian_Capital_Territory.svg";
+            case AUSTRALIAN_CAPITAL_TERRITORY: return "8/8c/Flag_of_the_Australian_Capital_Territory.svg";
             case JERVIS_BAY_TERRITORY: return null;
-            case NORTHERN_TERRITORY: return "https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_the_Northern_Territory.svg";
+            case NORTHERN_TERRITORY: return "b/b7/Flag_of_the_Northern_Territory.svg";
 
             case ASHMORE_AND_CARTIER_ISLANDS: return null;
             case AUSTRALIAN_ANTARCTIC_TERRITORY: return null;
-            case CHRISTMAS_ISLAND: return "https://upload.wikimedia.org/wikipedia/commons/6/67/Flag_of_Christmas_Island.svg";
-            case COCOS_KEELING_ISLANDS: return "https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Cocos_%28Keeling%29_Islands.svg";
+            case CHRISTMAS_ISLAND: return "6/67/Flag_of_Christmas_Island.svg";
+            case COCOS_KEELING_ISLANDS: return "7/74/Flag_of_the_Cocos_%28Keeling%29_Islands.svg";
             case CORAL_SEA_ISLANDS: return null;
             case HEARD_ISLAND_AND_MCDONALD_ISLANDS: return null;
-            case NORFOLK_ISLAND: return "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Norfolk_Island.svg";
+            case NORFOLK_ISLAND: return "4/48/Flag_of_Norfolk_Island.svg";
             default: return null;
         }
     }

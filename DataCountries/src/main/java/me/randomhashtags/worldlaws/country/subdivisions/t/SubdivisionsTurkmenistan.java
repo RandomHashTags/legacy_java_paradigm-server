@@ -53,10 +53,10 @@ public enum SubdivisionsTurkmenistan implements SovereignStateSubdivision { // h
     }
 
     @Override
-    public String getFlagURL() {
+    public String getFlagURLWikipediaSVGID() {
         switch (this) {
             case AHAL: return null;
-            case ASHGABAT: return "https://upload.wikimedia.org/wikipedia/commons/7/7e/Ashgabat_%28seal%29.svg";
+            case ASHGABAT: return "7/7e/Ashgabat_%28seal%29.svg";
             case BALKAN: return null;
             case DASOGUZ: return null;
             case LEBAP: return null;

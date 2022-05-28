@@ -127,45 +127,45 @@ public enum SubdivisionsIndia implements SovereignStateSubdivision { // https://
     }
 
     @Override
-    public String getFlagURL() {
+    public String getFlagURLWikipediaSVGID() {
         switch (this) {
-            case ANDHRA_PRADESH: return "https://upload.wikimedia.org/wikipedia/commons/3/37/Emblem_of_Andhra_Pradesh.svg";
-            case ARUNACHAL_PRADESH: return "https://upload.wikimedia.org/wikipedia/en/d/d4/Arunachal_Pradesh_Seal.svg";
-            case ASSAM: return "https://upload.wikimedia.org/wikipedia/commons/0/0e/Seal_of_Assam.svg";
-            case BIHAR: return "https://upload.wikimedia.org/wikipedia/commons/e/e9/Seal_of_Bihar.svg";
-            case CHHATTISGARH: return "https://upload.wikimedia.org/wikipedia/commons/5/5b/..Chhattisgarh_Flag%28INDIA%29.png";
-            case GOA: return "https://upload.wikimedia.org/wikipedia/en/8/8a/Seal_of_Goa.png";
-            case GUJARAT: return "https://upload.wikimedia.org/wikipedia/commons/a/a6/Government_Of_Gujarat_Seal_In_All_Languages.svg";
-            case HARYANA: return "https://upload.wikimedia.org/wikipedia/commons/3/36/Emblem_of_Haryana.svg";
-            case HIMACHAL_PRADESH: return "https://upload.wikimedia.org/wikipedia/en/b/be/Himachal_Pradesh_seal.svg";
-            case JHARKHAND: return "https://upload.wikimedia.org/wikipedia/commons/a/a9/Jharkhand_Rajakiya_Chihna.svg";
-            case KARNATAKA: return "https://upload.wikimedia.org/wikipedia/commons/a/aa/Seal_of_Karnataka.svg";
-            case KERALA: return "https://upload.wikimedia.org/wikipedia/commons/5/5b/Government_of_Kerala_Logo.svg";
-            case MADHYA_PRADESH: return "https://upload.wikimedia.org/wikipedia/commons/a/ae/Emblem_of_Madhya_Pradesh.svg";
-            case MAHARASHTRA: return "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Maharashtra.svg";
-            case MANIPUR: return "https://upload.wikimedia.org/wikipedia/en/3/3e/Manipur_emblem.svg";
-            case MEGHALAYA: return "https://upload.wikimedia.org/wikipedia/commons/5/59/Seal_of_Meghalaya.svg";
-            case MIZORAM: return "https://upload.wikimedia.org/wikipedia/commons/5/56/Seal_of_Mizoram.svg";
-            case NAGALAND: return "https://upload.wikimedia.org/wikipedia/en/1/1e/Seal_of_Nagaland.svg";
-            case ODISHA: return "https://upload.wikimedia.org/wikipedia/commons/f/fe/Seal_of_Odisha.png";
-            case PUNJAB: return "https://upload.wikimedia.org/wikipedia/commons/5/5d/Seal_of_Punjab.svg";
-            case RAJASTHAN: return "https://upload.wikimedia.org/wikipedia/commons/1/1e/Emblem_Rajasthan.png";
-            case SIKKIM: return "https://upload.wikimedia.org/wikipedia/commons/c/c0/Seal_of_Sikkim.svg";
-            case TAMIL_NADU: return "https://upload.wikimedia.org/wikipedia/commons/8/81/TamilNadu_Logo.svg";
-            case TELANGANA: return "https://upload.wikimedia.org/wikipedia/commons/f/f7/Government_of_Telangana_Logo.png";
-            case TRIPURA: return "https://upload.wikimedia.org/wikipedia/commons/7/73/Seal_of_Tripura.svg";
-            case UTTAR_PRADESH: return "https://upload.wikimedia.org/wikipedia/commons/f/fa/Seal_of_Uttar_Pradesh.svg";
-            case UTTARAKHAND: return "https://upload.wikimedia.org/wikipedia/en/9/99/Seal_of_Uttarakhand.svg";
-            case WEST_BENGAL: return "https://upload.wikimedia.org/wikipedia/commons/d/d5/Emblem_of_West_Bengal.svg";
+            case ANDHRA_PRADESH: return "3/37/Emblem_of_Andhra_Pradesh.svg";
+            case ARUNACHAL_PRADESH: return "en/d/d4/Arunachal_Pradesh_Seal.svg";
+            case ASSAM: return "0/0e/Seal_of_Assam.svg";
+            case BIHAR: return "e/e9/Seal_of_Bihar.svg";
+            case CHHATTISGARH: return "5/5b/..Chhattisgarh_Flag%28INDIA%29.png";
+            case GOA: return "en/8/8a/Seal_of_Goa.png";
+            case GUJARAT: return "a/a6/Government_Of_Gujarat_Seal_In_All_Languages.svg";
+            case HARYANA: return "3/36/Emblem_of_Haryana.svg";
+            case HIMACHAL_PRADESH: return "en/b/be/Himachal_Pradesh_seal.svg";
+            case JHARKHAND: return "a/a9/Jharkhand_Rajakiya_Chihna.svg";
+            case KARNATAKA: return "a/aa/Seal_of_Karnataka.svg";
+            case KERALA: return "5/5b/Government_of_Kerala_Logo.svg";
+            case MADHYA_PRADESH: return "a/ae/Emblem_of_Madhya_Pradesh.svg";
+            case MAHARASHTRA: return "f/ff/Flag_of_Maharashtra.svg";
+            case MANIPUR: return "en/3/3e/Manipur_emblem.svg";
+            case MEGHALAYA: return "5/59/Seal_of_Meghalaya.svg";
+            case MIZORAM: return "5/56/Seal_of_Mizoram.svg";
+            case NAGALAND: return "en/1/1e/Seal_of_Nagaland.svg";
+            case ODISHA: return "f/fe/Seal_of_Odisha.png";
+            case PUNJAB: return "5/5d/Seal_of_Punjab.svg";
+            case RAJASTHAN: return "1/1e/Emblem_Rajasthan.png";
+            case SIKKIM: return "c/c0/Seal_of_Sikkim.svg";
+            case TAMIL_NADU: return "8/81/TamilNadu_Logo.svg";
+            case TELANGANA: return "f/f7/Government_of_Telangana_Logo.png";
+            case TRIPURA: return "7/73/Seal_of_Tripura.svg";
+            case UTTAR_PRADESH: return "f/fa/Seal_of_Uttar_Pradesh.svg";
+            case UTTARAKHAND: return "en/9/99/Seal_of_Uttarakhand.svg";
+            case WEST_BENGAL: return "d/d5/Emblem_of_West_Bengal.svg";
 
-            case ANDAMAN_AND_NICOBAR_ISLANDS: return "https://upload.wikimedia.org/wikipedia/en/4/40/Seal_of_Andaman_Government.png";
-            case CHANDIGARH: return "https://upload.wikimedia.org/wikipedia/en/9/96/Chandigarh_emblem.png";
-            case DADRA_AND_NAGAR_HAVELI_AND_DAMAN_AND_DIU: return "https://upload.wikimedia.org/wikipedia/commons/7/73/Seal_of_Dadra_and_Nagar_Haveli_and_Daman_and_Diu.svg";
+            case ANDAMAN_AND_NICOBAR_ISLANDS: return "en/4/40/Seal_of_Andaman_Government.png";
+            case CHANDIGARH: return "en/9/96/Chandigarh_emblem.png";
+            case DADRA_AND_NAGAR_HAVELI_AND_DAMAN_AND_DIU: return "7/73/Seal_of_Dadra_and_Nagar_Haveli_and_Daman_and_Diu.svg";
             case DELHI: return null;
             case JAMMU_AND_KASHMIR: return null;
-            case LADAKH: return "https://upload.wikimedia.org/wikipedia/commons/e/e1/Seal_of_Ladakh.png";
-            case LAKSHADWEEP: return "https://upload.wikimedia.org/wikipedia/en/6/61/Lakshadweep_Banner.png";
-            case PUDUCHERRY: return "https://upload.wikimedia.org/wikipedia/commons/1/12/Seal_of_Puducherry.svg";
+            case LADAKH: return "e/e1/Seal_of_Ladakh.png";
+            case LAKSHADWEEP: return "en/6/61/Lakshadweep_Banner.png";
+            case PUDUCHERRY: return "1/12/Seal_of_Puducherry.svg";
 
             default: return null;
         }

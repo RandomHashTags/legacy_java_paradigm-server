@@ -149,10 +149,12 @@ public enum WeatherUSA implements WeatherController {
             }
         }
         final JSONObject zone = getOrLoadWeatherZone(zoneID);
-        final JSONObject zoneProperties = zone.optJSONObject("properties", null);
-        if(zoneProperties != null && zoneProperties.get("state") == null) {
-            final String identifier = zoneProperties.getJSONArray("forecastOffices").getString(0);
-            officeIDs.add(identifier);
+        if(zone != null) {
+            final JSONObject zoneProperties = zone.optJSONObject("properties", null);
+            if(zoneProperties != null && zoneProperties.get("state") == null) {
+                final String identifier = zoneProperties.getJSONArray("forecastOffices").getString(0);
+                officeIDs.add(identifier);
+            }
         }
         return true;
     }

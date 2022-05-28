@@ -55,7 +55,7 @@ public enum SubdivisionsJersey implements SovereignStateSubdivision { // https:/
     }
 
     @Override
-    public String getFlagURL() {
+    public String getFlagURL() { // TODO: update this - client doesn't support svg images
         switch (this) {
             case SAINT_BRELADE: return "https://comite.je/wp-content/uploads/sites/13/2021/11/icon-st-brelade-1.svg";
             case SAINT_CLEMENT: return "https://comite.je/wp-content/uploads/sites/13/2021/09/icon-st-clement.svg";

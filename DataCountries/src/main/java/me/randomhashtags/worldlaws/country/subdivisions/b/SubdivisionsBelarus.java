@@ -60,15 +60,15 @@ public enum SubdivisionsBelarus implements SovereignStateSubdivision { // https:
     }
 
     @Override
-    public String getFlagURL() {
+    public String getFlagURLWikipediaSVGID() {
         switch (this) {
-            case BREST: return "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Brest_Voblast%2C_Belarus.svg";
-            case MINSK_CITY: return "https://upload.wikimedia.org/wikipedia/commons/6/69/Flag_of_Minsk%2C_Belarus.svg";
-            case GOMEL: return "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Homyel_Voblast.svg";
-            case GRODNO: return "https://upload.wikimedia.org/wikipedia/commons/f/f8/Flag_of_Hrodna_Voblasts.svg";
-            case MINSK: return "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_Minsk_Voblast.svg";
-            case MOGILEV: return "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Mahilyow_Voblast.svg";
-            case VITESBSK: return "https://upload.wikimedia.org/wikipedia/commons/a/a8/Flag_of_Vitsebsk_Voblasts.svg";
+            case BREST: return "e/ec/Flag_of_Brest_Voblast%2C_Belarus.svg";
+            case MINSK_CITY: return "6/69/Flag_of_Minsk%2C_Belarus.svg";
+            case GOMEL: return "4/49/Flag_of_Homyel_Voblast.svg";
+            case GRODNO: return "f/f8/Flag_of_Hrodna_Voblasts.svg";
+            case MINSK: return "2/2e/Flag_of_Minsk_Voblast.svg";
+            case MOGILEV: return "b/ba/Flag_of_Mahilyow_Voblast.svg";
+            case VITESBSK: return "a/a8/Flag_of_Vitsebsk_Voblasts.svg";
             default: return null;
         }
     }

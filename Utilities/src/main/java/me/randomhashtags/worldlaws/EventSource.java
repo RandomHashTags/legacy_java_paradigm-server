@@ -3,9 +3,6 @@ package me.randomhashtags.worldlaws;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import org.json.JSONObject;
 
-import java.net.URLDecoder;
-import java.nio.charset.StandardCharsets;
-
 public final class EventSource {
     private final String siteName, fixedSiteName, homepageURL;
 
@@ -21,7 +18,15 @@ public final class EventSource {
     }
 
     private String parseSiteName(String input) {
-        return URLDecoder.decode(LocalServer.fixEscapeValues(input), StandardCharsets.UTF_8);
+        return LocalServer.fixEscapeValues(input)
+                .replace("%26", "&")
+                .replace("%2B", "+")
+                .replace("%27", "'")
+                .replace("%C3%AD", "í")
+                .replace("%CA%BB", "ʻ")
+                .replace("%E2%80%93", "–")
+                .replace("%E2%80%98", "ʻ")
+                ;
     }
 
     public String getSiteName(boolean fixed) {

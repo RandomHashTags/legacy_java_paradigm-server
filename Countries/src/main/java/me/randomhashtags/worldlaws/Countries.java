@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws;
 import me.randomhashtags.worldlaws.country.SovereignState;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.v.SubdivisionsVanuatu;
 import me.randomhashtags.worldlaws.info.CountryInfoKeys;
 import me.randomhashtags.worldlaws.info.CountryValues;
 import me.randomhashtags.worldlaws.info.agriculture.ProductionFoods;
@@ -57,9 +58,8 @@ public final class Countries implements WLServer {
     }
 
     private void test() {
-        loadServices();
-        final JSONTranslatable json = getInformationResponse(APIVersion.v1, new String[] { "unitedstates", "minnesota" });
-        WLLogger.logInfo("Countries;test;string=" + (json != null ? json.toString() : "null"));
+        final String url = SubdivisionsVanuatu.TORBA.getFlagURL();
+        WLLogger.logInfo("Countries;test;url=" + url);
         /*
         final NewCountryService service = WikipediaFeaturedPictures.INSTANCE;
         //for(CountryValueService service : CountryValues.values()) {

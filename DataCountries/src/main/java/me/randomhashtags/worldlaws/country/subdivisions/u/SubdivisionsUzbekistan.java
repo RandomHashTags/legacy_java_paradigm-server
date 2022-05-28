@@ -60,20 +60,20 @@ public enum SubdivisionsUzbekistan implements SovereignStateSubdivision { // htt
     }
 
     @Override
-    public String getFlagURL() {
+    public String getFlagURLWikipediaSVGID() {
         switch (this) {
             case ANDIJAN: return null;
             case BUKHARA: return null;
             case FERGANA: return null;
             case JIZZAKH: return null;
-            case KARAKALPAKSTAN: return "https://upload.wikimedia.org/wikipedia/commons/1/16/Flag_of_Karakalpakstan.svg";
+            case KARAKALPAKSTAN: return "1/16/Flag_of_Karakalpakstan.svg";
             case NAMANGAN: return null;
             case NAVOIY: return null;
             case QASHQADARYO: return null;
             case SAMARQAND: return null;
             case SIRDARYO: return null;
             case SURXONDARYO: return null;
-            case TASHKENT: return "https://upload.wikimedia.org/wikipedia/commons/4/4a/Flag_of_Tashkent.svg";
+            case TASHKENT: return "4/4a/Flag_of_Tashkent.svg";
             case TASHKENT_REGION: return null;
             case XORAZM: return null;
             default: return null;
