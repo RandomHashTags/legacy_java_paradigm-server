@@ -41,7 +41,6 @@ public final class BandwidthTester implements UserServer, RestAPI {
         WLLogger.logInfo("BandwidthTester;test=" + test);
     }
     private void load() {
-        INPUT_SCANNERS.put(this, new Scanner(System.in));
         WLLogger.logInfo("How many requests per second should I simulate? (enter an integer value)");
         final int amount = Integer.parseInt(getUserInput());
         simulateRequestsPerSecond(amount);

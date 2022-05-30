@@ -16,6 +16,10 @@ import java.util.concurrent.atomic.AtomicInteger;
 public enum ServerStatuses {
     ;
 
+    private static List<String> getServerNames(List<TargetServer> servers) {
+        return servers.stream().map(TargetServer::getName).toList();
+    }
+
     public static void bootServers(Collection<TargetServer> servers) {
         final String command = Settings.Server.getBootServerCommand();
         new CompletableFutures<TargetServer>().stream(servers, server -> {
@@ -26,14 +30,14 @@ public enum ServerStatuses {
 
     public static void shutdownServers() {
         final long started = System.currentTimeMillis();
-        WLLogger.logInfo("Proxy - shutting down Paradigm Servers...");
+        WLLogger.logInfo("Proxy - shutting down all Paradigm Servers...");
         sendResponseToServers(started, "stop", "shutdown");
     }
     public static void shutdownServers(List<TargetServer> servers) {
         final long started = System.currentTimeMillis();
-        final List<String> names = servers.stream().map(TargetServer::getName).toList();
+        final List<String> names = getServerNames(servers);
         WLLogger.logInfo("Proxy - shutting down Paradigm Servers " + names.toString() + "...");
-        sendResponseToServers(started, "stop", "shutdown");
+        sendResponseToServers(started, servers, "stop", "shutdown");
     }
     public static void refreshServers() {
         final long started = System.currentTimeMillis();
@@ -53,15 +57,22 @@ public enum ServerStatuses {
                 final String string = sendServerResponse(server, apiVersion, uuid, path);
             }
         });
-        WLLogger.logInfo("Proxy - " + actionPastTense + " Paradigm Servers (took " + WLUtilities.getElapsedTime(started) + ")");
+        WLLogger.logInfo("Proxy - " + actionPastTense + " Paradigm Servers " + getServerNames(servers).toString() + " (took " + WLUtilities.getElapsedTime(started) + ")");
     }
     private static String sendServerResponse(TargetServer server, APIVersion version, String uuid, String path) {
         return server.sendResponse(uuid, "***REMOVED***" + uuid, "***REMOVED***", version, path, false);
     }
     public static void spinUpServers() {
         final long started = System.currentTimeMillis();
-        final String command = Settings.Server.getRunServersCommand();
-        WLUtilities.executeCommand(command, false);
+        final List<TargetServer> servers = new ArrayList<>();
+        final String currentFolder = Jsonable.CURRENT_FOLDER;
+        for(TargetServer server : TargetServer.values()) {
+            final String serverName = server.getName();
+            if(server.isRealServer() && Files.exists(Path.of(currentFolder + serverName + ".jar"))) {
+                servers.add(server);
+            }
+        }
+        bootServers(servers);
         WLLogger.logInfo("Proxy - spun up servers (took " + WLUtilities.getElapsedTime(started) + ")");
     }
     public static void rebootServers() {

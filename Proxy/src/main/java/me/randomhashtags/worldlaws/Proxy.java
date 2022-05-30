@@ -46,7 +46,7 @@ public final class Proxy implements UserServer {
 
         final long rebootFrequency = Settings.Server.getServerRebootFrequencyInDays();
         final long rebootInterval = TimeUnit.DAYS.toMillis(rebootFrequency);
-        final LocalDateTime rebootStartingDate = now.plusDays(rebootFrequency).withHour(0).withMinute(0).withSecond(5);
+        final LocalDateTime rebootStartingDate = now.plusDays(rebootFrequency).withHour(0).withMinute(0).withSecond(11);
         final Timer rebootTimer = WLUtilities.getTimer(rebootStartingDate, rebootInterval, ServerStatuses::rebootServers);
         timers.add(rebootTimer);
 
@@ -79,12 +79,15 @@ public final class Proxy implements UserServer {
         HOME_JSON_QUERIES.clear();
         server.stop(0);
         keepAlive.set(false);
-        stopListeningForUserInput();
+        try {
+            System.in.close();
+        } catch (Exception e) {
+            WLUtilities.saveException(e);
+        }
         WLLogger.logInfo("Proxy - stopped listening for clients");
     }
 
     private void setupServer() {
-        listenForUserInput();
         final int port = Settings.Server.getProxyPort();
         final boolean https = Settings.DataValues.isProductionMode() && Settings.Server.Https.isEnabled();
         if(https) {
@@ -165,9 +168,12 @@ public final class Proxy implements UserServer {
         map.put("shutdown", ServerStatuses::shutdownServers);
         map.put("spinup", ServerStatuses::spinUpServers);
         for(TargetServer server : TargetServer.values()) {
-            final String serverName = server.getName().toLowerCase();
-            map.put("shutdown_" + serverName, () -> ServerStatuses.shutdownServers(List.of(server)));
-            map.put("spinup_" + serverName, () -> ServerStatuses.bootServers(List.of(server)));
+            if(server.isRealServer()) {
+                final List<TargetServer> list = List.of(server);
+                final String serverName = server.getName().toLowerCase();
+                map.put("shutdown_" + serverName, () -> ServerStatuses.shutdownServers(list));
+                map.put("spinup_" + serverName, () -> ServerStatuses.bootServers(list));
+            }
         }
 
         map.put("rebootservers", ServerStatuses::rebootServers);

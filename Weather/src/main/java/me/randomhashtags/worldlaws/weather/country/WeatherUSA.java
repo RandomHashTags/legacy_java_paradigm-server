@@ -212,7 +212,7 @@ public enum WeatherUSA implements WeatherController {
             final HashSet<String> zoneIDs = getZoneIDs(affectedZones);
             final HashSet<WeatherZone> zones = new HashSet<>();
             for(String zoneID : zoneIDs) {
-                final WeatherZone zone = getWeatherZone(zoneID);
+                final WeatherZone zone = this.zones.getOrDefault(zoneID, null);
                 if(zone != null) {
                     zones.add(zone);
                     if(sendsRemoteNotification) {
@@ -322,13 +322,15 @@ public enum WeatherUSA implements WeatherController {
     }
     private JSONObject getLocalJSON(Folder folder, String identifier, CompletionHandler handler) {
         final JSONObject json = getJSONObject(folder, identifier, handler);
-        if(json != null && json.optInt("status", 500) == 500) {
+        if(json != null && json.optInt("status", -1) == 500) {
             final String filePath = Jsonable.getFilePath(folder, identifier, "json");
             final Path path = Paths.get(filePath);
-            try {
-                Files.delete(path);
-            } catch (Exception e) {
-                WLUtilities.saveException(e);
+            if(Files.exists(path)) {
+                try {
+                    Files.delete(path);
+                } catch (Exception e) {
+                    WLUtilities.saveException(e);
+                }
             }
         }
         folder.removeCustomFolderName(identifier);
@@ -341,7 +343,7 @@ public enum WeatherUSA implements WeatherController {
             public JSONObject loadJSONObject() {
                 final String url = "https://api.weather.gov/zones/" + zoneID;
                 final JSONObject json = requestJSONObject(url);
-                return json != null && json.optInt("status", 500) != 500 ? json : null;
+                return json != null && json.optInt("status", -1) != 500 ? json : null;
             }
         });
     }
@@ -374,14 +376,6 @@ public enum WeatherUSA implements WeatherController {
             }
         }
         return null;
-    }
-    private WeatherZone getWeatherZone(String zoneID) {
-        final JSONObject json = getOrLoadWeatherZone(zoneID);
-        final WeatherZone zone = parseWeatherZone(zoneID, json);
-        if(zone == null) {
-            WLUtilities.saveLoggedError("WeatherUSA", "failed to getOrLoadWeatherZone \"" + zoneID + "\"\njson=" + (json != null ? "\n" + json.toString() : "null"));
-        }
-        return zones.getOrDefault(zoneID, null);
     }
     private JSONObject getForecastOffice(String identifier) {
         if(!forecastOffices.containsKey(identifier)) {
