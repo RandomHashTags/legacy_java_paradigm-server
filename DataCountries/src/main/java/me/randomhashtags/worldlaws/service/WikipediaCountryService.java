@@ -12,6 +12,7 @@ import org.jsoup.select.Elements;
 
 import java.util.Arrays;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.List;
 
 public final class WikipediaCountryService implements NewCountryService {
@@ -110,10 +111,22 @@ public final class WikipediaCountryService implements NewCountryService {
                 }*/
                 final Elements trs = infobox.selectFirst("tbody").select("tr");
                 String previousHeaderText = null, previousHeaderIdentifier = null;
-                final HashMap<String, List<String>> allowedStatistics = new HashMap<>() {{
-                    put("area", Arrays.asList("total", "land", "water"));
-                    put("dimensions", Arrays.asList("length", "width"));
-                    put("population", Arrays.asList("total", "density", "median household income"));
+                final HashMap<String, List<WikipediaCountryStatistics>> allowedStatistics = new HashMap<>() {{
+                    put("area", Arrays.asList(
+                            new WikipediaCountryStatistics("total", "total_area"),
+                            new WikipediaCountryStatistics("land", "land_area"),
+                            new WikipediaCountryStatistics("water", "water_(%)")
+                    ));
+                    put("dimensions", Arrays.asList(
+                            new WikipediaCountryStatistics("length"),
+                            new WikipediaCountryStatistics("width")
+                    ));
+                    put("population", Arrays.asList(
+                            new WikipediaCountryStatistics("total", "2022_estimate", "2021_estimate", "2020_estimate", "2019_estimate", "2021_census", "2020_census"),
+                            new WikipediaCountryStatistics("density"),
+                            new WikipediaCountryStatistics("median_household_income"),
+                            new WikipediaCountryStatistics("income_rank")
+                    ));
                     put("website", List.of());
                     put("demonym(s)", List.of());
                 }};
@@ -122,13 +135,29 @@ public final class WikipediaCountryService implements NewCountryService {
                     final Element headerElement = tr.selectFirst("th");
                     if(headerElement != null) {
                         final List<TextNode> textNodes = headerElement.textNodes();
-                        if(!textNodes.isEmpty()) {
-                            final String text = textNodes.get(0).text(), symbols1 = " • ", symbols2 = " • ";
-                            final String headerIdentifier = (text.equals(symbols1) || text.equals(symbols2) ? headerElement.selectFirst("a[href]").text() : text.replace(symbols1, "").replace(symbols2, "")).toLowerCase().replace(" ", "_");
+                        String text = !textNodes.isEmpty() ? textNodes.get(0).text() : null;
+                        if(text == null || text.isEmpty() || text.equals(" ")) {
+                            final Element href = headerElement.selectFirst("a[href]");
+                            if(href != null) {
+                                text = href.text();
+                            } else {
+                                final Element div = headerElement.selectFirst("div");
+                                if(div != null) {
+                                    text = div.text();
+                                }
+                            }
+                        }
+                        if(text != null) {
+                            final String headerIdentifier = text
+                                    .replace("  ", "").replace("  ", "").replace(" ", "")
+                                    .replace(" •", "").replace("• ", "").replace("•", "")
+                                    .toLowerCase().replace(" ", "_");
                             switch (headerIdentifier) {
                                 case "area":
                                 case "dimensions":
                                 case "population":
+                                case "gdp":
+                                case "gini":
                                     previousHeaderText = headerIdentifier.replace(" ", "_");
                                     previousHeaderIdentifier = headerIdentifier;
                                     break;
@@ -143,32 +172,41 @@ public final class WikipediaCountryService implements NewCountryService {
                                     break;
                                 case "website":
                                 case "demonym(s)":
+                                case "currency":
+                                case "date_format":
+                                case "calling_code":
                                     if(!statistics.has(headerIdentifier)) {
                                         statistics.put(headerIdentifier, new JSONObjectTranslatable(), true);
                                     }
                                     final Element td = tr.selectFirst("td.infobox-data");
                                     if(td != null) {
                                         switch (headerIdentifier) {
-                                            case "demonym(s)":
-                                                final String string = LocalServer.removeWikipediaReferences(td.text());
-                                                statistics.getJSONObjectTranslatable(headerIdentifier).put("demonym(s)", string);
-                                                break;
-                                            default:
+                                            case "website":
                                                 final Element link = td.selectFirst("a.external");
                                                 if(link != null) {
                                                     final String href = link.attr("href").replace("http://", "https://");
                                                     statistics.getJSONObjectTranslatable(headerIdentifier).put("governmentWebsite", href);
                                                 }
                                                 break;
+                                            default:
+                                                final String string = LocalServer.removeWikipediaReferences(td.text());
+                                                statistics.getJSONObjectTranslatable(headerIdentifier).put(headerIdentifier, string);
+                                                break;
                                         }
                                     }
                                     break;
                                 default:
-                                    if(previousHeaderIdentifier != null && allowedStatistics.containsKey(previousHeaderIdentifier) && allowedStatistics.get(previousHeaderIdentifier).contains(headerIdentifier)) {
-                                        if(!statistics.has(previousHeaderText)) {
-                                            statistics.put(previousHeaderText, new JSONObjectTranslatable(), true);
+                                    if(previousHeaderIdentifier != null && allowedStatistics.containsKey(previousHeaderIdentifier)) {
+                                        for(WikipediaCountryStatistics statistic : allowedStatistics.get(previousHeaderIdentifier)) {
+                                            final String statisticKey = statistic.key;
+                                            if(statisticKey.equals(headerIdentifier) || statistic.contains(headerIdentifier)) {
+                                                if(!statistics.has(previousHeaderText)) {
+                                                    statistics.put(previousHeaderText, new JSONObjectTranslatable(), true);
+                                                }
+                                                statistics.getJSONObjectTranslatable(previousHeaderText).put(statisticKey, getStatisticValue(tr));
+                                                break;
+                                            }
                                         }
-                                        statistics.getJSONObjectTranslatable(previousHeaderText).put(headerIdentifier, getStatisticValue(tr));
                                     }
                                     break;
                             }
@@ -177,9 +215,9 @@ public final class WikipediaCountryService implements NewCountryService {
                 }
             }
 
-            final JSONObjectTranslatable json = new JSONObjectTranslatable("paragraph", "statistics");
+            final JSONObjectTranslatable json = new JSONObjectTranslatable("paragraph");
             if(!statistics.isEmpty()) {
-                json.put("statistics", statistics);
+                json.put("statistics", statistics, true);
             }
             json.put("paragraph", paragraph);
             json.put("url", url);
@@ -245,8 +283,12 @@ public final class WikipediaCountryService implements NewCountryService {
         );
     }
 
-    private enum WikipediaCountryStatistic {
-        ELEVATION,
-        ;
+    private static final class WikipediaCountryStatistics extends HashSet<String> {
+        private final String key;
+
+        public WikipediaCountryStatistics(String key, String...aliases) {
+            this.key = key;
+            addAll(Arrays.asList(aliases));
+        }
     }
 }

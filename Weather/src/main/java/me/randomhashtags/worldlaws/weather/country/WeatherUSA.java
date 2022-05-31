@@ -115,7 +115,10 @@ public enum WeatherUSA implements WeatherController {
     }
 
     private void processZones(HashSet<String> zoneIDs) {
-        zoneIDs.removeIf(zones::containsKey);
+        final String countryBackendID = getCountry().getBackendID();
+        zoneIDs.removeIf(zoneID -> {
+            return zones.containsKey(zoneID) || getLocalZone(countryBackendID, zoneID) != null;
+        });
         final int amount = zoneIDs.size();
         if(amount > 0) {
             final long started = System.currentTimeMillis();
@@ -123,44 +126,24 @@ public enum WeatherUSA implements WeatherController {
             final HashSet<String> officeIDs = new HashSet<>();
             WLLogger.logInfo("WeatherUSA - loading" + suffix + "...");
             for(String zoneID : zoneIDs) {
-                if(processZone(zoneID, officeIDs)) {
-                    // to prevent spam
-                    try {
-                        Thread.sleep(500);
-                    } catch (Exception e) {
-                        e.printStackTrace();
-                    }
+                loadZone(countryBackendID, zoneID, officeIDs);
+                // to prevent spam
+                try {
+                    Thread.sleep(500);
+                } catch (Exception e) {
+                    e.printStackTrace();
                 }
             }
             WLLogger.logInfo("WeatherUSA - loaded" + suffix + " (took " + WLUtilities.getElapsedTime(started) + ")");
             if(!officeIDs.isEmpty()) {
-                processZoneOffices(officeIDs);
+                processZoneOffices(countryBackendID, officeIDs);
             }
         }
     }
-    private boolean processZone(String zoneID, HashSet<String> officeIDs) {
-        final JSONObject localZone = getLocalZone(zoneID, null);
-        if(localZone != null) {
-            final WeatherZone zone = parseWeatherZone(zoneID, localZone);
-            if(zone == null) {
-                WLUtilities.saveLoggedError("WeatherUSA", "processZone;zoneID=" + zoneID + ";localZone!=null;zone==null;localZone=\n" + localZone.toString());
-            } else {
-                return false;
-            }
-        }
-        final JSONObject zone = getOrLoadWeatherZone(zoneID);
-        if(zone != null) {
-            final JSONObject zoneProperties = zone.optJSONObject("properties", null);
-            if(zoneProperties != null && zoneProperties.get("state") == null) {
-                final String identifier = zoneProperties.getJSONArray("forecastOffices").getString(0);
-                officeIDs.add(identifier);
-            }
-        }
-        return true;
-    }
-    private void processZoneOffices(Collection<String> officeIDs) {
+
+    private void processZoneOffices(String countryBackendID, Collection<String> officeIDs) {
         officeIDs.removeIf(identifier -> {
-            return forecastOffices.containsKey(identifier) || getLocalOffice(identifier, null) != null;
+            return forecastOffices.containsKey(identifier) || getLocalOffice(countryBackendID, identifier) != null;
         });
         final int amount = officeIDs.size();
         if(amount > 0) {
@@ -168,7 +151,7 @@ public enum WeatherUSA implements WeatherController {
             final String suffix = " " + amount + " forecast office" + (amount == 1 ? "" : "s");
             WLLogger.logInfo("WeatherUSA - loading" + suffix + "...");
             for(String identifier : officeIDs) {
-                getForecastOffice(identifier);
+                loadOffice(countryBackendID, identifier);
                 // to prevent spam
                 try {
                     Thread.sleep(500);
@@ -217,7 +200,7 @@ public enum WeatherUSA implements WeatherController {
                     zones.add(zone);
                     if(sendsRemoteNotification) {
                         remoteNotificationZoneAlerts.putIfAbsent(zoneID, new HashSet<>());
-                        remoteNotificationZoneAlerts.get(zoneID).add(event + "|" + id);
+                        remoteNotificationZoneAlerts.get(zoneID).add(headline + "||" + event + "||" + id);
                     }
                 }
             }
@@ -261,10 +244,11 @@ public enum WeatherUSA implements WeatherController {
                 final String zoneID = entry.getKey();
                 final HashSet<String> events = entry.getValue();
                 for(String string : events) {
-                    final String[] values = string.split("\\|");
-                    final String event = values[0], id = values[1];
+                    final String[] values = string.split("\\|\\|");
+                    final String headline = values[0], event = values[1], id = values[2];
                     final RemoteNotificationConditionalValue conditionalValue = new RemoteNotificationConditionalValue(countryBackendID, zoneID, event);
-                    final RemoteNotification notification = new RemoteNotification(subcategory, false, event, "Was just issued for local zone \"" + zoneID + "\"", pathPrefix + id, conditionalValue);
+                    final String body = !headline.equals("null") ? headline : "Was just issued for local zone \"" + zoneID + "\"";
+                    final RemoteNotification notification = new RemoteNotification(subcategory, false, event, body, pathPrefix + id, conditionalValue);
                     notifications.add(notification);
                 }
             }
@@ -272,7 +256,6 @@ public enum WeatherUSA implements WeatherController {
         }
         return getEventsJSON(eventsMap);
     }
-
     private HashSet<String> getZoneIDs(JSONArray affectedZones) {
         final HashSet<String> zoneIDs = new HashSet<>();
         for(Object object : affectedZones) {
@@ -282,6 +265,7 @@ public enum WeatherUSA implements WeatherController {
         }
         return zoneIDs;
     }
+
     @Override
     public JSONObjectTranslatable getAlert(String id) {
         if(alertIDs == null) {
@@ -305,23 +289,62 @@ public enum WeatherUSA implements WeatherController {
         return json;
     }
 
-    private JSONObject getLocalZone(String zoneID, CompletionHandler handler) {
-        final String countryBackendID = getCountry().getBackendID();
+    private JSONObject getLocalZone(String countryBackendID, String zoneID) {
         final String[] values = zoneID.split("/");
         final String zoneType = values[0], zone = values[1], subdivisionFolder = zone.substring(0, 2);
         final Folder folder = Folder.WEATHER_COUNTRY_ZONES;
         final String fileName = zone.substring(2);
         folder.setCustomFolderName(fileName, folder.getFolderName().replace("%country%", countryBackendID).replace("%type%", zoneType).replace("%subdivision%", subdivisionFolder));
-        return getLocalJSON(folder, fileName, handler);
+        JSONObject json = getLocalJSON(folder, fileName);
+        if(json != null) {
+            json = parseWeatherZone(countryBackendID, zoneID, json);
+        }
+        return json;
     }
-    private JSONObject getLocalOffice(String officeID, CompletionHandler handler) {
-        final String countryBackendID = getCountry().getBackendID();
+    private void loadZone(String countryBackendID, String zoneID, HashSet<String> officeIDs) {
+        final String url = "https://api.weather.gov/zones/" + zoneID;
+        final JSONObject json = requestJSONObject(url);
+        final JSONObject zoneJSON = json != null && json.optInt("status", -1) != 500 ? json : null;
+        if(zoneJSON != null) {
+            final JSONObject zoneProperties = zoneJSON.optJSONObject("properties", null);
+            if(zoneProperties != null && zoneProperties.get("state") == null) {
+                final String identifier = zoneProperties.getJSONArray("forecastOffices").getString(0);
+                officeIDs.add(identifier);
+            }
+
+            final String[] values = zoneID.split("/");
+            final String zoneType = values[0], zone = values[1], subdivisionFolder = zone.substring(0, 2);
+            final Folder folder = Folder.WEATHER_COUNTRY_ZONES;
+            final String fileName = zone.substring(2);
+            folder.setCustomFolderName(fileName, folder.getFolderName().replace("%country%", countryBackendID).replace("%type%", zoneType).replace("%subdivision%", subdivisionFolder));
+            Jsonable.setFileJSONObject(folder, zoneID, json);
+        } else {
+            WLUtilities.saveLoggedError("WeatherUSA", "loadZone;zoneID=" + zoneID + ";zone==null;json=\n" + (json != null ? json.toString() : "null"));
+        }
+    }
+    private void loadOffice(String countryBackendID, String officeID) {
+        final String url = "https://api.weather.gov/offices/" + officeID;
+        final JSONObject json = requestJSONObject(url);
+        if(json != null && json.optInt("status", -1) != 500) {
+            forecastOffices.put(officeID, json);
+
+            final Folder folder = Folder.WEATHER_COUNTRY_OFFICES;
+            folder.setCustomFolderName(officeID, folder.getFolderName().replace("%country%", countryBackendID));
+            Jsonable.setFileJSONObject(folder, officeID, json);
+        }
+    }
+    private JSONObject getLocalOffice(String countryBackendID, String officeID) {
         final Folder folder = Folder.WEATHER_COUNTRY_OFFICES;
         folder.setCustomFolderName(officeID, folder.getFolderName().replace("%country%", countryBackendID));
-        return getLocalJSON(folder, officeID, handler);
+        final JSONObject json = getLocalJSON(folder, officeID);
+        if(json != null) {
+            forecastOffices.put(officeID, json);
+        }
+        return json;
     }
-    private JSONObject getLocalJSON(Folder folder, String identifier, CompletionHandler handler) {
-        final JSONObject json = getJSONObject(folder, identifier, handler);
+
+    private JSONObject getLocalJSON(Folder folder, String identifier) {
+        JSONObject json = Jsonable.getStaticJSONObject(folder, identifier, null);
         if(json != null && json.optInt("status", -1) == 500) {
             final String filePath = Jsonable.getFilePath(folder, identifier, "json");
             final Path path = Paths.get(filePath);
@@ -332,63 +355,39 @@ public enum WeatherUSA implements WeatherController {
                     WLUtilities.saveException(e);
                 }
             }
+            json = null;
         }
         folder.removeCustomFolderName(identifier);
         return json;
     }
 
-    private JSONObject getOrLoadWeatherZone(String zoneID) {
-        return getLocalZone(zoneID, new CompletionHandler() {
-            @Override
-            public JSONObject loadJSONObject() {
-                final String url = "https://api.weather.gov/zones/" + zoneID;
-                final JSONObject json = requestJSONObject(url);
-                return json != null && json.optInt("status", -1) != 500 ? json : null;
+    private JSONObject parseWeatherZone(String countryBackendID, String zoneID, JSONObject json) {
+        final String nameSuffix = zoneID.startsWith("county") ? " County" : null;
+        final JSONObject geometryJSON = json.optJSONObject("geometry", null), propertiesJSON = json.optJSONObject("properties", null);
+        if(geometryJSON != null && propertiesJSON != null) {
+            String stateString = propertiesJSON.optString("state", null);
+            if(stateString == null) {
+                final String officeIdentifier = propertiesJSON.getJSONArray("forecastOffices").getString(0).substring("https://api.weather.gov/offices/".length());
+                final JSONObject officeJSON = getLocalOffice(countryBackendID, officeIdentifier);
+                final JSONObject addressJSON = officeJSON != null ? officeJSON.optJSONObject("address", null) : null;
+                stateString = addressJSON != null ? addressJSON.optString("addressRegion", null) : null;
             }
-        });
-    }
-    private WeatherZone parseWeatherZone(String zoneID, JSONObject json) {
-        if(json != null) {
-            final String nameSuffix = zoneID.startsWith("county") ? " County" : null;
-            final JSONObject geometryJSON = json.optJSONObject("geometry", null), propertiesJSON = json.optJSONObject("properties", null);
-            if(geometryJSON != null && propertiesJSON != null) {
-                String stateString = propertiesJSON.optString("state", null);
-                if(stateString == null) {
-                    final String officeIdentifier = propertiesJSON.getJSONArray("forecastOffices").getString(0).substring("https://api.weather.gov/offices/".length());
-                    final JSONObject officeJSON = getForecastOffice(officeIdentifier);
-                    final JSONObject addressJSON = officeJSON.optJSONObject("address", null);
-                    stateString = addressJSON != null ? addressJSON.optString("addressRegion", null) : null;
-                }
-                final WLCountry unitedStates = getCountry();
-                SovereignStateSubdivision subdivision = unitedStates.valueOfSovereignStateSubdivision(stateString);
-                if(subdivision == null) {
-                    subdivision = unitedStates.valueOfSovereignStateSubdivision(zoneID.substring(0, 2));
-                }
-                if(subdivision == null) {
-                    WLLogger.logError("WeatherUSA", "failed to find subdivision for stateString \"" + stateString + "\"! (zoneID=" + zoneID + ")");
-                }
-                final String name = propertiesJSON.getString("name");
-                final String territory = subdivision != null ? subdivision.getName() : stateString != null ? stateString : "Unknown";
-                final List<Location> geometry = getGeometry(geometryJSON);
-                final WeatherZone zone = new WeatherZone(name, nameSuffix, territory, geometry);
-                zones.put(zoneID, zone);
-                return zone;
+            final WLCountry unitedStates = getCountry();
+            SovereignStateSubdivision subdivision = unitedStates.valueOfSovereignStateSubdivision(stateString);
+            if(subdivision == null) {
+                subdivision = unitedStates.valueOfSovereignStateSubdivision(zoneID.substring(0, 2));
             }
+            if(subdivision == null) {
+                WLLogger.logError("WeatherUSA", "failed to find subdivision for stateString \"" + stateString + "\"! (zoneID=" + zoneID + ")");
+            }
+            final String name = propertiesJSON.getString("name");
+            final String territory = subdivision != null ? subdivision.getName() : stateString != null ? stateString : "Unknown";
+            final List<Location> geometry = getGeometry(geometryJSON);
+            final WeatherZone zone = new WeatherZone(name, nameSuffix, territory, geometry);
+            zones.put(zoneID, zone);
+            return json;
         }
         return null;
-    }
-    private JSONObject getForecastOffice(String identifier) {
-        if(!forecastOffices.containsKey(identifier)) {
-            final String url = "https://api.weather.gov/offices/" + identifier;
-            final JSONObject json = getLocalOffice(identifier, new CompletionHandler() {
-                @Override
-                public JSONObject loadJSONObject() {
-                    return requestJSONObject(url);
-                }
-            });
-            forecastOffices.put(identifier, json);
-        }
-        return forecastOffices.get(identifier);
     }
     private List<Location> getGeometry(JSONObject geometryJSON) {
         final List<Location> geometry = new ArrayList<>();

@@ -30,6 +30,7 @@ public final class Proxy implements UserServer {
     private HttpServer server;
     private final HashSet<Timer> timers;
 
+    private Thread mainThread;
     private AtomicBoolean keepAlive;
 
     public static void main(String[] args) {
@@ -42,6 +43,7 @@ public final class Proxy implements UserServer {
 
     @Override
     public void start() {
+        mainThread = Thread.currentThread();
         final LocalDateTime now = LocalDateTime.now();
 
         final long rebootFrequency = Settings.Server.getServerRebootFrequencyInDays();
@@ -80,6 +82,10 @@ public final class Proxy implements UserServer {
         server.stop(0);
         keepAlive.set(false);
         try {
+            mainThread.interrupt();
+        } catch (Exception ignored) {
+        }
+        try {
             System.in.close();
         } catch (Exception e) {
             WLUtilities.saveException(e);
@@ -105,7 +111,7 @@ public final class Proxy implements UserServer {
         }
     }
     private void setupHttpsServer(int port) {
-        server = WLUtilities.getHttpsServer(port);;
+        server = WLUtilities.getHttpsServer(port);
     }
 
     private void connectClients(boolean https) {

@@ -142,6 +142,9 @@ public enum Settings {
         public static int getServerRebootFrequencyInDays() {
             return getOrDefaultInt(getServersJSON(), "serverRebootFrequencyInDays", 3);
         }
+        public static int getProxyClientThreadPoolSize() {
+            return getOrDefaultInt(getServersJSON(), "proxy_client_thread_pool_size", 200);
+        }
         public static String getProxyLocalAddress() {
             return getOrDefaultString(getServersJSON(), "proxy_local_address", "localhost");
         }
