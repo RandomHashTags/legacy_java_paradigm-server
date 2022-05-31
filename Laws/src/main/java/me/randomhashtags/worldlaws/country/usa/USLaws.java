@@ -15,6 +15,7 @@ import me.randomhashtags.worldlaws.country.usa.state.unfinished.NorthCarolina;
 import me.randomhashtags.worldlaws.country.usa.state.unfinished.Oregon;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.recode.TestLawSubdivisionController;
+import me.randomhashtags.worldlaws.settings.ResponseVersions;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 
 import java.time.LocalDate;
@@ -65,18 +66,23 @@ public final class USLaws extends LawController {
         if(!values.isEmpty()) {
             json = new JSONObjectTranslatable("statuses");
 
-            final JSONObjectTranslatable statusesJSON = new JSONObjectTranslatable();
+            final JSONObjectTranslatable statusesJSON = new JSONObjectTranslatable("statuses");
+            json.put("response_version", ResponseVersions.LAWS_RECENT_ACTIVITY.getValue());
             for(BillStatus status : getBillStatuses()) {
                 final String id = status.getID();
                 statusesJSON.put(id, status.toJSONObject(), true);
             }
             json.put("statuses", statusesJSON);
 
+            final JSONObjectTranslatable activityJSON = new JSONObjectTranslatable("activity");
             for(Map.Entry<USBillStatus, HashSet<PreCongressBill>> map : values.entrySet()) {
                 final USBillStatus status = map.getKey();
                 final String key = status.getName();
                 final JSONObjectTranslatable activity = USCongress.getPreCongressBillsJSON(map.getValue());
-                json.put(key, activity);
+                activityJSON.put(key, activity, true);
+            }
+            if(!activityJSON.isEmpty()) {
+                json.put("activity", activityJSON, true);
             }
         }
         return json;

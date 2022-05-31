@@ -27,7 +27,7 @@ public final class BillAction {
     }
 
     public JSONObjectTranslatable toJSONObject() {
-        final JSONObjectTranslatable json = new JSONObjectTranslatable();
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("title");
         if(chamber != null) {
             json.put("chamber", chamber.name());
         }

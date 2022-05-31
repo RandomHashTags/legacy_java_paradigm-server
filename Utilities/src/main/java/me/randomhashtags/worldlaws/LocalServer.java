@@ -59,10 +59,10 @@ public final class LocalServer implements UserServer, DataValues, RestAPI {
         }
         try {
             server.stop(0);
-            WLLogger.logInfo(serverName + " - server has shut down (took " + WLUtilities.getElapsedTime(started) + ")");
         } catch (Exception e) {
             WLUtilities.saveException(e);
         }
+        WLLogger.logInfo(serverName + " - server has shut down (took " + WLUtilities.getElapsedTime(started) + ")");
     }
     public void registerFixedTimer(long interval, Runnable runnable) {
         registerFixedTimer(null, interval, runnable);

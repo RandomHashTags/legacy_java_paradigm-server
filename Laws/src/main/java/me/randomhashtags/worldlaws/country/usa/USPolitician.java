@@ -85,7 +85,7 @@ public final class USPolitician implements Politician {
             final JSONObjectTranslatable json = new JSONObjectTranslatable();
             for(Element element : table) {
                 final PreCongressBill bill = congress.getPreCongressBillFrom(element);
-                json.put(bill.getID(), bill.toJSONObject());
+                json.put(bill.getID(), bill.toJSONObject(), true);
             }
             signedLegislation.get(type).put(administration, json);
             final HumanName name = getName();

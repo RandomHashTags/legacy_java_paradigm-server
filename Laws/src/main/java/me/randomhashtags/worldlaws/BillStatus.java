@@ -8,7 +8,7 @@ public interface BillStatus {
     String getPageName();
 
     default JSONObjectTranslatable toJSONObject() {
-        final JSONObjectTranslatable json = new JSONObjectTranslatable();
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("name");
         json.put("name", getName());
         json.put("pageName", getPageName());
         return json;

@@ -7,6 +7,7 @@ public enum ResponseVersions {
     COUNTRY_FILTERS,
     COUNTRY_INFORMATION,
     SUBDIVISION_INFORMATION,
+    LAWS_RECENT_ACTIVITY,
     MOVIE_PRODUCTION_COMPANIES,
     MUSIC_ARTISTS,
     PRESENTATIONS,
@@ -44,6 +45,9 @@ public enum ResponseVersions {
                 return 6;
             case SUBDIVISION_INFORMATION:
                 return 4;
+
+            case LAWS_RECENT_ACTIVITY:
+                return 1;
 
             case MOVIE_PRODUCTION_COMPANIES:
                 return 3;

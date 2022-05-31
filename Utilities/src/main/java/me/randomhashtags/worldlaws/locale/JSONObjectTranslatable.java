@@ -105,10 +105,6 @@ public class JSONObjectTranslatable extends JSONObject implements JSONTranslatab
         removedClientKeys.add(key);
     }
 
-    public JSONTranslatable getJSONTranslatable(String key) {
-        final Object obj = opt(key);
-        return obj instanceof JSONTranslatable ? (JSONTranslatable) obj : null;
-    }
     public JSONObjectTranslatable getJSONObjectTranslatable(String key) {
         return optJSONObjectTranslatable(key, null);
     }

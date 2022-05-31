@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.country.usa.service;
 
 import me.randomhashtags.worldlaws.EventDate;
+import me.randomhashtags.worldlaws.locale.JSONArrayTranslatable;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.people.HumanName;
 import me.randomhashtags.worldlaws.people.PoliticalParty;
@@ -42,20 +43,12 @@ public final class UnitedStatesProjectPolitician {
         return urls;
     }
 
-    @Override
-    public String toString() {
-        return "{" +
-                "\"name\":" + name.toString() + "," +
-                "\"birthday\":" + birthday.toString() + "," +
-                "\"terms\":" + terms.toString() + "," +
-                "\"urls\":" + urls.toString() +
-                "}";
-    }
-
     public JSONObjectTranslatable toJSONObject() {
         final JSONObjectTranslatable json = new JSONObjectTranslatable();
         json.put("name", name.toJSONObject());
         json.put("birthday", birthday.toJSONObject());
+        json.put("terms", terms);
+        json.put("urls", urls);
         return json;
     }
 
@@ -64,28 +57,15 @@ public final class UnitedStatesProjectPolitician {
         return new EventDate(Month.of(Integer.parseInt(birthdayValues[1])), Integer.parseInt(birthdayValues[2]), Integer.parseInt(birthdayValues[0]));
     }
 
-    private final class Terms {
-        private final String terms;
-
+    private final class Terms extends JSONArrayTranslatable {
         private Terms(JSONArray array) {
-            final StringBuilder builder = new StringBuilder("[");
-            boolean isFirst = true;
             for(Object obj : array) {
                 final JSONObject json = (JSONObject) obj;
                 final Term term = new Term(json);
-                builder.append(isFirst ? "" : ",").append(term.toString());
-                isFirst = false;
+                put(term.toJSONObject());
             }
-            builder.append("]");
-            terms = builder.toString();
-        }
-
-        @Override
-        public String toString() {
-            return terms;
         }
     }
-
     private final class Term {
         private final String type, state, website, office;
         private final EventDate start, end;
@@ -101,32 +81,25 @@ public final class UnitedStatesProjectPolitician {
             office = json.has("office") ? json.getString("office") : null;
         }
 
-        @Override
-        public String toString() {
-            return "{" +
-                    "\"type\":\"" + type + "\"," +
-                    "\"start\":" + start.toString() + "," +
-                    "\"end\":" + end.toString() + "," +
-                    "\"state\":\"" + state + "\"," +
-                    "\"party\":\"" + party.getName() + "\"," +
-                    "\"website\":\"" + website + "\"," +
-                    "\"office\":\"" + office + "\"" +
-                    "}";
+        public JSONObjectTranslatable toJSONObject() {
+            final JSONObjectTranslatable json = new JSONObjectTranslatable();
+            json.put("type", type);
+            json.put("start", start.toJSONObject());
+            json.put("end", end.toJSONObject());
+            json.put("state", state);
+            json.put("party", party.getName());
+            json.put("website", website);
+            json.put("office", office);
+            return json;
         }
     }
 
-    private final class URLs {
-        private final String wikipediaURL;
-
+    private final class URLs extends JSONObjectTranslatable {
         private URLs(JSONObject json) {
-            wikipediaURL = json.has("wikipedia") && json.get("wikipedia") instanceof String ? "https://en.wikipedia.org/wiki/" + json.getString("wikipedia") : null;
-        }
-
-        @Override
-        public String toString() {
-            return "{" +
-                    (wikipediaURL != null ? "\"wikipediaURL\":\"" + wikipediaURL + "\"" : "") +
-                    "}";
+            final String wikipediaID = json.optString("wikipedia", null);
+            if(wikipediaID != null) {
+                put("wikipediaURL", "https://en.wikipedia.org/wiki/" + wikipediaID);
+            }
         }
     }
 }

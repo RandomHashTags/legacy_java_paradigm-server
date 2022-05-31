@@ -6,8 +6,6 @@ import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.country.usa.USBillStatus;
 import me.randomhashtags.worldlaws.country.usa.USChamber;
 import me.randomhashtags.worldlaws.country.usa.USLaws;
-import me.randomhashtags.worldlaws.country.usa.USPoliticians;
-import me.randomhashtags.worldlaws.locale.JSONArrayTranslatable;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import org.json.JSONObject;
@@ -16,7 +14,6 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.io.File;
-import java.time.LocalDateTime;
 import java.time.Month;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -27,8 +24,8 @@ public enum USCongress implements Jsoupable, Jsonable {
     INSTANCE;
 
     private ConcurrentHashMap<Integer, HashMap<USBillStatus, JSONObjectTranslatable>> statuses;
-    private HashMap<String, JSONObjectTranslatable> bills;
-    private HashMap<Integer, JSONObjectTranslatable> enactedBills;
+    private ConcurrentHashMap<String, JSONObjectTranslatable> bills;
+    private ConcurrentHashMap<Integer, JSONObjectTranslatable> enactedBills;
     private int version;
 
     public static USCongress getCongress(int version) {
@@ -178,7 +175,7 @@ public enum USCongress implements Jsoupable, Jsonable {
 
     public JSONObjectTranslatable getEnactedBills() {
         if(enactedBills == null) {
-            enactedBills = new HashMap<>();
+            enactedBills = new ConcurrentHashMap<>();
         }
         if(enactedBills.containsKey(version)) {
             return enactedBills.get(version);
@@ -198,14 +195,13 @@ public enum USCongress implements Jsoupable, Jsonable {
             if(localJSON == null) {
                 json = loadEnactedBills();
             } else {
-                json = new JSONObjectTranslatable();
+                json = JSONObjectTranslatable.copy(localJSON, true);
                 json.setFolder(folder);
                 json.setFileName(fileName);
-                for(String key : localJSON.keySet()) {
-                    json.put(key, localJSON.get(key), true);
-                }
             }
-            enactedBills.put(versionInt, json);
+            if(json != null) {
+                enactedBills.put(versionInt, json);
+            }
             WLLogger.logInfo("USCongress - loaded enacted bills for congress " + version + " (took " + WLUtilities.getElapsedTime(started) + ")");
             return json;
         }
@@ -268,150 +264,31 @@ public enum USCongress implements Jsoupable, Jsonable {
 
     public JSONObjectTranslatable getBill(USChamber chamber, String id) {
         if(bills == null) {
-            bills = new HashMap<>();
+            bills = new ConcurrentHashMap<>();
         }
         if(!bills.containsKey(id)) {
             final long started = System.currentTimeMillis();
             final WLCountry country = WLCountry.UNITED_STATES;
             final Folder folder = Folder.LAWS_COUNTRY_CONGRESS;
-            final String[] title = new String[1];
             final String chamberName = chamber.name(), chamberNameLowercase = chamberName.toLowerCase();
             folder.setCustomFolderName(id, folder.getFolderName().replace("%country%", country.getBackendID()).replace("%version%", "" + version) + File.separator + chamberNameLowercase);
             final JSONObject localJSON = getLocalFileJSONObject(folder, id);
-            JSONObjectTranslatable json = null;
+            final CongressBill bill;
             if(localJSON != null) {
-                json = JSONObjectTranslatable.copy(localJSON, true);
-                json.setFolder(folder);
-                json.setFileName(id);
+                final JSONObjectTranslatable json = JSONObjectTranslatable.copy(localJSON, true);
+                bill = new CongressBill(json);
+                bill.setFolder(folder);
+                bill.setFileName(id);
             } else {
                 final String targetURL = "https://www.congress.gov/bill/" + getVersioned() + "-congress/" + chamberNameLowercase + "-bill/" + id + "/all-info";
-                final Document doc = getDocument(targetURL);
-                if(doc != null) {
-                    final String[] splitValues = doc.select("h1.legDetail").get(0).textNodes().get(0).text().split(id + " - ");
-                    title[0] = splitValues[1];
-                    final String pdfURL, billTypeText = splitValues[0].substring("All Information (Except Text) for ".length()).toUpperCase();
-                    final String billType = billTypeText.startsWith("S.J.RES.") ? "sjres" : billTypeText.startsWith("S.") ? "s" : billTypeText.startsWith("H.R.") ? "hr" : billTypeText.startsWith("H.J.RES.") ? "hjres" : null;
-                    if(billType == null) {
-                        pdfURL = null;
-                        WLLogger.logError(this, "getBill - failed to get billType for bill \"" + id + "\" (" + title[0] + "), billTypeText=\"" + billTypeText + "\"!");
-                    } else {
-                        pdfURL = "https://www.congress.gov/" + version + "/bills/" + billType + id + "/BILLS-" + version + billType + id + "enr.pdf";
-                    }
-                    final Element element = doc.select("div.overview_wrapper div.overview table.standard01 tbody tr td a[href]").get(0);
-                    final String profileSlug = element.attr("href");
-                    final JSONObjectTranslatable sponsor = USPoliticians.INSTANCE.get(element, profileSlug);
-                    final String summary = getBillSummary(doc);
-                    final Elements allInfoContent = doc.select("main.content div.main-wrapper div.all-info-content");
-                    final PolicyArea policyArea = getBillPolicyArea(allInfoContent);
-                    final JSONArrayTranslatable subjects = getBillSubjects(allInfoContent);
-                    final EventSources sources = new EventSources();
-                    sources.add(new EventSource("US Congress: Bill URL", targetURL));
-                    sources.add(new EventSource("US Congress: Bill PDF", pdfURL));
-                    final JSONArrayTranslatable cosponsors = getBillCosponsors(allInfoContent);
-                    final JSONArrayTranslatable actions = getBillActions(allInfoContent);
-                    final CongressBill bill = new CongressBill(sponsor, summary, policyArea, subjects, cosponsors, actions, null, sources);
-                    json = bill.toJSONObject();
-                    if(!summary.toLowerCase().contains("a summary is in progress")) {
-                        final String billString = bill.toString();
-                        setFileJSON(folder, id, billString);
-                    }
-                }
+                bill = CongressBill.loadFromURL(targetURL, folder, version, id);
             }
-            bills.put(id, json);
-            WLLogger.logInfo("USCongress - loaded bill from chamber \"" + chamberName + "\" with title \"" + title[0] + "\" for congress " + version + " (took " + WLUtilities.getElapsedTime(started) + ")");
+            final boolean success = bill != null;
+            if(success) {
+                bills.put(id, bill);
+            }
+            WLLogger.logInfo("USCongress - " + (success ? "loaded" : "failed to load") + " bill from chamber \"" + chamberName + "\" with id \"" + id + "\" for congress " + version + " (took " + WLUtilities.getElapsedTime(started) + ")");
         }
         return bills.get(id);
-    }
-    private String getBillSummary(Document doc) {
-        final Element table = doc.select("div.all-info-content div.main-wrapper").last();
-        final Element first = table.select("h3.currentVersion + div").first();
-        if(first == null) {
-            return table.text();
-        }
-        final Elements elements = first.select("*");
-        if(elements.size() == 2) {
-            return elements.get(0).text();
-        } else {
-            for(int i = 1; i <= 3; i++) {
-                elements.remove(0);
-            }
-            final StringBuilder builder = new StringBuilder();
-            boolean isFirst = true;
-            for(Element element : elements) {
-                final String text = LocalServer.fixEscapeValues(element.text());
-                builder.append(isFirst ? "" : "\\n").append(text);
-                isFirst = false;
-            }
-            return builder.toString();
-        }
-    }
-    private PolicyArea getBillPolicyArea(Elements allInfoContent) {
-        final Elements table = allInfoContent.get(6).select("div.search-column-nav ul.plain li a[href]");
-        final Element target = table.size() > 0 ? table.get(0) : null;
-        final String text = target != null ? target.text() : "";
-        return PolicyArea.fromTag(text);
-    }
-    private JSONArrayTranslatable getBillSubjects(Elements allInfoContent) {
-        final Elements table = allInfoContent.get(6).select("div.search-column-main div ul.plain li a[href]");
-        final HashSet<String> subjects = new HashSet<>();
-        table.forEach(element -> subjects.add(element.text()));
-        final JSONArrayTranslatable array = new JSONArrayTranslatable();
-        array.putAll(subjects);
-        return array;
-    }
-    private JSONArrayTranslatable getBillCosponsors(Elements allInfoContent) {
-        final Elements table = allInfoContent.get(3).select("div.main-wrapper table.item_table tbody tr td.actions a[href]");
-        if(table.size() > 0) {
-            table.remove(0);
-            if(!table.isEmpty()) {
-                final JSONArrayTranslatable array = new JSONArrayTranslatable();
-                final USPoliticians politicians = USPoliticians.INSTANCE;
-                new CompletableFutures<Element>().stream(table, elements -> {
-                    final String profileSlug = elements.attr("href").split("https://www\\.congress\\.gov")[1];
-                    final JSONObjectTranslatable string = politicians.get(elements, profileSlug);
-                    array.put(string);
-                });
-                return array;
-            }
-        }
-        return null;
-    }
-    private JSONArrayTranslatable getBillActions(Elements allInfoContent) {
-        final Elements table = allInfoContent.get(2).select("table.expanded-actions tbody tr");
-        final JSONArrayTranslatable actions = new JSONArrayTranslatable();
-        for(Element element : table) {
-            final String text = element.text();
-            final String[] values = text.split(" ");
-            final String value0 = values[0], dateString = value0.split("-")[0], dateTime = value0.contains("-") ? value0.split("-")[1] : null, chamberString = values[1];
-            final USChamber chamber = getChamber(chamberString);
-            String title = text.split(value0 + " " + (chamber != null ? chamberString + " " : ""))[1];
-            if(title.contains("Became Public Law No:")) {
-                title = "Became Public Law.";
-            }
-
-            final String[] dateValues = dateString.split("/");
-            final int dateHour, dateMinute;
-            if(dateTime != null) {
-                final String[] dateTimeValues = dateTime.split(":");
-                dateHour = Integer.parseInt(dateTimeValues[0]);
-                dateMinute = Integer.parseInt(dateTimeValues[1].substring(0, 2));
-            } else {
-                dateHour = 0;
-                dateMinute = 0;
-            }
-            final LocalDateTime date = LocalDateTime.of(Integer.parseInt(dateValues[2]), Integer.parseInt(dateValues[0]), Integer.parseInt(dateValues[1]), dateHour, dateMinute);
-            final BillAction action = new BillAction(chamber, title, date);
-            actions.put(action.toJSONObject());
-        }
-        return actions;
-    }
-    private USChamber getChamber(String input) {
-        input = input.toUpperCase();
-        for(USChamber chamber : USChamber.values()) {
-            if(input.equals(chamber.getName())) {
-                return chamber;
-            }
-        }
-        return null;
     }
 }
