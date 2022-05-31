@@ -26,6 +26,6 @@ public final class RemoteNotificationConditionalValue extends JSONObject {
     }
 
     public String getFormattedValue() {
-        return getCountryBackendID() + "|" + getIdentifier() + "|" + getValue();
+        return getCountryBackendID() + "+" + getIdentifier() + "+" + getValue();
     }
 }

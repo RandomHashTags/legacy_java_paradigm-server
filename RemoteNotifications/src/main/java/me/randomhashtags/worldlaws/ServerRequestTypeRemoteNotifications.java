@@ -152,6 +152,7 @@ public enum ServerRequestTypeRemoteNotifications implements ServerRequestType {
 
     private JSONArrayTranslatable getRegisteredValues(String[] values) {
         final RemoteNotificationDeviceTokenController controller = DeviceTokenType.valueOfStringGetController(values[0]);
+        final JSONArrayTranslatable array = new JSONArrayTranslatable();
         if(controller != null) {
             final RemoteNotificationCategory category = RemoteNotificationCategory.valueOfString(values[1]);
             if(category != null) {
@@ -160,14 +161,12 @@ public enum ServerRequestTypeRemoteNotifications implements ServerRequestType {
                     final String token = values[3];
                     final HashSet<String> set = controller.getConditionalValuesForDeviceToken(subcategory, token);
                     if(set != null) {
-                        final JSONArrayTranslatable array = new JSONArrayTranslatable();
                         array.putAll(set);
-                        return array;
                     }
                 }
             }
         }
-        return null;
+        return array;
     }
 
 

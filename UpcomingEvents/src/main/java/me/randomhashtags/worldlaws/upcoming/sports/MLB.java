@@ -9,8 +9,9 @@ import me.randomhashtags.worldlaws.stream.CompletableFutures;
 import me.randomhashtags.worldlaws.upcoming.USAUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.MLBEvent;
-import me.randomhashtags.worldlaws.upcoming.events.MLBTeam;
+import me.randomhashtags.worldlaws.upcoming.events.MLBTeamObj;
 import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
+import me.randomhashtags.worldlaws.upcoming.sports.teams.MLBTeam;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -50,7 +51,7 @@ public final class MLB extends USAUpcomingEventController {
                         if(teamElement != null) {
                             final Element awayTeamElement = teamElement.selectFirst("div.TeamMatchupLayerstyle__AwayWrapper-sc-ouprud-1"), homeTeamElement = teamElement.selectFirst("div.TeamMatchupLayerstyle__HomeWrapper-sc-ouprud-2");
                             if(awayTeamElement != null && homeTeamElement != null) {
-                                final MLBTeam awayTeam = getTeamJSON(awayTeamElement), homeTeam = getTeamJSON(homeTeamElement);
+                                final MLBTeamObj awayTeam = getTeamJSON(awayTeamElement), homeTeam = getTeamJSON(homeTeamElement);
                                 final String title = awayTeam.getName() + " @ " + homeTeam.getName();
 
                                 final Element timeElement = matchElement.selectFirst("div.GameInfoLayerstyle__GameInfoLayerWrapper-sc-1xxsnoa-0").selectFirst("div.GameInfoLayerstyle__GameInfoTextWrapper-sc-1xxsnoa-1").selectFirst("a[href]");
@@ -71,16 +72,15 @@ public final class MLB extends USAUpcomingEventController {
         }
     }
 
-    private MLBTeam getTeamJSON(Element teamElement) {
+    private MLBTeamObj getTeamJSON(Element teamElement) {
         final Element ahrefElement = teamElement.selectFirst("div div a[href]");
         final String scheduleURL = ahrefElement.attr("href");
-
-        final Element teamLogoElement = ahrefElement.selectFirst("div img");
-        final String teamLogoURL = teamLogoElement.attr("src");
-
         final Elements nameElement = ahrefElement.select("div div div.TeamWrappersstyle__DesktopTeamWrapper-sc-uqs6qh-0");
         final String teamName = nameElement.text();
-        return new MLBTeam(teamName, scheduleURL, teamLogoURL);
+
+        final MLBTeam team = MLBTeam.valueOfInput(teamName);
+        final String teamLogoURL = team != null ? team.getLogoURL() : null, wikipediaURL = team != null ? team.getWikipediaURL() : null;
+        return new MLBTeamObj(teamName, scheduleURL, teamLogoURL, wikipediaURL);
     }
 
     @Override
@@ -89,7 +89,7 @@ public final class MLB extends USAUpcomingEventController {
         final String title = preUpcomingEvent.getTitle();
         final JSONObject sourcesJSON = (JSONObject) preUpcomingEvent.getCustomValue("sources"), awayTeamJSON = (JSONObject) preUpcomingEvent.getCustomValue("awayTeam"), homeTeamJSON = (JSONObject) preUpcomingEvent.getCustomValue("homeTeam");
         final EventSources sources = new EventSources(sourcesJSON);
-        final MLBTeam awayTeam = MLBTeam.parse(awayTeamJSON), homeTeam = MLBTeam.parse(homeTeamJSON);
+        final MLBTeamObj awayTeam = MLBTeamObj.parse(awayTeamJSON), homeTeam = MLBTeamObj.parse(homeTeamJSON);
         return new MLBEvent(preUpcomingEvent.getEventDate(), title, awayTeam, homeTeam, null, sources);
     }
 
