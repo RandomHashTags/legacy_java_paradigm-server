@@ -57,93 +57,96 @@ public final class Championships extends UpcomingEventController { // https://en
         for(Element tr : trs) {
             final Elements tds = tr.select("td");
             String day = tds.get(0).text();
-            Month endingMonth = null;
-            int endingYear = -1;
-            if(day.contains(space)) {
-                final String[] values = day.split(space);
-                final int length = values.length;
-                String targetEndingMonth = values[length-1];
-                if(targetEndingMonth.matches("[0-9]+")) {
-                    endingYear = Integer.parseInt(targetEndingMonth);
-                    targetEndingMonth = values[length-2];
+            if(!day.equals("?")) {
+                Month endingMonth = null;
+                int endingYear = -1;
+                if(day.contains(space)) {
+                    final String[] values = day.split(space);
+                    final int length = values.length;
+                    String targetEndingMonth = values[length-1];
+                    if(targetEndingMonth.matches("[0-9]+")) {
+                        endingYear = Integer.parseInt(targetEndingMonth);
+                        targetEndingMonth = values[length-2];
+                    }
+                    endingMonth = WLUtilities.valueOfMonthFromInput(targetEndingMonth);
+                    day = values[0];
                 }
-                endingMonth = WLUtilities.valueOfMonthFromInput(targetEndingMonth);
-                day = values[0];
-            }
-            int startingDay = -1, endingDay = -1;
-            if(day.contains(hyphen)) {
-                final String[] values = day.split(hyphen);
-                startingDay = Integer.parseInt(values[0]);
-                endingDay = Integer.parseInt(values[1]);
-                if(endingMonth == null) {
-                    endingMonth = month;
-                }
-                if(endingYear == -1) {
-                    endingYear = year;
-                }
-            }
-
-            final EventDate startingDate = new EventDate(month, startingDay, year);
-            final String startingDateString = startingDate.getDateString();
-            final String sport = tds.get(1).text();
-
-            final Element eventElement = tds.get(2);
-            String event = eventElement.text();
-            while (event.startsWith("/") || event.startsWith(" ")) {
-                event = event.substring(1);
-            }
-            final Elements eventElementLinks = eventElement.select("a[href]");
-            String eventURL = null;
-            final List<String> countries = new ArrayList<>();
-            if(!eventElementLinks.isEmpty()) { // TODO: fix more than 1 event per row (example: Men & Women's sporting event, same row, same dates)
-                final Elements flagIconElements = eventElement.select("span.flagicon");
-                for(Element flagIcon : flagIconElements) {
-                    final Element flagElement = flagIcon.selectFirst("a[href]");
-                    if(flagElement != null) {
-                        final String[] href = flagElement.attr("href").split("/");
-                        final String country = href[href.length-1].toLowerCase().replace("(country)", "");
-                        countries.add(country.replace(" ", "").replace("_", ""));
+                int startingDay = -1, endingDay = -1;
+                if(day.contains(hyphen)) {
+                    final String[] values = day.split(hyphen);
+                    startingDay = Integer.parseInt(values[0]);
+                    final String[] endingDays = values[1].split("/");
+                    endingDay = Integer.parseInt(endingDays[endingDays.length-1]);
+                    if(endingMonth == null) {
+                        endingMonth = month;
+                    }
+                    if(endingYear == -1) {
+                        endingYear = year;
                     }
                 }
-                final int max = flagIconElements.size();
-                if(eventElementLinks.size() > max) {
-                    final Element element = eventElementLinks.get(max);
-                    if(!element.hasAttr("class") || !element.attr("class").equals("new")) {
-                        eventURL = urlPrefix + element.attr("href");
+
+                final EventDate startingDate = new EventDate(month, startingDay, year);
+                final String startingDateString = startingDate.getDateString();
+                final String sport = tds.get(1).text();
+
+                final Element eventElement = tds.get(2);
+                String event = eventElement.text();
+                while (event.startsWith("/") || event.startsWith(" ")) {
+                    event = event.substring(1);
+                }
+                final Elements eventElementLinks = eventElement.select("a[href]");
+                String eventURL = null;
+                final List<String> countries = new ArrayList<>();
+                if(!eventElementLinks.isEmpty()) { // TODO: fix more than 1 event per row (example: Men & Women's sporting event, same row, same dates)
+                    final Elements flagIconElements = eventElement.select("span.flagicon");
+                    for(Element flagIcon : flagIconElements) {
+                        final Element flagElement = flagIcon.selectFirst("a[href]");
+                        if(flagElement != null) {
+                            final String[] href = flagElement.attr("href").split("/");
+                            final String country = href[href.length-1].toLowerCase().replace("(country)", "");
+                            countries.add(country.replace(" ", "").replace("_", ""));
+                        }
+                    }
+                    final int max = flagIconElements.size();
+                    if(eventElementLinks.size() > max) {
+                        final Element element = eventElementLinks.get(max);
+                        if(!element.hasAttr("class") || !element.attr("class").equals("new")) {
+                            eventURL = urlPrefix + element.attr("href");
+                        }
                     }
                 }
-            }
 
-            final String winners = tds.get(tds.size()-1).text();
-            boolean finished = false;
-            if(!winners.isEmpty()) {
-                finished = !winners.contains("postponed from");
-            }
+                final String winners = tds.get(tds.size()-1).text();
+                boolean finished = false;
+                if(!winners.isEmpty()) {
+                    finished = !winners.contains("postponed from");
+                }
 
-            if(!finished) {
-                if(endingMonth != null && endingDay != -1 && endingYear != -1) {
-                    final EventDate endingDate = new EventDate(endingMonth, endingDay, endingYear);
-                    final LocalDate endingLocalDate = endingDate.getLocalDate();
-                    LocalDate startingLocalDate = startingDate.getLocalDate();
-                    int usages = 0;
-                    while (startingLocalDate.isBefore(endingLocalDate) || startingLocalDate.equals(endingLocalDate)) {
-                        final EventDate eventDate = new EventDate(startingLocalDate);
-                        final String id = getEventDateIdentifier(eventDate.getDateString(), event);
-                        final String suffix = ", " + (usages == 0 ? "BEGINS TODAY" : startingLocalDate.equals(endingLocalDate) ? "ENDS TODAY" : "CONTINUED");
-                        final String tag = sport + suffix;
+                if(!finished) {
+                    if(endingMonth != null && endingDay != -1 && endingYear != -1) {
+                        final EventDate endingDate = new EventDate(endingMonth, endingDay, endingYear);
+                        final LocalDate endingLocalDate = endingDate.getLocalDate();
+                        LocalDate startingLocalDate = startingDate.getLocalDate();
+                        int usages = 0;
+                        while (startingLocalDate.isBefore(endingLocalDate) || startingLocalDate.equals(endingLocalDate)) {
+                            final EventDate eventDate = new EventDate(startingLocalDate);
+                            final String id = getEventDateIdentifier(eventDate.getDateString(), event);
+                            final String suffix = ", " + (usages == 0 ? "BEGINS TODAY" : startingLocalDate.equals(endingLocalDate) ? "ENDS TODAY" : "CONTINUED");
+                            final String tag = sport + suffix;
+                            final ClientEmoji clientEmoji = ClientEmoji.valueOfString(sport);
+                            final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, event, eventURL, tag, countries);
+                            preUpcomingEvent.setClientEmoji(clientEmoji);
+                            putPreUpcomingEvent(id, preUpcomingEvent);
+                            startingLocalDate = startingLocalDate.plusDays(1);
+                            usages += 1;
+                        }
+                    } else {
+                        final String id = getEventDateIdentifier(startingDateString, event);
                         final ClientEmoji clientEmoji = ClientEmoji.valueOfString(sport);
-                        final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, event, eventURL, tag, countries);
+                        final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, event, eventURL, sport, countries);
                         preUpcomingEvent.setClientEmoji(clientEmoji);
                         putPreUpcomingEvent(id, preUpcomingEvent);
-                        startingLocalDate = startingLocalDate.plusDays(1);
-                        usages += 1;
                     }
-                } else {
-                    final String id = getEventDateIdentifier(startingDateString, event);
-                    final ClientEmoji clientEmoji = ClientEmoji.valueOfString(sport);
-                    final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, event, eventURL, sport, countries);
-                    preUpcomingEvent.setClientEmoji(clientEmoji);
-                    putPreUpcomingEvent(id, preUpcomingEvent);
                 }
             }
         }

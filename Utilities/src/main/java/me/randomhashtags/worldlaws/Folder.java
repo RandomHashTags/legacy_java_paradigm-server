@@ -69,7 +69,7 @@ public enum Folder {
         return folderName;
     }
     public String getFolderName(String id) {
-        return id != null ? ids.get(id) : null;
+        return id != null ? ids.getOrDefault(id, null) : null;
     }
     public void setCustomFolderName(String id, String folderName) {
         if(id != null && folderName != null) {

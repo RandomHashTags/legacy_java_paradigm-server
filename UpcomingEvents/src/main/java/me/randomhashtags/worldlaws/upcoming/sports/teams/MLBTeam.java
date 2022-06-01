@@ -2,6 +2,9 @@ package me.randomhashtags.worldlaws.upcoming.sports.teams;
 
 import me.randomhashtags.worldlaws.LocalServer;
 
+import java.util.Arrays;
+import java.util.HashSet;
+
 public enum MLBTeam {
     ARIZONA_DIAMONDBACKS,
     ATLANTA_BRAVES,
@@ -36,8 +39,10 @@ public enum MLBTeam {
     ;
 
     public static MLBTeam valueOfInput(String string) {
+        final String lowercase = string.toLowerCase();
         for(MLBTeam team : MLBTeam.values()) {
-            if(team.getShortName().equalsIgnoreCase(string)) {
+            final HashSet<String> aliases = team.getAliases();
+            if(team.getShortName().equalsIgnoreCase(string) || aliases != null && aliases.contains(lowercase)) {
                 return team;
             }
         }
@@ -79,49 +84,57 @@ public enum MLBTeam {
             default: return "null";
         }
     }
+    private HashSet<String> getAliases() {
+        switch (this) {
+            case ARIZONA_DIAMONDBACKS: return new HashSet<>(Arrays.asList("d-backs"));
+            default: return null;
+        }
+    }
 
     public String getWikipediaURL() {
         final String correctCapitalization = LocalServer.toCorrectCapitalization(name()).replace(" ", "_"), suffix = this == TEXAS_RANGERS ? "_(baseball)" : "";
         return "https://en.wikipedia.org/wiki/" + correctCapitalization + suffix;
     }
 
-    private String getLogoURLSuffix() {
+    private String getLogoSVGID() {
         switch (this) {
-            case ARIZONA_DIAMONDBACKS: return "8/89/Arizona_Diamondbacks_logo.svg/%quality%px-Arizona_Diamondbacks_logo.svg.png";
-            case ATLANTA_BRAVES: return "7/7a/Atlanta_Braves_Insignia.svg/%quality%px-Atlanta_Braves_Insignia.svg.png";
-            case BALTIMORE_ORIOLES: return "en/thumb/7/75/Baltimore_Orioles_cap.svg/%quality%px-Baltimore_Orioles_cap.svg.png";
-            case BOSTON_RED_SOX: return "f/fe/Boston_Red_Sox_cap_logo.svg/%quality%px-Boston_Red_Sox_cap_logo.svg.png";
-            case CHICAGO_CUBS: return "8/89/Chicago_Cubs_Cap_Insignia.svg/%quality%px-Chicago_Cubs_Cap_Insignia.svg.png";
-            case CHICAGO_WHITE_SOX: return "c/c1/Chicago_White_Sox.svg/%quality%px-Chicago_White_Sox.svg.png";
-            case CINCINNATI_REDS: return "7/71/Cincinnati_Reds_Cap_Insignia.svg/%quality%px-Cincinnati_Reds_Cap_Insignia.svg.png";
-            case CLEVELAND_GUARDIANS: return "3/3f/Cleveland_Guardians_cap_logo.svg/%quality%px-Cleveland_Guardians_cap_logo.svg.png";
-            case COLORADO_ROCKIES: return "3/31/Colorado_Rockies_logo.svg/%quality%px-Colorado_Rockies_logo.svg.png";
-            case DETROIT_TIGERS: return "e/e3/Detroit_Tigers_logo.svg/%quality%px-Detroit_Tigers_logo.svg.png";
-            case HOUSTON_ASTROS: return "f/f6/Houston_Astros_cap_logo.svg/%quality%px-Houston_Astros_cap_logo.svg.png";
-            case KANSAS_CITY_ROYALS: return "8/88/Kansas_City_Royals_Insignia.svg/%quality%px-Kansas_City_Royals_Insignia.svg.png";
-            case LOS_ANGELES_ANGELS: return "8/8b/Los_Angeles_Angels_of_Anaheim.svg/%quality%px-Los_Angeles_Angels_of_Anaheim.svg.png";
-            case LOS_ANGELES_DODGERS: return "f/f6/LA_Dodgers.svg/%quality%px-LA_Dodgers.svg.png";
-            case MIAMI_MARLINS: return "en/thumb/c/c3/Miami_Marlins_cap_insignia.svg/%quality%px-Miami_Marlins_cap_insignia.svg.png";
-            case MILWAUKEE_BREWERS: return "en/thumb/b/b8/Milwaukee_Brewers_logo.svg/%quality%px-Milwaukee_Brewers_logo.svg.png";
-            case MINNESOTA_TWINS: return "en/thumb/b/b4/Minnesota_Twins_logo_%28low_res%29.svg/%quality%px-Minnesota_Twins_logo_%28low_res%29.svg.png";
-            case NEW_YORK_METS: return "9/98/New_York_Mets_Insignia.svg/%quality%px-New_York_Mets_Insignia.svg.png";
-            case NEW_YORK_YANKEES: return "7/70/NewYorkYankees_caplogo.svg/%quality%px-NewYorkYankees_caplogo.svg.png";
-            case OAKLAND_ATHLETICS: return "7/7c/Oakland_A%27s_cap_logo.svg/%quality%px-Oakland_A%27s_cap_logo.svg.png";
-            case PHILADELPHIA_PHILLIES: return "a/a3/Philadelphia_Phillies_Insignia.svg/%quality%px-Philadelphia_Phillies_Insignia.svg.png";
-            case PITTSBURGH_PIRATES: return "8/81/Pittsburgh_Pirates_logo_2014.svg/%quality%px-Pittsburgh_Pirates_logo_2014.svg.png";
-            case SAN_DIEGO_PADRES: return "e/e2/SD_Logo_Brown.svg/%quality%px-SD_Logo_Brown.svg.png";
-            case SAN_FRANCISCO_GIANTS: return "4/49/San_Francisco_Giants_Cap_Insignia.svg/%quality%px-San_Francisco_Giants_Cap_Insignia.svg.png";
-            case SEATTLE_MARINERS: return "en/thumb/8/8a/Seattle_Mariners_Insignia.svg/%quality%px-Seattle_Mariners_Insignia.svg.png";
-            case ST_LOUIS_CARDINALS: return "3/39/St._Louis_Cardinals_insignia_logo.svg/%quality%px-St._Louis_Cardinals_insignia_logo.svg.png";
-            case TAMPA_BAY_RAYS: return "5/52/Tampa_Bay_Rays_cap_logo.svg/%quality%px-Tampa_Bay_Rays_cap_logo.svg.png";
-            case TEXAS_RANGERS: return "e/e2/Texas_Rangers_Insignia.svg/%quality%px-Texas_Rangers_Insignia.svg.png";
-            case TORONTO_BLUE_JAYS: return "en/thumb/b/ba/Toronto_Blue_Jays_logo.svg/%quality%px-Toronto_Blue_Jays_logo.svg.png";
-            case WASHINGTON_NATIONALS: return "e/e5/Washington_Nationals_Cap_Insig.svg/%quality%px-Washington_Nationals_Cap_Insig.svg.png";
+            case ARIZONA_DIAMONDBACKS: return "8/89/Arizona_Diamondbacks_logo.svg";
+            case ATLANTA_BRAVES: return "7/7a/Atlanta_Braves_Insignia.svg";
+            case BALTIMORE_ORIOLES: return "en/thumb/7/75/Baltimore_Orioles_cap.svg";
+            case BOSTON_RED_SOX: return "f/fe/Boston_Red_Sox_cap_logo.svg";
+            case CHICAGO_CUBS: return "8/89/Chicago_Cubs_Cap_Insignia.svg";
+            case CHICAGO_WHITE_SOX: return "c/c1/Chicago_White_Sox.svg";
+            case CINCINNATI_REDS: return "7/71/Cincinnati_Reds_Cap_Insignia.svg";
+            case CLEVELAND_GUARDIANS: return "3/3f/Cleveland_Guardians_cap_logo.svg";
+            case COLORADO_ROCKIES: return "3/31/Colorado_Rockies_logo.svg";
+            case DETROIT_TIGERS: return "e/e3/Detroit_Tigers_logo.svg";
+            case HOUSTON_ASTROS: return "f/f6/Houston_Astros_cap_logo.svg";
+            case KANSAS_CITY_ROYALS: return "8/88/Kansas_City_Royals_Insignia.svg";
+            case LOS_ANGELES_ANGELS: return "8/8b/Los_Angeles_Angels_of_Anaheim.svg";
+            case LOS_ANGELES_DODGERS: return "f/f6/LA_Dodgers.svg";
+            case MIAMI_MARLINS: return "en/thumb/c/c3/Miami_Marlins_cap_insignia.svg";
+            case MILWAUKEE_BREWERS: return "en/thumb/b/b8/Milwaukee_Brewers_logo.svg";
+            case MINNESOTA_TWINS: return "en/thumb/b/b4/Minnesota_Twins_logo_%28low_res%29.svg";
+            case NEW_YORK_METS: return "9/98/New_York_Mets_Insignia.svg";
+            case NEW_YORK_YANKEES: return "7/70/NewYorkYankees_caplogo.svg";
+            case OAKLAND_ATHLETICS: return "7/7c/Oakland_A%27s_cap_logo.svg";
+            case PHILADELPHIA_PHILLIES: return "a/a3/Philadelphia_Phillies_Insignia.svg";
+            case PITTSBURGH_PIRATES: return "8/81/Pittsburgh_Pirates_logo_2014.svg";
+            case SAN_DIEGO_PADRES: return "e/e2/SD_Logo_Brown.svg";
+            case SAN_FRANCISCO_GIANTS: return "4/49/San_Francisco_Giants_Cap_Insignia.svg";
+            case SEATTLE_MARINERS: return "en/thumb/8/8a/Seattle_Mariners_Insignia.svg";
+            case ST_LOUIS_CARDINALS: return "3/39/St._Louis_Cardinals_insignia_logo.svg";
+            case TAMPA_BAY_RAYS: return "5/52/Tampa_Bay_Rays_cap_logo.svg";
+            case TEXAS_RANGERS: return "e/e2/Texas_Rangers_Insignia.svg";
+            case TORONTO_BLUE_JAYS: return "en/thumb/b/ba/Toronto_Blue_Jays_logo.svg";
+            case WASHINGTON_NATIONALS: return "e/e5/Washington_Nationals_Cap_Insig.svg";
             default: return null;
         }
     }
     public String getLogoURL() {
-        final String suffix = getLogoURLSuffix(), type = suffix.startsWith("en") ? "" : "commons/thumb/";
-        return "https://upload.wikimedia.org/wikipedia/" + type + suffix;
+        final String suffix = getLogoSVGID(), type = suffix.startsWith("en") ? "" : "commons/thumb/";
+        final String[] values = suffix.split("/");
+        final String suffixPath = values[values.length-1];
+        return "https://upload.wikimedia.org/wikipedia/" + type + suffix + "/%quality%px-" + suffixPath + ".png";
     }
 }

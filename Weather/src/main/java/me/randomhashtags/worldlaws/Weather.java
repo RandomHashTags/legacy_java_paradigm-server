@@ -2,10 +2,11 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.earthquakes.Earthquakes;
 import me.randomhashtags.worldlaws.earthquakes.WeatherAlerts;
+import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.ServerRequestType;
-import me.randomhashtags.worldlaws.request.WLHttpExchange;
 import me.randomhashtags.worldlaws.tracker.NASA_EONET;
+import me.randomhashtags.worldlaws.weather.country.WeatherUSA;
 
 public final class Weather implements WLServer {
     public static void main(String[] args) {
@@ -23,11 +24,10 @@ public final class Weather implements WLServer {
     }
 
     private void test() {
-        final String platform = "iOS/15.9.1";
-        WLLogger.logInfo("Weather;test;platform is valid=" + WLHttpExchange.isValidPlatform(platform));
-        //final String input = "2022-04-21T21:04:00-05:00";
-        //final long time = WeatherAlertTime.getTimeFrom(input);
-        //WLLogger.logInfo("Weather;test;input=" + input + ";inputMS=" + time + ";toDate=" + LocalDateTime.ofEpochSecond(time/1000, 0, ZoneOffset.UTC));
+        final long started = System.currentTimeMillis();
+        final WeatherUSA usa = WeatherUSA.INSTANCE;
+        final JSONObjectTranslatable json = usa.refresh();
+        WLLogger.logInfo("Weather;test;json=" + (json != null ? json.toString() : "null") + ";took " + WLUtilities.getElapsedTime(started));
     }
 
     @Override

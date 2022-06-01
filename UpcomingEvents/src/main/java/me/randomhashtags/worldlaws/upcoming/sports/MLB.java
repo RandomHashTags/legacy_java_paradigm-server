@@ -89,7 +89,7 @@ public final class MLB extends USAUpcomingEventController {
         final String title = preUpcomingEvent.getTitle();
         final JSONObject sourcesJSON = (JSONObject) preUpcomingEvent.getCustomValue("sources"), awayTeamJSON = (JSONObject) preUpcomingEvent.getCustomValue("awayTeam"), homeTeamJSON = (JSONObject) preUpcomingEvent.getCustomValue("homeTeam");
         final EventSources sources = new EventSources(sourcesJSON);
-        final MLBTeamObj awayTeam = MLBTeamObj.parse(awayTeamJSON), homeTeam = MLBTeamObj.parse(homeTeamJSON);
+        final MLBTeamObj awayTeam = new MLBTeamObj(awayTeamJSON), homeTeam = new MLBTeamObj(homeTeamJSON);
         return new MLBEvent(preUpcomingEvent.getEventDate(), title, awayTeam, homeTeam, null, sources);
     }
 

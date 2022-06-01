@@ -317,7 +317,7 @@ public enum WeatherUSA implements WeatherController {
             final Folder folder = Folder.WEATHER_COUNTRY_ZONES;
             final String fileName = zone.substring(2);
             folder.setCustomFolderName(fileName, folder.getFolderName().replace("%country%", countryBackendID).replace("%type%", zoneType).replace("%subdivision%", subdivisionFolder));
-            Jsonable.setFileJSONObject(folder, zoneID, json);
+            Jsonable.setFileJSONObject(folder, fileName, json);
         } else {
             WLUtilities.saveLoggedError("WeatherUSA", "loadZone;zoneID=" + zoneID + ";zone==null;json=\n" + (json != null ? json.toString() : "null"));
         }
