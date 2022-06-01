@@ -23,11 +23,13 @@ public final class DeviceTokenPairs extends HashSet<DeviceTokenPair> {
         }
     }
 
-    public void removePairWithDeviceToken(String deviceToken) {
+    public boolean removePairWithDeviceToken(String deviceToken) {
         final DeviceTokenPair pair = valueOfToken(deviceToken);
         if(pair != null) {
             remove(pair);
+            return true;
         }
+        return false;
     }
     public DeviceTokenPair valueOfToken(String deviceToken) {
         for(DeviceTokenPair pair : this) {

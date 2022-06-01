@@ -20,6 +20,7 @@ public interface RemoteNotificationDeviceTokenController extends RestAPI, Jsonab
         return null;
     }
     Set<RemoteNotificationDeviceTokenController> UPDATED_CONTROLLERS = ConcurrentHashMap.newKeySet();
+    Set<RemoteNotificationDeviceTokenController> UPDATED_CONDITIONAL_CONTROLLERS = ConcurrentHashMap.newKeySet();
 
     default HashSet<String> getConditionalDeviceTokensThatContain(RemoteNotificationSubcategory subcategory, RemoteNotificationConditionalValue conditionalValue) {
         if(conditionalValue == null || !subcategory.isConditional()) {
@@ -62,10 +63,10 @@ public interface RemoteNotificationDeviceTokenController extends RestAPI, Jsonab
 
     default void save() {
         if(UPDATED_CONTROLLERS.contains(this)) {
-            UPDATED_CONTROLLERS.remove(this);
             final RemoteNotificationCategory category = getCategory();
             final Map<RemoteNotificationSubcategory, HashSet<String>> deviceTokens = getDeviceTokens();
             if(category != null && deviceTokens != null) {
+                UPDATED_CONTROLLERS.remove(this);
                 final Folder folder = Folder.DEVICE_TOKENS;
                 final String folderName = getCategoryFolderName();
                 for(Map.Entry<RemoteNotificationSubcategory, HashSet<String>> entry : deviceTokens.entrySet()) {
@@ -79,11 +80,11 @@ public interface RemoteNotificationDeviceTokenController extends RestAPI, Jsonab
         }
     }
     default void saveConditional() {
-        if(UPDATED_CONTROLLERS.contains(this)) {
-            UPDATED_CONTROLLERS.remove(this);
+        if(UPDATED_CONDITIONAL_CONTROLLERS.contains(this)) {
             final RemoteNotificationCategory category = getCategory();
             final Map<RemoteNotificationSubcategory, DeviceTokenPairs> deviceTokens = getConditionalDeviceTokens();
             if(category != null && deviceTokens != null) {
+                UPDATED_CONDITIONAL_CONTROLLERS.remove(this);
                 final Folder folder = Folder.DEVICE_TOKENS;
                 final String folderName = getCategoryFolderName();
                 for(Map.Entry<RemoteNotificationSubcategory, DeviceTokenPairs> entry : deviceTokens.entrySet()) {
@@ -152,7 +153,7 @@ public interface RemoteNotificationDeviceTokenController extends RestAPI, Jsonab
     default void registerConditionalValue(RemoteNotificationSubcategory subcategory, String deviceToken, String conditionalValue) {
         final Map<RemoteNotificationSubcategory, DeviceTokenPairs> deviceTokens = getConditionalDeviceTokens();
         if(deviceTokens != null) {
-            UPDATED_CONTROLLERS.add(this);
+            UPDATED_CONDITIONAL_CONTROLLERS.add(this);
             deviceTokens.putIfAbsent(subcategory, new DeviceTokenPairs());
             final DeviceTokenPair existing = deviceTokens.get(subcategory).valueOfToken(deviceToken);
             if(existing != null) {
@@ -166,14 +167,13 @@ public interface RemoteNotificationDeviceTokenController extends RestAPI, Jsonab
 
     default void unregister(RemoteNotificationSubcategory subcategory, String deviceToken) {
         final Map<RemoteNotificationSubcategory, HashSet<String>> deviceTokens = getDeviceTokens();
-        if(deviceTokens != null && deviceTokens.containsKey(subcategory)) {
+        if(deviceTokens != null && deviceTokens.containsKey(subcategory) && deviceTokens.get(subcategory).contains(deviceToken)) {
             UPDATED_CONTROLLERS.add(this);
             deviceTokens.get(subcategory).remove(deviceToken);
         }
         final Map<RemoteNotificationSubcategory, DeviceTokenPairs> conditionalDeviceTokens = getConditionalDeviceTokens();
-        if(conditionalDeviceTokens != null && conditionalDeviceTokens.containsKey(subcategory)) {
-            UPDATED_CONTROLLERS.add(this);
-            conditionalDeviceTokens.get(subcategory).removePairWithDeviceToken(deviceToken);
+        if(conditionalDeviceTokens != null && conditionalDeviceTokens.containsKey(subcategory) && conditionalDeviceTokens.get(subcategory).removePairWithDeviceToken(deviceToken)) {
+            UPDATED_CONDITIONAL_CONTROLLERS.add(this);
         }
     }
     default void unregisterConditionalValue(RemoteNotificationSubcategory subcategory, String deviceToken, String conditionalValue) {
@@ -182,7 +182,7 @@ public interface RemoteNotificationDeviceTokenController extends RestAPI, Jsonab
             final DeviceTokenPairs pairs = conditionalDeviceTokens.get(subcategory);
             final DeviceTokenPair pair = pairs.valueOfToken(deviceToken);
             if(pair != null) {
-                UPDATED_CONTROLLERS.add(this);
+                UPDATED_CONDITIONAL_CONTROLLERS.add(this);
                 pair.removeValue(conditionalValue);
                 if(pair.getValues().isEmpty()) {
                     pairs.remove(pair);
