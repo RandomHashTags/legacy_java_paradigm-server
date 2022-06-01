@@ -8,7 +8,6 @@ import me.randomhashtags.worldlaws.locale.JSONArrayTranslatable;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.locale.JSONTranslatable;
 import me.randomhashtags.worldlaws.settings.Settings;
-import org.json.JSONObject;
 
 import java.io.OutputStream;
 import java.net.HttpURLConnection;
@@ -45,8 +44,11 @@ public interface WLHttpHandler extends HttpHandler {
             status = HttpURLConnection.HTTP_OK;
             final JSONTranslatable json = getResponse(exchange);
             if(json instanceof JSONObjectTranslatable || json instanceof JSONArrayTranslatable) {
-                final JSONObject test = WLUtilities.translateJSON(json, exchange.getLanguageType(), exchange.getLanguage());
-                string = test.toString();
+                if(json instanceof JSONObjectTranslatable) {
+                    string = WLUtilities.translateJSON(json, exchange.getLanguageType(), exchange.getLanguage()).toString();
+                } else {
+                    string = json.toString(); // TODO: translate JSONArray?
+                }
             } else {
                 string = getFallbackResponse(exchange);
             }

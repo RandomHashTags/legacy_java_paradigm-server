@@ -53,7 +53,7 @@ public enum AppleNotifications implements RemoteNotificationDeviceTokenControlle
     public void update() {
         final Folder folder = Folder.DEVICE_TOKENS;
         final String fileName = "connectionToken";
-        folder.setCustomFolderName(fileName, getCategoryFolderName());
+        folder.setCustomFolderName(fileName, getCategoryFolderName(RemoteNotificationCategory.APPLE));
         final JSONObject json = getJSONObject(folder, fileName, new CompletionHandler() {
             @Override
             public JSONObject loadJSONObject() {

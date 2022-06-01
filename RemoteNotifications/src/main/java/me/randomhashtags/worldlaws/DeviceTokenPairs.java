@@ -12,13 +12,13 @@ public final class DeviceTokenPairs extends HashSet<DeviceTokenPair> {
     }
     public DeviceTokenPairs(JSONObject json) {
         super();
-        for(String key : json.keySet()) {
-            final JSONArray array = json.getJSONArray(key);
+        for(String deviceToken : json.keySet()) {
+            final JSONArray array = json.getJSONArray(deviceToken);
             final HashSet<String> values = new HashSet<>();
             for(Object obj : array) {
                 values.add((String) obj);
             }
-            final DeviceTokenPair pair = new DeviceTokenPair(key, values);
+            final DeviceTokenPair pair = new DeviceTokenPair(deviceToken, values);
             add(pair);
         }
     }

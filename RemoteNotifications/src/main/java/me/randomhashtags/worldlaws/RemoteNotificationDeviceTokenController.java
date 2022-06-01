@@ -44,19 +44,18 @@ public interface RemoteNotificationDeviceTokenController extends RestAPI, Jsonab
             return null;
         }
         final Map<RemoteNotificationSubcategory, DeviceTokenPairs> map = getConditionalDeviceTokens();
-        if(map != null && !map.isEmpty() && map.containsKey(subcategory)) {
+        if(map != null && map.containsKey(subcategory)) {
             final DeviceTokenPair pair = map.get(subcategory).valueOfToken(deviceToken);
             return pair != null ? pair.getValues() : null;
         }
         return null;
     }
 
-    default String getCategoryFolderName() {
+    default String getCategoryFolderName(RemoteNotificationCategory category) {
         final DeviceTokenType deviceTokenType = getDeviceTokenType();
-        if(deviceTokenType != null) {
+        if(category != null && deviceTokenType != null) {
             final Folder folder = Folder.DEVICE_TOKENS;
-            final RemoteNotificationCategory category = getCategory();
-            return category != null ? folder.getFolderName().replace("%type%", deviceTokenType.getID()).replace("%category%", category.getID()) : null;
+            return folder.getFolderName().replace("%type%", deviceTokenType.getID()).replace("%category%", category.getID());
         }
         return null;
     }
@@ -68,9 +67,9 @@ public interface RemoteNotificationDeviceTokenController extends RestAPI, Jsonab
             if(category != null && deviceTokens != null) {
                 UPDATED_CONTROLLERS.remove(this);
                 final Folder folder = Folder.DEVICE_TOKENS;
-                final String folderName = getCategoryFolderName();
                 for(Map.Entry<RemoteNotificationSubcategory, HashSet<String>> entry : deviceTokens.entrySet()) {
                     final RemoteNotificationSubcategory subcategory = entry.getKey();
+                    final String folderName = getCategoryFolderName(subcategory.getCategory());
                     final String fileName = subcategory.name();
                     final HashSet<String> tokens = entry.getValue();
                     folder.setCustomFolderName(fileName, folderName);
@@ -86,9 +85,9 @@ public interface RemoteNotificationDeviceTokenController extends RestAPI, Jsonab
             if(category != null && deviceTokens != null) {
                 UPDATED_CONDITIONAL_CONTROLLERS.remove(this);
                 final Folder folder = Folder.DEVICE_TOKENS;
-                final String folderName = getCategoryFolderName();
                 for(Map.Entry<RemoteNotificationSubcategory, DeviceTokenPairs> entry : deviceTokens.entrySet()) {
                     final RemoteNotificationSubcategory subcategory = entry.getKey();
+                    final String folderName = getCategoryFolderName(subcategory.getCategory());
                     final String fileName = subcategory.name();
                     final HashSet<DeviceTokenPair> conditionalTokens = entry.getValue();
                     final JSONObject json = new JSONObject();
@@ -106,10 +105,10 @@ public interface RemoteNotificationDeviceTokenController extends RestAPI, Jsonab
         final RemoteNotificationSubcategory[] subcategories = category != null ? category.getSubcategories() : null;
         if(subcategories != null) {
             final Folder folder = Folder.DEVICE_TOKENS;
-            final String folderName = getCategoryFolderName();
             for(RemoteNotificationSubcategory subcategory : subcategories) {
                 map.put(subcategory, new HashSet<>());
                 final String fileName = subcategory.name();
+                final String folderName = getCategoryFolderName(subcategory.getCategory());
                 folder.setCustomFolderName(fileName, folderName);
                 final JSONArray array = Jsonable.getStaticFileJSONArray(folder, fileName);
                 if(array != null && !array.isEmpty()) {
@@ -128,15 +127,16 @@ public interface RemoteNotificationDeviceTokenController extends RestAPI, Jsonab
         final RemoteNotificationSubcategory[] subcategories = category != null ? category.getSubcategories() : null;
         if(subcategories != null) {
             final Folder folder = Folder.DEVICE_TOKENS;
-            final String folderName = getCategoryFolderName();
             for(RemoteNotificationSubcategory subcategory : subcategories) {
                 if(subcategory.isConditional()) {
+                    final String folderName = getCategoryFolderName(subcategory.getCategory());
                     final String fileName = subcategory.name();
                     folder.setCustomFolderName(fileName, folderName);
-                    final JSONObject json = Jsonable.getStaticLocalFileJSONObject(folder, fileName);
-                    if(json != null && !json.isEmpty()) {
-                        map.put(subcategory, new DeviceTokenPairs(json));
+                    JSONObject json = Jsonable.getStaticLocalFileJSONObject(folder, fileName);
+                    if(json == null) {
+                        json = new JSONObject();
                     }
+                    map.put(subcategory, new DeviceTokenPairs(json));
                     folder.removeCustomFolderName(fileName);
                 }
             }
