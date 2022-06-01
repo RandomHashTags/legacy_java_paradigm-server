@@ -50,6 +50,9 @@ import me.randomhashtags.worldlaws.country.subdivisions.u.SubdivisionsUnitedStat
 import me.randomhashtags.worldlaws.country.subdivisions.u.SubdivisionsUruguay;
 import me.randomhashtags.worldlaws.country.subdivisions.u.SubdivisionsUzbekistan;
 import me.randomhashtags.worldlaws.country.subdivisions.v.SubdivisionsVanuatu;
+import me.randomhashtags.worldlaws.country.subdivisions.y.SubdivisionsYemen;
+import me.randomhashtags.worldlaws.country.subdivisions.z.SubdivisionsZambia;
+import me.randomhashtags.worldlaws.country.subdivisions.z.SubdivisionsZimbabwe;
 
 import java.util.HashSet;
 
@@ -176,6 +179,11 @@ public enum WLSubdivisions {
             case UZBEKISTAN: return SubdivisionsUzbekistan.values();
 
             case VANUATU: return SubdivisionsVanuatu.values();
+
+            case YEMEN: return SubdivisionsYemen.values();
+
+            case ZAMBIA: return SubdivisionsZambia.values();
+            case ZIMBABWE: return SubdivisionsZimbabwe.values();
             default: return null;
         }
     }
