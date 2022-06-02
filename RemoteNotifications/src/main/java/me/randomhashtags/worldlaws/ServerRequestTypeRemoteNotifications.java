@@ -169,7 +169,6 @@ public enum ServerRequestTypeRemoteNotifications implements ServerRequestType {
         return array;
     }
 
-
     @Override
     public boolean isConditional() {
         switch (this) {

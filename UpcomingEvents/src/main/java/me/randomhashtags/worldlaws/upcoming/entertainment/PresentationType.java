@@ -21,99 +21,107 @@ public enum PresentationType implements Jsoupable {
             getNames("Apple Event", "World Wide Developers Conference (WWDC)"),
             "https://www.apple.com/apple-events/",
             PresentationEventType.PRESENTATION,
-            "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg"
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/%quality%px-Apple_logo_black.svg.png"
     ),
 
     /*ACADEMY_AWARDS(
             "Academy Awards",
             "https://en.wikipedia.org/wiki/Academy_Awards",
-            PresentationEventType.AWARD_CEREMONY
+            PresentationEventType.AWARD_CEREMONY,
+            "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Academy_Award_trophy.png/%quality%px-Academy_Award_trophy.png"
     ),*/
     BLIZZCON(
             "BlizzCon",
             "https://en.wikipedia.org/wiki/BlizzCon",
             PresentationEventType.CONVENTION_GAMING,
-            "https://upload.wikimedia.org/wikipedia/en/5/51/BlizzCon_logo.svg"
+            "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/BlizzCon_logo.svg/%quality%px-BlizzCon_logo.svg.png"
     )
     ,
     COACHELLA(
             "Coachella",
             "https://en.wikipedia.org/wiki/Coachella_Valley_Music_and_Arts_Festival",
             PresentationEventType.FESTIVAL_MUSIC,
-            "https://upload.wikimedia.org/wikipedia/commons/2/28/Coachella18W1-18_%2842058161311%29.jpg"
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Coachella_Valley_Music_and_Arts_Festival_logo.svg/%quality%px-Coachella_Valley_Music_and_Arts_Festival_logo.svg.png"
     ),
     E3(
             "E3",
             "https://en.wikipedia.org/wiki/E3",
             PresentationEventType.EXPO_GAMING,
-            "https://upload.wikimedia.org/wikipedia/commons/7/76/E3_Logo.svg"
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/E3_Logo.svg/%quality%px-E3_Logo.svg.png"
     ),
     /*EGX(
             "EGX",
             "https://en.wikipedia.org/wiki/EGX_(expo)",
-            PresentationEventType.EXPO_GAMING
+            PresentationEventType.EXPO_GAMING,
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/EGX_2014.jpg/%quality%px-EGX_2014.jpg"
     ),*/
     /*G20(
             "G20 summit",
             "https://en.wikipedia.org/wiki/List_of_G20_summits",
-            PresentationEventType.SUMMIT
+            PresentationEventType.SUMMIT,
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/G20_map.png/%quality%px-G20_map.png"
     ),*/
     GAME_DEVELOPERS_CONFERENCE(
             "Game Developers Conference",
             "https://en.wikipedia.org/wiki/Game_Developers_Conference",
             PresentationEventType.CONFERENCE,
-            "https://upload.wikimedia.org/wikipedia/commons/2/27/Game_Developers_Conference_logo.svg"
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Game_Developers_Conference_logo.svg/%quality%px-Game_Developers_Conference_logo.svg.png"
     ),
     /*GAMESCOM(
             "Gamescom",
             "https://en.wikipedia.org/wiki/Gamescom",
-            PresentationEventType.CONVENTION_GAMING
+            PresentationEventType.CONVENTION_GAMING,
+            "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Games_Convention_Logo.png/%quality%px-Games_Convention_Logo.png"
     ),*/
     GOLDEN_GLOBE_AWARDS(
             "Golden Globe Awards",
             "https://en.wikipedia.org/wiki/List_of_Golden_Globe_Awards_ceremonies",
             PresentationEventType.AWARD_CEREMONY,
-            "https://upload.wikimedia.org/wikipedia/en/0/09/Golden_Globe_Trophy.jpg"
+            "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Golden_Globe_Trophy.jpg/%quality%px-Golden_Globe_Trophy.jpg"
     ),
     /*
     GOLDEN_JOYSTICK_AWARDS(
             "Golden Joystick Awards",
             "https://en.wikipedia.org/wiki/Golden_Joystick_Awards",
-            PresentationEventType.AWARD_CEREMONY
+            PresentationEventType.AWARD_CEREMONY,
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Golden_Joystick_Award_%28Award_Cup%29.svg/%quality%px-Golden_Joystick_Award_%28Award_Cup%29.svg.png"
     ),*/
     GOOGLE_IO(
             "Google I/O",
             "https://en.wikipedia.org/wiki/Google_I/O",
             PresentationEventType.CONFERENCE_DEVELOPER,
-            "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_IO_logo.svg"
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_IO_logo.svg/%quality%px-Google_IO_logo.svg.png"
     ),
     /*
     LOLLAPALOOZA(
             "Lollapalooza",
             "https://en.wikipedia.org/wiki/Lollapalooza",
-            PresentationEventType.FESTIVAL_MUSIC
+            PresentationEventType.FESTIVAL_MUSIC,
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Lollapalooza_logo.svg/%quality%px-Lollapalooza_logo.svg.png"
     ),*/
     MET_GALA(
             "Met Gala",
             "https://en.wikipedia.org/wiki/Met_Gala",
             PresentationEventType.EXHIBIT_FASHION,
-            "https://upload.wikimedia.org/wikipedia/commons/3/30/The_MET.jpg"
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/The_MET.jpg/%quality%px-The_MET.jpg"
     ),
     /*MINECON(
             "Minecon",
             "https://en.wikipedia.org/wiki/Minecon",
-            PresentationEventType.CONVENTION_GAMING
+            PresentationEventType.CONVENTION_GAMING,
+            "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Minecon_logo.png/%quality%px-Minecon_logo.png"
     ),*/
     NINTENDO_DIRECT(
             "Nintendo Direct",
             "https://en.wikipedia.org/wiki/Nintendo_Direct",
             PresentationEventType.PRESENTATION,
-            "https://upload.wikimedia.org/wikipedia/commons/0/0f/Nintendo_Direct_logo.svg"
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Nintendo_Direct_logo.svg/%quality%px-Nintendo_Direct_logo.svg.png"
     ),
     /*PAX(
             "PAX",
             "https://en.wikipedia.org/wiki/List_of_PAX_events",
-            PresentationEventType.FESTIVAL_GAMING
+            PresentationEventType.FESTIVAL_GAMING,
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/PAX_new_logo%2C_blue.svg/%quality%px-PAX_new_logo%2C_blue.svg.png"
     ),*/
     /*PLAYSTATION_STATE_OF_PLAY(
             "PlayStation State of Play",
@@ -128,23 +136,26 @@ public enum PresentationType implements Jsoupable {
     /*SOUTH_BY_SOUTHWEST(
             "South by Southwest",
             "https://en.wikipedia.org/wiki/South_by_Southwest",
-            PresentationEventType.FESTIVAL_MUSIC
+            PresentationEventType.FESTIVAL_MUSIC,
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/SXSW_Stack_logo.svg/%quality%px-SXSW_Stack_logo.svg.png"
     ),*/
     /*THE_GAME_AWARDS(
             "The Game Awards",
             "https://en.wikipedia.org/wiki/The_Game_Awards",
-            PresentationEventType.AWARD_CEREMONY
+            PresentationEventType.AWARD_CEREMONY,
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/The_Game_Awards_logo_2020.svg/%quality%px-The_Game_Awards_logo_2020.svg.png"
     ),*/
     TWITCHCON(
             "TwitchCon",
             "https://en.wikipedia.org/wiki/TwitchCon",
             PresentationEventType.CONVENTION_GAMING,
-            "https://upload.wikimedia.org/wikipedia/en/d/d4/Twitchcon_logo.svg"
+            "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Twitchcon_logo.svg/%quality%px-Twitchcon_logo.svg.png"
     ),
     /*TWITCH_RIVALS(
             "Twitch Rivals",
             "https://en.wikipedia.org/wiki/Twitch_Rivals",
-            PresentationEventType.TOURNAMENT_GAMING
+            PresentationEventType.TOURNAMENT_GAMING,
+            "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Twitchrivals.svg/%quality%px-Twitchrivals.svg.png"
     ),*/
     ;
 

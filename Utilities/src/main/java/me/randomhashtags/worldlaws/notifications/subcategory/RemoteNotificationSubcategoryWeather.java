@@ -63,7 +63,6 @@ public enum RemoteNotificationSubcategoryWeather implements RemoteNotificationSu
             final JSONObject json = requestJSONObject(url);
             if(json != null && json.has("eventTypes")) {
                 final JSONArray eventTypesArray = json.getJSONArray("eventTypes");
-                eventTypesArray.put("All");
                 array.putAll(eventTypesArray);
             }
         }

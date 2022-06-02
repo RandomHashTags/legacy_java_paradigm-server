@@ -147,6 +147,7 @@ public final class LocalServer implements UserServer, DataValues, RestAPI {
                     }
                 }
             }
+            server.setExecutor(null);
             server.start();
             WLLogger.logInfo(serverName + " - Listening for clients on port " + port + "...");
         } catch (Exception e) {
