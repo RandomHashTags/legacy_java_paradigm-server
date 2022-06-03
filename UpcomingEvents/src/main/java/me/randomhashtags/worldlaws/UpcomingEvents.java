@@ -5,7 +5,11 @@ import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.ServerRequestType;
 import me.randomhashtags.worldlaws.request.WLHttpHandler;
 import me.randomhashtags.worldlaws.service.ITunesSearchAPI;
-import org.json.JSONObject;
+import me.randomhashtags.worldlaws.upcoming.entertainment.PresentationType;
+import me.randomhashtags.worldlaws.upcoming.events.PresentationEvent;
+
+import java.time.LocalDate;
+import java.util.List;
 
 public final class UpcomingEvents implements WLServer, ITunesSearchAPI {
     public static final UpcomingEvents INSTANCE = new UpcomingEvents();
@@ -26,8 +30,14 @@ public final class UpcomingEvents implements WLServer, ITunesSearchAPI {
 
     private void test() {
         final long started = System.currentTimeMillis();
-        final JSONObject json = getITunesAlbum("Help!", "Brandon Lake");
-        WLLogger.logInfo("UpcomingEvents;test;took " + WLUtilities.getElapsedTime(started) + ";json=" + (json != null ? json.toString() : "null"));
+        final PresentationType type = PresentationType.APPLE_EVENT;
+        final List<PresentationEvent> events = type.refresh(LocalDate.now());
+        if(events != null) {
+            for(PresentationEvent event : events) {
+                WLLogger.logInfo("UpcomingEvents;test;event=" + event.toString());
+            }
+        }
+        WLLogger.logInfo("UpcomingEvents;test;took " + WLUtilities.getElapsedTime(started));
     }
 
     @Override

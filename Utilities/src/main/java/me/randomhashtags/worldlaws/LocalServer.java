@@ -23,6 +23,7 @@ public final class LocalServer implements UserServer, DataValues, RestAPI {
     private ConcurrentHashMap<String, Integer> totalRequests;
     private ConcurrentHashMap<String, HashSet<String>> uniqueRequests;
     private HashSet<String> totalUniqueIdentifiers;
+    private boolean scheduledAutoUpdates;
 
     public LocalServer(WLServer server) {
         wlserver = server;
@@ -32,6 +33,7 @@ public final class LocalServer implements UserServer, DataValues, RestAPI {
 
     @Override
     public void start() {
+        scheduledAutoUpdates = false;
         uniqueRequests = new ConcurrentHashMap<>();
         totalRequests = new ConcurrentHashMap<>();
         totalUniqueIdentifiers = new HashSet<>();
@@ -211,14 +213,17 @@ public final class LocalServer implements UserServer, DataValues, RestAPI {
         };
     }
     private void tryStartingAutoUpdates(APIVersion version) {
-        final long updateInterval = wlserver.getHomeResponseUpdateInterval();
-        if(updateInterval > 0) {
-            final TargetServer server = wlserver.getServer();
-            final String serverName = server.getName(), simpleName = getClass().getSimpleName();
-            registerFixedTimer(updateInterval, () -> {
-                final long started = System.currentTimeMillis();
-                wlserver.autoRefreshHome(simpleName, started, serverName, version);
-            });
+        if(!scheduledAutoUpdates) {
+            scheduledAutoUpdates = true;
+            final long updateInterval = wlserver.getHomeResponseUpdateInterval();
+            if(updateInterval > 0) {
+                final TargetServer server = wlserver.getServer();
+                final String serverName = server.getName(), simpleName = getClass().getSimpleName();
+                registerFixedTimer(updateInterval, () -> {
+                    final long started = System.currentTimeMillis();
+                    wlserver.autoRefreshHome(simpleName, started, serverName, version);
+                });
+            }
         }
     }
 

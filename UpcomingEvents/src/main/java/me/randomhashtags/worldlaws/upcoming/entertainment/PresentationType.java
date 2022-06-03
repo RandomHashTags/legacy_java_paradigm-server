@@ -18,10 +18,16 @@ import java.util.List;
 
 public enum PresentationType implements Jsoupable {
     APPLE_EVENT(
-            getNames("Apple Event", "World Wide Developers Conference (WWDC)"),
+            getNames("Apple Event"),
             "https://www.apple.com/apple-events/",
             PresentationEventType.PRESENTATION,
             "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/%quality%px-Apple_logo_black.svg.png"
+    ),
+    APPLE_EVENT_WWDC(
+            getNames("World Wide Developers Conference", "WWDC"),
+            "https://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference",
+            PresentationEventType.PRESENTATION,
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Apple_WWDC_wordmark.svg/%quality%px-Apple_WWDC_wordmark.svg.png"
     ),
 
     /*ACADEMY_AWARDS(
@@ -224,6 +230,7 @@ public enum PresentationType implements Jsoupable {
     private List<PresentationEvent> get() {
         switch (this) {
             case APPLE_EVENT: return refreshAppleEvent();
+            case APPLE_EVENT_WWDC: return refreshAppleEventWWDC();
             case BLIZZCON: return refreshBlizzCon();
             case COACHELLA: return refreshCoachella();
             case E3: return refreshE3();
@@ -265,10 +272,25 @@ public enum PresentationType implements Jsoupable {
             final boolean isHyphen = targetValue.contains("-");
             final String[] targetDays = targetValue.split(isHyphen ? "-" : "–");
             if(targetDays.length > 1) {
-                final int startingDay = Integer.parseInt(targetDays[0]), endingDay = Integer.parseInt(targetDays[1]);
-                for(int day = startingDay; day <= endingDay; day++) {
-                    final EventDate date = new EventDate(month, day, year);
-                    list.add(date);
+                final int startingDay = Integer.parseInt(targetDays[0]);
+                final String targetEndingDay = targetDays[1];
+                Month endingMonth = WLUtilities.valueOfMonthFromInput(targetEndingDay);
+                if(endingMonth != null) {
+                    final int endingDay = Integer.parseInt(values[values.length-1]);
+                    for(int day = startingDay; day <= month.maxLength(); day++) {
+                        final EventDate eventDate = new EventDate(month, day, year);
+                        list.add(eventDate);
+                    }
+                    for(int day = 1; day <= endingDay; day++) {
+                        final EventDate eventDate = new EventDate(endingMonth, day, year);
+                        list.add(eventDate);
+                    }
+                } else {
+                    final int endingDay = Integer.parseInt(targetEndingDay);
+                    for(int day = startingDay; day <= endingDay; day++) {
+                        final EventDate date = new EventDate(month, day, year);
+                        list.add(date);
+                    }
                 }
             } else {
                 final int day = Integer.parseInt(targetDays[0]);
@@ -342,6 +364,33 @@ public enum PresentationType implements Jsoupable {
                             }
                         }
                     }
+                }
+            }
+        }
+        return events;
+    }
+    private List<PresentationEvent> refreshAppleEventWWDC() {
+        final String title = "WWDC", imageURL = defaultImageURL;
+        final WikipediaDocument doc = new WikipediaDocument(url);
+        final String description = doc.getDescription();
+        final EventSources externalLinks = doc.getExternalLinks();
+        final List<PresentationEvent> events = new ArrayList<>();
+        final Element table = doc.selectFirst("table.wikitable");
+        if(table != null) {
+            final Elements elements = table.select("tbody tr");
+            elements.remove(0);
+            String previousLocation = null;
+            for(Element element : elements) {
+                final Elements tds = element.select("td");
+                final int size = tds.size();
+                if(size >= 2) {
+                    if(size == 3) {
+                        previousLocation = tds.get(2).text();
+                    }
+                    final int year = Integer.parseInt(tds.get(0).text());
+                    final String dates = tds.get(1).text();
+                    final List<EventDate> eventDates = parseDatesFrom(year, dates);
+                    iterateDays(eventDates, events, title, description, imageURL, previousLocation, externalLinks);
                 }
             }
         }

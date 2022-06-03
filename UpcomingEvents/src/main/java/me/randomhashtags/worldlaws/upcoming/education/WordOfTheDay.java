@@ -70,8 +70,9 @@ public final class WordOfTheDay extends LoadedUpcomingEventController {
             boolean isFirstDescription = true, isFirstExample = true;
             for(Element paragraph : definitionElements) {
                 final String text = paragraph.text();
-                if(text.startsWith("// ")) {
-                    examplesBuilder.append(isFirstExample ? "" : "\n\n").append(text.substring(3));
+                if(text.startsWith("// ") || text.startsWith("//")) {
+                    final int amount = text.startsWith("// ") ? 3 : 2;
+                    examplesBuilder.append(isFirstExample ? "" : "\n\n").append(text.substring(amount));
                     isFirstExample = false;
                 } else if(text.equals("See the entry >")) {
                 } else {
