@@ -19,7 +19,7 @@ public interface ProxyHttpHandler extends WLHttpHandler {
         final boolean isLocal = localIP.equals("/0:0:0:0:0:0:0:1");
         final boolean isWebsite = host.equals(DOMAIN) || isLocal && pathKey.equals("html");
         final boolean isAPI = host.equals("api." + DOMAIN) || isLocal && pathKey.matches("v[0-9]+");
-        //final boolean isSandbox = host.equals("sandbox." + DOMAIN) || isLocal && pathKey.equals("sandbox");
+        final boolean isSandbox = host.equals("sandbox." + DOMAIN) || isLocal && pathKey.equals("sandbox");
         if(isAPI) {
             handleAPIExchange(exchange);
         } else if(isWebsite) {

@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.country.SovereignState;
+import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.info.CountryInfoKeys;
@@ -10,10 +11,7 @@ import me.randomhashtags.worldlaws.info.availability.CountryAvailabilities;
 import me.randomhashtags.worldlaws.info.legal.CountryLegalities;
 import me.randomhashtags.worldlaws.info.legal.LegalityDrugs;
 import me.randomhashtags.worldlaws.info.list.Flyover;
-import me.randomhashtags.worldlaws.info.national.NationalAnimals;
-import me.randomhashtags.worldlaws.info.national.NationalAnthems;
-import me.randomhashtags.worldlaws.info.national.NationalCapitals;
-import me.randomhashtags.worldlaws.info.national.NationalTrees;
+import me.randomhashtags.worldlaws.info.national.*;
 import me.randomhashtags.worldlaws.info.rankings.CountryRankings;
 import me.randomhashtags.worldlaws.info.service.WikipediaFeaturedPictures;
 import me.randomhashtags.worldlaws.info.service.nonstatic.CIAServices;
@@ -58,9 +56,8 @@ public final class Countries implements WLServer {
 
     private void test() {
         final long started = System.currentTimeMillis();
-        loadServices();
-        final JSONTranslatable json = getInformationResponse(APIVersion.v1, new String[] { "unitedstates" });
-        WLLogger.logInfo("Countries;test;json=" + (json != null ? json.toString() : "null") + ";took " + WLUtilities.getElapsedTime(started));
+        final JSONObjectTranslatable json = NationalTrees.INSTANCE.getData(SovereignStateInfo.NATIONAL_TREES, WLCountry.ALBANIA);
+        WLLogger.logInfo("Countries;test;json= " + (json != null ? json.toString() : "null") + " ;took " + WLUtilities.getElapsedTime(started));
         /*
         final NewCountryService service = WikipediaFeaturedPictures.INSTANCE;
         //for(CountryValueService service : CountryValues.values()) {
@@ -103,6 +100,7 @@ public final class Countries implements WLServer {
             addAll(Arrays.asList(
                     NationalAnimals.INSTANCE,
                     NationalAnthems.INSTANCE,
+                    NationalBirds.INSTANCE,
                     NationalCapitals.INSTANCE,
                     NationalTrees.INSTANCE
             ));

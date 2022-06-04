@@ -63,8 +63,24 @@ public enum SubdivisionsCanada implements SovereignStateSubdivision { // https:/
     }
 
     @Override
-    public String getFlagURL() {
-        return null;
+    public String getFlagURLWikipediaSVGID() {
+        switch (this) {
+            case ALBERTA: return "f/f5/Flag_of_Alberta.svg";
+            case BRITISH_COLUMBIA: return "b/b8/Flag_of_British_Columbia.svg";
+            case MANITOBA: return "c/c4/Flag_of_Manitoba.svg";
+            case NEW_BRUNSWICK: return "f/fb/Flag_of_New_Brunswick.svg";
+            case NEWFOUNDLAND_AND_LABRADOR: return "d/dd/Flag_of_Newfoundland_and_Labrador.svg";
+            case NOVA_SCOTIA: return "c/c0/Flag_of_Nova_Scotia.svg";
+            case ONTARIO: return "8/88/Flag_of_Ontario.svg";
+            case PRINCE_EDWARD_ISLAND: return "d/d7/Flag_of_Prince_Edward_Island.svg";
+            case QUEBEC: return "5/5f/Flag_of_Quebec.svg";
+            case SASKATCHEWAN: return "b/bb/Flag_of_Saskatchewan.svg";
+
+            case NORTHWEST_TERRITORIES: return "c/c1/Flag_of_the_Northwest_Territories.svg";
+            case NUNAVUT: return "9/90/Flag_of_Nunavut.svg";
+            case YUKON: return "6/69/Flag_of_Yukon.svg";
+            default: return null;
+        }
     }
 
     @Override

@@ -117,7 +117,9 @@ public enum WikipediaFeaturedPictures implements NewCountryService {
                                     if(pictureURL.startsWith(imageURLPrefix)) {
                                         pictureURL = pictureURL.substring(imageURLPrefix.length());
                                     }
-                                    final String imageTitle = img.attr("alt");
+                                    String imageTitle = img.attr("alt");
+                                    final String[] values = imageTitle.split("\\.");
+                                    imageTitle = imageTitle.substring(0, imageTitle.length() - values[values.length-1].length() + 1);
                                     /*final String mediaURL = prefix + "/wiki/File:" + imageTitle;
                                     final Elements descriptions = getDocumentElements(FileType.COUNTRIES_SERVICES_WIKIPEDIA_FEATURED_PICTURES_MEDIA, mediaURL, "td.description");
                                     if(!descriptions.isEmpty()) {

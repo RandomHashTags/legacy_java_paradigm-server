@@ -119,6 +119,7 @@ public enum SovereignStateInfo {
 
     NATIONAL_ANIMALS("National Animals"),
     NATIONAL_ANTHEM("National Anthem"),
+    NATIONAL_BIRDS("National Birds"),
     NATIONAL_CAPITAL("National Capital"),
     NATIONAL_TREES("National Trees"),
 

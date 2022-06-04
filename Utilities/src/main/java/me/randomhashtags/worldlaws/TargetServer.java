@@ -122,7 +122,8 @@ public enum TargetServer implements RestAPI, DataValues {
         return sendResponse(headers, false);
     }
     private String sendResponse(WLHttpExchange headers, boolean fromProxy) {
-        return sendResponse(headers, fromProxy ? headers.getShortPath() : headers.getPath().substring(headers.getAPIVersion().name().length() + 1));
+        final String path = fromProxy ? headers.getShortPath(false) : headers.getPath().substring(headers.getAPIVersion().name().length() + 1);
+        return sendResponse(headers, path);
     }
     public String sendResponse(WLHttpExchange exchange, String path) {
         switch (this) {

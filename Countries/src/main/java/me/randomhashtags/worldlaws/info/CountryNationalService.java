@@ -61,7 +61,8 @@ public interface CountryNationalService extends NewCountryServiceCentralData {
         for(int index = 0; index < trs.size(); index++) {
             final Element realElement = trs.get(index);
             final Elements tds = realElement.select("td");
-            final Elements ahrefImages = tds.get(3).select("a.image");
+            final int imageIndex = tds.size()-2;
+            final Elements ahrefImages = tds.get(imageIndex).select("a.image");
             if(!ahrefImages.isEmpty()) {
                 final Element firstElement = tds.get(0);
                 final String country = firstElement.selectFirst("a[href]").text().toLowerCase().replace(" ", "");
@@ -79,8 +80,10 @@ public interface CountryNationalService extends NewCountryServiceCentralData {
                         final Element targetElement = elements.get(parentIndex+i);
                         final Elements targetElementTDs = targetElement.select("td");
                         final Element targetHref = targetElementTDs.get(2).selectFirst("a.image");
-                        final WikipediaPicture value = getWikipediaPictureFromTable(targetElementTDs.get(0), targetHref.selectFirst("img"), defaultTitle);
-                        pictures.put(value.toJSONObject());
+                        if(targetHref != null) {
+                            final WikipediaPicture value = getWikipediaPictureFromTable(targetElementTDs.get(0), targetHref.selectFirst("img"), defaultTitle);
+                            pictures.put(value.toJSONObject());
+                        }
                     }
                     index += rowspan-1;
                 }
@@ -116,7 +119,8 @@ public interface CountryNationalService extends NewCountryServiceCentralData {
         }
         final String href = "https:" + thumbnailElement.attr("src");
         final String[] values = href.split("/");
-        final String suffix = "/" + values[values.length-1], imageURL = href.replace("thumb/", "").split(suffix)[0];
+        final String suffix = values[values.length-1];
+        final String resolution = suffix.split("px-")[0], imageURL = href.replace("/" + resolution + "px-", "/%quality%px-");
         return new WikipediaPicture(name, title, imageURL);
     }
 }

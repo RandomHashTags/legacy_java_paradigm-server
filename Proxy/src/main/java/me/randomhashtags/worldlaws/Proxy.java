@@ -88,7 +88,6 @@ public final class Proxy implements UserServer {
         try {
             System.in.close();
         } catch (Exception e) {
-            WLUtilities.saveException(e);
         }
         WLLogger.logInfo("Proxy - stopped listening for clients");
     }
@@ -146,19 +145,19 @@ public final class Proxy implements UserServer {
         server.start();
     }
 
-    private String getProxyClientResponse(WLHttpExchange headers) {
+    private String getProxyClientResponse(WLHttpExchange exchange) {
         final long started = System.currentTimeMillis();
-        final String ip = headers.getIPAddress(true), platform = headers.getPlatform(), identifier = headers.getIdentifier();
+        final String ip = exchange.getIPAddress(true), platform = exchange.getPlatform(), identifier = exchange.getIdentifier();
         final String prefix = "[" + platform + ", " + identifier + "] " + ip + " - ";
-        final String path = headers.getPath();
+        final String path = exchange.getPath();
         final String targetServer = path.split("/")[1];
         final TargetServer server = TargetServer.valueOfBackendID(targetServer);
         if(server != null) {
-            final String string = server.sendResponseFromProxy(headers);
+            final String string = server.sendResponseFromProxy(exchange);
             if(string != null && !string.equals("null")) {
                 return string;
             }
-            WLLogger.logWarning(prefix + "Failed to connect to \"" + headers.getShortPath() + "\" (took " + WLUtilities.getElapsedTime(started) + ")");
+            WLLogger.logWarning(prefix + "Failed to connect to \"" + exchange.getShortPath(false) + "\" (took " + WLUtilities.getElapsedTime(started) + ")");
             return null;
         }
         WLLogger.logWarning(prefix + "INVALID - path=\"" + path + "\", server=\"" + targetServer + "\"");

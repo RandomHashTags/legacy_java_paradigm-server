@@ -62,7 +62,10 @@ public final class WLHttpExchange {
         return array.toArray(new String[array.size()]);
     }
     public String getShortPath() {
-        final String path = getPath();
+        return getShortPath(true);
+    }
+    public String getShortPath(boolean excludeQuery) {
+        final String path = getPath(excludeQuery);
         final String[] values = path.split("/");
         String string = path.substring(values[0].length() + values[1].length() + 1);
         if(string.startsWith("/")) {

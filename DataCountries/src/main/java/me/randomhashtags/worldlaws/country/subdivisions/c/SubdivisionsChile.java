@@ -66,7 +66,25 @@ public enum SubdivisionsChile implements SovereignStateSubdivision { // https://
     }
 
     @Override
-    public String getFlagURL() {
-        return null;
+    public String getFlagURLWikipediaSVGID() {
+        switch (this) {
+            case ANTOFAGASTA: return "c/cc/Flag_of_Antofagasta_Region%2C_Chile.svg";
+            case ARAUCANIA: return "f/fd/Flag_of_La_Araucan%C3%ADa_Region.svg";
+            case ARICA_AND_PARINACOTA: return "f/fa/Flag_of_Arica_y_Parinacota%2C_Chile.svg";
+            case ATACAMA: return "3/38/Flag_of_Atacama%2C_Chile.svg";
+            case AYSEN: return "0/0d/Flag_of_Aysen%2C_Chile.svg";
+            case BIOBIO: return "c/cd/Flag_of_Biob%C3%ADo_Region%2C_Chile.svg";
+            case COQUIMBO: return "d/d7/Flag_of_Coquimbo_Region%2C_Chile.svg";
+            case LOS_LAGOS: return "1/16/Flag_of_Los_Lagos_Region%2C_Chile.svg";
+            case LOS_RIOS: return "a/ac/Flag_of_Los_R%C3%ADos%2C_Chile.svg";
+            case MAGALLANES: return "8/8d/Flag_of_Magallanes%2C_Chile.svg";
+            case MAULE: return "6/6a/Flag_of_Maule%2C_Chile.svg";
+            case METROPOLITAN: return "8/8d/Flag_of_the_Metropolitan_Region%2C_Chile.svg";
+            case NUBLE: return "3/30/Flag_of_Ñuble_Region%2C_Chile.svg";
+            case O_HIGGINES: return "2/26/Flag_of_O%27Higgins_Region%2C_Chile.svg";
+            case TARAPACA: return "8/87/Flag_of_Tarapaca%2C_Chile.svg";
+            case VALPARAISO: return "5/50/Flag_of_Valparaiso_Region%2C_Chile.svg";
+            default: return null;
+        }
     }
 }
