@@ -55,7 +55,7 @@ public enum WLCountry {
     CENTRAL_AFRICAN_REPUBLIC,
     CHAD,
     CHILE,
-    CHINA,
+    CHINA("People's Republic of China"),
     COLOMBIA,
     COMOROS,
     COOK_ISLANDS,
@@ -195,7 +195,7 @@ public enum WLCountry {
 
     REPUBLIC_OF_THE_CONGO,
     ROMANIA,
-    RUSSIA,
+    RUSSIA("Russian Federation"),
     RWANDA,
 
     SAINT_BARTHELEMY("Saint Barthélemy"),

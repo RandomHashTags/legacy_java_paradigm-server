@@ -30,6 +30,7 @@ import java.util.concurrent.TimeUnit;
 
 public abstract class WLUtilities {
     public static final String SERVER_EMPTY_JSON_RESPONSE = "{}";
+    public static final String RESPONSE_VERSION_KEY = "response_version";
 
     static {
         final TrustManager[] trustManager = new TrustManager[] {

@@ -1,7 +1,6 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.country.SovereignState;
-import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.info.CountryInfoKeys;
@@ -56,7 +55,7 @@ public final class Countries implements WLServer {
 
     private void test() {
         final long started = System.currentTimeMillis();
-        final JSONObjectTranslatable json = NationalTrees.INSTANCE.getData(SovereignStateInfo.NATIONAL_TREES, WLCountry.ALBANIA);
+        final JSONObjectTranslatable json = CountryLegalities.BITCOIN.getJSONObject(WLCountry.UNITED_STATES);
         WLLogger.logInfo("Countries;test;json= " + (json != null ? json.toString() : "null") + " ;took " + WLUtilities.getElapsedTime(started));
         /*
         final NewCountryService service = WikipediaFeaturedPictures.INSTANCE;
@@ -145,7 +144,7 @@ public final class Countries implements WLServer {
         switch (version) {
             case v1:
                 final JSONObjectTranslatable json = new JSONObjectTranslatable("countries");
-                json.put("response_version", ResponseVersions.COUNTRIES.getValue());
+                json.put(WLUtilities.RESPONSE_VERSION_KEY, ResponseVersions.COUNTRIES.getValue());
                 final JSONObjectTranslatable countriesJSON = new JSONObjectTranslatable();
                 final WLCountry[] countries = WLCountry.values();
                 for(WLCountry country : countries) {

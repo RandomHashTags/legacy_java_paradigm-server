@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.info.legal;
 
-import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.info.CountryInfoKey;
@@ -229,7 +228,13 @@ public enum CountryLegalities implements CountryLegalityService {
                 final Element legalElement = links.get(0);
                 final boolean isLegal = legalElement.attr("href").equals(legal);
                 final String legalityTextNodeText = textNodes.get(0).text().replace(" /", "").replace("/", "");
-                final String legalityText = isLegal ? legalityTextNodeText.substring(1, legalityTextNodeText.length()-1) : "Illegal";
+                String legalityText = isLegal ? legalityTextNodeText : "Illegal";
+                if(legalityText.startsWith(" ")) {
+                    legalityText = legalityText.substring(1);
+                }
+                if(legalityText.endsWith(" ")) {
+                    legalityText = legalityText.substring(0, legalityText.length()-1);
+                }
 
                 final CountryInfoValue legality = new CountryInfoValue("Legality", legalityText, null);
                 CountryInfoValue illegality = null;
@@ -242,8 +247,7 @@ public enum CountryLegalities implements CountryLegalityService {
                 final StringBuilder noteBuilder = new StringBuilder();
                 boolean isFirst = true;
                 for(Element paragraph : tds.get(1).select("p")) {
-                    final String string = LocalServer.fixEscapeValues(paragraph.text());
-                    noteBuilder.append(isFirst ? "" : "\n").append(string);
+                    noteBuilder.append(isFirst ? "" : "\n").append(paragraph.text());
                     isFirst = false;
                 }
                 final String notes = noteBuilder.toString();

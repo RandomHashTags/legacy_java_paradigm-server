@@ -15,6 +15,7 @@ import java.nio.file.Path;
 import java.time.LocalDateTime;
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
+import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicBoolean;
 
@@ -49,7 +50,10 @@ public final class Proxy implements UserServer {
         final long rebootFrequency = Settings.Server.getServerRebootFrequencyInDays();
         final long rebootInterval = TimeUnit.DAYS.toMillis(rebootFrequency);
         final LocalDateTime rebootStartingDate = now.plusDays(rebootFrequency).withHour(0).withMinute(0).withSecond(11);
-        final Timer rebootTimer = WLUtilities.getTimer(rebootStartingDate, rebootInterval, ServerStatuses::rebootServers);
+        final Timer rebootTimer = WLUtilities.getTimer(rebootStartingDate, rebootInterval, () -> {
+            ServerStatuses.rebootServers();
+            rebootProxy();
+        });
         timers.add(rebootTimer);
 
         final long updateServersInterval = TimeUnit.DAYS.toMillis(1);
@@ -105,6 +109,7 @@ public final class Proxy implements UserServer {
     private void setupHttpServer(int port) {
         try {
             server = HttpServer.create(new InetSocketAddress(port), 0);
+            server.setExecutor(Executors.newFixedThreadPool(Settings.Server.getProxyClientThreadPoolSize()));
         } catch (Exception e) {
             WLUtilities.saveException(e);
         }

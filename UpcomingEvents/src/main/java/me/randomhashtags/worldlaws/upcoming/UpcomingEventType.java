@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws.upcoming;
 
+import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.settings.ResponseVersions;
 import org.json.JSONObject;
@@ -35,9 +36,8 @@ public enum UpcomingEventType {
     ;
 
     public static JSONObjectTranslatable getTypesJSON() { // TODO: save to file
-        final JSONObjectTranslatable json = new JSONObjectTranslatable();
-        json.setTranslatedKeys("types");
-        json.put("version", ResponseVersions.UPCOMING_EVENT_TYPES.getValue());
+        final JSONObjectTranslatable json = new JSONObjectTranslatable("types");
+        json.put(WLUtilities.RESPONSE_VERSION_KEY, ResponseVersions.UPCOMING_EVENT_TYPES.getValue());
 
         final JSONObjectTranslatable typesJSON = new JSONObjectTranslatable();
         final JSONObject categoriesJSON = new JSONObject();

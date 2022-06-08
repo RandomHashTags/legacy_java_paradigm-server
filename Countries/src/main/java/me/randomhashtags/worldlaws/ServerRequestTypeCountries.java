@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.WLCurrency;
 import me.randomhashtags.worldlaws.info.rankings.CountryRankingServices;
 import me.randomhashtags.worldlaws.locale.JSONArrayTranslatable;
@@ -7,10 +8,12 @@ import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.request.ServerRequestType;
 import me.randomhashtags.worldlaws.request.WLHttpHandler;
 import me.randomhashtags.worldlaws.service.CurrencyExchange;
+import me.randomhashtags.worldlaws.service.NewCountryService;
 import me.randomhashtags.worldlaws.settings.ResponseVersions;
 import org.json.JSONObject;
 
 import java.util.HashMap;
+import java.util.Map;
 import java.util.Set;
 import java.util.stream.Collectors;
 
@@ -71,7 +74,7 @@ public enum ServerRequestTypeCountries implements ServerRequestType {
             return CACHE_CURRENCIES;
         }
         final JSONObjectTranslatable json = new JSONObjectTranslatable("currencies");
-        json.put("response_version", ResponseVersions.COUNTRY_CURRENCIES.getValue());
+        json.put(WLUtilities.RESPONSE_VERSION_KEY, ResponseVersions.COUNTRY_CURRENCIES.getValue());
         final JSONArrayTranslatable array = new JSONArrayTranslatable();
         for(WLCurrency currency : WLCurrency.values()) {
             array.put(currency.toJSONObject());
@@ -84,7 +87,11 @@ public enum ServerRequestTypeCountries implements ServerRequestType {
         if(CACHE_FILTERS != null) {
             return CACHE_FILTERS;
         }
-        final Set<String> services = CountryRankingServices.getNewRankingsServices().stream().map(test -> test.getInfo().getTitle()).collect(Collectors.toSet());
+        final Set<SovereignStateInfo> services = CountryRankingServices.getNewRankingsServices().stream().map(NewCountryService::getInfo).collect(Collectors.toSet());
+        final HashMap<String, String> servicesMap = new HashMap<>();
+        for(SovereignStateInfo info : services) {
+            servicesMap.put(info.getID(), info.getTitle());
+        }
         final Folder folder = Folder.COUNTRIES;
         final String fileName = "filters";
         folder.setCustomFolderName(fileName, folder.getFolderName());
@@ -92,22 +99,29 @@ public enum ServerRequestTypeCountries implements ServerRequestType {
         json.setFolder(folder);
         json.setFileName(fileName);
         final JSONObject local = Jsonable.getStaticLocalFileJSONObject(folder, fileName);
+        final String responseVersionKey = WLUtilities.RESPONSE_VERSION_KEY;
         final int responseVersion = ResponseVersions.COUNTRY_FILTERS.getValue();
-        if(local == null || local.optInt("response_version", 0) < responseVersion) {
-            for(String title : services) {
+        if(local == null || local.optInt(responseVersionKey, 0) < responseVersion) {
+            final JSONObjectTranslatable filters = new JSONObjectTranslatable();
+            for(Map.Entry<String, String> entry : servicesMap.entrySet()) {
+                final String id = entry.getKey(), title = entry.getValue();
                 final JSONObjectTranslatable filterJSON = new JSONObjectTranslatable("title");
                 filterJSON.put("title", title);
-                json.put(title, filterJSON, true);
+                filters.put(id, filterJSON, true);
             }
-            json.put("response_version", responseVersion);
+            json.put("filters", filters, true);
+            json.put(responseVersionKey, responseVersion);
             Jsonable.setFileJSONObject(folder, fileName, json);
         } else {
-            json = JSONObjectTranslatable.parse(local, folder, fileName, services, title -> {
+            final Set<String> keys = servicesMap.keySet();
+            json = JSONObjectTranslatable.copy(local, true);
+            final JSONObjectTranslatable filters = JSONObjectTranslatable.parse(json.getJSONObject("filters"), folder, fileName, keys, id -> {
                 final JSONObjectTranslatable filterJSON = new JSONObjectTranslatable("title");
-                filterJSON.put("title", title);
+                filterJSON.put("title", local.getJSONObject(id).getString("title"));
                 return filterJSON;
             });
-            json.put("response_version", responseVersion);
+            json.put("filters", filters, true);
+            json.put(responseVersionKey, responseVersion);
         }
         CACHE_FILTERS = json;
         return json;

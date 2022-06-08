@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.upcoming.entertainment.movies;
 
 import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.Jsonable;
+import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.settings.ResponseVersions;
 import me.randomhashtags.worldlaws.settings.Settings;
@@ -16,9 +17,10 @@ public enum MovieProductionCompanies {
 
     public static JSONObjectTranslatable getTypesJSON() {
         JSONObjectTranslatable json = new JSONObjectTranslatable();
+        final String responseVersionKey = WLUtilities.RESPONSE_VERSION_KEY;
         final int responseVersion = ResponseVersions.MOVIE_PRODUCTION_COMPANIES.getValue();
         final JSONObject local = Jsonable.getStaticLocalFileJSONObject(Folder.UPCOMING_EVENTS_MOVIES, "productionCompanies");
-        final int version = local != null && local.has("version") ? local.getInt("version") : -1;
+        final int version = local != null ? local.optInt(responseVersionKey, -1) : -1;
         if(local == null || version < responseVersion) {
             json = loadJSON();
         } else {
@@ -50,7 +52,7 @@ public enum MovieProductionCompanies {
         }
 
         final JSONObjectTranslatable json = new JSONObjectTranslatable("companies");
-        json.put("version", ResponseVersions.MOVIE_PRODUCTION_COMPANIES.getValue());
+        json.put(WLUtilities.RESPONSE_VERSION_KEY, ResponseVersions.MOVIE_PRODUCTION_COMPANIES.getValue());
         json.put("imageURLPrefix", getImageURLPrefix());
         json.put("companies", companiesJSON);
         Jsonable.setFileJSONObject(Folder.UPCOMING_EVENTS_MOVIES, "productionCompanies", json);

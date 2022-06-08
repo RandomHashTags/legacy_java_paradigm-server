@@ -78,25 +78,26 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
         if(INFORMATION_CACHE.containsKey(fileName)) {
             return INFORMATION_CACHE.get(fileName);
         }
+        final String responseVersionKey = WLUtilities.RESPONSE_VERSION_KEY;
         final int responseVersion = ResponseVersions.SUBDIVISION_INFORMATION.getValue();
         final Folder folder = Folder.COUNTRIES_INFORMATION_SUBDIVISIONS;
         final WLCountry country = getCountry();
         folder.setCustomFolderName(fileName, folder.getFolderName().replace("%country%", country.getBackendID()));
         final JSONObjectTranslatable json;
         final JSONObject local = Jsonable.getStaticLocalFileJSONObject(folder, fileName);
-        if(local == null || local.getInt("response_version") < responseVersion) {
+        if(local == null || local.getInt(responseVersionKey) < responseVersion) {
             json = loadStaticInformation();
             json.setFolder(folder);
             json.setFileName(fileName);
             json.save();
         } else {
             final HashSet<String> keys = new HashSet<>(local.keySet());
-            keys.remove("response_version");
+            keys.remove(responseVersionKey);
             json = JSONObjectTranslatable.parse(local, folder, fileName, keys, key -> {
                 final JSONObject keyJSON = local.getJSONObject(key);
                 return JSONObjectTranslatable.copy(keyJSON);
             });
-            json.put("response_version", responseVersion);
+            json.put(responseVersionKey, responseVersion);
         }
         INFORMATION_CACHE.put(fileName, json);
         return json;

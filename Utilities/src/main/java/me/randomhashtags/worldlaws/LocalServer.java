@@ -171,26 +171,21 @@ public final class LocalServer implements UserServer, DataValues, RestAPI {
                 @Override
                 public String getFallbackResponse(WLHttpExchange httpExchange) {
                     final String identifier = httpExchange.getIdentifier();
-                    switch (path) {
-                        case "ping":
-                            return "1";
-                        case "stop":
-                            if(Settings.Server.getUUID().equals(identifier)) {
+                    if(Settings.Server.getUUID().equals(identifier)) {
+                        switch (path) {
+                            case "ping":
+                                return "1";
+                            case "stop":
                                 stop();
                                 return "1";
-                            } else {
-                                return null;
-                            }
-                        case "refresh":
-                            if(Settings.Server.getUUID().equals(identifier)) {
+                            case "refresh":
                                 Settings.refresh();
                                 return "1";
-                            } else {
+                            default:
                                 return null;
-                            }
-                        default:
-                            return null;
+                        }
                     }
+                    return null;
                 }
             });
         }

@@ -26,4 +26,8 @@ public interface ServerRequestType extends Jsonable {
     default boolean isConditional() {
         return false;
     }
+
+    default APIVersion getAPIVersion() {
+        return APIVersion.v1;
+    }
 }

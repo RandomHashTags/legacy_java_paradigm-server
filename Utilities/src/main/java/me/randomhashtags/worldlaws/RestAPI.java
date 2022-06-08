@@ -22,7 +22,7 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.TimeUnit;
 
 public interface RestAPI {
-    String USER_AGENT = "(Project Paradigm - Java Application/11, ***REMOVED***)";
+    String USER_AGENT = "(Project Paradigm - Java Application/14, ***REMOVED***)";
     LinkedHashMap<String, String> GET_CONTENT_HEADERS = new LinkedHashMap<>() {{
         put("Accept", "application/json");
         put("User-Agent", USER_AGENT);

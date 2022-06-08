@@ -192,7 +192,7 @@ public enum PresentationType implements Jsoupable {
 
     public static JSONObjectTranslatable getTypesJSON() {
         final JSONObjectTranslatable json = new JSONObjectTranslatable("types");
-        json.put("version", ResponseVersions.PRESENTATIONS.getValue());
+        json.put(WLUtilities.RESPONSE_VERSION_KEY, ResponseVersions.PRESENTATIONS.getValue());
 
         final JSONObjectTranslatable typesJSON = new JSONObjectTranslatable();
         for(PresentationType type : values()) {

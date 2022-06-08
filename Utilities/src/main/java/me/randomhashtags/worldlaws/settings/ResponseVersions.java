@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.settings;
 
 public enum ResponseVersions {
+    SERVER_VERSION,
 
     COUNTRIES,
     COUNTRY_CURRENCIES,
@@ -13,7 +14,6 @@ public enum ResponseVersions {
     PRESENTATIONS,
     REMOTE_NOTIFICATIONS,
     UPCOMING_EVENT_TYPES,
-    UPDATE_NOTES,
     VIDEO_GAMES,
 
     // Server Side
@@ -35,16 +35,19 @@ public enum ResponseVersions {
     }
     public int getValue() {
         switch (this) {
+            case SERVER_VERSION:
+                return 1;
+
             case COUNTRIES:
-                return 18;
+                return 19;
             case COUNTRY_CURRENCIES:
                 return 1;
             case COUNTRY_FILTERS:
-                return 1;
+                return 2;
             case COUNTRY_INFORMATION:
-                return 6;
+                return 7;
             case SUBDIVISION_INFORMATION:
-                return 4;
+                return 5;
 
             case LAWS_RECENT_ACTIVITY:
                 return 1;
@@ -56,7 +59,7 @@ public enum ResponseVersions {
             case PRESENTATIONS:
                 return 4;
             case REMOTE_NOTIFICATIONS:
-                return 3;
+                return 4;
             case UPCOMING_EVENT_TYPES:
                 return 14;
             case VIDEO_GAMES:
@@ -65,9 +68,6 @@ public enum ResponseVersions {
             case AVAILABILITIES:
                 return 1;
             case HOLIDAYS:
-                return 1;
-
-            case UPDATE_NOTES:
                 return 1;
 
             default:

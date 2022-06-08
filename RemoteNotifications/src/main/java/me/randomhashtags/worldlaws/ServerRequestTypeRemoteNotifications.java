@@ -60,7 +60,7 @@ public enum ServerRequestTypeRemoteNotifications implements ServerRequestType {
     }
     public static JSONObjectTranslatable getCategories() {
         final JSONObjectTranslatable json = new JSONObjectTranslatable();
-        json.put("version", ResponseVersions.REMOTE_NOTIFICATIONS.getValue());
+        json.put(WLUtilities.RESPONSE_VERSION_KEY, ResponseVersions.REMOTE_NOTIFICATIONS.getValue());
         for(RemoteNotificationCategory category : RemoteNotificationCategory.values()) {
             final RemoteNotificationSubcategory[] subcategories = category.getSubcategories();
             if(subcategories != null) {

@@ -147,28 +147,28 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
     @Override
     public String getImageURL() {
         switch (this) {
-            case ALEXA: return "https://upload.wikimedia.org/wikipedia/commons/4/4a/Amazon_Alexa_logo.svg";
-            case AT_AND_T_TV: return "https://upload.wikimedia.org/wikipedia/commons/d/d5/AT%26T_TV.svg";
-            case DAZN: return "https://upload.wikimedia.org/wikipedia/commons/5/56/DAZN_LogoInBox_black.svg";
-            case DISCOVERY_PLUS: return "https://upload.wikimedia.org/wikipedia/commons/d/df/Discovery%2B.png";
-            case DISNEY_PLUS: return "https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg";
-            case ESPN_PLUS: return "https://upload.wikimedia.org/wikipedia/commons/8/80/ESPN_Plus.svg";
-            case GOOGLE_ASSISTANT: return "https://upload.wikimedia.org/wikipedia/commons/c/cb/Google_Assistant_logo.svg";
-            case GOOGLE_PAY: return "https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Pay_Logo_%282020%29.svg";
-            case HBO_MAX: return "https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_Max_Logo.svg";
-            case HULU: return "https://upload.wikimedia.org/wikipedia/commons/e/e4/Hulu_Logo.svg";
-            case NVIDIA_GEFORCE_NOW: return "https://upload.wikimedia.org/wikipedia/en/5/50/GeForce_Now_logo.png";
-            case PARAMOUNT_PLUS: return "https://upload.wikimedia.org/wikipedia/commons/a/a5/Paramount_Plus.svg";
-            case PEACOCK: return "https://upload.wikimedia.org/wikipedia/commons/d/d3/NBCUniversal_Peacock_Logo.svg";
-            case PLAYSTATION_NOW: return "https://upload.wikimedia.org/wikipedia/commons/4/4c/Playstation-now.png";
-            case SAMSUNG_PAY: return "https://upload.wikimedia.org/wikipedia/commons/7/7e/Samsung_Pay_icon.svg";
-            case SHOWTIME: return "https://upload.wikimedia.org/wikipedia/commons/2/22/Showtime.svg";
-            case SPOTIFY: return "https://upload.wikimedia.org/wikipedia/commons/3/33/Spotify_logo13.png";
-            case STADIA: return "https://upload.wikimedia.org/wikipedia/commons/9/98/Stadia_logo.svg";
-            case TIDAL: return "https://upload.wikimedia.org/wikipedia/commons/1/18/Tidal_%28service%29_logo.svg";
-            case VENMO: return "https://upload.wikimedia.org/wikipedia/commons/4/45/Venmo_Logo.svg";
-            case YOUTUBE_PREMIUM: return "https://upload.wikimedia.org/wikipedia/commons/d/dd/YouTube_Premium_logo.svg";
-            case YOUTUBE_TV: return "https://upload.wikimedia.org/wikipedia/commons/f/f7/YouTube_TV_logo.svg";
+            case ALEXA: return "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Amazon_Alexa_logo.svg/%quality%px-Amazon_Alexa_logo.svg.png";
+            case AT_AND_T_TV: return "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/DIRECTV_STREAM_2021_logo.svg/%quality%px-DIRECTV_STREAM_2021_logo.svg.png";
+            case DAZN: return "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/%quality%px-DAZN_Logo_Master.svg.png";
+            case DISCOVERY_PLUS: return "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Discovery_Plus_logo.svg/%quality%px-Discovery_Plus_logo.svg.png";
+            case DISNEY_PLUS: return "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/%quality%px-Disney%2B_logo.svg.png";
+            case ESPN_PLUS: return "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/%quality%px-ESPN_Plus.svg.png";
+            case GOOGLE_ASSISTANT: return "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Google_Assistant_logo.svg/%quality%px-Google_Assistant_logo.svg.png";
+            case GOOGLE_PAY: return "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Pay_Logo_%282020%29.svg/%quality%px-Google_Pay_Logo_%282020%29.svg.png";
+            case HBO_MAX: return "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/%quality%px-HBO_Max_Logo.svg.png";
+            case HULU: return "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hulu_Logo.svg/%quality%px-Hulu_Logo.svg.png";
+            case NVIDIA_GEFORCE_NOW: return "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/GeForce_Now_logo.svg/%quality%px-GeForce_Now_logo.svg.png";
+            case PARAMOUNT_PLUS: return "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Paramount%2B_logo.png/%quality%px-Paramount%2B_logo.png";
+            case PEACOCK: return "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NBCUniversal_Peacock_Logo.svg/%quality%px-NBCUniversal_Peacock_Logo.svg.png";
+            case PLAYSTATION_NOW: return "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Playstation-now.png/%quality%px-Playstation-now.png";
+            case SAMSUNG_PAY: return "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Samsung_Pay_icon.svg/%quality%px-Samsung_Pay_icon.svg.png";
+            case SHOWTIME: return "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/%quality%px-Showtime.svg.png";
+            case SPOTIFY: return "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Spotify_logo_with_text.svg/%quality%px-Spotify_logo_with_text.svg.png";
+            case STADIA: return "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Stadia_logo.svg/%quality%px-Stadia_logo.svg.png";
+            case TIDAL: return "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Tidal_%28service%29_logo.svg/%quality%px-Tidal_%28service%29_logo.svg.png";
+            case VENMO: return "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Venmo_Logo.svg/%quality%px-Venmo_Logo.svg.png";
+            case YOUTUBE_PREMIUM: return "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/YouTube_Premium_logo.svg/%quality%px-YouTube_Premium_logo.svg.png";
+            case YOUTUBE_TV: return "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/YouTube_TV_logo.svg/%quality%px-YouTube_TV_logo.svg.png";
             default: return null;
         }
     }

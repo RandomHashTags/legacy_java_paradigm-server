@@ -193,26 +193,31 @@ public final class AppleAvailabilityObj implements AppleFeatureAvailability {
         switch (info) {
             case AVAILABILITY_APPLE_IOS_APP_STORE_APPS:
             case AVAILABILITY_APPLE_IOS_APP_STORE_GAMES:
-                return "https://upload.wikimedia.org/wikipedia/commons/a/ab/App_Store_%282017%29_Logo.png";
-            case AVAILABILITY_APPLE_IOS_ARCADE: return "https://upload.wikimedia.org/wikipedia/commons/b/b9/Apple-arcade-logo.svg";
-            case AVAILABILITY_APPLE_IOS_CARD: return "https://upload.wikimedia.org/wikipedia/commons/c/cd/Apple_card_logo.png";
-            case AVAILABILITY_APPLE_IOS_CARPLAY: return "https://upload.wikimedia.org/wikipedia/commons/9/92/Apple_CarPlay_Logo.png";
+                return "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/App_Store_%28iOS%29.svg/%quality%px-App_Store_%28iOS%29.svg.png";
+            case AVAILABILITY_APPLE_IOS_ARCADE: return "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Apple-arcade-logo.svg/%quality%px-Apple-arcade-logo.svg.png";
+            case AVAILABILITY_APPLE_IOS_CARD: return "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Apple_Card.svg/%quality%px-Apple_Card.svg.png";
+            case AVAILABILITY_APPLE_IOS_CARPLAY: return "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Apple_CarPlay_Logo.png/%quality%px-Apple_CarPlay_Logo.png";
+            case AVAILABILITY_APPLE_ICLOUD_PLUS: return "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/ICloud_logo_%28new%29.png/%quality%px-ICloud_logo_%28new%29.png";
+            case AVAILABILITY_APPLE_IOS_HEALTH_BLOOD_GLUCOSE_HIGHLIGHTS:
+            case AVAILABILITY_APPLE_IOS_HEALTH_DOWNLOAD_HEALTH_RECORDS_TO_IPHONE:
+            case AVAILABILITY_APPLE_IOS_HEALTH_SHARE_HEALTH_APP_DATA_WITH_HEALTHCARE_PROVIDERS:
+                return "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Health_icon_iOS_12.png/%quality%px-Health_icon_iOS_12.png";
             case AVAILABILITY_APPLE_IOS_ITUNES_STORE_MOVIES:
             case AVAILABILITY_APPLE_IOS_ITUNES_STORE_MUSIC:
             case AVAILABILITY_APPLE_IOS_ITUNES_STORE_TV_SHOWS:
-                return "https://upload.wikimedia.org/wikipedia/commons/b/b8/ITunes_Store_logo.svg";
+                return "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/ITunes_Store_logo.svg/%quality%px-ITunes_Store_logo.svg.png";
             case AVAILABILITY_APPLE_IOS_MAPS_CONGESTION_ZONES:
             case AVAILABILITY_APPLE_IOS_MAPS_DIRECTIONS:
             case AVAILABILITY_APPLE_IOS_MAPS_NEARBY:
             case AVAILABILITY_APPLE_IOS_MAPS_SPEED_CAMERAS:
             case AVAILABILITY_APPLE_IOS_MAPS_SPEED_LIMITS:
-                return "https://upload.wikimedia.org/wikipedia/commons/1/17/AppleMaps_logo.svg";
-            case AVAILABILITY_APPLE_IOS_MUSIC: return "https://upload.wikimedia.org/wikipedia/commons/9/9d/AppleMusic_2019.svg";
-            case AVAILABILITY_APPLE_IOS_NEWS: return "https://upload.wikimedia.org/wikipedia/commons/f/f3/Apple_News_2019_icon_%28iOS%29.png";
-            case AVAILABILITY_APPLE_IOS_PAY: return "https://upload.wikimedia.org/wikipedia/commons/b/b0/Apple_Pay_logo.svg";
-            case AVAILABILITY_APPLE_IOS_SIRI: return "https://upload.wikimedia.org/wikipedia/en/8/8e/AppleSiriIcon2017.png";
-            case AVAILABILITY_APPLE_IOS_TV_APP: return "https://upload.wikimedia.org/wikipedia/commons/1/16/AppleTVLogo.png";
-            case AVAILABILITY_APPLE_IOS_TV_PLUS: return "https://upload.wikimedia.org/wikipedia/commons/3/37/Apple_TV%2B_logo.png";
+                return "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Apple_Maps_logo.svg/%quality%px-Apple_Maps_logo.svg.png";
+            case AVAILABILITY_APPLE_IOS_MUSIC: return "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/AppleMusic_2019.svg/%quality%px-AppleMusic_2019.svg.png";
+            case AVAILABILITY_APPLE_IOS_NEWS: return "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apple_News_2019_icon_%28iOS%29.png/%quality%px-Apple_News_2019_icon_%28iOS%29.png";
+            case AVAILABILITY_APPLE_IOS_PAY: return "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Apple_Pay_logo.svg/%quality%px-Apple_Pay_logo.svg.png";
+            case AVAILABILITY_APPLE_IOS_SIRI: return "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Siri_Logo_in_2022.png/%quality%px-Siri_Logo_in_2022.png";
+            case AVAILABILITY_APPLE_IOS_TV_APP: return "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/TV_%28iOS%29.png/%quality%px-TV_%28iOS%29.png";
+            case AVAILABILITY_APPLE_IOS_TV_PLUS: return "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Apple_TV_Plus_Logo.svg/%quality%px-Apple_TV_Plus_Logo.svg.png";
             default: return null;
         }
     }

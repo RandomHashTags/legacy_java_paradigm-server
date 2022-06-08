@@ -164,7 +164,7 @@ public interface Country extends SovereignState {
             folder.setCustomFolderName(backendID, folder.getFolderName());
             final JSONObject local = getLocalFileJSONObject(folder, backendID);
             final JSONObjectTranslatable json;
-            if(local == null || local.getInt("response_version") != ResponseVersions.COUNTRY_INFORMATION.getValue()) {
+            if(local == null || local.getInt(WLUtilities.RESPONSE_VERSION_KEY) != ResponseVersions.COUNTRY_INFORMATION.getValue()) {
                 final WLCountry country = getWLCountry();
                 json = loadStaticInformation(folder, country);
             } else {
@@ -247,7 +247,7 @@ public interface Country extends SovereignState {
             }
             json.put(typeName, infoValues, true);
         }
-        json.put("response_version", ResponseVersions.COUNTRY_INFORMATION.getValue());
+        json.put(WLUtilities.RESPONSE_VERSION_KEY, ResponseVersions.COUNTRY_INFORMATION.getValue());
         json.save();
         return json;
     }

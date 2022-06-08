@@ -52,7 +52,7 @@ public final class PreUpcomingEvent {
         this.identifier = identifier;
         this.title = title;
         this.url = url;
-        this.tag = tag;
+        this.tag = LocalServer.removeWikipediaReferences(tag);
         this.countries = countries;
         this.customValues = customValues;
     }
