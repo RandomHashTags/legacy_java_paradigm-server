@@ -90,8 +90,12 @@ public final class Proxy implements UserServer {
         } catch (Exception ignored) {
         }
         try {
+            SCANNER.close();
+        } catch (Exception ignored) {
+        }
+        try {
             System.in.close();
-        } catch (Exception e) {
+        } catch (Exception ignored) {
         }
         WLLogger.logInfo("Proxy - stopped listening for clients");
     }

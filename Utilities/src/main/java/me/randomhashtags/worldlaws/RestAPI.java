@@ -30,7 +30,7 @@ public interface RestAPI {
 
     ConcurrentHashMap<String, JSONArray> RESPONSE_TIMES = new ConcurrentHashMap<>();
     private static Duration getConnectionTimeout() {
-        return Duration.ofSeconds(30);
+        return Duration.ofSeconds(60);
     }
 
     HttpResponse.BodyHandler<String> STRING_BODY_HANDLER = HttpResponse.BodyHandlers.ofString();

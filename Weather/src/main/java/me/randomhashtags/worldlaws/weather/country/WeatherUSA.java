@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.Location;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.u.SubdivisionsUnitedStates;
 import me.randomhashtags.worldlaws.locale.JSONArrayTranslatable;
 import me.randomhashtags.worldlaws.locale.JSONObjectTranslatable;
 import me.randomhashtags.worldlaws.notifications.RemoteNotification;
@@ -374,11 +375,33 @@ public enum WeatherUSA implements WeatherController {
             }
             final WLCountry unitedStates = getCountry();
             SovereignStateSubdivision subdivision = unitedStates.valueOfSovereignStateSubdivision(stateString);
+            final String stateISOAlpha2 = zoneID.split("/")[1].substring(0, 2);
             if(subdivision == null) {
-                subdivision = unitedStates.valueOfSovereignStateSubdivision(zoneID.substring(0, 2));
+                subdivision = unitedStates.valueOfSovereignStateSubdivision(stateISOAlpha2);
             }
             if(subdivision == null) {
-                WLLogger.logError("WeatherUSA", "failed to find subdivision for stateString \"" + stateString + "\"! (zoneID=" + zoneID + ")");
+                switch (stateISOAlpha2) {
+                    case "PZ":
+                        subdivision = SubdivisionsUnitedStates.CALIFORNIA;
+                        break;
+                    case "LM":
+                        subdivision = SubdivisionsUnitedStates.WISCONSIN;
+                        break;
+                    case "AN":
+                        subdivision = SubdivisionsUnitedStates.MAINE;
+                        break;
+                    case "PK":
+                        subdivision = SubdivisionsUnitedStates.ALASKA;
+                        break;
+                    case "AM":
+                        subdivision = SubdivisionsUnitedStates.NORTH_CAROLINA;
+                        break;
+                    default:
+                        break;
+                }
+            }
+            if(subdivision == null) {
+                WLLogger.logError(this, "failed to find subdivision for stateString \"" + stateString + "\"! (zoneID=" + zoneID + ")\n\njson=" + json.toString());
             }
             final String name = propertiesJSON.getString("name");
             final String territory = subdivision != null ? subdivision.getName() : stateString != null ? stateString : "Unknown";

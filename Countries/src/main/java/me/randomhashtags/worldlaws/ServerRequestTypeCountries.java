@@ -115,9 +115,10 @@ public enum ServerRequestTypeCountries implements ServerRequestType {
         } else {
             final Set<String> keys = servicesMap.keySet();
             json = JSONObjectTranslatable.copy(local, true);
-            final JSONObjectTranslatable filters = JSONObjectTranslatable.parse(json.getJSONObject("filters"), folder, fileName, keys, id -> {
+            final JSONObject filtersJSON = json.getJSONObject("filters");
+            final JSONObjectTranslatable filters = JSONObjectTranslatable.parse(filtersJSON, folder, fileName, keys, id -> {
                 final JSONObjectTranslatable filterJSON = new JSONObjectTranslatable("title");
-                filterJSON.put("title", local.getJSONObject(id).getString("title"));
+                filterJSON.put("title", filtersJSON.getJSONObject(id).getString("title"));
                 return filterJSON;
             });
             json.put("filters", filters, true);

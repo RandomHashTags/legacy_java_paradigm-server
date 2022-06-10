@@ -382,7 +382,9 @@ public enum WLCountry {
                     if(name.equalsIgnoreCase(subdivision.name())
                             || name.equalsIgnoreCase(subdivision.getBackendID())
                             || name.equalsIgnoreCase(subdivision.getName())
+                            || name.equalsIgnoreCase(subdivision.getShortName())
                             || name.equalsIgnoreCase(subdivision.getRealName())
+                            || name.equalsIgnoreCase(subdivision.getConditionalName())
                             || name.equalsIgnoreCase(subdivision.getISOAlpha2())
                     ) {
                         return subdivision;

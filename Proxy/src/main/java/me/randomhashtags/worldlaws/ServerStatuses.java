@@ -125,7 +125,7 @@ public enum ServerStatuses {
             }
             Proxy.updateHomeResponse();
             Proxy.endMaintenanceMode();
-            WLLogger.logInfo("Proxy - rebooted updated servers and refreshed home response" + (didUpdatedProxy ? ", rebooting Proxy" : "") + " (took " + WLUtilities.getElapsedTime(started) + ")");
+            WLLogger.logInfo("Proxy - successfully rebooted updated servers and refreshed home response" + (didUpdatedProxy ? ", rebooting Proxy" : "") + " (took " + WLUtilities.getElapsedTime(started) + ")");
             if(didUpdatedProxy) {
                 Proxy.INSTANCE.rebootProxy();
             }

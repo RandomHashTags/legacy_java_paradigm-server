@@ -72,7 +72,7 @@ public enum ServerRequestTypeUpcomingEvents implements ServerRequestType {
         ));
     }};
 
-    private static final HashMap<ServerRequestTypeUpcomingEvents, JSONObjectTranslatable> CACHE_JSONS = new HashMap<>();
+    private static final ConcurrentHashMap<ServerRequestTypeUpcomingEvents, JSONObjectTranslatable> CACHE_JSONS = new ConcurrentHashMap<>();
 
     @Override
     public WLHttpHandler getHandler(APIVersion version) {

@@ -137,6 +137,7 @@ public abstract class WLUtilities {
                 }
             }
             reader.close();
+        } catch (InterruptedException ignored) {
         } catch (Exception e) {
             WLUtilities.saveException(e);
         }

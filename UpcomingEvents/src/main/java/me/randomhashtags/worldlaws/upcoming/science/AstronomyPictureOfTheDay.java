@@ -30,7 +30,7 @@ public final class AstronomyPictureOfTheDay extends LoadedUpcomingEventControlle
                     new EventSource("NASA: Astronomy Picture of the Day", "https://apod.nasa.gov")
             );
             final String copyright = json.optString("copyright", null),
-                    explanation = json.getString("explanation"),
+                    explanation = json.optString("explanation", null),
                     title = json.getString("title"),
                     targetDate = json.getString("date")
             ;
