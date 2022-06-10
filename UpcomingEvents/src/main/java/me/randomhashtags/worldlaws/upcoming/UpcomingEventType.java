@@ -35,7 +35,7 @@ public enum UpcomingEventType {
     WORD_OF_THE_DAY,
     ;
 
-    public static JSONObjectTranslatable getTypesJSON() { // TODO: save to file
+    public static JSONObjectTranslatable getTypesJSON() {
         final JSONObjectTranslatable json = new JSONObjectTranslatable("types");
         json.put(WLUtilities.RESPONSE_VERSION_KEY, ResponseVersions.UPCOMING_EVENT_TYPES.getValue());
 

@@ -396,6 +396,9 @@ public enum WeatherUSA implements WeatherController {
                     case "AM":
                         subdivision = SubdivisionsUnitedStates.NORTH_CAROLINA;
                         break;
+                    case "GM":
+                        subdivision = SubdivisionsUnitedStates.FLORIDA;
+                        break;
                     default:
                         break;
                 }
