@@ -187,7 +187,7 @@ public enum WLCountry {
     PAPUA_NEW_GUINEA,
     PARAGUAY,
     PERU,
-    PHILIPPINES,
+    PHILIPPINES("Philipines"),
     POLAND,
     PORTUGAL,
 

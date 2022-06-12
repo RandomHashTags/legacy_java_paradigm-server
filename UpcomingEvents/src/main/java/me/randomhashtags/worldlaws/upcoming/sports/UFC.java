@@ -10,6 +10,7 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
+import java.time.LocalDate;
 import java.time.Month;
 
 public final class UFC extends USAUpcomingEventController {
@@ -21,36 +22,45 @@ public final class UFC extends USAUpcomingEventController {
 
     @Override
     public void load() {
-        final String wikipagePrefix = "https://en.wikipedia.org";
-        final String url = wikipagePrefix + "/wiki/List_of_UFC_events";
+        final LocalDate today = LocalDate.now();
+        final String url = "https://en.wikipedia.org/wiki/List_of_UFC_events";
         final Document doc = getDocument(url);
         if(doc != null) {
-            final Elements table = doc.select("table.sortable");
-            for(Element tableElement : table) {
-                if(tableElement.attr("id").equals("Scheduled_events")) {
-                    final Elements elements = tableElement.select("tbody tr");
-                    elements.remove(0);
-                    if(elements.size() > 0) {
-                        for(Element element : elements) {
-                            final Elements rows = element.select("td");
-                            final Element eventElement = rows.get(0);
-                            final String dateElementString = rows.get(1).text();
-                            final String[] dateValues = dateElementString.split(", "), dates = dateValues[0].split(" ");
-                            final Month month = WLUtilities.valueOfMonthFromInput(dates[0]);
-                            if(month != null) {
-                                final int day = Integer.parseInt(dates[1]), year = Integer.parseInt(dateValues[1]);
-                                final Elements hrefs = eventElement.select("a");
-                                if(!hrefs.isEmpty()) {
-                                    final String event = eventElement.text(), location = rows.get(rows.size()-2).text();
-                                    final String wikipageURL = wikipagePrefix + hrefs.get(0).attr("href");
-                                    final String dateString = EventDate.getDateString(year, day, month), id = getEventDateIdentifier(dateString, event);
-                                    final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, event, wikipageURL, location);
-                                    putPreUpcomingEvent(id, preUpcomingEvent);
-                                }
-                            }
+            final Elements tables = doc.select("table.sortable");
+            for(Element table : tables) {
+                final String tableID = table.attr("id");
+                final int offset = tableID.equals("Scheduled_events") ? 0 : tableID.equals("Past_events") ? 1 : -1;
+                if(offset >= 0) {
+                    load(today, table, offset);
+                }
+            }
+        }
+    }
+    private void load(LocalDate today, Element table, int offset) {
+        final String wikipagePrefix = "https://en.wikipedia.org";
+        final Elements elements = table.select("tbody tr");
+        elements.remove(0);
+        if(elements.size() > 0) {
+            for(Element element : elements) {
+                final Elements rows = element.select("td");
+                final Element eventElement = rows.get(offset);
+                final String dateElementString = rows.get(offset + 1).text();
+                final String[] dateValues = dateElementString.split(", "), dates = dateValues[0].split(" ");
+                final Month month = WLUtilities.valueOfMonthFromInput(dates[0]);
+                if(month != null) {
+                    final int day = Integer.parseInt(dates[1]), year = Integer.parseInt(dateValues[1]);
+                    final LocalDate date = LocalDate.of(year, month, day);
+                    if(date.isAfter(today) || date.isEqual(today)) {
+                        final Elements hrefs = eventElement.select("a");
+                        if(!hrefs.isEmpty()) {
+                            final String event = eventElement.text();
+                            final String location = rows.get(rows.size() - 2 - offset).text();
+                            final String wikipageURL = wikipagePrefix + hrefs.get(0).attr("href");
+                            final String dateString = EventDate.getDateString(year, day, month), id = getEventDateIdentifier(dateString, event);
+                            final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, event, wikipageURL, location);
+                            putPreUpcomingEvent(id, preUpcomingEvent);
                         }
                     }
-                    break;
                 }
             }
         }

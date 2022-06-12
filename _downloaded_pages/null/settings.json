@@ -7,7 +7,7 @@
     "sandbox_uuid": "***REMOVED***",
     "runServersCommand": "bash, runServers.sh",
     "bootServerCommand": "bash, bootServer.sh, %server%",
-    "serverRebootFrequencyInDays": 3,
+    "serverRebootFrequencyInDays": 2,
     "proxy_client_thread_pool_size": 200,
     "proxy_local_address": "localhost",
     "proxy_port": 0,
