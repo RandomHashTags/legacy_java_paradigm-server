@@ -35,8 +35,8 @@ My Paradigm Server, before it was superseded by the Swift version.
 ## Methodology
 Maintainability was a must, as this was going to be my biggest project. And after 2 years of development it went live, for a month, before being rewritten in Swift for better performance and an overall modern developer experience (in my opinion).
 
-<img src="https://github.com/RandomHashTags/legacy_java_paradigm_server/blob/master/ParadigmServer_Methodology.png" style="width:75%; height:75%"></img>
+<img src="https://github.com/RandomHashTags/legacy_java_paradigm-server/blob/master/ParadigmServer_Methodology.png" style="width:75%; height:75%"></img>
 
 ## Learn more
-- https://***REMOVED***
-- https://***REMOVED***/philosophy
+- https://paradigm-app.com
+- https://paradigm-app.com/philosophy
